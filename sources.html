@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sources | World Watch</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="index.html" aria-label="Nergalith World Watch home">
+          <img src="assets/nergalith-logo-glow.png" alt="" />
+          <span>
+            <strong>Nergalith</strong>
+            <small>World Watch</small>
+          </span>
+        </a>
+        <nav class="nav" aria-label="World Watch pages">
+          <a href="index.html">Map</a>
+          <a href="events.html">Events</a>
+          <a href="transport.html">Transport</a>
+          <a class="active" href="sources.html">Sources</a>
+        </nav>
+        <div class="status-pill">Public preview</div>
+      </header>
+
+      <main class="page-layout">
+        <section class="page-head">
+          <p class="eyebrow">How World Watch Works</p>
+          <h1>Sources And Roadmap</h1>
+          <p>The public dashboard uses open feeds where possible and clearly labels demo layers. Higher-fidelity ship and aircraft tracking should be handled by provider APIs and a backend.</p>
+        </section>
+
+        <section class="source-grid">
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>GDELT Public Event Signals</h2>
+            <p>Global news and geography signals for current events, conflict, politics, unrest, and infrastructure topics.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>USGS Earthquakes</h2>
+            <p>Public GeoJSON earthquake feed used for current disaster awareness.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag planned">Planned</span>
+            <h2>Marine AIS</h2>
+            <p>Real vessel positions require an AIS provider or backend proxy. The current page uses demo route patterns.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag planned">Planned</span>
+            <h2>ADS-B Aircraft</h2>
+            <p>Live aircraft tracking needs an ADS-B source with acceptable terms, rate limits, and API access.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag planned">Planned</span>
+            <h2>Alerts And Watchlists</h2>
+            <p>The paid/operator version can support saved locations, alert triggers, and private briefing workflows.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag note">Note</span>
+            <h2>Public Data Disclaimer</h2>
+            <p>Open-source feeds can be delayed, duplicated, incomplete, or noisy. World Watch is situational awareness, not emergency guidance.</p>
+          </article>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
