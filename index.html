@@ -1,0 +1,176 @@
+<link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
+
+<div id="ww-wrap">
+  <div id="ww-map"></div>
+
+  <div id="ww-panel">
+    <h2>WORLD WATCH</h2>
+    <p class="ww-sub">Live situational awareness prototype</p>
+
+    <div class="ww-filters">
+      <button>Conflict</button>
+      <button>Cyber</button>
+      <button>Political</button>
+      <button>Infrastructure</button>
+    </div>
+
+    <h3>Latest Events</h3>
+    <div id="ww-feed"></div>
+  </div>
+</div>
+
+<style>
+  #ww-wrap {
+    height: 720px;
+    width: 100%;
+    background: #030507;
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    border: 1px solid rgba(255,255,255,.08);
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+  }
+
+  #ww-map {
+    height: 100%;
+    width: 100%;
+  }
+
+  #ww-panel {
+    background: rgba(4, 6, 10, .94);
+    color: #e8eefc;
+    padding: 22px;
+    border-left: 1px solid rgba(255,255,255,.1);
+  }
+
+  #ww-panel h2 {
+    color: #ff2b2b;
+    letter-spacing: 3px;
+    margin: 0;
+  }
+
+  .ww-sub {
+    color: #8b97aa;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+
+  .ww-filters button {
+    background: #111827;
+    color: #d9e2f1;
+    border: 1px solid #263246;
+    padding: 8px 10px;
+    margin: 3px;
+    cursor: pointer;
+  }
+
+  #ww-panel h3 {
+    margin-top: 24px;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 2px;
+  }
+
+  .ww-item {
+    border-left: 3px solid #ff2b2b;
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    background: rgba(255,255,255,.04);
+  }
+
+  .ww-item strong {
+    display: block;
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+
+  .ww-item span {
+    color: #9aa8bd;
+    font-size: 12px;
+  }
+
+  .ww-marker {
+    width: 18px;
+    height: 18px;
+    background: #ff2b2b;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 18px #ff2b2b;
+  }
+
+  @media (max-width: 900px) {
+    #ww-wrap {
+      grid-template-columns: 1fr;
+      height: 900px;
+    }
+
+    #ww-panel {
+      border-left: none;
+      border-top: 1px solid rgba(255,255,255,.1);
+    }
+  }
+</style>
+
+<script>
+  const events = [
+    {
+      title: "Red Sea shipping disruption reported",
+      location: "Bab el-Mandeb",
+      coords: [43.33, 12.58],
+      category: "Maritime",
+      severity: "Critical",
+      time: "Prototype feed"
+    },
+    {
+      title: "Border activity reported near eastern Ukraine",
+      location: "Ukraine",
+      coords: [36.23, 49.99],
+      category: "Conflict",
+      severity: "High",
+      time: "Prototype feed"
+    },
+    {
+      title: "Political unrest reported in South Asia",
+      location: "South Asia",
+      coords: [73.04, 33.68],
+      category: "Political",
+      severity: "Moderate",
+      time: "Prototype feed"
+    }
+  ];
+
+  const map = new maplibregl.Map({
+    container: "ww-map",
+    style: "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
+    center: [35, 25],
+    zoom: 2.2,
+    pitch: 25,
+    bearing: -8
+  });
+
+  map.addControl(new maplibregl.NavigationControl(), "top-left");
+
+  events.forEach(event => {
+    const markerEl = document.createElement("div");
+    markerEl.className = "ww-marker";
+
+    new maplibregl.Marker(markerEl)
+      .setLngLat(event.coords)
+      .setPopup(
+        new maplibregl.Popup({ offset: 25 }).setHTML(
+          `<strong>${event.title}</strong><br>
+           ${event.location}<br>
+           ${event.category} | ${event.severity}`
+        )
+      )
+      .addTo(map);
+  });
+
+  document.getElementById("ww-feed").innerHTML = events.map(event => `
+    <div class="ww-item">
+      <strong>${event.title}</strong>
+      <span>${event.location} • ${event.category} • ${event.severity}</span>
+    </div>
+  `).join("");
+</script>
