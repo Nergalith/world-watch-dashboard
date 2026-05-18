@@ -22,6 +22,30 @@ const fallbackEvents = [
     category: "Political",
     severity: "High",
     summary: "Maritime patrol patterns and sovereignty disputes keep the region in an elevated monitoring posture."
+  },
+  {
+    title: "Eastern Mediterranean spillover risk remains under watch",
+    location: "Eastern Mediterranean",
+    coords: [35.2, 33.8],
+    category: "Conflict",
+    severity: "High",
+    summary: "Regional military activity, maritime traffic, and diplomatic pressure keep the area on the watch board."
+  },
+  {
+    title: "Cyber advisory activity highlights infrastructure exposure",
+    location: "North America / Europe",
+    coords: [-20.0, 43.0],
+    category: "Cyber",
+    severity: "Moderate",
+    summary: "Public advisories and reporting continue to flag critical infrastructure and government networks as recurring targets."
+  },
+  {
+    title: "Energy infrastructure routes remain sensitive to regional shocks",
+    location: "Persian Gulf",
+    coords: [52.2, 25.8],
+    category: "Infrastructure",
+    severity: "High",
+    summary: "Energy transit lanes and regional infrastructure remain high-value indicators for market and security risk."
   }
 ];
 
@@ -61,8 +85,8 @@ const transportTracks = [
     items: [
       {
         name: "Eastern Europe ISR corridor",
-        type: "Surveillance pattern",
-        status: "Public trace",
+        type: "Aviation watch area",
+        status: "Demo layer",
         coords: [30.8, 47.1],
         path: [[22.4, 46.2], [26.8, 47.7], [30.8, 47.1], [34.8, 46.4]]
       },
@@ -108,7 +132,6 @@ function setStatus(text) {
 
 function inferCategory(text) {
   const value = text.toLowerCase();
-  if (/earthquake|quake|flood|wildfire|storm|cyclone|hurricane|volcano|disaster/.test(value)) return "Disaster";
   if (/ship|shipping|port|vessel|tanker|red sea|canal|maritime|strait/.test(value)) return "Maritime";
   if (/cyber|ransomware|hack|malware|breach/.test(value)) return "Cyber";
   if (/election|minister|parliament|sanction|diplomat|government|protest|unrest/.test(value)) return "Political";
@@ -118,43 +141,73 @@ function inferCategory(text) {
 
 function severityFor(category, text) {
   const value = text.toLowerCase();
-  if (/missile|attack|invasion|war|killed|earthquake|tsunami|critical|strike/.test(value)) return "Critical";
-  if (category === "Disaster" || category === "Conflict" || category === "Maritime") return "High";
+  if (/missile|attack|invasion|war|killed|critical|strike|explosion|drone/.test(value)) return "Critical";
+  if (category === "Conflict" || category === "Maritime" || category === "Infrastructure") return "High";
   return "Moderate";
 }
 
-function normalizeQuake(feature) {
+function stripHtml(value = "") {
+  return String(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+}
+
+function firstArticleTitle(html = "") {
+  const text = stripHtml(html);
+  const parts = text.split(/ - | \| |\. /).map(part => part.trim()).filter(Boolean);
+  return parts[0] || "Public OSINT signal";
+}
+
+function normalizeGdeltFeature(feature) {
   const coords = feature.geometry?.coordinates;
   const props = feature.properties || {};
   if (!coords) return null;
-  const title = props.title || "Earthquake reported";
+  const raw = props.html || props.name || props.description || "";
+  const title = firstArticleTitle(raw);
+  const location = props.name || props.location || props.country || "Public OSINT signal";
+  const category = inferCategory(`${title} ${location} ${raw}`);
   return {
     title,
-    location: props.place || "USGS report",
+    location: stripHtml(location),
     coords: [coords[0], coords[1]],
-    category: "Disaster",
-    severity: props.mag >= 5.5 ? "Critical" : props.mag >= 4 ? "High" : "Moderate",
-    summary: "Live earthquake signal from the USGS public GeoJSON feed."
+    category,
+    severity: severityFor(category, `${title} ${raw}`),
+    summary: "Live public signal from GDELT news geography. Treat as an indicator, then verify from primary reporting."
   };
 }
 
 async function loadLiveEvents() {
   try {
-    const response = await fetch("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson", { cache: "no-store" });
-    if (!response.ok) throw new Error(`USGS ${response.status}`);
+    const terms = [
+      "conflict",
+      "military",
+      "missile",
+      "drone",
+      "protest",
+      "unrest",
+      "sanctions",
+      "shipping",
+      "maritime",
+      "cyberattack",
+      "infrastructure"
+    ];
+    const query = `(${terms.join(" OR ")})`;
+    const url = `https://api.gdeltproject.org/api/v2/geo/geo?query=${encodeURIComponent(query)}&mode=pointdata&format=geojson&timespan=24h&maxpoints=18`;
+    const response = await fetch(url, { cache: "no-store" });
+    if (!response.ok) throw new Error(`GDELT ${response.status}`);
     const data = await response.json();
-    const quakes = (data.features || []).slice(0, 12).map(normalizeQuake).filter(Boolean);
-    if (quakes.length) {
-      state.events = quakes;
-      setStatus("Live public feeds updated");
+    const signals = (data.features || []).map(normalizeGdeltFeature).filter(Boolean).slice(0, 12);
+    if (signals.length) {
+      state.events = signals;
+      setStatus("Live OSINT signals updated");
     }
   } catch (error) {
-    setStatus("Curated fallback feed active");
+    setStatus("Curated OSINT feed active");
   }
 }
 
 function categories() {
-  return ["All", ...new Set(state.events.map(event => event.category))];
+  const preferred = ["All", "Conflict", "Maritime", "Political", "Cyber", "Infrastructure"];
+  const extras = state.events.map(event => event.category).filter(category => !preferred.includes(category));
+  return [...preferred, ...new Set(extras)];
 }
 
 function visibleEvents() {
@@ -327,7 +380,7 @@ function selectTransport(item, group) {
     panel.innerHTML = `
       <span class="tag">${group} / ${item.status}</span>
       <h2>${item.name}</h2>
-      <p>${item.type}. This public page shows a demo track; live AIS and ADS-B require provider access.</p>
+      <p>${item.type}. Transport Watch shows public route awareness and demo transponder layers for quick context.</p>
     `;
   }
   if (state.map) state.map.flyTo({ center: item.coords, zoom: 4, speed: 0.8 });

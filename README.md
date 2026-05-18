@@ -7,15 +7,21 @@ Pages:
 - `index.html` - map-first overview
 - `events.html` - current public event board
 - `transport.html` - ship and aircraft demo route layer
-- `sources.html` - sources, roadmap, and public-data disclaimer
+- `sources.html` - source notes and public-data disclaimer
 
 Current live public feed:
 
-- USGS earthquake GeoJSON feed
+- GDELT public event signals
 
-Planned provider-backed feeds:
+Current public context layers:
 
-- GDELT current events
-- Marine AIS
-- ADS-B aircraft
-- saved watchlists and alerts
+- curated OSINT fallback events
+- maritime route awareness
+- aircraft watch areas
+
+Future public layers:
+
+- government advisories
+- maritime notices
+- cyber alerts
+- infrastructure warnings
