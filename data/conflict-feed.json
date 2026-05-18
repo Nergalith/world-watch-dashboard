@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-05-18T14:59:33.633Z",
+  "generatedAt": "2026-05-18T20:50:07.440Z",
   "statusLabel": "Conflict feed",
-  "source": "UN News Peace and Security, International Crisis Group",
+  "source": "UN News Peace and Security",
   "events": [
+    {
+      "title": "Palestine: Killings, destruction and settler encroachment continues",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167538",
+      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories"
+    },
+    {
+      "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167534",
+      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories"
+    },
     {
       "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
       "location": "Sudan",
@@ -116,20 +144,6 @@
       "sourceName": "UN News - Global perspective Human stories"
     },
     {
-      "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
-      "location": "Israel / Gaza",
-      "coords": [
-        34.45,
-        31.45
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167506",
-      "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories"
-    },
-    {
       "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
       "location": "Pakistan / Afghanistan",
       "coords": [
@@ -184,34 +198,6 @@
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167464",
       "seenDate": "Thu, 07 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories"
-    },
-    {
-      "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Military",
-      "severity": "High",
-      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167442",
-      "seenDate": "Tue, 05 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories"
-    },
-    {
-      "title": "Lebanon 5 May 2026 #1",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Military",
-      "severity": "High",
-      "summary": "Current public reporting signal from International Crisis Group. Click through and verify details from the source.",
-      "sourceUrl": "https://www.crisisgroup.org/content/lebanon-5-may-2026-1",
-      "seenDate": "Tue, 05 May 2026 18:01:22 +0000",
-      "sourceName": "International Crisis Group"
     }
   ]
 }
