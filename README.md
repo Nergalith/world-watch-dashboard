@@ -12,6 +12,8 @@ Current live public feed:
 
 - `data/conflict-feed.json`, refreshed hourly by GitHub Actions
 - GDELT public article signals for the latest seven days when available
+- UN News Peace and Security RSS
+- International Crisis Group RSS
 - curated conflict fallback events when public feeds are unavailable
 
 Current public context layers:

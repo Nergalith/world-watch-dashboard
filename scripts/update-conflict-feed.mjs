@@ -128,6 +128,16 @@ function stripHtml(value = "") {
   return String(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+function decodeEntities(value = "") {
+  return String(value)
+    .replaceAll("&amp;", "&")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">")
+    .replaceAll("&quot;", '"')
+    .replaceAll("&#39;", "'")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
+}
+
 function safeUrl(value = "") {
   try {
     const url = new URL(value);
@@ -157,23 +167,42 @@ function matchRegion(text) {
   return regions.find(region => region.keywords.some(keyword => value.includes(keyword)));
 }
 
-function normalizeArticle(article) {
+function normalizeArticle(article, sourceName = "GDELT") {
   const title = stripHtml(article.title || "");
   if (!title) return null;
   const sourceUrl = safeUrl(article.url || "");
-  const region = matchRegion(`${title} ${article.domain || ""} ${sourceUrl}`);
+  const region = matchRegion(`${title} ${article.description || ""} ${article.domain || ""} ${sourceUrl}`);
   if (!region) return null;
   const category = inferCategory(`${title} ${region.name}`);
+  const sourceLabel = article.domain || sourceName;
   return {
     title,
     location: region.name,
     coords: region.coords,
     category,
     severity: severityFor(category, title),
-    summary: `Current public reporting signal from ${article.domain || "GDELT"}. Click through and verify details from the source.`,
+    summary: `Current public reporting signal from ${sourceLabel}. Click through and verify details from the source.`,
     sourceUrl,
-    seenDate: article.seendate || ""
+    seenDate: article.seendate || article.pubDate || "",
+    sourceName: sourceLabel
   };
+}
+
+function xmlTag(block, tagName) {
+  const match = block.match(new RegExp(`<${tagName}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tagName}>`, "i"));
+  if (!match) return "";
+  return decodeEntities(match[1].replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "").trim());
+}
+
+function parseRssItems(xml, sourceName) {
+  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(match => match[0]);
+  return items.map(item => normalizeArticle({
+    title: xmlTag(item, "title"),
+    url: xmlTag(item, "link"),
+    description: stripHtml(xmlTag(item, "description")),
+    pubDate: xmlTag(item, "pubDate"),
+    domain: xmlTag(item, "source") || sourceName
+  }, sourceName)).filter(Boolean);
 }
 
 async function fetchGdeltEvents() {
@@ -198,27 +227,79 @@ async function fetchGdeltEvents() {
   const data = await response.json();
   const byRegion = new Map();
   for (const article of data.articles || []) {
-    const event = normalizeArticle(article);
+    const event = normalizeArticle(article, "GDELT");
     if (event && !byRegion.has(event.location)) byRegion.set(event.location, event);
   }
   return [...byRegion.values()].slice(0, 18);
 }
 
-async function main() {
-  let events = [];
-  let source = "GDELT";
-  let statusLabel = "Conflict feed";
+async function fetchRssEvents(source) {
+  const response = await fetch(source.url, { headers: { "user-agent": "NergalithWorldConflictTracking/1.0" } });
+  if (!response.ok) throw new Error(`${source.name} ${response.status}`);
+  const xml = await response.text();
+  return parseRssItems(xml, source.name);
+}
 
-  try {
-    events = await fetchGdeltEvents();
-  } catch (error) {
-    source = "curated fallback";
-    statusLabel = "Fallback conflict feed";
-    console.error(error.message);
+function dedupeEvents(events) {
+  const seenTitles = new Set();
+  const regionCounts = new Map();
+  const deduped = [];
+
+  for (const event of events) {
+    const titleKey = event.title.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().slice(0, 90);
+    if (seenTitles.has(titleKey)) continue;
+    const count = regionCounts.get(event.location) || 0;
+    if (count >= 2) continue;
+
+    seenTitles.add(titleKey);
+    regionCounts.set(event.location, count + 1);
+    deduped.push(event);
   }
 
+  return deduped.slice(0, 18);
+}
+
+async function main() {
+  let events = [];
+  const sourcesUsed = [];
+  let statusLabel = "Conflict feed";
+  const rssSources = [
+    {
+      name: "UN News Peace and Security",
+      url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
+    },
+    {
+      name: "International Crisis Group",
+      url: "https://www.crisisgroup.org/rss.xml"
+    }
+  ];
+
+  try {
+    const gdeltEvents = await fetchGdeltEvents();
+    if (gdeltEvents.length) {
+      sourcesUsed.push("GDELT");
+      events.push(...gdeltEvents);
+    }
+  } catch (error) {
+    console.error(`GDELT: ${error.message}`);
+  }
+
+  for (const source of rssSources) {
+    try {
+      const rssEvents = await fetchRssEvents(source);
+      if (rssEvents.length) {
+        sourcesUsed.push(source.name);
+        events.push(...rssEvents);
+      }
+    } catch (error) {
+      console.error(`${source.name}: ${error.message}`);
+    }
+  }
+
+  events = dedupeEvents(events);
+
   if (!events.length) {
-    source = "curated fallback";
+    sourcesUsed.push("curated fallback");
     statusLabel = "Fallback conflict feed";
     events = fallbackEvents;
   }
@@ -226,13 +307,13 @@ async function main() {
   const feed = {
     generatedAt: new Date().toISOString(),
     statusLabel,
-    source,
+    source: sourcesUsed.join(", "),
     events
   };
 
   await mkdir("data", { recursive: true });
   await writeFile("data/conflict-feed.json", `${JSON.stringify(feed, null, 2)}\n`);
-  console.log(`Wrote ${events.length} events from ${source}`);
+  console.log(`Wrote ${events.length} events from ${feed.source}`);
 }
 
 await main();
