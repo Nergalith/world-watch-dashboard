@@ -1,11 +1,11 @@
 const fallbackEvents = [
   {
-    title: "Red Sea shipping corridor remains under elevated disruption watch",
+    title: "Red Sea corridor remains under elevated security watch",
     location: "Bab el-Mandeb",
     coords: [43.33, 12.58],
-    category: "Maritime",
+    category: "Conflict",
     severity: "High",
-    summary: "Strategic traffic through the southern Red Sea remains a high-sensitivity indicator for energy, insurance, and naval risk."
+    summary: "The southern Red Sea remains a high-sensitivity conflict and maritime security watch area."
   },
   {
     title: "Frontline pressure reported across eastern Ukraine",
@@ -16,12 +16,20 @@ const fallbackEvents = [
     summary: "Military activity keeps eastern Ukraine among the highest-priority conflict monitoring regions."
   },
   {
-    title: "South China Sea patrols increase pressure near contested waters",
+    title: "Israel-Gaza and regional spillover remains under watch",
+    location: "Israel / Gaza",
+    coords: [34.45, 31.45],
+    category: "Conflict",
+    severity: "Critical",
+    summary: "The conflict remains a priority watch area because of civilian risk, regional escalation potential, and diplomatic pressure."
+  },
+  {
+    title: "South China Sea pressure continues near contested waters",
     location: "South China Sea",
     coords: [114.2, 12.2],
-    category: "Political",
+    category: "Military",
     severity: "High",
-    summary: "Maritime patrol patterns and sovereignty disputes keep the region in an elevated monitoring posture."
+    summary: "Patrol patterns, sovereignty disputes, and military signaling keep the region in an elevated monitoring posture."
   },
   {
     title: "Eastern Mediterranean spillover risk remains under watch",
@@ -32,90 +40,49 @@ const fallbackEvents = [
     summary: "Regional military activity, maritime traffic, and diplomatic pressure keep the area on the watch board."
   },
   {
-    title: "Cyber advisory activity highlights infrastructure exposure",
-    location: "North America / Europe",
-    coords: [-20.0, 43.0],
-    category: "Cyber",
-    severity: "Moderate",
-    summary: "Public advisories and reporting continue to flag critical infrastructure and government networks as recurring targets."
+    title: "Sudan conflict continues to drive regional instability",
+    location: "Sudan",
+    coords: [30.2, 15.7],
+    category: "Conflict",
+    severity: "Critical",
+    summary: "Continued fighting and humanitarian pressure keep Sudan on the conflict watch board."
   },
   {
-    title: "Energy infrastructure routes remain sensitive to regional shocks",
-    location: "Persian Gulf",
-    coords: [52.2, 25.8],
-    category: "Infrastructure",
+    title: "Pakistan-Afghanistan border activity remains a watch point",
+    location: "Pakistan / Afghanistan",
+    coords: [69.2, 33.8],
+    category: "Unrest",
     severity: "High",
-    summary: "Energy transit lanes and regional infrastructure remain high-value indicators for market and security risk."
+    summary: "Border incidents, militant activity, and state security responses keep the region relevant for daily monitoring."
   }
 ];
 
-const transportTracks = [
-  {
-    group: "Ships",
-    markerClass: "marker-ship",
-    color: "#42c8ff",
-    items: [
-      {
-        name: "Red Sea convoy lane",
-        type: "Cargo group",
-        status: "Delay risk",
-        coords: [43.1, 13.1],
-        path: [[39.2, 21.5], [41.1, 18.2], [43.1, 13.1], [45.0, 11.9]]
-      },
-      {
-        name: "Hormuz tanker flow",
-        type: "Energy transit",
-        status: "Watched",
-        coords: [56.4, 26.3],
-        path: [[51.4, 25.4], [54.2, 25.8], [56.4, 26.3], [59.0, 25.2]]
-      },
-      {
-        name: "Panama canal queue",
-        type: "Container route",
-        status: "Constraint",
-        coords: [-79.6, 9.1],
-        path: [[-83.8, 9.6], [-81.4, 9.3], [-79.6, 9.1], [-77.6, 9.4]]
-      }
-    ]
-  },
-  {
-    group: "Aircraft",
-    markerClass: "marker-aircraft",
-    color: "#f6a43a",
-    items: [
-      {
-        name: "Eastern Europe ISR corridor",
-        type: "Aviation watch area",
-        status: "Demo layer",
-        coords: [30.8, 47.1],
-        path: [[22.4, 46.2], [26.8, 47.7], [30.8, 47.1], [34.8, 46.4]]
-      },
-      {
-        name: "Eastern Med patrol loop",
-        type: "Maritime patrol",
-        status: "Regional watch",
-        coords: [33.6, 34.2],
-        path: [[28.6, 34.6], [31.1, 35.2], [33.6, 34.2], [35.7, 33.1]]
-      },
-      {
-        name: "Taiwan Strait air activity",
-        type: "Aviation watch",
-        status: "Elevated",
-        coords: [121.0, 24.0],
-        path: [[118.8, 23.6], [120.2, 24.4], [121.0, 24.0], [122.8, 24.7]]
-      }
-    ]
-  }
+const conflictRegions = [
+  { name: "Ukraine", coords: [36.23, 49.99], keywords: ["ukraine", "kyiv", "kharkiv", "donetsk", "luhansk", "zaporizhzhia", "crimea", "russia"] },
+  { name: "Israel / Gaza", coords: [34.45, 31.45], keywords: ["israel", "gaza", "hamas", "rafah", "jerusalem", "west bank", "hezbollah"] },
+  { name: "Lebanon / Israel Border", coords: [35.7, 33.2], keywords: ["lebanon", "beirut", "hezbollah"] },
+  { name: "Red Sea / Yemen", coords: [43.33, 12.58], keywords: ["red sea", "yemen", "houthi", "houthis", "bab el-mandeb", "sanaa"] },
+  { name: "Sudan", coords: [30.2, 15.7], keywords: ["sudan", "khartoum", "darfur", "rsf"] },
+  { name: "Syria", coords: [38.3, 35.0], keywords: ["syria", "damascus", "idlib", "aleppo"] },
+  { name: "Iraq", coords: [43.7, 33.2], keywords: ["iraq", "baghdad", "erbil"] },
+  { name: "Iran", coords: [53.7, 32.4], keywords: ["iran", "tehran"] },
+  { name: "Pakistan / Afghanistan", coords: [69.2, 33.8], keywords: ["pakistan", "afghanistan", "kabul", "taliban", "balochistan"] },
+  { name: "Myanmar", coords: [96.1, 21.9], keywords: ["myanmar", "burma", "rakhine", "mandalay"] },
+  { name: "Taiwan Strait", coords: [121.0, 24.0], keywords: ["taiwan", "taiwan strait", "pla", "china"] },
+  { name: "South China Sea", coords: [114.2, 12.2], keywords: ["south china sea", "philippines", "spratly", "scarborough"] },
+  { name: "Korean Peninsula", coords: [127.5, 38.4], keywords: ["north korea", "south korea", "pyongyang", "seoul"] },
+  { name: "Sahel", coords: [2.5, 15.6], keywords: ["sahel", "mali", "niger", "burkina faso", "jihadist"] },
+  { name: "Somalia", coords: [45.3, 5.2], keywords: ["somalia", "mogadishu", "al-shabaab", "al shabaab"] },
+  { name: "Democratic Republic of Congo", coords: [29.2, -1.7], keywords: ["congo", "drc", "goma", "m23"] },
+  { name: "Haiti", coords: [-72.3, 18.9], keywords: ["haiti", "port-au-prince", "gang"] },
+  { name: "Venezuela / Guyana", coords: [-61.7, 6.8], keywords: ["venezuela", "guyana", "essequibo"] }
 ];
 
 const state = {
   events: fallbackEvents,
   activeCategory: "All",
   layers: {
-    events: true,
-    ships: true,
-    aircraft: true,
-    routes: true
+    events: true
   },
   map: null,
   markers: [],
@@ -130,19 +97,36 @@ function setStatus(text) {
   if (status) status.textContent = text;
 }
 
+function escapeHtml(value = "") {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function safeUrl(value = "") {
+  try {
+    const url = new URL(value);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
 function inferCategory(text) {
   const value = text.toLowerCase();
-  if (/ship|shipping|port|vessel|tanker|red sea|canal|maritime|strait/.test(value)) return "Maritime";
-  if (/cyber|ransomware|hack|malware|breach/.test(value)) return "Cyber";
-  if (/election|minister|parliament|sanction|diplomat|government|protest|unrest/.test(value)) return "Political";
-  if (/power|grid|pipeline|rail|airport|infrastructure|canal/.test(value)) return "Infrastructure";
+  if (/missile|airstrike|drone|military|troop|naval|army|weapon|border/.test(value)) return "Military";
+  if (/protest|riot|unrest|clash|demonstration|coup/.test(value)) return "Unrest";
+  if (/power|grid|pipeline|rail|airport|infrastructure|port|canal|shipping|vessel|tanker|strait/.test(value)) return "Infrastructure";
   return "Conflict";
 }
 
 function severityFor(category, text) {
   const value = text.toLowerCase();
   if (/missile|attack|invasion|war|killed|critical|strike|explosion|drone/.test(value)) return "Critical";
-  if (category === "Conflict" || category === "Maritime" || category === "Infrastructure") return "High";
+  if (category === "Conflict" || category === "Military" || category === "Infrastructure") return "High";
   return "Moderate";
 }
 
@@ -156,56 +140,72 @@ function firstArticleTitle(html = "") {
   return parts[0] || "Public OSINT signal";
 }
 
-function normalizeGdeltFeature(feature) {
-  const coords = feature.geometry?.coordinates;
-  const props = feature.properties || {};
-  if (!coords) return null;
-  const raw = props.html || props.name || props.description || "";
-  const title = firstArticleTitle(raw);
-  const location = props.name || props.location || props.country || "Public OSINT signal";
-  const category = inferCategory(`${title} ${location} ${raw}`);
+function firstArticleUrl(html = "") {
+  const match = String(html).match(/href=["']([^"']+)["']/i);
+  return match ? match[1] : "";
+}
+
+function matchConflictRegion(text) {
+  const value = text.toLowerCase();
+  return conflictRegions.find(region => region.keywords.some(keyword => value.includes(keyword)));
+}
+
+function normalizeGdeltArticle(article) {
+  const title = stripHtml(article.title || "");
+  if (!title) return null;
+  const sourceUrl = safeUrl(article.url || "");
+  const region = matchConflictRegion(`${title} ${article.domain || ""} ${sourceUrl}`);
+  if (!region) return null;
+  const category = inferCategory(`${title} ${region.name}`);
   return {
     title,
-    location: stripHtml(location),
-    coords: [coords[0], coords[1]],
+    location: region.name,
+    coords: region.coords,
     category,
-    severity: severityFor(category, `${title} ${raw}`),
-    summary: "Live public signal from GDELT news geography. Treat as an indicator, then verify from primary reporting."
+    severity: severityFor(category, title),
+    summary: `Current public reporting signal from ${article.domain || "GDELT"}. Click through and verify details from the source.`,
+    sourceUrl,
+    seenDate: article.seendate || ""
   };
 }
 
 async function loadLiveEvents() {
   try {
     const terms = [
+      '"armed conflict"',
       "conflict",
+      "war",
       "military",
       "missile",
       "drone",
+      "airstrike",
+      "clashes",
       "protest",
       "unrest",
-      "sanctions",
-      "shipping",
-      "maritime",
-      "cyberattack",
-      "infrastructure"
+      "border",
+      "insurgency"
     ];
-    const query = `(${terms.join(" OR ")})`;
-    const url = `https://api.gdeltproject.org/api/v2/geo/geo?query=${encodeURIComponent(query)}&mode=pointdata&format=geojson&timespan=24h&maxpoints=18`;
+    const query = terms.join(" OR ");
+    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(query)}&mode=ArtList&format=json&maxrecords=75&timespan=7d&sort=datedesc`;
     const response = await fetch(url, { cache: "no-store" });
     if (!response.ok) throw new Error(`GDELT ${response.status}`);
     const data = await response.json();
-    const signals = (data.features || []).map(normalizeGdeltFeature).filter(Boolean).slice(0, 12);
+    const byRegion = new Map();
+    (data.articles || []).map(normalizeGdeltArticle).filter(Boolean).forEach(signal => {
+      if (!byRegion.has(signal.location)) byRegion.set(signal.location, signal);
+    });
+    const signals = [...byRegion.values()].slice(0, 12);
     if (signals.length) {
       state.events = signals;
-      setStatus("Live OSINT signals updated");
+      setStatus("Live 7-day conflict signals updated");
     }
   } catch (error) {
-    setStatus("Curated OSINT feed active");
+    setStatus("Curated conflict feed active");
   }
 }
 
 function categories() {
-  const preferred = ["All", "Conflict", "Maritime", "Political", "Cyber", "Infrastructure"];
+  const preferred = ["All", "Conflict", "Military", "Unrest", "Infrastructure"];
   const extras = state.events.map(event => event.category).filter(category => !preferred.includes(category));
   return [...preferred, ...new Set(extras)];
 }
@@ -216,11 +216,16 @@ function visibleEvents() {
 }
 
 function eventTag(event) {
-  return `<span class="tag">${event.category} / ${event.severity}</span>`;
+  return `<span class="tag">${escapeHtml(event.category)} / ${escapeHtml(event.severity)}</span>`;
+}
+
+function sourceLink(event) {
+  if (!event.sourceUrl) return "";
+  return `<a class="source-link" href="${escapeHtml(event.sourceUrl)}" target="_blank" rel="noopener">Open source</a>`;
 }
 
 function itemMeta(...items) {
-  return `<div class="meta">${items.map(item => `<span>${item}</span>`).join("")}</div>`;
+  return `<div class="meta">${items.filter(Boolean).map(item => `<span>${escapeHtml(item)}</span>`).join("")}</div>`;
 }
 
 function renderEventLists() {
@@ -229,8 +234,8 @@ function renderEventLists() {
     compact.innerHTML = visibleEvents().slice(0, 6).map((event, index) => `
       <article class="list-item" data-event-index="${index}">
         ${itemMeta(event.category, event.severity)}
-        <h3>${event.title}</h3>
-        <span class="tag">${event.location}</span>
+        <h3>${escapeHtml(event.title)}</h3>
+        <span class="tag">${escapeHtml(event.location)}</span>
       </article>
     `).join("");
   }
@@ -240,9 +245,10 @@ function renderEventLists() {
     grid.innerHTML = visibleEvents().map(event => `
       <article class="event-card">
         ${eventTag(event)}
-        <h2>${event.title}</h2>
-        <p>${event.summary}</p>
-        ${itemMeta(event.location)}
+        <h2>${escapeHtml(event.title)}</h2>
+        <p>${escapeHtml(event.summary)}</p>
+        ${sourceLink(event)}
+        ${itemMeta(event.location, event.seenDate)}
       </article>
     `).join("");
   }
@@ -256,21 +262,6 @@ function renderFilters() {
       ${category}
     </button>
   `).join("");
-}
-
-function renderTransportLists() {
-  const html = transportTracks.flatMap(group =>
-    group.items.map(item => `
-      <article class="list-item" data-transport="${item.name}">
-        ${itemMeta(group.group, item.status)}
-        <h3>${item.name}</h3>
-        <span class="tag">${item.type}</span>
-      </article>
-    `)
-  ).join("");
-
-  const compact = $("#transport-list");
-  if (compact) compact.innerHTML = html;
 }
 
 function createMap() {
@@ -319,45 +310,6 @@ function renderMapLayers() {
     });
   }
 
-  transportTracks.forEach(group => {
-    const isShip = group.group === "Ships";
-    const layerEnabled = isShip ? state.layers.ships : state.layers.aircraft;
-    const sourceId = `${group.group.toLowerCase()}-routes`;
-    const layerId = `${sourceId}-line`;
-    const data = {
-      type: "FeatureCollection",
-      features: state.layers.routes && layerEnabled
-        ? group.items.map(item => ({
-            type: "Feature",
-            properties: { name: item.name },
-            geometry: { type: "LineString", coordinates: item.path }
-          }))
-        : []
-    };
-
-    if (state.map.getSource(sourceId)) {
-      state.map.getSource(sourceId).setData(data);
-    } else {
-      state.map.addSource(sourceId, { type: "geojson", data });
-      state.map.addLayer({
-        id: layerId,
-        type: "line",
-        source: sourceId,
-        paint: {
-          "line-color": group.color,
-          "line-width": 2,
-          "line-opacity": 0.65,
-          "line-dasharray": [1.5, 1.2]
-        }
-      });
-    }
-
-    if (layerEnabled) {
-      group.items.forEach(item => {
-        addMarker(item, group.markerClass, isShip ? "S" : "A", () => selectTransport(item, group.group));
-      });
-    }
-  });
 }
 
 function selectEvent(event) {
@@ -366,24 +318,13 @@ function selectEvent(event) {
   if (panel) {
     panel.innerHTML = `
       ${eventTag(event)}
-      <h2>${event.title}</h2>
-      <p>${event.summary}</p>
-      ${itemMeta(event.location)}
+      <h2>${escapeHtml(event.title)}</h2>
+      <p>${escapeHtml(event.summary)}</p>
+      ${sourceLink(event)}
+      ${itemMeta(event.location, event.seenDate)}
     `;
   }
   if (state.map) state.map.flyTo({ center: event.coords, zoom: 4, speed: 0.8 });
-}
-
-function selectTransport(item, group) {
-  const panel = $("#selected-panel");
-  if (panel) {
-    panel.innerHTML = `
-      <span class="tag">${group} / ${item.status}</span>
-      <h2>${item.name}</h2>
-      <p>${item.type}. Transport Watch shows public route awareness and demo transponder layers for quick context.</p>
-    `;
-  }
-  if (state.map) state.map.flyTo({ center: item.coords, zoom: 4, speed: 0.8 });
 }
 
 function wireControls() {
@@ -410,12 +351,6 @@ function wireControls() {
       if (item) selectEvent(item);
     }
 
-    const transportItem = event.target.closest("[data-transport]");
-    if (transportItem) {
-      const match = transportTracks.flatMap(group => group.items.map(item => ({ item, group: group.group })))
-        .find(entry => entry.item.name === transportItem.dataset.transport);
-      if (match) selectTransport(match.item, match.group);
-    }
   });
 }
 
@@ -423,7 +358,6 @@ async function init() {
   wireControls();
   renderFilters();
   renderEventLists();
-  renderTransportLists();
   createMap();
   await loadLiveEvents();
   renderFilters();

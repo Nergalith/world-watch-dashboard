@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>World Watch | Nergalith</title>
-    <meta name="description" content="Nergalith World Watch is a public OSINT-style dashboard for global events, hot spots, maritime routes, and aircraft watch areas." />
+    <title>World Conflict Tracking | Nergalith</title>
+    <meta name="description" content="Nergalith World Conflict Tracking is a public OSINT-style map for current conflict, military, unrest, and infrastructure security signals." />
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
@@ -14,67 +14,55 @@
   <body>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="index.html" aria-label="Nergalith World Watch home">
+        <a class="brand" href="index.html" aria-label="Nergalith World Conflict Tracking home">
           <img src="assets/nergalith-logo-glow.png" alt="" />
           <span>
             <strong>Nergalith</strong>
-            <small>World Watch</small>
+            <small>World Conflict Tracking</small>
           </span>
         </a>
-        <nav class="nav" aria-label="World Watch pages">
+        <nav class="nav" aria-label="World Conflict Tracking pages">
           <a class="active" href="index.html">Map</a>
           <a href="events.html">Events</a>
-          <a href="transport.html">Transport</a>
           <a href="sources.html">Sources</a>
         </nav>
-        <div class="status-pill" id="feed-status">Loading OSINT signals</div>
+        <div class="status-pill" id="feed-status">Loading conflict signals</div>
       </header>
 
       <main class="map-layout">
         <section class="hero-panel">
           <p class="eyebrow">Nergalith Intelligence</p>
-          <h1>World Watch</h1>
+          <h1>World Conflict Tracking</h1>
           <p>
-            A free public OSINT-style dashboard for scanning global hot spots, current events,
-            maritime routes, aircraft watch areas, and open-source signals.
+            A free public OSINT-style map for scanning current conflict, military activity,
+            unrest, and infrastructure security signals.
           </p>
           <div class="hero-actions">
-            <a href="events.html">View Events</a>
-            <a href="transport.html">Transport Watch</a>
+            <a href="events.html">View Conflict Feed</a>
+            <a href="sources.html">How It Stays Current</a>
           </div>
         </section>
 
         <section class="map-card">
-          <div id="world-map" aria-label="World Watch interactive map"></div>
+          <div id="world-map" aria-label="World Conflict Tracking interactive map"></div>
           <aside class="map-control-panel">
-            <div class="panel-title">Layers</div>
-            <button class="layer-toggle active" data-layer="events" type="button">Events</button>
-            <button class="layer-toggle active" data-layer="ships" type="button">Ships</button>
-            <button class="layer-toggle active" data-layer="aircraft" type="button">Aircraft</button>
-            <button class="layer-toggle active" data-layer="routes" type="button">Routes</button>
+            <div class="panel-title">Layer</div>
+            <button class="layer-toggle active" data-layer="events" type="button">Conflict Signals</button>
           </aside>
           <aside class="selected-panel" id="selected-panel">
             <span class="tag">Public Feed</span>
             <h2>Select a marker</h2>
-            <p>Click an event, ship, or aircraft marker to center the map and read the brief.</p>
+            <p>Click a conflict marker to center the map, read the brief, and open the public source when available.</p>
           </aside>
         </section>
 
         <aside class="side-stack">
           <section class="panel">
             <div class="panel-head">
-              <span>Live Events</span>
+              <span>Conflict Feed</span>
               <a href="events.html">Open</a>
             </div>
             <div id="event-list" class="compact-list"></div>
-          </section>
-
-          <section class="panel">
-            <div class="panel-head">
-              <span>Transport Watch</span>
-              <a href="transport.html">Open</a>
-            </div>
-            <div id="transport-list" class="compact-list"></div>
           </section>
         </aside>
       </main>

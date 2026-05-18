@@ -129,7 +129,6 @@ a {
 }
 
 .map-layout,
-.transport-layout,
 .page-layout {
   padding: clamp(18px, 3vw, 34px);
 }
@@ -295,6 +294,20 @@ h1 {
   text-decoration: none;
 }
 
+.source-link {
+  width: fit-content;
+  color: var(--cyan);
+  font-family: "Cascadia Mono", "SFMono-Regular", Consolas, monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.source-link:hover {
+  color: var(--text);
+}
+
 .compact-list,
 .wide-list {
   display: grid;
@@ -411,27 +424,7 @@ h1 {
   line-height: 1.5;
 }
 
-.transport-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
-  gap: 18px;
-}
-
-.transport-layout .page-head {
-  grid-column: 1 / -1;
-}
-
-.transport-map {
-  min-height: 76vh;
-}
-
-.transport-list-panel {
-  align-self: start;
-}
-
-.marker-event,
-.marker-ship,
-.marker-aircraft {
+.marker-event {
   width: 22px;
   height: 22px;
   display: grid;
@@ -449,16 +442,6 @@ h1 {
   box-shadow: 0 0 0 8px rgba(255, 55, 55, 0.18);
 }
 
-.marker-ship {
-  background: rgba(66, 200, 255, 0.9);
-  box-shadow: 0 0 0 8px rgba(66, 200, 255, 0.14);
-}
-
-.marker-aircraft {
-  background: rgba(246, 164, 58, 0.9);
-  box-shadow: 0 0 0 8px rgba(246, 164, 58, 0.14);
-}
-
 .maplibregl-popup-content {
   border-radius: 0;
   border: 1px solid rgba(255, 55, 55, 0.5);
@@ -469,8 +452,7 @@ h1 {
 }
 
 @media (max-width: 1080px) {
-  .map-layout,
-  .transport-layout {
+  .map-layout {
     grid-template-columns: 1fr;
   }
 
@@ -491,8 +473,7 @@ h1 {
     justify-content: flex-start;
   }
 
-  .map-card,
-  .transport-map {
+  .map-card {
     min-height: 620px;
   }
 
