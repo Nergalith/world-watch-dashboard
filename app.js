@@ -57,27 +57,6 @@ const fallbackEvents = [
   }
 ];
 
-const conflictRegions = [
-  { name: "Ukraine", coords: [36.23, 49.99], keywords: ["ukraine", "kyiv", "kharkiv", "donetsk", "luhansk", "zaporizhzhia", "crimea", "russia"] },
-  { name: "Israel / Gaza", coords: [34.45, 31.45], keywords: ["israel", "gaza", "hamas", "rafah", "jerusalem", "west bank", "hezbollah"] },
-  { name: "Lebanon / Israel Border", coords: [35.7, 33.2], keywords: ["lebanon", "beirut", "hezbollah"] },
-  { name: "Red Sea / Yemen", coords: [43.33, 12.58], keywords: ["red sea", "yemen", "houthi", "houthis", "bab el-mandeb", "sanaa"] },
-  { name: "Sudan", coords: [30.2, 15.7], keywords: ["sudan", "khartoum", "darfur", "rsf"] },
-  { name: "Syria", coords: [38.3, 35.0], keywords: ["syria", "damascus", "idlib", "aleppo"] },
-  { name: "Iraq", coords: [43.7, 33.2], keywords: ["iraq", "baghdad", "erbil"] },
-  { name: "Iran", coords: [53.7, 32.4], keywords: ["iran", "tehran"] },
-  { name: "Pakistan / Afghanistan", coords: [69.2, 33.8], keywords: ["pakistan", "afghanistan", "kabul", "taliban", "balochistan"] },
-  { name: "Myanmar", coords: [96.1, 21.9], keywords: ["myanmar", "burma", "rakhine", "mandalay"] },
-  { name: "Taiwan Strait", coords: [121.0, 24.0], keywords: ["taiwan", "taiwan strait", "pla", "china"] },
-  { name: "South China Sea", coords: [114.2, 12.2], keywords: ["south china sea", "philippines", "spratly", "scarborough"] },
-  { name: "Korean Peninsula", coords: [127.5, 38.4], keywords: ["north korea", "south korea", "pyongyang", "seoul"] },
-  { name: "Sahel", coords: [2.5, 15.6], keywords: ["sahel", "mali", "niger", "burkina faso", "jihadist"] },
-  { name: "Somalia", coords: [45.3, 5.2], keywords: ["somalia", "mogadishu", "al-shabaab", "al shabaab"] },
-  { name: "Democratic Republic of Congo", coords: [29.2, -1.7], keywords: ["congo", "drc", "goma", "m23"] },
-  { name: "Haiti", coords: [-72.3, 18.9], keywords: ["haiti", "port-au-prince", "gang"] },
-  { name: "Venezuela / Guyana", coords: [-61.7, 6.8], keywords: ["venezuela", "guyana", "essequibo"] }
-];
-
 const state = {
   events: fallbackEvents,
   activeCategory: "All",
@@ -106,98 +85,16 @@ function escapeHtml(value = "") {
     .replaceAll("'", "&#39;");
 }
 
-function safeUrl(value = "") {
-  try {
-    const url = new URL(value);
-    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
-  } catch {
-    return "";
-  }
-}
-
-function inferCategory(text) {
-  const value = text.toLowerCase();
-  if (/missile|airstrike|drone|military|troop|naval|army|weapon|border/.test(value)) return "Military";
-  if (/protest|riot|unrest|clash|demonstration|coup/.test(value)) return "Unrest";
-  if (/power|grid|pipeline|rail|airport|infrastructure|port|canal|shipping|vessel|tanker|strait/.test(value)) return "Infrastructure";
-  return "Conflict";
-}
-
-function severityFor(category, text) {
-  const value = text.toLowerCase();
-  if (/missile|attack|invasion|war|killed|critical|strike|explosion|drone/.test(value)) return "Critical";
-  if (category === "Conflict" || category === "Military" || category === "Infrastructure") return "High";
-  return "Moderate";
-}
-
-function stripHtml(value = "") {
-  return String(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
-}
-
-function firstArticleTitle(html = "") {
-  const text = stripHtml(html);
-  const parts = text.split(/ - | \| |\. /).map(part => part.trim()).filter(Boolean);
-  return parts[0] || "Public OSINT signal";
-}
-
-function firstArticleUrl(html = "") {
-  const match = String(html).match(/href=["']([^"']+)["']/i);
-  return match ? match[1] : "";
-}
-
-function matchConflictRegion(text) {
-  const value = text.toLowerCase();
-  return conflictRegions.find(region => region.keywords.some(keyword => value.includes(keyword)));
-}
-
-function normalizeGdeltArticle(article) {
-  const title = stripHtml(article.title || "");
-  if (!title) return null;
-  const sourceUrl = safeUrl(article.url || "");
-  const region = matchConflictRegion(`${title} ${article.domain || ""} ${sourceUrl}`);
-  if (!region) return null;
-  const category = inferCategory(`${title} ${region.name}`);
-  return {
-    title,
-    location: region.name,
-    coords: region.coords,
-    category,
-    severity: severityFor(category, title),
-    summary: `Current public reporting signal from ${article.domain || "GDELT"}. Click through and verify details from the source.`,
-    sourceUrl,
-    seenDate: article.seendate || ""
-  };
-}
-
 async function loadLiveEvents() {
   try {
-    const terms = [
-      '"armed conflict"',
-      "conflict",
-      "war",
-      "military",
-      "missile",
-      "drone",
-      "airstrike",
-      "clashes",
-      "protest",
-      "unrest",
-      "border",
-      "insurgency"
-    ];
-    const query = terms.join(" OR ");
-    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(query)}&mode=ArtList&format=json&maxrecords=75&timespan=7d&sort=datedesc`;
-    const response = await fetch(url, { cache: "no-store" });
-    if (!response.ok) throw new Error(`GDELT ${response.status}`);
+    const response = await fetch(`data/conflict-feed.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Feed ${response.status}`);
     const data = await response.json();
-    const byRegion = new Map();
-    (data.articles || []).map(normalizeGdeltArticle).filter(Boolean).forEach(signal => {
-      if (!byRegion.has(signal.location)) byRegion.set(signal.location, signal);
-    });
-    const signals = [...byRegion.values()].slice(0, 12);
+    const signals = Array.isArray(data.events) ? data.events.filter(event => Array.isArray(event.coords)) : [];
     if (signals.length) {
       state.events = signals;
-      setStatus("Live 7-day conflict signals updated");
+      const updated = data.generatedAt ? new Date(data.generatedAt).toLocaleString([], { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) : "recently";
+      setStatus(`${data.statusLabel || "Conflict feed"} updated ${updated}`);
     }
   } catch (error) {
     setStatus("Curated conflict feed active");

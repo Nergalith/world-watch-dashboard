@@ -10,13 +10,20 @@ Pages:
 
 Current live public feed:
 
-- GDELT public article signals for the latest seven days
+- `data/conflict-feed.json`, refreshed hourly by GitHub Actions
+- GDELT public article signals for the latest seven days when available
+- curated conflict fallback events when public feeds are unavailable
 
 Current public context layers:
 
 - clickable conflict map markers
 - curated conflict fallback events
 - conflict, military, unrest, and infrastructure filters
+
+Refresh workflow:
+
+- `.github/workflows/update-conflict-feed.yml`
+- `scripts/update-conflict-feed.mjs`
 
 Future public layers:
 

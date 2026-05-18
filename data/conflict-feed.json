@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-05-18T14:38:14.172Z",
+  "statusLabel": "Fallback conflict feed",
+  "source": "curated fallback",
+  "events": [
+    {
+      "title": "Eastern Ukraine remains a priority conflict watch area",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Israel-Gaza and regional spillover remain under watch",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Red Sea corridor remains under elevated security watch",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Sudan conflict continues to drive regional instability",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Pakistan-Afghanistan border activity remains a watch point",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Unrest",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "South China Sea military pressure remains elevated",
+      "location": "South China Sea",
+      "coords": [
+        114.2,
+        12.2
+      ],
+      "category": "Military",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Myanmar conflict activity remains under monitoring",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Sahel security pressure remains regionally significant",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Haiti gang violence remains a public security watch point",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Unrest",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    },
+    {
+      "title": "Korean Peninsula military signaling remains under watch",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Military",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": ""
+    }
+  ]
+}
