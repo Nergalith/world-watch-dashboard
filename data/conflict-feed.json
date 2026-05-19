@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-05-18T20:50:07.440Z",
+  "generatedAt": "2026-05-19T08:52:01.375Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
+    {
+      "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167541",
+      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories"
+    },
+    {
+      "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Military",
+      "severity": "Critical",
+      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories"
+    },
     {
       "title": "Palestine: Killings, destruction and settler encroachment continues",
       "location": "Israel / Gaza",
@@ -126,20 +154,6 @@
       "severity": "High",
       "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
-      "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories"
-    },
-    {
-      "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Current public reporting signal from UN News - Global perspective Human stories. Click through and verify details from the source.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167509",
       "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories"
     },
