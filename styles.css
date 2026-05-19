@@ -308,6 +308,12 @@ h1 {
   color: var(--text);
 }
 
+.source-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
 .compact-list,
 .wide-list {
   display: grid;

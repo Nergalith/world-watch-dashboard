@@ -30,7 +30,8 @@ const fallbackEvents = [
     severity: "Critical",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Israel-Gaza and regional spillover remain under watch",
@@ -40,7 +41,8 @@ const fallbackEvents = [
     severity: "Critical",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Red Sea corridor remains under elevated security watch",
@@ -50,7 +52,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Sudan conflict continues to drive regional instability",
@@ -60,7 +63,8 @@ const fallbackEvents = [
     severity: "Critical",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Pakistan-Afghanistan border activity remains a watch point",
@@ -70,7 +74,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "South China Sea military pressure remains elevated",
@@ -80,7 +85,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Myanmar conflict activity remains under monitoring",
@@ -90,7 +96,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Sahel security pressure remains regionally significant",
@@ -100,7 +107,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Haiti gang violence remains a public security watch point",
@@ -110,7 +118,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   },
   {
     title: "Korean Peninsula military signaling remains under watch",
@@ -120,7 +129,8 @@ const fallbackEvents = [
     severity: "High",
     summary: "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
     sourceUrl: "",
-    seenDate: ""
+    seenDate: "",
+    sourceName: "Curated fallback"
   }
 ];
 
@@ -162,9 +172,25 @@ function severityFor(category, text) {
   return "Moderate";
 }
 
+function severityRank(severity) {
+  return { Critical: 3, High: 2, Moderate: 1 }[severity] || 0;
+}
+
+function dateValue(value = "") {
+  const time = Date.parse(value);
+  return Number.isFinite(time) ? time : 0;
+}
+
 function matchRegion(text) {
   const value = text.toLowerCase();
-  return regions.find(region => region.keywords.some(keyword => value.includes(keyword)));
+  return regions
+    .map(region => {
+      const matches = region.keywords.filter(keyword => value.includes(keyword));
+      const score = matches.reduce((total, keyword) => total + keyword.length, 0);
+      return { region, score, matches: matches.length };
+    })
+    .filter(result => result.matches > 0)
+    .sort((a, b) => b.matches - a.matches || b.score - a.score)[0]?.region;
 }
 
 function normalizeArticle(article, sourceName = "GDELT") {
@@ -240,23 +266,113 @@ async function fetchRssEvents(source) {
   return parseRssItems(xml, source.name);
 }
 
-function dedupeEvents(events) {
+function dedupeArticles(events) {
   const seenTitles = new Set();
-  const regionCounts = new Map();
   const deduped = [];
 
   for (const event of events) {
     const titleKey = event.title.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().slice(0, 90);
     if (seenTitles.has(titleKey)) continue;
-    const count = regionCounts.get(event.location) || 0;
-    if (count >= 2) continue;
 
     seenTitles.add(titleKey);
-    regionCounts.set(event.location, count + 1);
     deduped.push(event);
   }
 
-  return deduped.slice(0, 18);
+  return deduped;
+}
+
+function confidenceFor(sourceCount, reportCount) {
+  if (sourceCount >= 2 && reportCount >= 4) return "High Signal";
+  if (sourceCount >= 2) return "Corroborated";
+  if (reportCount >= 3) return "Multiple Reports";
+  return "Single Source";
+}
+
+function summarizeSignal(location, reportCount, sourceCount, topCategory) {
+  const sourceText = sourceCount === 1 ? "source" : "sources";
+  const reportText = reportCount === 1 ? "report" : "reports";
+  return `${location} is active on the public watch board with ${reportCount} ${reportText} across ${sourceCount} ${sourceText}. Category is currently assessed as ${topCategory}.`;
+}
+
+function signalTitle(location, severity, confidence, reportCount) {
+  if (confidence === "High Signal") return `${location}: high-signal conflict watch`;
+  if (confidence === "Corroborated") return `${location}: corroborated conflict signal`;
+  if (confidence === "Multiple Reports") return `${location}: repeated public reporting`;
+  if (severity === "Critical") return `${location}: critical conflict watch`;
+  return `${location}: public conflict signal`;
+}
+
+function groupSignals(events) {
+  const groups = new Map();
+
+  for (const event of dedupeArticles(events)) {
+    const existing = groups.get(event.location) || {
+      title: event.title,
+      location: event.location,
+      coords: event.coords,
+      category: event.category,
+      severity: event.severity,
+      summary: "",
+      sourceUrl: event.sourceUrl,
+      seenDate: event.seenDate,
+      sourceName: event.sourceName,
+      reports: [],
+      sourceNames: new Set(),
+      latestTimestamp: 0
+    };
+
+    existing.reports.push({
+      title: event.title,
+      sourceName: event.sourceName || "Unknown source",
+      sourceUrl: event.sourceUrl || "",
+      seenDate: event.seenDate || "",
+      category: event.category,
+      severity: event.severity
+    });
+    existing.sourceNames.add(event.sourceName || "Unknown source");
+
+    if (severityRank(event.severity) > severityRank(existing.severity)) existing.severity = event.severity;
+    if (dateValue(event.seenDate) > existing.latestTimestamp) {
+      existing.latestTimestamp = dateValue(event.seenDate);
+      existing.title = event.title;
+      existing.category = event.category;
+      existing.sourceUrl = event.sourceUrl;
+      existing.seenDate = event.seenDate;
+      existing.sourceName = event.sourceName;
+    }
+
+    groups.set(event.location, existing);
+  }
+
+  return [...groups.values()]
+    .map(group => {
+      const reports = group.reports
+        .sort((a, b) => dateValue(b.seenDate) - dateValue(a.seenDate))
+        .slice(0, 5);
+      const sourceNames = [...group.sourceNames].sort();
+      return {
+        title: signalTitle(group.location, group.severity, confidenceFor(sourceNames.length, group.reports.length), group.reports.length),
+        location: group.location,
+        coords: group.coords,
+        category: group.category,
+        severity: group.severity,
+        summary: summarizeSignal(group.location, group.reports.length, sourceNames.length, group.category),
+        sourceUrl: group.sourceUrl,
+        seenDate: group.seenDate,
+        sourceName: group.sourceName,
+        sourceCount: sourceNames.length,
+        reportCount: group.reports.length,
+        confidence: confidenceFor(sourceNames.length, group.reports.length),
+        sources: sourceNames,
+        reports
+      };
+    })
+    .sort((a, b) => {
+      const severityDelta = severityRank(b.severity) - severityRank(a.severity);
+      if (severityDelta) return severityDelta;
+      return (b.reportCount || 0) - (a.reportCount || 0);
+    })
+    .slice(0, 18);
 }
 
 async function main() {
@@ -296,12 +412,12 @@ async function main() {
     }
   }
 
-  events = dedupeEvents(events);
+  events = groupSignals(events);
 
   if (!events.length) {
     sourcesUsed.push("curated fallback");
     statusLabel = "Fallback conflict feed";
-    events = fallbackEvents;
+    events = groupSignals(fallbackEvents);
   }
 
   const feed = {

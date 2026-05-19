@@ -121,8 +121,31 @@ function sourceLink(event) {
   return `<a class="source-link" href="${escapeHtml(event.sourceUrl)}" target="_blank" rel="noopener">Open source</a>`;
 }
 
+function sourceLinks(event) {
+  const reports = Array.isArray(event.reports) ? event.reports.filter(report => report.sourceUrl) : [];
+  if (!reports.length) return sourceLink(event);
+  return `
+    <div class="source-stack">
+      ${reports.slice(0, 4).map(report => `
+        <a class="source-link" href="${escapeHtml(report.sourceUrl)}" target="_blank" rel="noopener">
+          ${escapeHtml(report.sourceName || "Open source")}
+        </a>
+      `).join("")}
+    </div>
+  `;
+}
+
 function itemMeta(...items) {
   return `<div class="meta">${items.filter(Boolean).map(item => `<span>${escapeHtml(item)}</span>`).join("")}</div>`;
+}
+
+function signalMeta(event) {
+  const sourceCount = Number(event.sourceCount || (event.sourceName ? 1 : 0));
+  const reportCount = Number(event.reportCount || 1);
+  const confidence = event.confidence || (sourceCount > 1 ? "Corroborated" : "Single Source");
+  const sourceText = sourceCount === 1 ? "1 source" : `${sourceCount} sources`;
+  const reportText = reportCount === 1 ? "1 report" : `${reportCount} reports`;
+  return itemMeta(event.category, event.severity, confidence, sourceText, reportText, event.seenDate);
 }
 
 function renderEventLists() {
@@ -130,7 +153,7 @@ function renderEventLists() {
   if (compact) {
     compact.innerHTML = visibleEvents().slice(0, 6).map((event, index) => `
       <article class="list-item" data-event-index="${index}">
-        ${itemMeta(event.category, event.severity)}
+        ${itemMeta(event.severity, event.confidence || "Signal", event.sourceCount === 1 ? "1 source" : event.sourceCount ? `${event.sourceCount} sources` : event.sourceName)}
         <h3>${escapeHtml(event.title)}</h3>
         <span class="tag">${escapeHtml(event.location)}</span>
       </article>
@@ -144,8 +167,8 @@ function renderEventLists() {
         ${eventTag(event)}
         <h2>${escapeHtml(event.title)}</h2>
         <p>${escapeHtml(event.summary)}</p>
-        ${sourceLink(event)}
-        ${itemMeta(event.location, event.seenDate)}
+        ${sourceLinks(event)}
+        ${signalMeta(event)}
       </article>
     `).join("");
   }
@@ -217,8 +240,8 @@ function selectEvent(event) {
       ${eventTag(event)}
       <h2>${escapeHtml(event.title)}</h2>
       <p>${escapeHtml(event.summary)}</p>
-      ${sourceLink(event)}
-      ${itemMeta(event.location, event.seenDate)}
+      ${sourceLinks(event)}
+      ${signalMeta(event)}
     `;
   }
   if (state.map) state.map.flyTo({ center: event.coords, zoom: 4, speed: 0.8 });
