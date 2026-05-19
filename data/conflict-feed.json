@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T12:32:03.956Z",
+  "generatedAt": "2026-05-19T17:52:56.004Z",
   "statusLabel": "Conflict feed",
-  "source": "UN News Peace and Security, International Crisis Group",
+  "source": "UN News Peace and Security",
   "events": [
     {
       "title": "Israel / Gaza: repeated public reporting",
@@ -62,69 +62,6 @@
           "seenDate": "Mon, 11 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Lebanon / Israel Border: high-signal conflict watch",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Military",
-      "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 5 reports across 2 sources. Category is currently assessed as Military.",
-      "sourceUrl": "https://www.crisisgroup.org/content/lebanon-16-may-2026-1",
-      "seenDate": "Mon, 18 May 2026 17:04:44 +0000",
-      "sourceName": "International Crisis Group",
-      "sourceCount": 2,
-      "reportCount": 5,
-      "confidence": "High Signal",
-      "sources": [
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Lebanon 16 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/lebanon-16-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:04:44 +0000",
-          "category": "Military",
-          "severity": "High"
-        },
-        {
-          "title": "Israel 16 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/israel-16-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:03:51 +0000",
-          "category": "Military",
-          "severity": "High"
-        },
-        {
-          "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167496",
-          "seenDate": "Wed, 13 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "Lebanon war leaves families foraging for food despite ceasefire",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167467",
-          "seenDate": "Fri, 08 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "Lebanon: Fresh strike on Beirut suburbs ‘a very alarming development’",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167460",
-          "seenDate": "Thu, 07 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
         }
       ]
     },
@@ -229,45 +166,6 @@
       ]
     },
     {
-      "title": "Taiwan Strait: corroborated conflict signal",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Military",
-      "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
-      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
-          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "The Trump-Xi Summit: What Happened in Beijing?",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/pod/asia-pacific/china/trump-xi-summit-what-happened-beijing",
-          "seenDate": "Sat, 16 May 2026 16:24:05 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Sudan: critical conflict watch",
       "location": "Sudan",
       "coords": [
@@ -306,142 +204,70 @@
       ]
     },
     {
-      "title": "Red Sea / Yemen: corroborated conflict signal",
-      "location": "Red Sea / Yemen",
+      "title": "Lebanon / Israel Border: critical conflict watch",
+      "location": "Lebanon / Israel Border",
       "coords": [
-        43.33,
-        12.58
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-      "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
-      "sourceName": "International Crisis Group",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
-          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Iran: high-signal conflict watch",
-      "location": "Iran",
-      "coords": [
-        53.7,
-        32.4
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iran is active on the public watch board with 6 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.crisisgroup.org/content/washington-17-may-2026-1",
-      "seenDate": "Mon, 18 May 2026 17:03:03 +0000",
-      "sourceName": "International Crisis Group",
-      "sourceCount": 2,
-      "reportCount": 6,
-      "confidence": "High Signal",
-      "sources": [
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Washington 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/washington-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:03:03 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Tehran 18 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/tehran-18-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 16:59:45 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Hormuz 15 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/hormuz-15-may-2026-1",
-          "seenDate": "Fri, 15 May 2026 19:01:20 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Washington 15 May 2026 #2",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/washington-15-may-2026-2",
-          "seenDate": "Fri, 15 May 2026 19:00:01 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167478",
-          "seenDate": "Mon, 11 May 2026 12:00:00 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Iraq: public conflict signal",
-      "location": "Iraq",
-      "coords": [
-        43.7,
+        35.7,
         33.2
       ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iraq is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
-      "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
-      "sourceName": "International Crisis Group",
+      "category": "Military",
+      "severity": "Critical",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+      "seenDate": "Wed, 13 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 2,
       "confidence": "Single Source",
       "sources": [
-        "International Crisis Group"
+        "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Iraq 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
-          "category": "Conflict",
-          "severity": "High"
+          "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+          "seenDate": "Wed, 13 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
         },
         {
-          "title": "Riyadh 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/riyadh-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:00:38 +0000",
-          "category": "Conflict",
-          "severity": "High"
+          "title": "Lebanon war leaves families foraging for food despite ceasefire",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167467",
+          "seenDate": "Fri, 08 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: critical conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Military",
+      "severity": "Critical",
+      "summary": "Taiwan Strait is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
         }
       ]
     },
@@ -454,23 +280,69 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167534",
-      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "summary": "Democratic Republic of Congo is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167542",
+      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 1,
+      "reportCount": 2,
       "confidence": "Single Source",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
+          "title": "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167542",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167534",
           "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
           "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Iran: public conflict signal",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Iran is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+      "seenDate": "Mon, 11 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+          "seenDate": "Mon, 11 May 2026 12:00:00 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Bahrain and US float Security Council resolution on the Strait of Hormuz",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167464",
+          "seenDate": "Thu, 07 May 2026 12:00:00 +0000",
+          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -500,6 +372,36 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
           "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Red Sea / Yemen: public conflict signal",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
+      "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
+          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
