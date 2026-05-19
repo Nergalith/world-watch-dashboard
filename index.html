@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>World Conflict Tracking | Nergalith</title>
-    <meta name="description" content="Nergalith World Conflict Tracking is a public OSINT-style map for current conflict, military, unrest, and infrastructure security signals." />
+    <meta name="description" content="Nergalith World Conflict Tracking groups public conflict reporting into clickable regional signals with source counts and confidence labels." />
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
@@ -34,8 +34,8 @@
           <p class="eyebrow">Nergalith Intelligence</p>
           <h1>World Conflict Tracking</h1>
           <p>
-            A free public OSINT-style map for scanning current conflict, military activity,
-            unrest, and infrastructure security signals.
+            Public conflict reporting grouped into regional signals, with source counts,
+            confidence labels, and links back to the underlying reports.
           </p>
           <div class="hero-actions">
             <a href="events.html">View Conflict Feed</a>
@@ -57,6 +57,14 @@
         </section>
 
         <aside class="side-stack">
+          <section class="panel">
+            <div class="panel-head">
+              <span>Situation Snapshot</span>
+              <span>Auto</span>
+            </div>
+            <div id="signal-stats" class="stat-grid"></div>
+          </section>
+
           <section class="panel">
             <div class="panel-head">
               <span>Conflict Feed</span>

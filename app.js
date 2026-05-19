@@ -63,6 +63,10 @@ const state = {
   layers: {
     events: true
   },
+  feedMeta: {
+    generatedAt: "",
+    source: ""
+  },
   map: null,
   markers: [],
   selected: null
@@ -74,6 +78,19 @@ const $$ = selector => Array.from(document.querySelectorAll(selector));
 function setStatus(text) {
   const status = $("#feed-status");
   if (status) status.textContent = text;
+}
+
+function formatUtc(value = "") {
+  const time = Date.parse(value);
+  if (!Number.isFinite(time)) return "";
+  return `${new Intl.DateTimeFormat("en-US", {
+    timeZone: "UTC",
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23"
+  }).format(new Date(time)).replace(",", "")} UTC`;
 }
 
 function escapeHtml(value = "") {
@@ -93,7 +110,11 @@ async function loadLiveEvents() {
     const signals = Array.isArray(data.events) ? data.events.filter(event => Array.isArray(event.coords)) : [];
     if (signals.length) {
       state.events = signals;
-      const updated = data.generatedAt ? new Date(data.generatedAt).toLocaleString([], { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) : "recently";
+      state.feedMeta = {
+        generatedAt: data.generatedAt || "",
+        source: data.source || ""
+      };
+      const updated = data.generatedAt ? formatUtc(data.generatedAt) : "recently";
       setStatus(`${data.statusLabel || "Conflict feed"} updated ${updated}`);
     }
   } catch (error) {
@@ -139,13 +160,57 @@ function itemMeta(...items) {
   return `<div class="meta">${items.filter(Boolean).map(item => `<span>${escapeHtml(item)}</span>`).join("")}</div>`;
 }
 
+function formatDate(value = "") {
+  return formatUtc(value);
+}
+
 function signalMeta(event) {
   const sourceCount = Number(event.sourceCount || (event.sourceName ? 1 : 0));
   const reportCount = Number(event.reportCount || 1);
   const confidence = event.confidence || (sourceCount > 1 ? "Corroborated" : "Single Source");
   const sourceText = sourceCount === 1 ? "1 source" : `${sourceCount} sources`;
   const reportText = reportCount === 1 ? "1 report" : `${reportCount} reports`;
-  return itemMeta(event.category, event.severity, confidence, sourceText, reportText, event.seenDate);
+  return itemMeta(event.category, event.severity, confidence, sourceText, reportText, formatDate(event.seenDate));
+}
+
+function renderStats() {
+  const stats = $("#signal-stats");
+  if (!stats) return;
+  const events = state.events;
+  const highSignals = events.filter(event => ["High Signal", "Corroborated"].includes(event.confidence)).length;
+  const sources = new Set(events.flatMap(event => Array.isArray(event.sources) ? event.sources : [event.sourceName]).filter(Boolean));
+  const reports = events.reduce((total, event) => total + Number(event.reportCount || 1), 0);
+  const updated = state.feedMeta.generatedAt ? formatDate(state.feedMeta.generatedAt) : "Pending";
+
+  stats.innerHTML = [
+    ["Signals", events.length],
+    ["Reports", reports],
+    ["Sources", sources.size || 1],
+    ["Updated", updated],
+    ["High Signal", highSignals],
+    ["Feed", state.feedMeta.source || "Curated"]
+  ].map(([label, value]) => `
+    <div class="stat-item">
+      <strong>${escapeHtml(value)}</strong>
+      <span>${escapeHtml(label)}</span>
+    </div>
+  `).join("");
+}
+
+function reportList(event) {
+  const reports = Array.isArray(event.reports) ? event.reports.filter(report => report.sourceUrl) : [];
+  if (!reports.length) return "";
+  return `
+    <div class="report-list">
+      <div class="panel-title">Top Reports</div>
+      ${reports.slice(0, 4).map(report => `
+        <a href="${escapeHtml(report.sourceUrl || "#")}" target="_blank" rel="noopener">
+          <strong>${escapeHtml(report.title || "Open report")}</strong>
+          <span>${escapeHtml(report.sourceName || "Source")}${report.seenDate ? ` / ${escapeHtml(formatDate(report.seenDate))}` : ""}</span>
+        </a>
+      `).join("")}
+    </div>
+  `;
 }
 
 function renderEventLists() {
@@ -212,9 +277,12 @@ function clearMarkers() {
 
 function addMarker(item, className, label, onClick) {
   const el = document.createElement("button");
-  el.className = className;
+  const severity = String(item.severity || "").toLowerCase();
+  const confidence = String(item.confidence || "").toLowerCase().replace(/\s+/g, "-");
+  el.className = `${className} marker-${severity} marker-${confidence}`.trim();
   el.type = "button";
-  el.textContent = label;
+  el.textContent = item.sourceCount && item.sourceCount > 1 ? String(item.sourceCount) : label;
+  el.title = `${item.location}: ${item.confidence || item.severity || "Signal"}`;
   el.addEventListener("click", onClick);
   const marker = new maplibregl.Marker({ element: el }).setLngLat(item.coords).addTo(state.map);
   state.markers.push(marker);
@@ -242,6 +310,7 @@ function selectEvent(event) {
       <p>${escapeHtml(event.summary)}</p>
       ${sourceLinks(event)}
       ${signalMeta(event)}
+      ${reportList(event)}
     `;
   }
   if (state.map) state.map.flyTo({ center: event.coords, zoom: 4, speed: 0.8 });
@@ -278,10 +347,12 @@ async function init() {
   wireControls();
   renderFilters();
   renderEventLists();
+  renderStats();
   createMap();
   await loadLiveEvents();
   renderFilters();
   renderEventLists();
+  renderStats();
   renderMapLayers();
 }
 
