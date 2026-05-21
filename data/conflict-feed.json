@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T12:34:03.858Z",
+  "generatedAt": "2026-05-21T19:31:17.297Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -74,17 +74,25 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 4 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
-      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 5 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+      "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 4,
+      "reportCount": 5,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
           "sourceName": "UN News - Global perspective Human stories",
@@ -116,44 +124,6 @@
           "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Lebanon / Israel Border: critical conflict watch",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Military",
-      "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "High"
-        },
-        {
-          "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167496",
-          "seenDate": "Wed, 13 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
         }
       ]
     },
@@ -335,6 +305,36 @@
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167559",
           "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
           "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Lebanon / Israel Border: public conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Military",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Military",
           "severity": "High"
         }
       ]
