@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T19:38:56.209Z",
+  "generatedAt": "2026-05-21T00:18:05.575Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -12,17 +12,25 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 5 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167546",
-      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+      "summary": "Ukraine is active on the public watch board with 6 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 5,
+      "reportCount": 6,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
           "sourceName": "UN News - Global perspective Human stories",
@@ -54,14 +62,6 @@
           "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        },
-        {
-          "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167502",
-          "seenDate": "Wed, 13 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
         }
       ]
     },
@@ -75,8 +75,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Israel / Gaza is active on the public watch board with 4 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167538",
-      "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 4,
@@ -85,6 +85,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Palestine: Killings, destruction and settler encroachment continues",
           "sourceName": "UN News - Global perspective Human stories",
@@ -106,14 +114,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167506",
           "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Children shot, stabbed and pepper-sprayed in occupied West Bank",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167488",
-          "seenDate": "Tue, 12 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -310,6 +310,36 @@
       ]
     },
     {
+      "title": "Haiti: public conflict signal",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
       "title": "Iran: public conflict signal",
       "location": "Iran",
       "coords": [
@@ -394,36 +424,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
           "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Pakistan / Afghanistan: public conflict signal",
-      "location": "Pakistan / Afghanistan",
-      "coords": [
-        69.2,
-        33.8
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167495",
-      "seenDate": "Tue, 12 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167495",
-          "seenDate": "Tue, 12 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
