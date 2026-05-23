@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-05-22T22:42:47.101Z",
-  "statusLabel": "Fallback conflict feed",
-  "source": "curated fallback",
+  "generatedAt": "2026-05-23T07:57:08.712Z",
+  "statusLabel": "Conflict feed",
+  "source": "UN News Peace and Security",
   "events": [
     {
-      "title": "Ukraine: critical conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Eastern Ukraine remains a priority conflict watch area",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Conflict",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Israel / Gaza: critical conflict watch",
+      "title": "Israel / Gaza: repeated public reporting",
       "location": "Israel / Gaza",
       "coords": [
         34.45,
@@ -42,24 +12,194 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
+      "summary": "Israel / Gaza is active on the public watch board with 6 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+      "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
+      "reportCount": 6,
+      "confidence": "Multiple Reports",
       "sources": [
-        "Curated fallback"
+        "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Israel-Gaza and regional spillover remain under watch",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
+          "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Palestine: Killings, destruction and settler encroachment continues",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167538",
+          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: repeated public reporting",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 5 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 5,
+      "confidence": "Multiple Reports",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167546",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167541",
+          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: UN relief vehicle struck in Ukraine, emergency airdrops in South Sudan, backlash against LGBTIQ+ rights",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167525",
+          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167509",
+          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: critical conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Military",
+      "severity": "Critical",
+      "summary": "Taiwan Strait is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167550",
+      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167550",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
+        },
+        {
+          "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Somalia: critical conflict watch",
+      "location": "Somalia",
+      "coords": [
+        45.3,
+        5.2
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Somalia is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167516",
+      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167516",
+          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -73,23 +213,197 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Sudan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167528",
+      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 1,
       "confidence": "Single Source",
       "sources": [
-        "Curated fallback"
+        "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Sudan conflict continues to drive regional instability",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
+          "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167528",
+          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Democratic Republic of Congo: repeated public reporting",
+      "location": "Democratic Republic of Congo",
+      "coords": [
+        29.2,
+        -1.7
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Democratic Republic of Congo is active on the public watch board with 3 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 3,
+      "confidence": "Multiple Reports",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167542",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167534",
+          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Haiti: public conflict signal",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Haiti is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+      "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Lebanon / Israel Border: public conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Military",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Iran: public conflict signal",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Iran is active on the public watch board with 1 report across 1 source. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Syria: public conflict signal",
+      "location": "Syria",
+      "coords": [
+        38.3,
+        35
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
+      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
+          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -103,202 +417,22 @@
       "category": "Conflict",
       "severity": "High",
       "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
+      "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 1,
       "confidence": "Single Source",
       "sources": [
-        "Curated fallback"
+        "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Red Sea corridor remains under elevated security watch",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
+          "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
+          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
           "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Pakistan / Afghanistan: public conflict signal",
-      "location": "Pakistan / Afghanistan",
-      "coords": [
-        69.2,
-        33.8
-      ],
-      "category": "Unrest",
-      "severity": "High",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Unrest.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Pakistan-Afghanistan border activity remains a watch point",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Unrest",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "South China Sea: public conflict signal",
-      "location": "South China Sea",
-      "coords": [
-        114.2,
-        12.2
-      ],
-      "category": "Military",
-      "severity": "High",
-      "summary": "South China Sea is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "South China Sea military pressure remains elevated",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Military",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Myanmar: public conflict signal",
-      "location": "Myanmar",
-      "coords": [
-        96.1,
-        21.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Myanmar is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Myanmar conflict activity remains under monitoring",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Sahel: public conflict signal",
-      "location": "Sahel",
-      "coords": [
-        2.5,
-        15.6
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Sahel is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Sahel security pressure remains regionally significant",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Haiti: public conflict signal",
-      "location": "Haiti",
-      "coords": [
-        -72.3,
-        18.9
-      ],
-      "category": "Unrest",
-      "severity": "High",
-      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Unrest.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Haiti gang violence remains a public security watch point",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Unrest",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Korean Peninsula: public conflict signal",
-      "location": "Korean Peninsula",
-      "coords": [
-        127.5,
-        38.4
-      ],
-      "category": "Military",
-      "severity": "High",
-      "summary": "Korean Peninsula is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "",
-      "seenDate": "",
-      "sourceName": "Curated fallback",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Curated fallback"
-      ],
-      "reports": [
-        {
-          "title": "Korean Peninsula military signaling remains under watch",
-          "sourceName": "Curated fallback",
-          "sourceUrl": "",
-          "seenDate": "",
-          "category": "Military",
           "severity": "High"
         }
       ]
