@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T15:51:11.799Z",
+  "generatedAt": "2026-05-24T20:14:59.193Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -10,19 +10,35 @@
         36.23,
         49.99
       ],
-      "category": "Infrastructure",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 6 reports across 1 source. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-      "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
+      "summary": "Ukraine is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167583",
+      "seenDate": "Sun, 24 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 6,
+      "reportCount": 8,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167583",
+          "seenDate": "Sun, 24 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167569",
+          "seenDate": "Sat, 23 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
           "sourceName": "UN News - Global perspective Human stories",
@@ -46,22 +62,6 @@
           "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167546",
-          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167541",
-          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         }
       ]
     },
@@ -162,44 +162,6 @@
           "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
           "category": "Military",
           "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Somalia: critical conflict watch",
-      "location": "Somalia",
-      "coords": [
-        45.3,
-        5.2
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Somalia is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167516",
-      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167516",
-          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167514",
-          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -402,36 +364,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
           "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Red Sea / Yemen: public conflict signal",
-      "location": "Red Sea / Yemen",
-      "coords": [
-        43.33,
-        12.58
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
-      "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167511",
-          "seenDate": "Thu, 14 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
