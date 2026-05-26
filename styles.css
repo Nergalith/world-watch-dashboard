@@ -182,13 +182,14 @@ button, a { font: inherit; }
   grid-template-columns: minmax(0, 1fr) minmax(280px, 350px);
   gap: 16px;
   padding: clamp(14px, 2.5vw, 28px);
+  align-items: start;
 }
 
 /* ── Map card ────────────────────────────────────────────────────────────────── */
 
 .map-card {
   position: relative;
-  min-height: min(80vh, 860px);
+  height: clamp(500px, calc(100vh - 144px), 720px);
   border: 1px solid var(--line);
   background: #020407;
   overflow: hidden;
@@ -245,13 +246,13 @@ button, a { font: inherit; }
 .selected-panel {
   right: 14px;
   bottom: 14px;
-  width: min(420px, calc(100% - 28px));
-  padding: 14px;
+  width: min(350px, calc(100% - 28px));
+  padding: 12px;
 }
 
 .selected-panel h2 {
   margin-top: 8px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .selected-panel p {
@@ -711,6 +712,10 @@ h1 {
 
 @media (max-width: 1080px) {
   .map-layout { grid-template-columns: 1fr; }
+  .map-card {
+    height: min(68vh, 640px);
+    min-height: 460px;
+  }
   .event-grid, .source-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
 }
 
@@ -725,7 +730,10 @@ h1 {
   .utc-clock { font-size: 10px; }
   .intel-ticker { gap: 10px; font-size: 10px; }
   .nav { justify-content: flex-start; }
-  .map-card { min-height: 580px; }
+  .map-card {
+    height: min(62vh, 520px);
+    min-height: 420px;
+  }
   .map-control-panel { width: 148px; }
   .news-grid { grid-template-columns: 1fr; }
   .event-grid, .source-grid { grid-template-columns: 1fr; }

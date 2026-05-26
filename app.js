@@ -424,10 +424,10 @@ function createMap() {
   state.map = new maplibregl.Map({
     container: "world-map",
     style: "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
-    center: [22, 18],
-    zoom: 2,
-    pitch: 20,
-    bearing: -6,
+    bounds: [[-170, -55], [180, 75]],
+    fitBoundsOptions: { padding: 36 },
+    pitch: 0,
+    bearing: 0,
     attributionControl: true
   });
 
