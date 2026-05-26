@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T22:43:06.936Z",
+  "generatedAt": "2026-05-26T12:56:49.463Z",
   "statusLabel": "Conflict feed",
-  "source": "UN News Peace and Security",
+  "source": "UN News Peace and Security, International Crisis Group",
   "events": [
     {
       "title": "Ukraine: repeated public reporting",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "title": "Taiwan Strait: critical conflict watch",
+      "title": "Taiwan Strait: corroborated conflict signal",
       "location": "Taiwan Strait",
       "coords": [
         121,
@@ -136,14 +136,15 @@
       ],
       "category": "Military",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military.",
+      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military.",
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167550",
       "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
       "sources": [
+        "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
@@ -162,6 +163,14 @@
           "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
           "category": "Military",
           "severity": "Critical"
+        },
+        {
+          "title": "The Trump-Xi Summit: What Happened in Beijing?",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/pod/asia-pacific/china/trump-xi-summit-what-happened-beijing",
+          "seenDate": "Sat, 16 May 2026 16:24:05 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
         }
       ]
     },
@@ -192,6 +201,146 @@
           "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Red Sea / Yemen: critical conflict watch",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+      "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
+      "sourceName": "International Crisis Group",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Iran: high-signal conflict watch",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Iran is active on the public watch board with 5 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 2,
+      "reportCount": 5,
+      "confidence": "High Signal",
+      "sources": [
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Washington 17 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/washington-17-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 17:03:03 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Tehran 18 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/tehran-18-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 16:59:45 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Hormuz 15 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/hormuz-15-may-2026-1",
+          "seenDate": "Fri, 15 May 2026 19:01:20 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Washington 15 May 2026 #2",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/washington-15-may-2026-2",
+          "seenDate": "Fri, 15 May 2026 19:00:01 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Lebanon / Israel Border: corroborated conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Military",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "High"
+        },
+        {
+          "title": "Lebanon 16 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/lebanon-16-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 17:04:44 +0000",
+          "category": "Military",
+          "severity": "High"
+        },
+        {
+          "title": "Israel 16 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/israel-16-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 17:03:51 +0000",
+          "category": "Military",
+          "severity": "High"
         }
       ]
     },
@@ -280,61 +429,39 @@
       ]
     },
     {
-      "title": "Lebanon / Israel Border: public conflict signal",
-      "location": "Lebanon / Israel Border",
+      "title": "Iraq: public conflict signal",
+      "location": "Iraq",
       "coords": [
-        35.7,
+        43.7,
         33.2
       ],
-      "category": "Military",
+      "category": "Conflict",
       "severity": "High",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
+      "summary": "Iraq is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
+      "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
+      "sourceName": "International Crisis Group",
       "sourceCount": 1,
-      "reportCount": 1,
+      "reportCount": 2,
       "confidence": "Single Source",
       "sources": [
-        "UN News - Global perspective Human stories"
+        "International Crisis Group"
       ],
       "reports": [
         {
-          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Military",
+          "title": "Iraq 17 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
+          "category": "Conflict",
           "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Iran: public conflict signal",
-      "location": "Iran",
-      "coords": [
-        53.7,
-        32.4
-      ],
-      "category": "Infrastructure",
-      "severity": "High",
-      "summary": "Iran is active on the public watch board with 1 report across 1 source. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
-      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
+        },
         {
-          "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
-          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-          "category": "Infrastructure",
+          "title": "Riyadh 17 May 2026 #1",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/content/riyadh-17-may-2026-1",
+          "seenDate": "Mon, 18 May 2026 17:00:38 +0000",
+          "category": "Conflict",
           "severity": "High"
         }
       ]

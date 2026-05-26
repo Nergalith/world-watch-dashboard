@@ -8,11 +8,11 @@
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260526-mapfix" />
+    <link rel="stylesheet" href="styles.css?v=20260526-opsdesk" />
     <script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
   </head>
   <body>
-    <div class="site-shell">
+    <div class="site-shell dashboard-shell">
 
       <header class="topbar">
         <a class="brand" href="index.html" aria-label="Nergalith World Conflict Tracking home">
@@ -44,14 +44,40 @@
         <span class="ticker-label">PUBLIC OSINT · FREE · NO ACCOUNT REQUIRED</span>
       </div>
 
-      <main class="map-layout">
+      <main class="operations-layout">
+        <aside class="left-stack">
+          <section class="panel monitor-panel">
+            <div class="panel-head">
+              <span>Monitor</span>
+              <span class="tag live">Live</span>
+            </div>
+            <div class="monitor-label">Layers</div>
+            <div class="layer-bank">
+              <button class="layer-toggle active" data-layer="events" type="button">Conflict Signals</button>
+              <button class="layer-toggle" data-layer="earthquakes" type="button">Earthquakes M4.5+</button>
+            </div>
+            <div class="source-status">
+              <div><span class="status-dot active"></span> Conflict reporting</div>
+              <div><span class="status-dot active"></span> USGS natural events</div>
+              <div><span class="status-dot standby"></span> Additional layers</div>
+            </div>
+          </section>
+
+          <section class="panel quake-panel">
+            <div class="panel-head">
+              <span>Natural Events</span>
+              <span id="quake-badge" class="badge-cyan">M4.5+ / 7 days</span>
+            </div>
+            <div id="quake-list" class="compact-list panel-scroll"></div>
+          </section>
+        </aside>
+
         <section class="map-card">
+          <div class="map-label">
+            <span>Global Situation</span>
+            <strong>Operational Map</strong>
+          </div>
           <div id="world-map" aria-label="World Conflict Tracking interactive map"></div>
-          <aside class="map-control-panel">
-            <div class="panel-title">Layers</div>
-            <button class="layer-toggle active" data-layer="events" type="button">Conflict Signals</button>
-            <button class="layer-toggle" data-layer="earthquakes" type="button">Earthquakes</button>
-          </aside>
           <aside class="selected-panel" id="selected-panel">
             <span class="tag">Public Feed</span>
             <h2>Select a marker</h2>
@@ -73,27 +99,19 @@
               <span>Conflict Feed</span>
               <a href="events.html">All →</a>
             </div>
-            <div id="event-list" class="compact-list"></div>
-          </section>
-
-          <section class="panel">
-            <div class="panel-head">
-              <span>Latest Earthquakes</span>
-              <span id="quake-badge" class="badge-cyan">M4.5+ / 7 days</span>
-            </div>
-            <div id="quake-list" class="compact-list"></div>
+            <div id="event-list" class="compact-list panel-scroll"></div>
           </section>
         </aside>
       </main>
 
-      <section class="news-strip">
+      <section class="news-strip lower-deck">
         <div class="news-strip-head">
           <span class="panel-title">Live News Feed</span>
           <div class="news-tabs" id="news-tabs">
             <button class="active" data-source="All" type="button">All</button>
             <button data-source="BBC" type="button">BBC</button>
             <button data-source="Al Jazeera" type="button">Al Jazeera</button>
-            <button data-source="Reuters" type="button">Reuters</button>
+            <button data-source="UN News" type="button">UN News</button>
           </div>
         </div>
         <div id="news-feed" class="news-grid">
@@ -102,6 +120,6 @@
       </section>
 
     </div>
-    <script src="app.js?v=20260526-mapfix"></script>
+    <script src="app.js?v=20260526-opsdesk"></script>
   </body>
 </html>

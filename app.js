@@ -59,14 +59,6 @@ const fallbackEvents = [
   }
 ];
 
-// ─── News RSS sources (via rss2json free proxy) ────────────────────────────────
-
-const RSS_FEEDS = [
-  { name: "BBC",        url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-  { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
-  { name: "Reuters",    url: "https://feeds.reuters.com/reuters/worldNews" }
-];
-
 // ─── Application state ─────────────────────────────────────────────────────────
 
 const state = {
@@ -232,27 +224,17 @@ function selectQuake(quake) {
   if (state.map) state.map.flyTo({ center: quake.coords, zoom: 5, speed: 0.8 });
 }
 
-// ─── News feed (via rss2json free proxy) ───────────────────────────────────────
+// ─── News feed (hourly server-generated public RSS snapshot) ───────────────────
 
 async function loadNewsFeed() {
-  const allItems = [];
-  await Promise.allSettled(
-    RSS_FEEDS.map(async feed => {
-      try {
-        const endpoint = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&count=6`;
-        const res = await fetch(endpoint);
-        if (!res.ok) return;
-        const data = await res.json();
-        if (Array.isArray(data.items)) {
-          data.items.forEach(item => allItems.push({ ...item, source: feed.name }));
-        }
-      } catch {
-        // feed unavailable — skip silently
-      }
-    })
-  );
-  allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  state.news = allItems;
+  try {
+    const res = await fetch(`data/news-feed.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`News ${res.status}`);
+    const data = await res.json();
+    state.news = Array.isArray(data.items) ? data.items : [];
+  } catch {
+    state.news = [];
+  }
   renderNews();
   updateTicker();
 }
@@ -274,7 +256,7 @@ function renderNews() {
     <a class="news-item" href="${escapeHtml(item.link || "#")}" target="_blank" rel="noopener">
       <span class="news-source-tag">${escapeHtml(item.source)}</span>
       <span class="news-title">${escapeHtml(item.title)}</span>
-      <span class="news-time">${item.pubDate ? escapeHtml(formatUtc(item.pubDate)) : ""}</span>
+      <span class="news-time">${item.publishedAt ? escapeHtml(formatUtc(item.publishedAt)) : ""}</span>
     </a>
   `).join("");
 }

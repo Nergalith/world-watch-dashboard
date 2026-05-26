@@ -231,6 +231,26 @@ function parseRssItems(xml, sourceName) {
   }, sourceName)).filter(Boolean);
 }
 
+function parseNewsItems(xml, sourceName) {
+  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(match => match[0]);
+  return items.map(item => {
+    const title = stripHtml(decodeEntities(xmlTag(item, "title")));
+    const link = safeUrl(xmlTag(item, "link"));
+    const summary = stripHtml(decodeEntities(xmlTag(item, "description")));
+    if (!title || !link || !isRelevantNews(`${title} ${summary}`)) return null;
+    return {
+      title,
+      link,
+      source: sourceName,
+      publishedAt: xmlTag(item, "pubDate")
+    };
+  }).filter(Boolean);
+}
+
+function isRelevantNews(value = "") {
+  return /\b(war|conflict|attack|airstrike|strike|military|troop|missile|drone|defen[cs]e|security|crisis|violence|gaza|israel|iran|ukraine|russia|sudan|congo|drc|lebanon|syria|yemen|haiti|china|taiwan|north korea|sanction|ceasefire|peace|nuclear|election|protest|coup|earthquake|flood|wildfire|storm|hurricane|cyclone|outage|pipeline|shipping|oil|port|canal|border|refugee|humanitarian)\b/i.test(value);
+}
+
 async function fetchGdeltEvents() {
   const terms = [
     '"armed conflict"',
@@ -264,6 +284,22 @@ async function fetchRssEvents(source) {
   if (!response.ok) throw new Error(`${source.name} ${response.status}`);
   const xml = await response.text();
   return parseRssItems(xml, source.name);
+}
+
+async function fetchRssNews(source) {
+  const response = await fetch(source.url, { headers: { "user-agent": "NergalithWorldConflictTracking/1.0" } });
+  if (!response.ok) throw new Error(`${source.name} ${response.status}`);
+  return parseNewsItems(await response.text(), source.name);
+}
+
+function dedupeNews(items) {
+  const seen = new Set();
+  return items.filter(item => {
+    const key = item.title.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 function dedupeArticles(events) {
@@ -430,6 +466,46 @@ async function main() {
   await mkdir("data", { recursive: true });
   await writeFile("data/conflict-feed.json", `${JSON.stringify(feed, null, 2)}\n`);
   console.log(`Wrote ${events.length} events from ${feed.source}`);
+
+  const newsSources = [
+    {
+      name: "Al Jazeera",
+      url: "https://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      name: "BBC",
+      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      name: "UN News",
+      url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
+    }
+  ];
+  const newsItems = [];
+  const newsSourcesUsed = [];
+
+  for (const source of newsSources) {
+    try {
+      const items = await fetchRssNews(source);
+      if (items.length) {
+        newsItems.push(...items);
+        newsSourcesUsed.push(source.name);
+      }
+    } catch (error) {
+      console.error(`${source.name} news: ${error.message}`);
+    }
+  }
+
+  const newsFeed = {
+    generatedAt: new Date().toISOString(),
+    sources: newsSourcesUsed,
+    items: dedupeNews(newsItems)
+      .sort((a, b) => dateValue(b.publishedAt) - dateValue(a.publishedAt))
+      .slice(0, 30)
+  };
+
+  await writeFile("data/news-feed.json", `${JSON.stringify(newsFeed, null, 2)}\n`);
+  console.log(`Wrote ${newsFeed.items.length} news items from ${newsFeed.sources.join(", ") || "no live sources"}`);
 }
 
 await main();
