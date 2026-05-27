@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:48:42.140Z",
+  "generatedAt": "2026-05-27T00:17:36.934Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,10 +7,40 @@
   ],
   "items": [
     {
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
       "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Tue, 26 May 2026 19:40:35 GMT"
+      "publishedAt": "Wed, 27 May 2026 00:10:03 GMT"
+    },
+    {
+      "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 26 May 2026 21:22:47 +0000"
+    },
+    {
+      "title": "US picks potential partners for using Cold War-era plutonium as fuel",
+      "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 26 May 2026 20:33:56 +0000"
+    },
+    {
+      "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+      "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 26 May 2026 20:33:10 +0000"
+    },
+    {
+      "title": "Did Trump oversell a broken Iran ceasefire deal?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 26 May 2026 19:50:51 +0000"
+    },
+    {
+      "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 26 May 2026 19:47:18 +0000"
     },
     {
       "title": "Russia slams US for not granting visa to diplomat for UN meeting",
@@ -73,46 +103,10 @@
       "publishedAt": "Tue, 26 May 2026 15:08:06 +0000"
     },
     {
-      "title": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
-      "link": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 14:59:42 +0000"
-    },
-    {
-      "title": "Iran’s president praises military after US strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 14:38:16 +0000"
-    },
-    {
-      "title": "Rights group accuses UAE of being transit point for mercenaries on way to Sudan",
-      "link": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 26 May 2026 14:37:24 GMT"
-    },
-    {
-      "title": "India, US strike critical minerals deal: What’s in it, why does it matter?",
-      "link": "https://www.aljazeera.com/economy/2026/5/26/india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 14:36:33 +0000"
-    },
-    {
-      "title": "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-tt_rr_usa_piker_av_v1-250526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 14:36:01 +0000"
-    },
-    {
-      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-      "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 13:26:40 +0000"
-    },
-    {
-      "title": "Report warns pro-Palestine protesters face legal crackdown: What to know",
-      "link": "https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 13:18:20 +0000"
+      "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167591",
+      "source": "UN News",
+      "publishedAt": "Tue, 26 May 2026 12:00:00 +0000"
     },
     {
       "title": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order, warns UN chief",
@@ -185,6 +179,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167572",
       "source": "UN News",
       "publishedAt": "Fri, 22 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+      "source": "UN News",
+      "publishedAt": "Thu, 21 May 2026 12:00:00 +0000"
     }
   ]
 }
