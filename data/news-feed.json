@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T11:06:36.132Z",
+  "generatedAt": "2026-05-28T19:55:43.807Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,94 +7,118 @@
   ],
   "items": [
     {
-      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+      "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 10:58:12 +0000"
+      "publishedAt": "Thu, 28 May 2026 19:03:50 +0000"
     },
     {
-      "title": "The West Bank’s Youth Unemployment Crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
+      "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 10:51:06 +0000"
+      "publishedAt": "Thu, 28 May 2026 18:36:50 +0000"
     },
     {
-      "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 10:47:19 +0000"
+      "publishedAt": "Thu, 28 May 2026 18:25:32 +0000"
     },
     {
-      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+      "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 10:42:25 +0000"
+      "publishedAt": "Thu, 28 May 2026 18:21:14 +0000"
+    },
+    {
+      "title": "How War Changed Eid in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 17:40:23 +0000"
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 28 May 2026 17:39:16 GMT"
+    },
+    {
+      "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
+      "link": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 17:16:21 +0000"
+    },
+    {
+      "title": "Latvia parliament approves new gov’t after drone dispute toppled coalition",
+      "link": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 17:00:52 +0000"
+    },
+    {
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 28 May 2026 16:56:19 GMT"
+    },
+    {
+      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "link": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 16:54:57 +0000"
+    },
+    {
+      "title": "Smoke rises over Beirut after Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 16:42:41 +0000"
+    },
+    {
+      "title": "WHO chief heads to ‘hardest hit’ Ituri as DRC’s 17th Ebola outbreak spreads",
+      "link": "https://www.aljazeera.com/news/2026/5/28/who-chief-heads-to-hardest-hit-ituri-as-drcs-17th-ebola-outbreak-spreads?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 16:21:09 +0000"
+    },
+    {
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 28 May 2026 16:20:50 GMT"
     },
     {
       "title": "Iran says it targeted American base after fresh US strikes",
       "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 09:58:49 GMT"
+      "publishedAt": "Thu, 28 May 2026 15:53:05 GMT"
     },
     {
-      "title": "Iran says it has a new air defence system. How significant is it?",
-      "link": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+      "title": "IOC chief Coventry stirs social media storm over athlete payment comments",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/ioc-chief-coventry-stirs-social-media-storm-over-athlete-payment-comments?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 09:56:57 +0000"
+      "publishedAt": "Thu, 28 May 2026 15:04:11 +0000"
     },
     {
-      "title": "Children with Down syndrome struggle with devastation of war in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
+      "title": "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
+      "link": "https://www.aljazeera.com/news/2026/5/28/abedrabbo-mansour-hadi-yemens-former-leader-passes-away-in-exile-at-80?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 09:35:55 +0000"
+      "publishedAt": "Thu, 28 May 2026 15:02:55 +0000"
     },
     {
-      "title": "China’s secret weapon in AI race with US? Lots of cheap energy",
-      "link": "https://www.aljazeera.com/economy/2026/5/28/chinas-secret-weapon-in-ai-race-with-us-lots-of-cheap-energy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 09:15:00 +0000"
-    },
-    {
-      "title": "Israeli attack on Gaza City kills at least 10, including four children",
-      "link": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 09:10:33 +0000"
-    },
-    {
-      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 08:45:44 GMT"
-    },
-    {
-      "title": "World Cup delegation compliant with US Ebola protocols, DR Congo says",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/world-cup-delegation-compliant-with-us-ebola-protocols-dr-congo-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 08:16:24 +0000"
-    },
-    {
-      "title": "Australia charges alleged ISIL-linked woman after return from Syria",
-      "link": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 07:46:41 +0000"
-    },
-    {
-      "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-      "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 07:32:32 +0000"
-    },
-    {
-      "title": "What’s happening on Iran war day 90 as US launches new strikes",
-      "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 07:20:50 +0000"
-    },
-    {
-      "title": "Oil prices jump after US launches new attacks on Iran",
+      "title": "Oil prices fall after report of breakthrough in US-Iran talks",
       "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 05:32:06 GMT"
+      "publishedAt": "Thu, 28 May 2026 14:45:46 GMT"
+    },
+    {
+      "title": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 28 May 2026 14:45:42 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167597",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
     },
     {
       "title": "Australia charges woman who returned from Syria with joining Islamic State",
@@ -115,12 +139,6 @@
       "publishedAt": "Thu, 28 May 2026 02:47:19 GMT"
     },
     {
-      "title": "Parisians defy swimming ban to cool off as record heat hits Europe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 01:51:17 +0000"
-    },
-    {
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
       "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -131,12 +149,6 @@
       "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 27 May 2026 13:15:26 GMT"
-    },
-    {
-      "title": "South Korea detains dissident who fled China in rubber boat",
-      "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 27 May 2026 11:12:33 GMT"
     },
     {
       "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
@@ -173,18 +185,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167580",
       "source": "UN News",
       "publishedAt": "Sat, 23 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-      "source": "UN News",
-      "publishedAt": "Fri, 22 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167578",
-      "source": "UN News",
-      "publishedAt": "Fri, 22 May 2026 12:00:00 +0000"
     }
   ]
 }
