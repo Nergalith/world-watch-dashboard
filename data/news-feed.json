@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T00:20:26.239Z",
+  "generatedAt": "2026-05-29T12:35:17.304Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,34 +7,94 @@
   ],
   "items": [
     {
-      "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 29 May 2026 00:00:00 +0000"
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 29 May 2026 11:22:10 GMT"
     },
     {
-      "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
+      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+      "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 23:48:28 +0000"
+      "publishedAt": "Fri, 29 May 2026 10:28:18 +0000"
+    },
+    {
+      "title": "WHO chief visits DRC amidst Ebola crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 10:24:27 +0000"
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 10:23:16 +0000"
+    },
+    {
+      "title": "How the end of the nuclear file could reshape Iran, and the region",
+      "link": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 10:05:14 +0000"
+    },
+    {
+      "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
+      "link": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 09:18:30 +0000"
     },
     {
       "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
       "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 23:32:19 GMT"
+      "publishedAt": "Fri, 29 May 2026 09:17:35 GMT"
     },
     {
-      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
+      "title": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
+      "link": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 23:18:19 +0000"
+      "publishedAt": "Fri, 29 May 2026 08:13:57 +0000"
     },
     {
-      "title": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
-      "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss",
+      "title": "NATO states slam Russia after drone crashes in Romania",
+      "link": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 23:10:29 +0000"
+      "publishedAt": "Fri, 29 May 2026 07:50:50 +0000"
+    },
+    {
+      "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+      "link": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 07:39:09 +0000"
+    },
+    {
+      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 07:22:06 +0000"
+    },
+    {
+      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+      "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 07:04:00 +0000"
+    },
+    {
+      "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+      "link": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 06:39:24 +0000"
+    },
+    {
+      "title": "Ethiopia to vote on June 1 as Abiy’s ruling party eyes landslide victory",
+      "link": "https://www.aljazeera.com/news/2026/5/29/ethiopia-to-vote-on-june-1-as-abiys-ruling-party-eyes-landslide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 29 May 2026 05:58:03 +0000"
+    },
+    {
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+      "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 29 May 2026 02:24:52 GMT"
     },
     {
       "title": "How did this novel about food win a Booker Prize this year?",
@@ -43,76 +103,16 @@
       "publishedAt": "Thu, 28 May 2026 22:48:45 GMT"
     },
     {
-      "title": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 22:42:33 +0000"
-    },
-    {
-      "title": "Guatemala denies agreeing to US strikes against drug traffickers",
-      "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 21:42:39 +0000"
-    },
-    {
       "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
       "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 28 May 2026 21:07:46 GMT"
     },
     {
-      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-      "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 19:03:50 +0000"
-    },
-    {
-      "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-      "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 18:36:50 +0000"
-    },
-    {
-      "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 18:25:32 +0000"
-    },
-    {
-      "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-      "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 18:21:14 +0000"
-    },
-    {
-      "title": "How War Changed Eid in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 17:40:23 +0000"
-    },
-    {
       "title": "Israel hits Lebanese capital in 'targeted strike'",
       "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 28 May 2026 17:39:16 GMT"
-    },
-    {
-      "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-      "link": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 17:16:21 +0000"
-    },
-    {
-      "title": "Latvia parliament approves new gov’t after drone dispute toppled coalition",
-      "link": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 28 May 2026 17:00:52 +0000"
-    },
-    {
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 16:56:19 GMT"
     },
     {
       "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
@@ -127,10 +127,16 @@
       "publishedAt": "Thu, 28 May 2026 16:20:50 GMT"
     },
     {
-      "title": "Oil prices fall after report of breakthrough in US-Iran talks",
-      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 14:45:46 GMT"
+      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167599",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167598",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
     },
     {
       "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
@@ -151,24 +157,6 @@
       "publishedAt": "Thu, 28 May 2026 03:14:56 GMT"
     },
     {
-      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
-      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 02:47:19 GMT"
-    },
-    {
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 27 May 2026 18:50:50 GMT"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 27 May 2026 13:15:26 GMT"
-    },
-    {
       "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167591",
       "source": "UN News",
@@ -185,6 +173,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167586",
       "source": "UN News",
       "publishedAt": "Tue, 26 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Founding principles of the UN facing ‘profound strain’, Guterres warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167585",
+      "source": "UN News",
+      "publishedAt": "Tue, 26 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167583",
+      "source": "UN News",
+      "publishedAt": "Sun, 24 May 2026 12:00:00 +0000"
     }
   ]
 }
