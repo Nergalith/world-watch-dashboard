@@ -1,11 +1,65 @@
 {
-  "generatedAt": "2026-05-30T16:15:07.462Z",
+  "generatedAt": "2026-05-30T20:16:50.989Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+      "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 19:48:13 +0000"
+    },
+    {
+      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+      "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 17:34:30 GMT"
+    },
+    {
+      "title": "Voters in Malta head to polls for early elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 17:20:17 +0000"
+    },
+    {
+      "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 17:04:03 +0000"
+    },
+    {
+      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 17:01:12 +0000"
+    },
+    {
+      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 16:58:56 GMT"
+    },
+    {
+      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 16:44:46 +0000"
+    },
+    {
+      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
+      "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 16:21:52 +0000"
+    },
+    {
+      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+      "link": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 16:21:28 GMT"
+    },
     {
       "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
       "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
@@ -61,12 +115,6 @@
       "publishedAt": "Sat, 30 May 2026 12:04:35 +0000"
     },
     {
-      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
-      "link": "https://www.aljazeera.com/sports/2026/5/30/liverpool-sack-manager-arne-slot-a-year-after-winning-the-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 11:46:57 +0000"
-    },
-    {
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -95,36 +143,6 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 30 May 2026 10:34:54 +0000"
-    },
-    {
-      "title": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 10:13:16 +0000"
-    },
-    {
-      "title": "Police fire tear gas during protest outside New Jersey ICE facility",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 09:28:36 +0000"
-    },
-    {
-      "title": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-      "link": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 08:54:31 +0000"
-    },
-    {
-      "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
-      "link": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 08:22:40 +0000"
-    },
-    {
-      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-      "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 07:30:15 +0000"
     },
     {
       "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
@@ -167,24 +185,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167601",
       "source": "UN News",
       "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 29 May 2026 11:22:10 GMT"
-    },
-    {
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 29 May 2026 02:24:52 GMT"
-    },
-    {
-      "title": "How did this novel about food win a Booker Prize this year?",
-      "link": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 22:48:45 GMT"
     }
   ]
 }
