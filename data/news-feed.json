@@ -1,11 +1,71 @@
 {
-  "generatedAt": "2026-05-30T12:14:08.218Z",
+  "generatedAt": "2026-05-30T16:15:07.462Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 15:39:12 GMT"
+    },
+    {
+      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+      "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 13:50:57 +0000"
+    },
+    {
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 13:34:57 GMT"
+    },
+    {
+      "title": "Violence against foreign-owned shops in South Africa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 13:10:11 +0000"
+    },
+    {
+      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 12:53:35 +0000"
+    },
+    {
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 12:49:20 +0000"
+    },
+    {
+      "title": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 12:49:12 +0000"
+    },
+    {
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 30 May 2026 12:16:26 GMT"
+    },
+    {
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 12:04:35 +0000"
+    },
+    {
+      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+      "link": "https://www.aljazeera.com/sports/2026/5/30/liverpool-sack-manager-arne-slot-a-year-after-winning-the-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 30 May 2026 11:46:57 +0000"
+    },
     {
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
@@ -67,46 +127,10 @@
       "publishedAt": "Sat, 30 May 2026 07:30:15 +0000"
     },
     {
-      "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-      "link": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 06:29:07 +0000"
-    },
-    {
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 05:57:46 GMT"
-    },
-    {
-      "title": "Frustration in Lebanon as Israel expands invasion",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 04:36:17 +0000"
-    },
-    {
       "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
       "link": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 30 May 2026 01:34:38 GMT"
-    },
-    {
-      "title": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Ebola treatment centre rebuilt after being torched by protesters in DRC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/ebola-treatment-centre-rebuilt-after-being-torched-by-protesters-in-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 29 May 2026 21:52:24 +0000"
-    },
-    {
-      "title": "UN: “100% of Gaza” should be for Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 29 May 2026 21:49:33 +0000"
     },
     {
       "title": "Israel put on UN sexual violence in warzones blacklist for first time",
@@ -125,12 +149,6 @@
       "link": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 29 May 2026 15:23:51 GMT"
-    },
-    {
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 29 May 2026 13:55:04 GMT"
     },
     {
       "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
@@ -167,24 +185,6 @@
       "link": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 28 May 2026 22:48:45 GMT"
-    },
-    {
-      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
-      "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 28 May 2026 16:39:30 GMT"
-    },
-    {
-      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-      "source": "UN News",
-      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167598",
-      "source": "UN News",
-      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
     }
   ]
 }
