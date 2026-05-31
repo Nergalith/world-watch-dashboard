@@ -1,11 +1,83 @@
 {
-  "generatedAt": "2026-05-31T10:00:49.579Z",
+  "generatedAt": "2026-05-31T15:06:46.298Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 14:36:04 +0000"
+    },
+    {
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 14:03:43 GMT"
+    },
+    {
+      "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
+      "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 13:39:54 +0000"
+    },
+    {
+      "title": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
+      "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 13:28:26 +0000"
+    },
+    {
+      "title": "Japan rejects ‘new militarism’, says China is rapidly arming",
+      "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 12:51:25 +0000"
+    },
+    {
+      "title": "Four-time champion Swiatek out as French Open continues to deliver shocks",
+      "link": "https://www.aljazeera.com/sports/2026/5/31/four-time-champion-swiatek-out-as-french-open-continues-to-deliver-shocks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 12:30:52 +0000"
+    },
+    {
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 12:18:24 GMT"
+    },
+    {
+      "title": "Nigerian retired general abducted with his wife in the north-west",
+      "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 12:11:32 GMT"
+    },
+    {
+      "title": "Rio’s Forever War",
+      "link": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 11:24:16 +0000"
+    },
+    {
+      "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 11:10:14 +0000"
+    },
+    {
+      "title": "Labour triumphs in Malta election, preliminary results show",
+      "link": "https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 10:48:46 +0000"
+    },
+    {
+      "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+      "link": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 10:07:15 +0000"
+    },
     {
       "title": "Trump tightens terms on Iran war deal, US media say",
       "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
@@ -17,12 +89,6 @@
       "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 31 May 2026 08:49:53 +0000"
-    },
-    {
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 08:47:46 GMT"
     },
     {
       "title": "The strait may reopen, but global confidence may not return",
@@ -55,64 +121,10 @@
       "publishedAt": "Sun, 31 May 2026 06:34:04 GMT"
     },
     {
-      "title": "Thousands in Peru protest Fujimori presidential run",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 03:58:50 +0000"
-    },
-    {
-      "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 00:27:27 +0000"
-    },
-    {
       "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
       "link": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 31 May 2026 00:11:56 GMT"
-    },
-    {
-      "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 00:00:50 +0000"
-    },
-    {
-      "title": "Congress advances US-Israeli military integration plan",
-      "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 22:28:09 +0000"
-    },
-    {
-      "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 21:54:55 +0000"
-    },
-    {
-      "title": "Women bear the brunt of DRC’s Ebola outbreak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 20:30:12 +0000"
-    },
-    {
-      "title": "Putin says drone that crashed in Romania likely Ukrainian",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 20:23:33 +0000"
-    },
-    {
-      "title": "Is the war in Ukraine entering a new phase?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 20:12:44 +0000"
-    },
-    {
-      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-      "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 19:48:13 +0000"
     },
     {
       "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
@@ -133,22 +145,10 @@
       "publishedAt": "Sat, 30 May 2026 15:39:12 GMT"
     },
     {
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
-      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 13:34:57 GMT"
-    },
-    {
       "title": "US, UK and Australia to develop underwater drone technology",
       "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 30 May 2026 12:16:26 GMT"
-    },
-    {
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 11:39:32 GMT"
     },
     {
       "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
