@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T23:45:11.848Z",
+  "generatedAt": "2026-05-31T10:00:49.579Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,7 +7,79 @@
   ],
   "items": [
     {
-      "title": "US Congress advances American-Israeli military integration plan",
+      "title": "Trump tightens terms on Iran war deal, US media say",
+      "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 09:15:00 +0000"
+    },
+    {
+      "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+      "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 08:49:53 +0000"
+    },
+    {
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 08:47:46 GMT"
+    },
+    {
+      "title": "The strait may reopen, but global confidence may not return",
+      "link": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 08:30:28 +0000"
+    },
+    {
+      "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+      "link": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 08:29:45 +0000"
+    },
+    {
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 06:47:05 GMT"
+    },
+    {
+      "title": "Panic on beach in northern Israel during Hezbollah strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 06:43:04 +0000"
+    },
+    {
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 06:34:04 GMT"
+    },
+    {
+      "title": "Thousands in Peru protest Fujimori presidential run",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 03:58:50 +0000"
+    },
+    {
+      "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 00:27:27 +0000"
+    },
+    {
+      "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
+      "link": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 00:11:56 GMT"
+    },
+    {
+      "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 00:00:50 +0000"
+    },
+    {
+      "title": "Congress advances US-Israeli military integration plan",
       "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 30 May 2026 22:28:09 +0000"
@@ -17,18 +89,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 30 May 2026 21:54:55 +0000"
-    },
-    {
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 21:10:06 GMT"
-    },
-    {
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 20:40:07 GMT"
     },
     {
       "title": "Women bear the brunt of DRC’s Ebola outbreak",
@@ -61,36 +121,6 @@
       "publishedAt": "Sat, 30 May 2026 17:34:30 GMT"
     },
     {
-      "title": "Voters in Malta head to polls for early elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 17:20:17 +0000"
-    },
-    {
-      "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
-      "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 17:04:03 +0000"
-    },
-    {
-      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 17:01:12 +0000"
-    },
-    {
-      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
-      "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 16:44:46 +0000"
-    },
-    {
-      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 16:21:52 +0000"
-    },
-    {
       "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
       "link": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -103,40 +133,10 @@
       "publishedAt": "Sat, 30 May 2026 15:39:12 GMT"
     },
     {
-      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-      "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 13:50:57 +0000"
-    },
-    {
       "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
       "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 30 May 2026 13:34:57 GMT"
-    },
-    {
-      "title": "Violence against foreign-owned shops in South Africa",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 13:10:11 +0000"
-    },
-    {
-      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 12:53:35 +0000"
-    },
-    {
-      "title": "The Iran war is dividing Muslims in the Philippines",
-      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 12:49:20 +0000"
-    },
-    {
-      "title": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 30 May 2026 12:49:12 +0000"
     },
     {
       "title": "US, UK and Australia to develop underwater drone technology",
