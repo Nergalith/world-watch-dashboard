@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T15:06:46.298Z",
+  "generatedAt": "2026-05-31T19:51:41.718Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,16 +7,100 @@
   ],
   "items": [
     {
-      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "title": "Brazil monitors two patients for possible Ebola infection",
+      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 19:07:47 GMT"
+    },
+    {
+      "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
+      "link": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 14:36:04 +0000"
+      "publishedAt": "Sun, 31 May 2026 18:52:24 +0000"
+    },
+    {
+      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 18:40:46 +0000"
+    },
+    {
+      "title": "The largest Israeli advance into Lebanon in years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 18:36:02 +0000"
+    },
+    {
+      "title": "Polls open in Colombia’s pivotal presidential election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 18:23:39 +0000"
+    },
+    {
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 18:06:57 GMT"
+    },
+    {
+      "title": "The Bazaar of Return in Aida Refugee Camp",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 17:15:07 +0000"
+    },
+    {
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 31 May 2026 16:59:55 GMT"
+    },
+    {
+      "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+      "link": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 16:40:22 +0000"
+    },
+    {
+      "title": "Iran ⁠restores some gas production at South Pars facility",
+      "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 16:38:31 +0000"
+    },
+    {
+      "title": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 15:44:21 +0000"
+    },
+    {
+      "title": "Iran reinstates some internet access but restrictions remain for most",
+      "link": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 15:09:43 +0000"
     },
     {
       "title": "Colombia votes in presidential election that could redefine relations with US",
       "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 14:03:43 GMT"
+      "publishedAt": "Sun, 31 May 2026 15:08:38 GMT"
+    },
+    {
+      "title": "What are the chances for the Iran-US ‘Declaration of Principles’?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 15:02:49 +0000"
+    },
+    {
+      "title": "Not just the US: How 51 countries armed Israel during Gaza war",
+      "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 14:41:14 +0000"
+    },
+    {
+      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 31 May 2026 14:36:04 +0000"
     },
     {
       "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
@@ -37,82 +121,16 @@
       "publishedAt": "Sun, 31 May 2026 12:51:25 +0000"
     },
     {
-      "title": "Four-time champion Swiatek out as French Open continues to deliver shocks",
-      "link": "https://www.aljazeera.com/sports/2026/5/31/four-time-champion-swiatek-out-as-french-open-continues-to-deliver-shocks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 12:30:52 +0000"
-    },
-    {
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 12:18:24 GMT"
-    },
-    {
       "title": "Nigerian retired general abducted with his wife in the north-west",
       "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 31 May 2026 12:11:32 GMT"
     },
     {
-      "title": "Rio’s Forever War",
-      "link": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 11:24:16 +0000"
-    },
-    {
-      "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 11:10:14 +0000"
-    },
-    {
-      "title": "Labour triumphs in Malta election, preliminary results show",
-      "link": "https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 10:48:46 +0000"
-    },
-    {
-      "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
-      "link": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 10:07:15 +0000"
-    },
-    {
-      "title": "Trump tightens terms on Iran war deal, US media say",
-      "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 09:15:00 +0000"
-    },
-    {
-      "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
-      "link": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 08:49:53 +0000"
-    },
-    {
-      "title": "The strait may reopen, but global confidence may not return",
-      "link": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 08:30:28 +0000"
-    },
-    {
-      "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-      "link": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 08:29:45 +0000"
-    },
-    {
       "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
       "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 31 May 2026 06:47:05 GMT"
-    },
-    {
-      "title": "Panic on beach in northern Israel during Hezbollah strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 31 May 2026 06:43:04 +0000"
     },
     {
       "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
@@ -167,24 +185,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167603",
       "source": "UN News",
       "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "UN honours blue helmets and calls for renewed investment in peace",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167601",
-      "source": "UN News",
-      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-      "source": "UN News",
-      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167598",
-      "source": "UN News",
-      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
     }
   ]
 }
