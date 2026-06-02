@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T19:31:26.386Z",
+  "generatedAt": "2026-06-02T12:14:09.163Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,100 +7,136 @@
   ],
   "items": [
     {
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 02 Jun 2026 12:04:53 GMT"
+    },
+    {
+      "title": "Every world leader who has visited China in 2026 in one chart",
+      "link": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 11:28:02 +0000"
+    },
+    {
+      "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
+      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 11:25:22 +0000"
+    },
+    {
+      "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
+      "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 11:21:29 +0000"
+    },
+    {
+      "title": "Refugee women in CAR face childbirth risks amid US funding cuts",
+      "link": "https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 11:14:18 +0000"
+    },
+    {
+      "title": "How the war has made Iran’s water crisis worse",
+      "link": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 11:13:00 +0000"
+    },
+    {
+      "title": "World Cup: No ICE deployment; extra security for Iran games in Los Angeles",
+      "link": "https://www.aljazeera.com/sports/2026/6/2/world-cup-no-ice-deployment-extra-security-for-iran-games-in-los-angeles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 10:32:11 +0000"
+    },
+    {
+      "title": "Australia, don’t conflate anti-Semitism with criticism of Israel",
+      "link": "https://www.aljazeera.com/opinions/2026/6/2/australia-dont-conflate-anti-semitism-with-criticism-of-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 10:02:31 +0000"
+    },
+    {
+      "title": "How does Iran’s leadership view the emerging deal with the US?",
+      "link": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 09:59:46 +0000"
+    },
+    {
+      "title": "High Court orders Kenya government to release details of Ebola facility",
+      "link": "https://www.aljazeera.com/news/2026/6/2/high-court-orders-kenya-government-to-release-details-of-ebola-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 09:20:44 +0000"
+    },
+    {
+      "title": "‘Like mice in a cage’: Inside Europe’s prison overcrowding crisis",
+      "link": "https://www.aljazeera.com/news/2026/6/2/like-mice-in-a-cage-inside-europes-prison-overcrowding-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 08:42:32 +0000"
+    },
+    {
+      "title": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
+      "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 07:54:37 +0000"
+    },
+    {
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 02 Jun 2026 07:52:47 GMT"
+    },
+    {
+      "title": "China opens its markets to African exports. Who benefits?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 02 Jun 2026 07:51:40 +0000"
+    },
+    {
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
       "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 18:34:14 GMT"
+      "publishedAt": "Tue, 02 Jun 2026 07:31:10 GMT"
     },
     {
-      "title": "Israeli strike damages hospital in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+      "title": "At least 12 people killed, dozens wounded in Russian attacks on Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 18:05:12 +0000"
+      "publishedAt": "Tue, 02 Jun 2026 07:07:21 +0000"
     },
     {
-      "title": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 17:43:53 +0000"
-    },
-    {
-      "title": "Former general for Syria’s Assad pleads not guilty in torture trial",
-      "link": "https://www.aljazeera.com/news/2026/6/1/former-officials-from-syrias-assad-plead-not-guilty-in-torture-trial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 17:29:52 +0000"
-    },
-    {
-      "title": "Protest outside Kenya’s planned US Ebola quarantine centre",
-      "link": "https://www.aljazeera.com/gallery/2026/6/1/protest-outside-kenyas-planned-us-ebola-quarantine-centre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 16:42:37 +0000"
-    },
-    {
-      "title": "Lebanon’s social grocery store fighting rising costs and displacement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanons-social-grocery-store-fighting-rising-costs-and-displacement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 16:32:33 +0000"
-    },
-    {
-      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-      "link": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 16:15:28 +0000"
-    },
-    {
-      "title": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
-      "link": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 15:56:39 +0000"
+      "title": "How health workers in DR Congo are treating Ebola and staying safe",
+      "link": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 01 Jun 2026 23:20:13 GMT"
     },
     {
       "title": "Bowen: Trump needs this war to end but Iran is not backing down",
       "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 15:25:54 GMT"
+      "publishedAt": "Mon, 01 Jun 2026 21:50:52 GMT"
     },
     {
-      "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
-      "link": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 14:45:17 +0000"
+      "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167619",
+      "source": "UN News",
+      "publishedAt": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
-      "title": "Lebanon latest: Israel captures more land in the south",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 14:41:49 +0000"
+      "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167618",
+      "source": "UN News",
+      "publishedAt": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
-      "title": "Voting suspended in parts of Ethiopia over security concerns",
-      "link": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 14:35:36 GMT"
+      "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167616",
+      "source": "UN News",
+      "publishedAt": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
-      "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
-      "link": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 13:27:32 +0000"
-    },
-    {
-      "title": "How the world failed Ryan and Yaman",
-      "link": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 12:58:03 +0000"
-    },
-    {
-      "title": "Ukraine’s forcibly transferred children must not be a bargaining chip",
-      "link": "https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 12:39:41 +0000"
-    },
-    {
-      "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 01 Jun 2026 12:22:53 +0000"
+      "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167615",
+      "source": "UN News",
+      "publishedAt": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
       "title": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
@@ -109,82 +145,46 @@
       "publishedAt": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
-      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 11:53:26 GMT"
-    },
-    {
-      "title": "Watch: Fans break glass door trying to see TV star",
+      "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
       "link": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 01 Jun 2026 11:34:19 GMT"
-    },
-    {
-      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 06:23:59 GMT"
-    },
-    {
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 05:33:18 GMT"
-    },
-    {
-      "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
-      "link": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 01 Jun 2026 01:32:07 GMT"
-    },
-    {
-      "title": "The drivers risking death on Ukraine's most dangerous bus routes",
-      "link": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 23:40:57 GMT"
-    },
-    {
-      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-      "link": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 23:32:04 GMT"
-    },
-    {
-      "title": "Trump seeking edits to US-Iran deal, US media report",
-      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 22:54:20 GMT"
-    },
-    {
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 19:07:47 GMT"
-    },
-    {
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 06:34:04 GMT"
-    },
-    {
-      "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
-      "link": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 31 May 2026 00:11:56 GMT"
-    },
-    {
-      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
-      "link": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 30 May 2026 16:21:28 GMT"
     },
     {
       "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167609",
       "source": "UN News",
       "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167603",
+      "source": "UN News",
+      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "UN honours blue helmets and calls for renewed investment in peace",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167601",
+      "source": "UN News",
+      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167599",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167598",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167597",
+      "source": "UN News",
+      "publishedAt": "Thu, 28 May 2026 12:00:00 +0000"
     }
   ]
 }
