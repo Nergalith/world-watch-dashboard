@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T15:59:08.465Z",
+  "generatedAt": "2026-06-03T23:16:46.346Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -13,8 +13,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Ukraine is active on the public watch board with 10 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167622",
-      "seenDate": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167641",
+      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 10,
@@ -23,6 +23,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167641",
+          "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "UN deplores another wave of Russian attacks across Ukraine",
           "sourceName": "UN News - Global perspective Human stories",
@@ -54,14 +62,6 @@
           "seenDate": "Thu, 28 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        },
-        {
-          "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167586",
-          "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         }
       ]
     },
@@ -74,17 +74,25 @@
       ],
       "category": "Military",
       "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 7 reports across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167628",
-      "seenDate": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167639",
+      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 7,
+      "reportCount": 8,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncertainty in Lebanon, hunger grows in the Sahel",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167639",
+          "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "High"
+        },
         {
           "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
           "sourceName": "UN News - Global perspective Human stories",
@@ -116,14 +124,44 @@
           "seenDate": "Mon, 01 Jun 2026 12:00:00 +0000",
           "category": "Military",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Israel / Gaza: critical conflict watch",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Israel / Gaza is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Gaza’s public servants systematically targeted in Israeli strikes",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+          "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         },
         {
-          "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
+          "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167615",
-          "seenDate": "Mon, 01 Jun 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -158,54 +196,30 @@
       ]
     },
     {
-      "title": "Israel / Gaza: repeated public reporting",
-      "location": "Israel / Gaza",
+      "title": "Red Sea / Yemen: public conflict signal",
+      "location": "Red Sea / Yemen",
       "coords": [
-        34.45,
-        31.45
+        43.33,
+        12.58
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Israel / Gaza is active on the public watch board with 4 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-      "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
+      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 4,
-      "confidence": "Multiple Reports",
+      "reportCount": 1,
+      "confidence": "Single Source",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+          "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+          "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
