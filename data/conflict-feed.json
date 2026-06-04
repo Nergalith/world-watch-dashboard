@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:53:41.071Z",
+  "generatedAt": "2026-06-04T19:35:28.499Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -74,17 +74,25 @@
       ],
       "category": "Military",
       "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167639",
-      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 9 reports across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167645",
+      "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 8,
+      "reportCount": 9,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Lebanon: Another peacekeeper dies in new attack",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167645",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "Critical"
+        },
         {
           "title": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncertainty in Lebanon, hunger grows in the Sahel",
           "sourceName": "UN News - Global perspective Human stories",
@@ -114,14 +122,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167621",
           "seenDate": "Tue, 02 Jun 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167618",
-          "seenDate": "Mon, 01 Jun 2026 12:00:00 +0000",
           "category": "Military",
           "severity": "Critical"
         }
@@ -280,36 +280,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167591",
           "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Haiti: public conflict signal",
-      "location": "Haiti",
-      "coords": [
-        -72.3,
-        18.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-      "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
