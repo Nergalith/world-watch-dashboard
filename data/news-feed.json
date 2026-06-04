@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T23:16:46.658Z",
+  "generatedAt": "2026-06-04T10:53:41.852Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,58 +7,130 @@
   ],
   "items": [
     {
-      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "title": "Israel and Lebanon agree on ceasefire framework in US-led talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 09:50:17 +0000"
+    },
+    {
+      "title": "US House votes to end Trump’s Iran war: Does it matter?",
+      "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 09:49:24 +0000"
+    },
+    {
+      "title": "Did Germany lose its UNSC seat because of support for Israel?",
+      "link": "https://www.aljazeera.com/news/2026/6/4/did-germany-lose-its-unsc-seat-because-of-support-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 09:47:00 +0000"
+    },
+    {
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 09:07:06 GMT"
+    },
+    {
+      "title": "Video: US House of Representatives votes to block further war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 08:38:42 +0000"
+    },
+    {
+      "title": "China bans four New Zealand lawmakers over visit to Taiwan",
+      "link": "https://www.aljazeera.com/news/2026/6/4/china-bans-four-new-zealand-lawmakers-over-visit-to-taiwan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 08:29:29 +0000"
+    },
+    {
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 08:05:33 GMT"
+    },
+    {
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 07:49:33 GMT"
+    },
+    {
+      "title": "Israel and Lebanon agree to conditional ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 07:37:33 +0000"
+    },
+    {
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
       "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 23:01:07 GMT"
+      "publishedAt": "Thu, 04 Jun 2026 07:23:41 GMT"
     },
     {
-      "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
-      "link": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected?traffic_source=rss",
+      "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 22:13:10 +0000"
+      "publishedAt": "Thu, 04 Jun 2026 07:01:19 +0000"
     },
     {
-      "title": "US House passes Iran war powers resolution in rare moment of Trump backlash",
-      "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+      "title": "What the US-Israel war on Iran will not change in the Middle East",
+      "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 22:10:58 +0000"
+      "publishedAt": "Thu, 04 Jun 2026 06:55:11 +0000"
+    },
+    {
+      "title": "Gaza is being offered coercion, not reconstruction",
+      "link": "https://www.aljazeera.com/opinions/2026/6/4/gaza-is-being-offered-coercion-not-reconstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 06:46:59 +0000"
+    },
+    {
+      "title": "Black Hawks and robodogs - how one Mexican city is preparing for the World Cup",
+      "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 05:42:34 GMT"
+    },
+    {
+      "title": "China bans four New Zealand MPs over Taiwan visit",
+      "link": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 05:37:14 GMT"
+    },
+    {
+      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 05:30:28 GMT"
+    },
+    {
+      "title": "Germany admits failure to secure UNSC seat likely due to support for Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/germany-admits-failure-to-secure-unsc-seat-likely-due-to-support-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 05:17:14 +0000"
+    },
+    {
+      "title": "Israeli strikes on residential buildings kill nine in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 04:46:17 +0000"
+    },
+    {
+      "title": "Indonesia’s rupiah falls to record low against US dollar",
+      "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 04 Jun 2026 04:40:06 +0000"
+    },
+    {
+      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+      "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 04 Jun 2026 01:02:24 GMT"
     },
     {
       "title": "Grab what you can while you can: The new reality in the South China Sea",
       "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 03 Jun 2026 22:00:21 GMT"
-    },
-    {
-      "title": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
-      "link": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 21:56:47 +0000"
-    },
-    {
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 21:19:19 GMT"
-    },
-    {
-      "title": "Kuwait labels Iran attack ‘heinous aggression’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 21:16:41 +0000"
-    },
-    {
-      "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 21:15:45 +0000"
-    },
-    {
-      "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
-      "link": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 20:38:25 +0000"
     },
     {
       "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
@@ -71,54 +143,6 @@
       "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 03 Jun 2026 20:05:58 GMT"
-    },
-    {
-      "title": "Israel’s decades-long history of invading Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 19:55:03 +0000"
-    },
-    {
-      "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 19:37:54 +0000"
-    },
-    {
-      "title": "Iran faces a new energy imbalance, but its options are limited",
-      "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 18:19:26 +0000"
-    },
-    {
-      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-      "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 17:54:42 +0000"
-    },
-    {
-      "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-      "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 17:07:43 +0000"
-    },
-    {
-      "title": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-      "link": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 16:20:32 +0000"
-    },
-    {
-      "title": "The Ebola outbreak the world isn’t paying attention to",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/3/aje-onl-tt_glb_ebola26_video-030626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 03 Jun 2026 15:57:28 +0000"
-    },
-    {
-      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 15:18:28 GMT"
     },
     {
       "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
@@ -151,38 +175,14 @@
       "publishedAt": "Wed, 03 Jun 2026 11:34:07 GMT"
     },
     {
-      "title": "She watched a wildfire destroy her town, so she's building fire-proof bunkers",
-      "link": "https://www.bbc.com/news/articles/c78qgdpwx6eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 09:47:19 GMT"
-    },
-    {
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "link": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 05:13:02 GMT"
-    },
-    {
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "link": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 03 Jun 2026 01:13:45 GMT"
-    },
-    {
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 02 Jun 2026 23:33:34 GMT"
-    },
-    {
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 02 Jun 2026 21:51:20 GMT"
-    },
-    {
       "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167628",
+      "source": "UN News",
+      "publishedAt": "Tue, 02 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167625",
       "source": "UN News",
       "publishedAt": "Tue, 02 Jun 2026 12:00:00 +0000"
     }
