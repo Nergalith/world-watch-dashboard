@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:57:09.713Z",
+  "generatedAt": "2026-06-05T17:25:15.670Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -12,17 +12,25 @@
       ],
       "category": "Military",
       "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 9 reports across 1 source. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167645",
-      "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 10 reports across 1 source. Category is currently assessed as Military.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+      "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 9,
+      "reportCount": 10,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Lebanon crisis: needs soar as UN launches new funding appeal",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+          "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
+          "category": "Military",
+          "severity": "High"
+        },
         {
           "title": "Lebanon: Another peacekeeper dies in new attack",
           "sourceName": "UN News - Global perspective Human stories",
@@ -54,14 +62,6 @@
           "seenDate": "Tue, 02 Jun 2026 12:00:00 +0000",
           "category": "Military",
           "severity": "High"
-        },
-        {
-          "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167621",
-          "seenDate": "Tue, 02 Jun 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
         }
       ]
     },
@@ -74,12 +74,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Conflict.",
+      "summary": "Ukraine is active on the public watch board with 7 reports across 1 source. Category is currently assessed as Conflict.",
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167641",
       "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 8,
+      "reportCount": 7,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
@@ -184,6 +184,44 @@
           "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
           "category": "Infrastructure",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Sudan: public conflict signal",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Sudan is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+      "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167591",
+          "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -310,36 +348,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167636",
           "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Sudan: public conflict signal",
-      "location": "Sudan",
-      "coords": [
-        30.2,
-        15.7
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Sudan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167591",
-      "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167591",
-          "seenDate": "Tue, 26 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }

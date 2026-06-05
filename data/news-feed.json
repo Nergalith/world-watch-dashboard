@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:57:09.904Z",
+  "generatedAt": "2026-06-05T17:25:16.003Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,28 +7,124 @@
   ],
   "items": [
     {
-      "title": "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
-      "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss",
+      "title": "Why Washington is reducing visa processing across Africa",
+      "link": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 08:28:09 +0000"
+      "publishedAt": "Fri, 05 Jun 2026 16:10:30 +0000"
     },
     {
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli Knesset member backs settlement push in southern Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/israeli-knesset-member-backs-settlement-push-in-southern-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 15:55:13 +0000"
+    },
+    {
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+      "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 08:03:23 GMT"
+      "publishedAt": "Fri, 05 Jun 2026 15:29:39 GMT"
     },
     {
-      "title": "China’s Xi headed to North Korea in bid to shore up ties",
-      "link": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss",
+      "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
+      "link": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 07:32:01 +0000"
+      "publishedAt": "Fri, 05 Jun 2026 15:28:49 +0000"
     },
     {
-      "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-      "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+      "title": "Barcelona teenager Lamine Yamal wins La Liga Player of the Season award",
+      "link": "https://www.aljazeera.com/sports/2026/6/5/barcelona-teenager-lamine-yamal-wins-la-liga-player-of-season-award?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 06:01:07 +0000"
+      "publishedAt": "Fri, 05 Jun 2026 15:05:25 +0000"
+    },
+    {
+      "title": "WHO, Africa CDC unveil $518m Ebola plan as Uganda death toll rises",
+      "link": "https://www.aljazeera.com/news/2026/6/5/who-africa-cdc-unveil-518m-ebola-plan-as-uganda-death-toll-rises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 14:52:36 +0000"
+    },
+    {
+      "title": "WFP: War on Iran pushing millions towards hunger",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 14:41:54 +0000"
+    },
+    {
+      "title": "Are the US and Iran closer to war or to a deal?",
+      "link": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 14:33:19 +0000"
+    },
+    {
+      "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+      "link": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 14:12:50 +0000"
+    },
+    {
+      "title": "Singer Fally Ipupa's pride at being given major DR Congo honour",
+      "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 13:53:32 GMT"
+    },
+    {
+      "title": "Israel maintains attacks despite US-brokered deal with Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:43:41 +0000"
+    },
+    {
+      "title": "Celtic fans oppose Keane as potential manager after Israel role",
+      "link": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:36:01 +0000"
+    },
+    {
+      "title": "Iran footballers hand passports to US embassy for World Cup visa approval",
+      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:27:46 +0000"
+    },
+    {
+      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
+      "link": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:25:24 +0000"
+    },
+    {
+      "title": "Ukrainian marine drone explodes at Romanian port",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:22:40 +0000"
+    },
+    {
+      "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
+      "link": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:18:18 +0000"
+    },
+    {
+      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears",
+      "link": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:09:44 +0000"
+    },
+    {
+      "title": "Inside Syria’s fight against the Captagon trade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 05 Jun 2026 13:08:38 +0000"
+    },
+    {
+      "title": "Lebanon crisis: needs soar as UN launches new funding appeal",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+      "source": "UN News",
+      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "US journalist pleads guilty to working as China's agent",
+      "link": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 11:20:30 GMT"
     },
     {
       "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
@@ -37,94 +133,22 @@
       "publishedAt": "Fri, 05 Jun 2026 05:17:13 GMT"
     },
     {
+      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT"
+    },
+    {
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT"
     },
     {
-      "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-      "link": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 01:12:02 +0000"
-    },
-    {
-      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Democrat fails to block US measure to deepen Israel military cooperation",
-      "link": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 23:28:13 +0000"
-    },
-    {
-      "title": "Why is the US so invested in Colombia’s election?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 22:05:23 +0000"
-    },
-    {
-      "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 21:40:08 +0000"
-    },
-    {
-      "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 21:07:18 +0000"
-    },
-    {
-      "title": "US defence secretary compares Bolivia protests to government ‘overthrow’",
-      "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 21:01:12 +0000"
-    },
-    {
-      "title": "What is the UK’s ‘two-tier policing’ debate?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 20:59:33 +0000"
-    },
-    {
-      "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
-      "link": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 19:43:14 +0000"
-    },
-    {
-      "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-      "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 18:59:43 +0000"
-    },
-    {
-      "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
-      "link": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 04 Jun 2026 18:52:34 +0000"
-    },
-    {
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 17:50:20 GMT"
-    },
-    {
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 14:46:36 GMT"
-    },
-    {
-      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 12:40:22 GMT"
+      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+      "source": "UN News",
+      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     },
     {
       "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
@@ -151,18 +175,6 @@
       "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     },
     {
-      "title": "Ukraine accused of killing four in occupied Crimea",
-      "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 11:55:20 GMT"
-    },
-    {
-      "title": "Bondi Beach shooting hero charged with assault",
-      "link": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 11:22:18 GMT"
-    },
-    {
       "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
       "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -173,18 +185,6 @@
       "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 04 Jun 2026 05:42:34 GMT"
-    },
-    {
-      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
-      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-      "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 04 Jun 2026 01:02:24 GMT"
     }
   ]
 }
