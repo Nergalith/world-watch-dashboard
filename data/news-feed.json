@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T09:10:20.363Z",
+  "generatedAt": "2026-06-06T14:55:54.534Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,13 +7,103 @@
   ],
   "items": [
     {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 14:46:20 GMT"
+    },
+    {
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 13:38:07 GMT"
+    },
+    {
+      "title": "Lebanon and Israel’s perpetual war machine",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 13:31:49 +0000"
+    },
+    {
+      "title": "Pope Leo praises Spain’s ‘commitment to peace and solidarity’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/pope-leo-praises-spains-commitment-to-peace-and?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 13:18:33 +0000"
+    },
+    {
+      "title": "Groom killed hours before his wedding in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 12:29:42 +0000"
+    },
+    {
+      "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+      "link": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 12:01:32 +0000"
+    },
+    {
+      "title": "Russia says hundreds of Ukrainian drones downed as economic forum ends",
+      "link": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 11:59:15 +0000"
+    },
+    {
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 11:56:25 GMT"
+    },
+    {
+      "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 11:47:45 +0000"
+    },
+    {
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 10:57:28 GMT"
+    },
+    {
+      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 10:52:07 +0000"
+    },
+    {
+      "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 10:07:29 +0000"
+    },
+    {
+      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+      "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 09:18:39 +0000"
+    },
+    {
+      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
+      "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 09:13:55 +0000"
+    },
+    {
+      "title": "Man dies after shark attack in Western Australia, police say",
+      "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 08:20:50 GMT"
+    },
+    {
       "title": "Man dies in Western Australia after shark attack",
       "link": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 06 Jun 2026 08:17:32 +0000"
     },
     {
-      "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+      "title": "Iran fires missiles at Gulf after US targets Iranian radar sites",
       "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 06 Jun 2026 07:51:28 +0000"
@@ -31,36 +121,6 @@
       "publishedAt": "Sat, 06 Jun 2026 07:03:14 +0000"
     },
     {
-      "title": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
-      "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 06:55:52 +0000"
-    },
-    {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 06:16:28 GMT"
-    },
-    {
-      "title": "Iran's football team granted visas to enter US for World Cup, officials say",
-      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 03:14:56 GMT"
-    },
-    {
-      "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 01:13:29 +0000"
-    },
-    {
-      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 00:00:00 +0000"
-    },
-    {
       "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
       "link": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -73,64 +133,10 @@
       "publishedAt": "Fri, 05 Jun 2026 21:48:31 GMT"
     },
     {
-      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 21:02:52 +0000"
-    },
-    {
-      "title": "Iran footballers issued US visas for World Cup, says White House",
-      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 20:49:40 +0000"
-    },
-    {
-      "title": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 20:36:46 +0000"
-    },
-    {
-      "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 20:36:28 +0000"
-    },
-    {
-      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 20:17:35 +0000"
-    },
-    {
-      "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-      "link": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 19:51:23 +0000"
-    },
-    {
-      "title": "Families clear rubble after overnight Israeli strikes in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 19:40:41 +0000"
-    },
-    {
-      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 05 Jun 2026 18:45:16 +0000"
-    },
-    {
       "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
       "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 05 Jun 2026 18:16:15 GMT"
-    },
-    {
-      "title": "Singer Fally Ipupa's pride at being given major DR Congo honour",
-      "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 18:15:42 GMT"
     },
     {
       "title": "Ukraine strikes cargo ships and admits Romania drone blast",
@@ -173,12 +179,6 @@
       "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT"
-    },
-    {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT"
     },
     {
       "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
