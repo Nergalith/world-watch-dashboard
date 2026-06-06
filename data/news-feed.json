@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:55:54.534Z",
+  "generatedAt": "2026-06-06T16:35:47.069Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,10 +7,40 @@
   ],
   "items": [
     {
+      "title": "Activists disrupt German military exhibit over arms sales to Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 15:34:47 +0000"
+    },
+    {
+      "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+      "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 15:30:53 +0000"
+    },
+    {
+      "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+      "link": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 15:27:47 +0000"
+    },
+    {
+      "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 15:09:56 +0000"
+    },
+    {
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
       "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 06 Jun 2026 14:46:20 GMT"
+    },
+    {
+      "title": "Israeli strike kills at least six people during wedding in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 14:38:50 +0000"
     },
     {
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -85,40 +115,16 @@
       "publishedAt": "Sat, 06 Jun 2026 09:18:39 +0000"
     },
     {
-      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-      "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 09:13:55 +0000"
-    },
-    {
       "title": "Man dies after shark attack in Western Australia, police say",
       "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 06 Jun 2026 08:20:50 GMT"
     },
     {
-      "title": "Man dies in Western Australia after shark attack",
-      "link": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 08:17:32 +0000"
-    },
-    {
-      "title": "Iran fires missiles at Gulf after US targets Iranian radar sites",
-      "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 07:51:28 +0000"
-    },
-    {
       "title": "Armenia braces for election as Russia piles pressure on pro-West government",
       "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 06 Jun 2026 07:06:43 GMT"
-    },
-    {
-      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 07:03:14 +0000"
     },
     {
       "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
@@ -151,6 +157,24 @@
       "publishedAt": "Fri, 05 Jun 2026 12:46:00 GMT"
     },
     {
+      "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167648",
+      "source": "UN News",
+      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+      "source": "UN News",
+      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167665",
+      "source": "UN News",
+      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
       "title": "Haiti: Harrowing needs must be met with long-term engagement",
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167661",
       "source": "UN News",
@@ -161,30 +185,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News",
       "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "title": "US journalist pleads guilty to working as China's agent",
-      "link": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 11:20:30 GMT"
-    },
-    {
-      "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-      "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 05:17:13 GMT"
-    },
-    {
-      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT"
-    },
-    {
-      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
-      "source": "UN News",
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     }
   ]
 }
