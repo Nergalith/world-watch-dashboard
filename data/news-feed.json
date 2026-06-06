@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-06-06T16:35:47.069Z",
+  "generatedAt": "2026-06-06T18:41:34.477Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Why are Armenia’s elections being so keenly watched abroad?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 18:19:02 +0000"
+    },
+    {
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 17:14:03 GMT"
+    },
+    {
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 17:12:39 GMT"
+    },
+    {
+      "title": "100 days into the war on Iran, Trump fails to rally US support",
+      "link": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 06 Jun 2026 17:04:38 +0000"
+    },
     {
       "title": "Activists disrupt German military exhibit over arms sales to Israel",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
@@ -37,16 +61,10 @@
       "publishedAt": "Sat, 06 Jun 2026 14:46:20 GMT"
     },
     {
-      "title": "Israeli strike kills at least six people during wedding in Gaza",
+      "title": "Israeli attack on Gaza City tent camp kills at least six",
       "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 06 Jun 2026 14:38:50 +0000"
-    },
-    {
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 13:38:07 GMT"
     },
     {
       "title": "Lebanon and Israel’s perpetual war machine",
@@ -89,30 +107,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 06 Jun 2026 11:47:45 +0000"
-    },
-    {
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 10:57:28 GMT"
-    },
-    {
-      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-      "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 10:52:07 +0000"
-    },
-    {
-      "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 10:07:29 +0000"
-    },
-    {
-      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-      "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 09:18:39 +0000"
     },
     {
       "title": "Man dies after shark attack in Western Australia, police say",
@@ -185,6 +179,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News",
       "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "US journalist pleads guilty to working as China's agent",
+      "link": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 05 Jun 2026 11:20:30 GMT"
     }
   ]
 }
