@@ -1,11 +1,89 @@
 {
-  "generatedAt": "2026-06-07T14:22:25.173Z",
+  "generatedAt": "2026-06-07T16:46:13.291Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 16:42:18 GMT"
+    },
+    {
+      "title": "Al Jazeera reports from Beirut after Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 16:04:21 +0000"
+    },
+    {
+      "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+      "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 16:03:53 +0000"
+    },
+    {
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 16:03:38 GMT"
+    },
+    {
+      "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
+      "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 15:44:21 +0000"
+    },
+    {
+      "title": "One dead, five injured after shooting in Israel",
+      "link": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 15:40:49 GMT"
+    },
+    {
+      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
+      "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 15:20:11 +0000"
+    },
+    {
+      "title": "Iran’s World Cup team arrives in Mexico as US visa row continues",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 15:16:16 +0000"
+    },
+    {
+      "title": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 14:58:17 +0000"
+    },
+    {
+      "title": "The Taiz transplant team looking to begin a medical revolution in Yemen",
+      "link": "https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 14:56:35 +0000"
+    },
+    {
+      "title": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
+      "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 14:31:33 +0000"
+    },
+    {
+      "title": "Fifty-two hours on an Israeli prison ship",
+      "link": "https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 14:14:50 +0000"
+    },
+    {
+      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
+      "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 14:14:29 +0000"
+    },
     {
       "title": "Israel strikes southern suburbs of Lebanon’s capital Beirut",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israel-strikes-southern-suburbs-of-lebanons-capital-beirut?traffic_source=rss",
@@ -43,70 +121,16 @@
       "publishedAt": "Sun, 07 Jun 2026 13:01:40 +0000"
     },
     {
-      "title": "Russian drone strike damages site near Chornobyl nuclear plant",
+      "title": "Russian drone attack damages site near Chornobyl nuclear plant",
       "link": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 12:47:23 +0000"
-    },
-    {
-      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 07 Jun 2026 12:09:57 GMT"
-    },
-    {
-      "title": "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
-      "link": "https://www.aljazeera.com/news/2026/6/7/armenians-vote-in-election-testing-move-towards-west-amid-russian-backlash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 11:42:01 +0000"
-    },
-    {
-      "title": "One killed, five wounded in shooting attack in Israel: Medics",
-      "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 11:14:34 +0000"
-    },
-    {
-      "title": "1 killed and 5 injured in Israel shootings",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 10:53:51 +0000"
     },
     {
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 07 Jun 2026 10:35:25 GMT"
-    },
-    {
-      "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
-      "link": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 10:17:59 +0000"
-    },
-    {
-      "title": "How have countries around the world responded to the US-Israel war on Iran?",
-      "link": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 09:35:31 +0000"
-    },
-    {
-      "title": "Hundred days of the US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 09:34:16 +0000"
-    },
-    {
-      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 09:19:58 +0000"
-    },
-    {
-      "title": "The accomplishments of 100 days of war on Iran are undeniable",
-      "link": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 08:55:20 +0000"
     },
     {
       "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
@@ -119,18 +143,6 @@
       "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 07 Jun 2026 04:45:51 GMT"
-    },
-    {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 21:23:03 GMT"
-    },
-    {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 14:46:20 GMT"
     },
     {
       "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
@@ -173,18 +185,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News",
       "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
-      "source": "UN News",
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
-      "source": "UN News",
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     }
   ]
 }
