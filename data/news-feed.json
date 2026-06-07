@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:10:38.709Z",
+  "generatedAt": "2026-06-07T12:03:01.039Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,13 +7,37 @@
   ],
   "items": [
     {
+      "title": "One killed, five wounded in shooting attack in Israel: Medics",
+      "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 11:14:34 +0000"
+    },
+    {
+      "title": "1 killed and 5 injured in Israel shootings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 10:53:51 +0000"
+    },
+    {
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 10:35:25 GMT"
+    },
+    {
+      "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+      "link": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 10:17:59 +0000"
+    },
+    {
       "title": "How have countries around the world responded to the US-Israel war on Iran?",
       "link": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 09:35:31 +0000"
     },
     {
-      "title": "100 days of the US–Israel war on Iran",
+      "title": "Hundred days of the US-Israel war on Iran",
       "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 09:34:16 +0000"
@@ -35,12 +59,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 08:52:20 +0000"
-    },
-    {
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 07 Jun 2026 08:46:39 GMT"
     },
     {
       "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
@@ -79,7 +97,7 @@
       "publishedAt": "Sun, 07 Jun 2026 07:11:18 GMT"
     },
     {
-      "title": "By the numbers: 100 days of the US-Israel war on Iran",
+      "title": "Iran war 100 days: How the conflict impacted Iran and the world",
       "link": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 05:30:52 +0000"
@@ -103,12 +121,6 @@
       "publishedAt": "Sun, 07 Jun 2026 04:30:44 +0000"
     },
     {
-      "title": "Iran war live: US forces shoot down Iranian drones in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 00:00:00 +0000"
-    },
-    {
       "title": "Iran says staff blocked from entering US after players given World Cup visas",
       "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -119,12 +131,6 @@
       "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 06 Jun 2026 21:23:03 GMT"
-    },
-    {
-      "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-      "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 21:10:36 +0000"
     },
     {
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
@@ -177,12 +183,6 @@
     {
       "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
-      "source": "UN News",
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
       "source": "UN News",
       "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     }
