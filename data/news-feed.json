@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T22:31:15.060Z",
+  "generatedAt": "2026-06-07T01:33:37.241Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,22 +7,28 @@
   ],
   "items": [
     {
+      "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 06 Jun 2026 23:52:07 GMT"
+    },
+    {
       "title": "Iran says staff blocked from entering US after players given World Cup visas",
       "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 21:31:16 GMT"
+      "publishedAt": "Sat, 06 Jun 2026 22:38:36 GMT"
     },
     {
       "title": "Lebanese general among three soldiers killed in Israeli attack on car",
       "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 06 Jun 2026 21:23:03 GMT"
-    },
-    {
-      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 06 Jun 2026 21:14:00 GMT"
     },
     {
       "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
@@ -125,12 +131,6 @@
       "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 06 Jun 2026 13:31:49 +0000"
-    },
-    {
-      "title": "Pope Leo praises Spain’s ‘commitment to peace and solidarity’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/pope-leo-praises-spains-commitment-to-peace-and?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 06 Jun 2026 13:18:33 +0000"
     },
     {
       "title": "Armenia braces for election as Russia piles pressure on pro-West government",
