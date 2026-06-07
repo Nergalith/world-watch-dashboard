@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:46:13.291Z",
+  "generatedAt": "2026-06-07T18:41:28.190Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -7,10 +7,46 @@
   ],
   "items": [
     {
+      "title": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 17:28:35 GMT"
+    },
+    {
+      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
+      "link": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 17:22:06 GMT"
+    },
+    {
+      "title": "Bolivia’s legislature passes law allowing use of troops against protesters",
+      "link": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 17:13:18 +0000"
+    },
+    {
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 07 Jun 2026 17:11:54 GMT"
+    },
+    {
+      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+      "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 16:49:44 +0000"
+    },
+    {
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 07 Jun 2026 16:42:18 GMT"
+    },
+    {
+      "title": "Police say two suspects have been shot and killed in Israel gun attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 07 Jun 2026 16:17:59 +0000"
     },
     {
       "title": "Al Jazeera reports from Beirut after Israeli attack",
@@ -23,12 +59,6 @@
       "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 16:03:53 +0000"
-    },
-    {
-      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 07 Jun 2026 16:03:38 GMT"
     },
     {
       "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
@@ -67,7 +97,7 @@
       "publishedAt": "Sun, 07 Jun 2026 14:56:35 +0000"
     },
     {
-      "title": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
+      "title": "Israel kills 13 in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
       "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 07 Jun 2026 14:31:33 +0000"
@@ -97,36 +127,6 @@
       "publishedAt": "Sun, 07 Jun 2026 13:47:19 +0000"
     },
     {
-      "title": "‘What ceasefire?’ Palestinians inspect destruction after Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/what-ceasefire-palestinians-inspect-destruction-after-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 13:26:23 +0000"
-    },
-    {
-      "title": "100 days into Iran war, Americans face higher prices",
-      "link": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 13:25:04 +0000"
-    },
-    {
-      "title": "Iran's World Cup team lands in Mexico amid US visa row",
-      "link": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 07 Jun 2026 13:24:50 GMT"
-    },
-    {
-      "title": "Ben-Gvir praises police on killing shooter in central Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/ben-gvir-praises-police-on-killing-shooter-in-central-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 13:01:40 +0000"
-    },
-    {
-      "title": "Russian drone attack damages site near Chornobyl nuclear plant",
-      "link": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 07 Jun 2026 12:47:23 +0000"
-    },
-    {
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -137,18 +137,6 @@
       "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 07 Jun 2026 07:11:18 GMT"
-    },
-    {
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 07 Jun 2026 04:45:51 GMT"
-    },
-    {
-      "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
-      "link": "https://www.bbc.com/news/articles/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 05 Jun 2026 21:48:31 GMT"
     },
     {
       "title": "Is there an AI stock market bubble, and is it ready to burst?",
@@ -185,6 +173,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News",
       "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+      "source": "UN News",
+      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+      "source": "UN News",
+      "publishedAt": "Thu, 04 Jun 2026 12:00:00 +0000"
     }
   ]
 }
