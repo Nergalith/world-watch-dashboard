@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:02:27.104Z",
+  "generatedAt": "2026-06-08T23:39:37.143Z",
   "statusLabel": "Conflict feed",
   "source": "UN News Peace and Security",
   "events": [
@@ -12,12 +12,12 @@
       ],
       "category": "Military",
       "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 10 reports across 1 source. Category is currently assessed as Military.",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 9 reports across 1 source. Category is currently assessed as Military.",
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167659",
       "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 10,
+      "reportCount": 9,
       "confidence": "Multiple Reports",
       "sources": [
         "UN News - Global perspective Human stories"
@@ -75,8 +75,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Ukraine is active on the public watch board with 5 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167641",
-      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+      "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 5,
@@ -85,6 +85,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+          "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
           "sourceName": "UN News - Global perspective Human stories",
@@ -113,14 +121,6 @@
           "title": "UN warns Ukraine war risks spiralling ‘out of control’",
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-          "seenDate": "Thu, 28 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167597",
           "seenDate": "Thu, 28 May 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
@@ -162,6 +162,44 @@
           "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Pakistan / Afghanistan: public conflict signal",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Pakistan / Afghanistan is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+      "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+          "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -296,36 +334,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167661",
           "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Pakistan / Afghanistan: public conflict signal",
-      "location": "Pakistan / Afghanistan",
-      "coords": [
-        69.2,
-        33.8
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167653",
-      "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167653",
-          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
