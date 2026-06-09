@@ -1,22 +1,5 @@
 {
-  "generatedAt": "2026-05-26T12:56:50.692Z",
-  "sources": [
-    "Al Jazeera",
-    "BBC",
-    "UN News"
-  ],
-  "items": [
-    {
-      "title": "Congolese protesters accuse EU of complicity in DRC violence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/congolese-protesters-accuse-eu-of-complicity-in-drc-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 12:39:31 +0000"
-    },
-    {
-      "title": "Israeli air attacks kill seven Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 26 May 2026 12:34:20 +0000"
-    }
-  ]
+  "generatedAt": "2026-06-09T16:13:50.063Z",
+  "sources": [],
+  "items": []
 }
