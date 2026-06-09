@@ -1,1 +1,80 @@
-<!doctype html> ... full from read
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sources | Nergalith Conflict Tracking</title>
+    <link rel="stylesheet" href="styles.css?v=20260526-opsdesk" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="index.html" aria-label="Nergalith World Conflict Tracking home">
+          <img src="assets/nergalith-logo-glow.png" alt="" />
+          <span>
+            <strong>Nergalith</strong>
+            <small>World Conflict Tracking</small>
+          </span>
+        </a>
+        <nav class="nav" aria-label="World Conflict Tracking pages">
+          <a href="index.html">Map</a>
+          <a href="events.html">Events</a>
+          <a class="active" href="sources.html">Sources</a>
+        </nav>
+        <div class="status-pill">Public Conflict OSINT</div>
+      </header>
+
+      <main class="page-layout">
+        <section class="page-head">
+          <p class="eyebrow">How The Map Stays Current</p>
+          <h1>Sources And Notes</h1>
+          <p>World Conflict Tracking combines public reporting signals, open RSS headlines, and natural event data. Items remain linked to their publishers so readers can verify the original reporting.</p>
+        </section>
+
+        <section class="source-grid">
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>Multi-Source Conflict Feed</h2>
+            <p>A scheduled GitHub job pulls recent public signals from GDELT, UN News Peace and Security, and International Crisis Group.</p>
+            <div class="source-stack">
+              <a class="source-link" href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT</a>
+              <a class="source-link" href="https://news.un.org/en/news/topic/peace-and-security" target="_blank" rel="noopener">UN News</a>
+              <a class="source-link" href="https://www.crisisgroup.org/" target="_blank" rel="noopener">Crisis Group</a>
+            </div>
+          </article>
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>Open News Headlines</h2>
+            <p>The live news deck refreshes hourly from official RSS feeds published by Al Jazeera, BBC World, and UN News Peace and Security.</p>
+            <div class="source-stack">
+              <a class="source-link" href="https://www.aljazeera.com/" target="_blank" rel="noopener">Al Jazeera</a>
+              <a class="source-link" href="https://www.bbc.com/news/world" target="_blank" rel="noopener">BBC World</a>
+              <a class="source-link" href="https://news.un.org/" target="_blank" rel="noopener">UN News</a>
+            </div>
+          </article>
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>USGS Earthquakes</h2>
+            <p>Earthquake markers use the U.S. Geological Survey GeoJSON feed for magnitude 4.5+ events recorded in the past seven days.</p>
+            <a class="source-link" href="https://earthquake.usgs.gov/earthquakes/feed/" target="_blank" rel="noopener">USGS Feed</a>
+          </article>
+          <article class="source-card">
+            <span class="tag live">Live</span>
+            <h2>Curated Conflict Fallback</h2>
+            <p>When public feeds fail or rate-limit, the map falls back to globally relevant watch areas instead of going empty.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag planned">Planned</span>
+            <h2>Additional Layers</h2>
+            <p>Future layers may include sanctions, advisories, waterways, outages, and verified regional monitoring feeds with clear attribution.</p>
+          </article>
+          <article class="source-card">
+            <span class="tag note">Note</span>
+            <h2>Public Data Disclaimer</h2>
+            <p>Open-source feeds can be delayed, duplicated, incomplete, or noisy. World Conflict Tracking is situational awareness, not emergency guidance.</p>
+          </article>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

@@ -235,7 +235,6 @@ async function loadNewsFeed() {
   } catch {
     state.news = [];
   }
-  renderNewsTabs();
   renderNews();
   updateTicker();
 }
@@ -259,16 +258,6 @@ function renderNews() {
       <span class="news-title">${escapeHtml(item.title)}</span>
       <span class="news-time">${item.publishedAt ? escapeHtml(formatUtc(item.publishedAt)) : ""}</span>
     </a>
-  `).join("");
-}
-
-function renderNewsTabs() {
-  const container = $("#news-tabs");
-  if (!container) return;
-  const unique = Array.from(new Set(state.news.map(i => i.source).filter(Boolean)));
-  const sources = ["All", ...unique];
-  container.innerHTML = sources.map(src => `
-    <button class="${src === state.activeNewsSource ? "active" : ""}" data-source="${escapeHtml(src)}" type="button">${escapeHtml(src)}</button>
   `).join("");
 }
 
@@ -528,7 +517,9 @@ function wireControls() {
     const newsTab = event.target.closest("#news-tabs [data-source]");
     if (newsTab) {
       state.activeNewsSource = newsTab.dataset.source;
-      renderNewsTabs();
+      $$("#news-tabs button").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.source === state.activeNewsSource);
+      });
       renderNews();
     }
 

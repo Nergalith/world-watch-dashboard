@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260609-expanded-sources" />
+    <link rel="stylesheet" href="styles.css?v=20260526-opsdesk" />
     <script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
   </head>
   <body>
@@ -108,8 +108,10 @@
         <div class="news-strip-head">
           <span class="panel-title">Live News Feed</span>
           <div class="news-tabs" id="news-tabs">
-            <!-- Populated dynamically from loaded news sources (see app.js) -->
             <button class="active" data-source="All" type="button">All</button>
+            <button data-source="BBC" type="button">BBC</button>
+            <button data-source="Al Jazeera" type="button">Al Jazeera</button>
+            <button data-source="UN News" type="button">UN News</button>
           </div>
         </div>
         <div id="news-feed" class="news-grid">
@@ -118,6 +120,6 @@
       </section>
 
     </div>
-    <script src="app.js?v=20260609-expanded-sources"></script>
+    <script src="app.js?v=20260526-opsdesk"></script>
   </body>
 </html>
