@@ -3,110 +3,136 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>World Conflict Tracking | Nergalith</title>
-    <meta name="description" content="Nergalith World Conflict Tracking — live public conflict signals, earthquake alerts, and global news. Free, no account required." />
+    <title>Nergalith World Watch | Conflict &amp; Geopolitical OSINT</title>
+    <meta name="description" content="Nergalith World Watch — public OSINT aggregator for active conflicts, uprisings, military hotspots, and critical geopolitical events. Free, no account required. Aggregates open sources only." />
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260526-opsdesk" />
+    <link rel="stylesheet" href="styles.css?v=202606-tactical" />
     <script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
   </head>
   <body>
     <div class="site-shell dashboard-shell">
 
       <header class="topbar">
-        <a class="brand" href="index.html" aria-label="Nergalith World Conflict Tracking home">
+        <a class="brand" href="index.html" aria-label="Nergalith World Watch home">
           <img src="assets/nergalith-logo-glow.png" alt="" />
           <span>
             <strong>Nergalith</strong>
-            <small>World Conflict Tracking</small>
+            <small>World Watch</small>
           </span>
         </a>
-        <nav class="nav" aria-label="World Conflict Tracking pages">
+        <a class="home-link" href="https://nergalith.com" target="_blank" rel="noopener" aria-label="Back to main Nergalith site">← Home</a>
+        <nav class="nav" aria-label="Nergalith World Watch pages">
           <a class="active" href="index.html">Map</a>
           <a href="events.html">Events</a>
           <a href="sources.html">Sources</a>
         </nav>
         <div class="topbar-right">
           <div id="utc-clock" class="utc-clock">---- -- -- --:--:-- UTC</div>
-          <div class="status-pill" id="feed-status">Loading conflict signals</div>
+          <div class="status-pill" id="feed-status">Loading OSINT feed</div>
         </div>
       </header>
 
+      <!-- Prominent OSINT disclaimer (exact per requirements) -->
+      <div class="osint-disclaimer" role="note" aria-label="Public OSINT disclaimer">
+        <strong>PUBLIC OSINT AGGREGATOR</strong> — This dashboard aggregates publicly available open-source intelligence (OSINT) from news outlets, public feeds, and official sources. 
+        <span>We do not generate or claim proprietary intelligence — we simply collect and present it in one easy-to-view location.</span>
+        <span class="disclaimer-meta">All data is sourced from open/public channels. Verify with originals. Not real-time classified intelligence.</span>
+      </div>
+
       <div class="intel-ticker">
         <span class="ticker-live">● LIVE</span>
-        <span id="ticker-signals">-- SIGNALS</span>
+        <span id="ticker-signals">-- HOTSPOTS</span>
         <span class="ticker-sep">|</span>
-        <span id="ticker-quakes">-- QUAKES</span>
+        <span id="ticker-critical">-- CRITICAL</span>
         <span class="ticker-sep">|</span>
-        <span id="ticker-news">-- NEWS ITEMS</span>
+        <span id="ticker-news">-- NEWS</span>
         <span class="ticker-sep">|</span>
-        <span class="ticker-label">PUBLIC OSINT · FREE · NO ACCOUNT REQUIRED</span>
+        <span class="ticker-label">PUBLIC OSINT · CONFLICTS · UPRISINGS · MILITARY · FREE · NO ACCOUNT</span>
+        <span class="last-updated" id="last-updated">Updated: --</span>
       </div>
 
       <main class="operations-layout">
+        <!-- Left: Conflict-focused layers + quick status -->
         <aside class="left-stack">
           <section class="panel monitor-panel">
             <div class="panel-head">
-              <span>Monitor</span>
-              <span class="tag live">Live</span>
+              <span>Threat Layers</span>
+              <span class="tag live">Live OSINT</span>
             </div>
-            <div class="monitor-label">Layers</div>
+            <div class="monitor-label">Filter Map</div>
             <div class="layer-bank">
-              <button class="layer-toggle active" data-layer="events" type="button">Conflict Signals</button>
-              <button class="layer-toggle" data-layer="earthquakes" type="button">Earthquakes M4.5+</button>
+              <button class="layer-toggle active" data-layer="all" type="button">All Conflict Signals</button>
+              <button class="layer-toggle" data-layer="conflicts" type="button">Active Conflicts</button>
+              <button class="layer-toggle" data-layer="uprisings" type="button">Uprisings / Protests</button>
+              <button class="layer-toggle" data-layer="military" type="button">Military Hotspots</button>
+              <button class="layer-toggle" data-layer="critical" type="button">Critical Areas Only</button>
             </div>
             <div class="source-status">
-              <div><span class="status-dot active"></span> Conflict reporting</div>
-              <div><span class="status-dot active"></span> USGS natural events</div>
-              <div><span class="status-dot standby"></span> Additional layers</div>
+              <div><span class="status-dot active"></span> GDELT + UN + Crisis Group</div>
+              <div><span class="status-dot active"></span> Curated regional watch</div>
+              <div><span class="status-dot standby"></span> Public RSS news</div>
             </div>
           </section>
 
-          <section class="panel quake-panel">
-            <div class="panel-head">
-              <span>Natural Events</span>
-              <span id="quake-badge" class="badge-cyan">M4.5+ / 7 days</span>
-            </div>
-            <div id="quake-list" class="compact-list panel-scroll"></div>
-          </section>
-        </aside>
-
-        <section class="map-card">
-          <div class="map-label">
-            <span>Global Situation</span>
-            <strong>Operational Map</strong>
-          </div>
-          <div id="world-map" aria-label="World Conflict Tracking interactive map"></div>
-          <aside class="selected-panel" id="selected-panel">
-            <span class="tag">Public Feed</span>
-            <h2>Select a marker</h2>
-            <p>Click any marker to read the signal brief and open the public source when available.</p>
-          </aside>
-        </section>
-
-        <aside class="side-stack">
+          <!-- Compact recent signals (conflict only) -->
           <section class="panel">
             <div class="panel-head">
-              <span>Situation Snapshot</span>
-              <span>Auto</span>
-            </div>
-            <div id="signal-stats" class="stat-grid"></div>
-          </section>
-
-          <section class="panel">
-            <div class="panel-head">
-              <span>Conflict Feed</span>
-              <a href="events.html">All →</a>
+              <span>Recent Signals</span>
+              <a href="events.html">Full Feed →</a>
             </div>
             <div id="event-list" class="compact-list panel-scroll"></div>
           </section>
         </aside>
+
+        <!-- Center: Map -->
+        <section class="map-card">
+          <div class="map-label">
+            <span>GEOPOLITICAL WATCH</span>
+            <strong>Operational Conflict Map</strong>
+          </div>
+          <div id="world-map" aria-label="Nergalith World Watch interactive conflict map"></div>
+          <!-- Selected detail (enhanced; also powered by map popups) -->
+          <aside class="selected-panel" id="selected-panel">
+            <span class="tag">OSINT Signal</span>
+            <h2>Select a marker</h2>
+            <p>Click or tap any marker for summary, sources, and direct links to public reporting.</p>
+          </aside>
+        </section>
+
+        <!-- Right: Enhanced tactical sidebar -->
+        <aside class="side-stack">
+          <section class="panel" id="situation-panel">
+            <div class="panel-head">
+              <span>Situation Snapshot</span>
+              <span class="tag">Live</span>
+            </div>
+            <div id="situation-snapshot" class="snapshot-grid"></div>
+          </section>
+
+          <section class="panel" id="top-conflicts-panel">
+            <div class="panel-head">
+              <span>Top Conflicts</span>
+              <span class="tag">Ranked</span>
+            </div>
+            <div id="top-conflicts" class="top-list panel-scroll"></div>
+          </section>
+
+          <section class="panel" id="critical-alerts-panel">
+            <div class="panel-head">
+              <span>Critical Alerts</span>
+              <span class="tag alert">Priority</span>
+            </div>
+            <div id="critical-alerts" class="alert-list panel-scroll"></div>
+          </section>
+        </aside>
       </main>
 
+      <!-- Stronger Live News / Public Feed -->
       <section class="news-strip lower-deck">
         <div class="news-strip-head">
-          <span class="panel-title">Live News Feed</span>
+          <span class="panel-title">Live Public News Feed</span>
           <div class="news-tabs" id="news-tabs">
             <button class="active" data-source="All" type="button">All</button>
             <button data-source="BBC" type="button">BBC</button>
@@ -115,11 +141,11 @@
           </div>
         </div>
         <div id="news-feed" class="news-grid">
-          <div class="news-loading">Loading news feeds…</div>
+          <div class="news-loading">Loading public news…</div>
         </div>
       </section>
 
     </div>
-    <script src="app.js?v=20260526-opsdesk"></script>
+    <script src="app.js?v=202606-tactical"></script>
   </body>
 </html>

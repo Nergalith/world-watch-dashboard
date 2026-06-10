@@ -3,32 +3,41 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Conflict Feed | Nergalith</title>
-    <link rel="stylesheet" href="styles.css?v=20260526-opsdesk" />
+    <title>Events | Nergalith World Watch — Conflict &amp; Geopolitical OSINT Feed</title>
+    <meta name="description" content="Nergalith World Watch Events — full public OSINT feed for active conflicts, uprisings, military hotspots. Aggregates open sources only. Free, no account required." />
+    <link rel="stylesheet" href="styles.css?v=202606-tactical" />
   </head>
   <body>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="index.html" aria-label="Nergalith World Conflict Tracking home">
+        <a class="brand" href="index.html" aria-label="Nergalith World Watch home">
           <img src="assets/nergalith-logo-glow.png" alt="" />
           <span>
             <strong>Nergalith</strong>
-            <small>World Conflict Tracking</small>
+            <small>World Watch</small>
           </span>
         </a>
-        <nav class="nav" aria-label="World Conflict Tracking pages">
+        <a class="home-link" href="https://nergalith.com" target="_blank" rel="noopener" aria-label="Back to main Nergalith site">← Home</a>
+        <nav class="nav" aria-label="Nergalith World Watch pages">
           <a href="index.html">Map</a>
           <a class="active" href="events.html">Events</a>
           <a href="sources.html">Sources</a>
         </nav>
-        <div class="status-pill" id="feed-status">Loading conflict signals</div>
+        <div class="status-pill" id="feed-status">Loading OSINT feed</div>
       </header>
+
+      <!-- Prominent OSINT disclaimer (exact same as index.html) -->
+      <div class="osint-disclaimer" role="note" aria-label="Public OSINT disclaimer">
+        <strong>PUBLIC OSINT AGGREGATOR</strong> — This dashboard aggregates publicly available open-source intelligence (OSINT) from news outlets, public feeds, and official sources. 
+        <span>We do not generate or claim proprietary intelligence — we simply collect and present it in one easy-to-view location.</span>
+        <span class="disclaimer-meta">All data is sourced from open/public channels. Verify with originals. Not real-time classified intelligence.</span>
+      </div>
 
       <main class="page-layout">
         <section class="page-head">
-          <p class="eyebrow">Public Conflict Signals</p>
-          <h1>Conflict Feed</h1>
-          <p>Current open-source conflict signals grouped for quick situational awareness. These are indicators for scanning the world, not finished intelligence products.</p>
+          <p class="eyebrow">PUBLIC OSINT — CONFLICTS, UPRISINGS, MILITARY</p>
+          <h1>Conflict &amp; Geopolitical Feed</h1>
+          <p>Live aggregated open-source signals focused on active conflicts, uprisings, and military hotspots. This is a public information aggregator only — verify directly with the linked sources. Not proprietary or classified intelligence.</p>
         </section>
 
         <section class="filter-row" id="event-filters"></section>
@@ -36,6 +45,6 @@
       </main>
     </div>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=202606-tactical"></script>
   </body>
 </html>

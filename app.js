@@ -62,15 +62,13 @@ const fallbackEvents = [
 // ─── Application state ─────────────────────────────────────────────────────────
 
 const state = {
-  events: fallbackEvents,
-  earthquakes: [],
+  events: fallbackEvents.map(normalizeEvent),
+  earthquakes: [], // kept for compatibility but deprioritized
   news: [],
   activeCategory: "All",
   activeNewsSource: "All",
-  layers: {
-    events: true,
-    earthquakes: false
-  },
+  activeLayer: "all",           // new tactical layers
+  layers: { events: true },     // legacy key kept for minimal breakage
   feedMeta: {
     generatedAt: "",
     source: ""
@@ -112,6 +110,45 @@ function formatUtc(value = "") {
   }).format(new Date(time)).replace(",", "") + " UTC";
 }
 
+// ─── Validation, normalization, ranking (fixes multiple prior review issues) ────
+
+function isValidCoord(coords) {
+  if (!Array.isArray(coords) || coords.length !== 2) return false;
+  const [lng, lat] = coords.map(Number);
+  return Number.isFinite(lng) && Number.isFinite(lat) &&
+         lng >= -180 && lng <= 180 && lat >= -90 && lat <= 90;
+}
+
+function severityRank(sev) {
+  const s = String(sev || "").toLowerCase();
+  if (s === "critical") return 3;
+  if (s === "high") return 2;
+  return (s === "medium" || s === "moderate") ? 1 : 0;
+}
+
+function normalizeEvent(e) {
+  // Make fallbacks and live feed have identical usable shape for stats, lists, popups
+  const sourceCount = Number(e.sourceCount || (e.sourceName ? 1 : 0)) || 1;
+  const reportCount = Number(e.reportCount || (Array.isArray(e.reports) ? e.reports.length : 1)) || 1;
+  const confidence = e.confidence || (sourceCount > 1 ? "Corroborated" : "Single Source");
+  return {
+    title: e.title || "Untitled signal",
+    location: e.location || "Unknown",
+    coords: Array.isArray(e.coords) ? e.coords : null,
+    category: e.category || "Conflict",
+    severity: e.severity || "High",
+    summary: e.summary || "",
+    sourceUrl: e.sourceUrl || "",
+    seenDate: e.seenDate || "",
+    sourceName: e.sourceName || "",
+    sourceCount,
+    reportCount,
+    confidence,
+    sources: Array.isArray(e.sources) ? e.sources : (e.sourceName ? [e.sourceName] : []),
+    reports: Array.isArray(e.reports) ? e.reports : []
+  };
+}
+
 // ─── UTC Live Clock ─────────────────────────────────────────────────────────────
 
 function startClock() {
@@ -138,14 +175,19 @@ function updateTicker() {
   if (news)    news.textContent    = `${state.news.length} NEWS ITEMS`;
 }
 
-// ─── Conflict feed ─────────────────────────────────────────────────────────────
+// ─── Conflict-focused feed loading + auto refresh ──────────────────────────────
 
-async function loadLiveEvents() {
+let refreshTimer = null;
+
+async function loadLiveEvents(silent = false) {
   try {
     const res = await fetch(`data/conflict-feed.json?v=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Feed ${res.status}`);
     const data = await res.json();
-    const signals = Array.isArray(data.events) ? data.events.filter(e => Array.isArray(e.coords)) : [];
+    const raw = Array.isArray(data.events) ? data.events : [];
+    // Strict validation + normalize (fixes coord bugs + fallback shape)
+    const signals = raw.filter(e => isValidCoord(e.coords)).map(normalizeEvent);
+
     if (signals.length) {
       state.events = signals;
       state.feedMeta = {
@@ -153,76 +195,55 @@ async function loadLiveEvents() {
         source: data.source || ""
       };
       const updated = data.generatedAt ? formatUtc(data.generatedAt) : "recently";
-      setStatus(`${data.statusLabel || "Conflict feed"} updated ${updated}`);
+      setStatus(`${data.statusLabel || "OSINT feed"} • ${updated}`);
+      updateLastUpdated(data.generatedAt);
+    } else {
+      setStatus(data.statusLabel || "Using curated conflict watch areas");
     }
-  } catch {
-    setStatus("Curated conflict feed active");
+  } catch (err) {
+    if (!silent) setStatus("Curated conflict watch active");
+    // Normalize whatever is currently in state (fallbacks)
+    state.events = (state.events || []).map(normalizeEvent);
   }
-}
 
-// ─── USGS Earthquakes (free, no key required) ──────────────────────────────────
-
-async function loadEarthquakes() {
-  try {
-    const res = await fetch(
-      "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"
-    );
-    if (!res.ok) throw new Error("USGS unavailable");
-    const data = await res.json();
-    state.earthquakes = (data.features || [])
-      .filter(f => f.geometry && Array.isArray(f.geometry.coordinates))
-      .map(f => ({
-        title:     f.properties.place || "Unknown location",
-        coords:    [f.geometry.coordinates[0], f.geometry.coordinates[1]],
-        magnitude: f.properties.mag,
-        depth:     Math.round(f.geometry.coordinates[2]),
-        time:      new Date(f.properties.time).toISOString(),
-        url:       f.properties.url,
-        category:  "Earthquake",
-        severity:  f.properties.mag >= 6.5 ? "Critical"
-                 : f.properties.mag >= 5.5 ? "High"
-                 : "Medium"
-      }))
-      .sort((a, b) => b.magnitude - a.magnitude)
-      .slice(0, 60);
-
-    renderQuakeList();
-    updateTicker();
-    if (state.layers.earthquakes) renderMapLayers();
-  } catch {
-    console.warn("Earthquake feed unavailable");
+  // Fix stale filter after data change (from prior review)
+  const cats = categories();
+  if (state.activeCategory !== "All" && !cats.includes(state.activeCategory)) {
+    state.activeCategory = "All";
   }
+
+  renderFilters();
+  renderEventLists();
+  renderSituationSnapshot();
+  renderTopConflicts();
+  renderCriticalAlerts();
+  renderMapLayers();
+  updateTicker();
 }
 
-function renderQuakeList() {
-  const list  = $("#quake-list");
-  const badge = $("#quake-badge");
-  if (!list) return;
-  if (badge) badge.textContent = `${state.earthquakes.length} active`;
-
-  list.innerHTML = state.earthquakes.slice(0, 6).map((q, i) => `
-    <article class="list-item" data-quake-index="${i}">
-      <div class="meta">
-        <span class="mag-badge mag-${escapeHtml(q.severity.toLowerCase())}">M${Number(q.magnitude).toFixed(1)}</span>
-        <span>${escapeHtml(formatUtc(q.time))}</span>
-      </div>
-      <h3>${escapeHtml(q.title)}</h3>
-    </article>
-  `).join("");
+function startAutoRefresh() {
+  if (refreshTimer) clearInterval(refreshTimer);
+  // ~6 min refresh gives a tactical "live" feel while staying lightweight
+  refreshTimer = setInterval(() => {
+    loadLiveEvents(true).then(() => {
+      const panels = [$("#situation-panel"), $("#top-conflicts-panel"), $("#critical-alerts-panel")];
+      panels.forEach(p => { if (p) p.classList.add("data-updated"); });
+      setTimeout(() => panels.forEach(p => { if (p) p.classList.remove("data-updated"); }), 950);
+    });
+  }, 1000 * 60 * 6);
 }
 
-function selectQuake(quake) {
-  const panel = $("#selected-panel");
-  if (panel) {
-    panel.innerHTML = `
-      <span class="tag">Earthquake</span>
-      <h2>M${Number(quake.magnitude).toFixed(1)} — ${escapeHtml(quake.title)}</h2>
-      <p>Depth: ${escapeHtml(String(quake.depth))} km · ${escapeHtml(formatUtc(quake.time))}</p>
-      ${quake.url ? `<a class="source-link" href="${escapeHtml(quake.url)}" target="_blank" rel="noopener">USGS Report →</a>` : ""}
-    `;
-  }
-  if (state.map) state.map.flyTo({ center: quake.coords, zoom: 5, speed: 0.8 });
+function updateLastUpdated(iso) {
+  const el = $("#last-updated");
+  if (!el) return;
+  el.textContent = iso ? `Updated: ${formatUtc(iso)}` : "Updated: live";
 }
+
+// ─── Quakes de-emphasized / removed from primary UI (per core requirements) ────
+// Stubs kept so shared app.js on events/sources doesn't explode.
+async function loadEarthquakes() { /* intentionally deprioritized — conflict focus only */ }
+function renderQuakeList() {}
+function selectQuake() {}
 
 // ─── News feed (hourly server-generated public RSS snapshot) ───────────────────
 
@@ -261,17 +282,33 @@ function renderNews() {
   `).join("");
 }
 
-// ─── Conflict helpers (unchanged) ─────────────────────────────────────────────
+// ─── Conflict helpers + new tactical layers (All / Conflicts / Uprisings / Military / Critical) ──
 
 function categories() {
-  const preferred = ["All", "Conflict", "Military", "Unrest", "Infrastructure"];
+  // Focused on conflict/uprising/military; Infrastructure kept only if present in data
+  const preferred = ["All", "Conflict", "Military", "Unrest", "Uprisings"];
   const extras = state.events.map(e => e.category).filter(c => !preferred.includes(c));
   return [...preferred, ...new Set(extras)];
 }
 
 function visibleEvents() {
-  if (state.activeCategory === "All") return state.events;
-  return state.events.filter(e => e.category === state.activeCategory);
+  let list = state.events;
+
+  // Layer filtering (new tactical layers)
+  const layer = state.activeLayer || "all";
+  if (layer === "conflicts") {
+    list = list.filter(e => (e.category || "").toLowerCase() === "conflict");
+  } else if (layer === "uprisings") {
+    list = list.filter(e => ["unrest", "uprising", "protest"].some(k => (e.category || "").toLowerCase().includes(k)));
+  } else if (layer === "military") {
+    list = list.filter(e => (e.category || "").toLowerCase() === "military");
+  } else if (layer === "critical") {
+    list = list.filter(e => (e.severity || "").toLowerCase() === "critical");
+  }
+  // "all" = no additional filter beyond category below
+
+  if (state.activeCategory === "All") return list;
+  return list.filter(e => (e.category || "") === state.activeCategory);
 }
 
 function eventTag(event) {
@@ -328,25 +365,108 @@ function reportList(event) {
   `;
 }
 
-// ─── Stats panel ───────────────────────────────────────────────────────────────
+// ─── Enhanced tactical sidebar renders ─────────────────────────────────────────
+
+function renderSituationSnapshot() {
+  const container = $("#situation-snapshot");
+  if (!container) return;
+
+  const events = state.events || [];
+  const crit = events.filter(e => (e.severity || "").toLowerCase() === "critical").length;
+  const regions = new Set(events.map(e => e.location).filter(Boolean)).size;
+  const reports = events.reduce((t, e) => t + (Number(e.reportCount) || 1), 0);
+  const updated = state.feedMeta.generatedAt ? formatUtc(state.feedMeta.generatedAt) : "—";
+
+  container.innerHTML = `
+    <div class="snapshot-item critical">
+      <strong>${crit}</strong>
+      <span class="label">Critical Hotspots</span>
+    </div>
+    <div class="snapshot-item">
+      <strong>${events.length}</strong>
+      <span class="label">Active Signals</span>
+    </div>
+    <div class="snapshot-item">
+      <strong>${regions}</strong>
+      <span class="label">Regions Watched</span>
+    </div>
+    <div class="snapshot-item">
+      <strong>${reports}</strong>
+      <span class="label">Source Reports</span>
+    </div>
+    <div class="snapshot-item updated">
+      <span>Last OSINT update: <strong>${escapeHtml(updated)}</strong></span>
+    </div>
+  `;
+}
+
+function renderTopConflicts() {
+  const container = $("#top-conflicts");
+  if (!container) return;
+
+  const sorted = [...(state.events || [])]
+    .sort((a, b) => {
+      const sev = severityRank(b.severity) - severityRank(a.severity);
+      if (sev) return sev;
+      return (Number(b.reportCount) || 0) - (Number(a.reportCount) || 0);
+    })
+    .slice(0, 7);
+
+  if (!sorted.length) {
+    container.innerHTML = `<div class="list-item"><span class="meta">No active signals</span></div>`;
+    return;
+  }
+
+  container.innerHTML = sorted.map((ev, idx) => {
+    const sevClass = (ev.severity || "").toLowerCase();
+    return `
+      <div class="top-item ${sevClass}" data-event-index="${state.events.indexOf(ev)}">
+        <span class="sev">${escapeHtml(ev.severity || "—")}</span>
+        <div>
+          <div class="title">${escapeHtml(ev.title)}</div>
+          <div class="meta">${escapeHtml(ev.location)}</div>
+        </div>
+        <div class="meta">${Number(ev.reportCount) || 1} reports</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function renderCriticalAlerts() {
+  const container = $("#critical-alerts");
+  if (!container) return;
+
+  const critical = (state.events || [])
+    .filter(e => (e.severity || "").toLowerCase() === "critical")
+    .slice(0, 5);
+
+  if (!critical.length) {
+    container.innerHTML = `<div class="alert-item"><span class="meta">No critical alerts at this time.</span></div>`;
+    return;
+  }
+
+  container.innerHTML = critical.map(ev => `
+    <div class="alert-item" data-event-index="${state.events.indexOf(ev)}">
+      <div class="title">${escapeHtml(ev.title)}</div>
+      <div class="meta">${escapeHtml(ev.location)} · ${escapeHtml(ev.seenDate ? formatUtc(ev.seenDate) : "")}</div>
+    </div>
+  `).join("");
+}
 
 function renderStats() {
+  // Legacy support for any remaining stat grids (kept lightweight)
   const stats = $("#signal-stats");
   if (!stats) return;
-  const events     = state.events;
-  const highSignals = events.filter(e => ["High Signal", "Corroborated"].includes(e.confidence)).length;
-  const sources    = new Set(events.flatMap(e => Array.isArray(e.sources) ? e.sources : [e.sourceName]).filter(Boolean));
-  const reports    = events.reduce((t, e) => t + Number(e.reportCount || 1), 0);
-  const updated    = state.feedMeta.generatedAt ? formatDate(state.feedMeta.generatedAt) : "Pending";
-  const critCount  = events.filter(e => e.severity === "Critical").length;
+  const events = state.events || [];
+  const crit = events.filter(e => (e.severity || "").toLowerCase() === "critical").length;
+  const reports = events.reduce((t, e) => t + (Number(e.reportCount) || 1), 0);
+  const updated = state.feedMeta.generatedAt ? formatDate(state.feedMeta.generatedAt) : "—";
 
   stats.innerHTML = [
-    ["Signals",     events.length],
-    ["Critical",    critCount],
-    ["Reports",     reports],
-    ["Sources",     sources.size || 1],
-    ["High Signal", highSignals],
-    ["Updated",     updated]
+    ["Signals", events.length],
+    ["Critical", crit],
+    ["Reports", reports],
+    ["Updated", updated]
   ].map(([label, value]) => `
     <div class="stat-item">
       <strong>${escapeHtml(String(value))}</strong>
@@ -355,35 +475,46 @@ function renderStats() {
   `).join("");
 }
 
-// ─── Event lists ───────────────────────────────────────────────────────────────
+// ─── Event lists (used by both map sidebar and events page) ────────────────────
 
 function renderEventLists() {
   const compact = $("#event-list");
   if (compact) {
-    compact.innerHTML = visibleEvents().slice(0, 6).map((event, index) => `
-      <article class="list-item" data-event-index="${index}">
-        ${itemMeta(
-          event.severity,
-          event.confidence || "Signal",
-          event.sourceCount === 1 ? "1 source" : event.sourceCount ? `${event.sourceCount} sources` : event.sourceName
-        )}
-        <h3>${escapeHtml(event.title)}</h3>
-        <span class="tag">${escapeHtml(event.location)}</span>
-      </article>
-    `).join("");
+    compact.innerHTML = visibleEvents().slice(0, 6).map((event, index) => {
+      const realIdx = state.events.indexOf(event);
+      return `
+        <article class="list-item" data-event-index="${realIdx}">
+          ${itemMeta(
+            event.severity,
+            event.confidence || "Signal",
+            event.sourceCount > 1 ? `${event.sourceCount} sources` : "Single source"
+          )}
+          <h3>${escapeHtml(event.title)}</h3>
+          <span class="tag">${escapeHtml(event.location)}</span>
+        </article>
+      `;
+    }).join("");
   }
 
   const grid = $("#event-grid");
   if (grid) {
-    grid.innerHTML = visibleEvents().map(event => `
-      <article class="event-card">
-        ${eventTag(event)}
-        <h2>${escapeHtml(event.title)}</h2>
-        <p>${escapeHtml(event.summary)}</p>
-        ${sourceLinks(event)}
-        ${signalMeta(event)}
-      </article>
-    `).join("");
+    grid.innerHTML = visibleEvents().map(event => {
+      const realIdx = state.events.indexOf(event);
+      const sevClass = (event.severity || "").toLowerCase();
+      return `
+        <article class="event-card ${sevClass}" data-event-index="${realIdx}">
+          ${eventTag(event)}
+          <h2>${escapeHtml(event.title)}</h2>
+          <p>${escapeHtml(event.summary)}</p>
+          ${sourceLinks(event)}
+          ${signalMeta(event)}
+          <div class="event-meta">
+            <span class="tag">${escapeHtml(event.location)}</span>
+            ${event.reportCount ? `<span class="meta-count">${event.reportCount} reports</span>` : ''}
+          </div>
+        </article>
+      `;
+    }).join("");
   }
 }
 
@@ -397,71 +528,187 @@ function renderFilters() {
   `).join("");
 }
 
-// ─── Map ───────────────────────────────────────────────────────────────────────
+// Update ticker (no more quakes)
+function updateTicker() {
+  const signals = $("#ticker-signals");
+  const crit    = $("#ticker-critical");
+  const news    = $("#ticker-news");
+  const events = state.events || [];
+  if (signals) signals.textContent = `${events.length} HOTSPOTS`;
+  if (crit)    crit.textContent    = `${events.filter(e => (e.severity||"").toLowerCase()==="critical").length} CRITICAL`;
+  if (news)    news.textContent    = `${state.news.length} NEWS`;
+}
+
+// ─── Map (with rich popups + improved markers for conflict focus) ──────────────
 
 function createMap() {
   const mapNode = $("#world-map");
   if (!mapNode || typeof maplibregl === "undefined") return;
 
+  // Primary: Carto Dark Matter GL (recommended for stable dark tactical OSINT dashboards)
+  // Fallback: demotiles for reliability if primary tiles fail.
+  const primaryStyle = "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json";
+  const fallbackStyle = "https://demotiles.maplibre.org/style.json";
+  let mapLoadAttempts = 0;
+  const MAX_ATTEMPTS = 2;
+
   state.map = new maplibregl.Map({
     container: "world-map",
-    style: "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
-    bounds: [[-170, -55], [180, 75]],
-    fitBoundsOptions: { padding: 36 },
+    style: primaryStyle,
+    center: [10, 18],   // good global tactical view (centered slightly on Europe/Africa/ME)
+    zoom: 1.55,
     pitch: 0,
     bearing: 0,
     attributionControl: true
   });
 
+  // Better error handling + retry logic for tile load failures
+  state.map.on('error', (e) => {
+    console.error('MapLibre error:', e && (e.error || e));
+    mapLoadAttempts++;
+
+    // Remove any previous error notice
+    const existingNotice = mapNode.querySelector('.map-error');
+    if (existingNotice) existingNotice.remove();
+
+    if (mapLoadAttempts < MAX_ATTEMPTS) {
+      // Retry with fallback style after short delay
+      console.warn(`Map tile load failed (attempt ${mapLoadAttempts}), retrying with fallback style...`);
+      setTimeout(() => {
+        if (state.map) {
+          try {
+            state.map.setStyle(fallbackStyle);
+            // Re-apply label hiding and resize after style change
+            state.map.once('load', () => {
+              if (state.map) state.map.resize();
+              applyLabelHiding();
+            });
+          } catch (err) {
+            console.error('Failed to set fallback style:', err);
+          }
+        }
+      }, 1500);
+    } else {
+      // Final failure: show persistent but non-blocking notice
+      if (mapNode && !mapNode.querySelector('.map-error')) {
+        const notice = document.createElement('div');
+        notice.className = 'map-error';
+        notice.style.cssText = 'position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.7);color:#f88;font-size:12px;text-align:center;padding:16px;z-index:3;pointer-events:none;';
+        notice.innerHTML = 'Basemap tiles failed to load after retries.<br>Using offline fallback or check network/adblocker.';
+        mapNode.appendChild(notice);
+      }
+    }
+  });
+
   state.map.addControl(new maplibregl.NavigationControl({ showCompass: true }), "top-right");
+
+  // Robust resize handling (grid layouts + window resizes often need this)
+  const doResize = () => { if (state.map) state.map.resize(); };
+
   state.map.on("load", () => {
     renderMapLayers();
-    setTimeout(() => state.map.resize(), 250);
+    // Explicit resize inside load handler (critical for MapLibre + dynamic flex/grid layouts)
+    if (state.map) state.map.resize();
+    doResize();
+    // extra safety after layout settles
+    setTimeout(doResize, 180);
+    setTimeout(doResize, 500);
+
+    // Clear any previous tile error notice on successful load
+    const errNotice = mapNode.querySelector('.map-error');
+    if (errNotice) errNotice.remove();
+
+    applyLabelHiding();
   });
+
+  // Helper to reduce dense geographic labels that can appear "repeated" or cluttered
+  function applyLabelHiding() {
+    if (!state.map) return;
+    const labelLayersToHide = [
+      'country-label', 'state-label', 'place-label', 'road-label',
+      'ocean-label', 'water-label', 'Tropic of Cancer', 'Equator'
+    ];
+    labelLayersToHide.forEach(id => {
+      try {
+        if (state.map.getLayer(id)) {
+          state.map.setLayoutProperty(id, 'visibility', 'none');
+        }
+      } catch (e) { /* layer not present in this style */ }
+    });
+  }
+
+  // Observe container size changes (very helpful after the tactical UI grid changes)
+  if (typeof ResizeObserver !== 'undefined') {
+    const ro = new ResizeObserver(doResize);
+    ro.observe(mapNode);
+  }
+
+  // Fallback for window resize
+  window.addEventListener('resize', doResize, { passive: true });
+
+  // Immediate attempt (helps when grid computes height after first paint)
+  setTimeout(doResize, 80);
 }
 
 function clearMarkers() {
-  state.markers.forEach(m => m.remove());
+  state.markers.forEach(m => { try { m.remove(); } catch (_) {} });
   state.markers = [];
 }
 
 function addMarker(item, className, label, onClick) {
-  const el = document.createElement("button");
-  const severity   = String(item.severity || "").toLowerCase();
-  const confidence = String(item.confidence || "").toLowerCase().replace(/\s+/g, "-");
-  el.className = `${className} marker-${severity} marker-${confidence}`.trim();
-  el.type = "button";
-  el.textContent = item.sourceCount && item.sourceCount > 1 ? String(item.sourceCount) : label;
-  el.title = `${item.location}: ${item.confidence || item.severity || "Signal"}`;
-  el.addEventListener("click", onClick);
-  const marker = new maplibregl.Marker({ element: el }).setLngLat(item.coords).addTo(state.map);
-  state.markers.push(marker);
-}
+  if (!isValidCoord(item.coords)) return;
 
-function addQuakeMarker(quake) {
   const el = document.createElement("button");
-  el.className = `marker-quake marker-quake-${quake.severity.toLowerCase()}`;
+  const sev = String(item.severity || "").toLowerCase();
+  const conf = String(item.confidence || "").toLowerCase().replace(/\s+/g, "-");
+  const cat = String(item.category || "").toLowerCase();
+
+  let markerClass = `${className} marker-${sev} marker-${conf}`;
+  if (cat.includes("military")) markerClass += " marker-military";
+  if (cat.includes("unrest") || cat.includes("uprising")) markerClass += " marker-uprising";
+
+  el.className = markerClass.trim();
   el.type = "button";
-  el.textContent = Number(quake.magnitude).toFixed(1);
-  el.title = `M${quake.magnitude} — ${quake.title}`;
-  el.addEventListener("click", () => selectQuake(quake));
-  const marker = new maplibregl.Marker({ element: el }).setLngLat(quake.coords).addTo(state.map);
+  el.textContent = (item.sourceCount && item.sourceCount > 1) ? String(item.sourceCount) : (label || "!");
+  el.title = `${item.location} — ${item.severity}`;
+
+  // Rich popup on click (in addition to side panel)
+  el.addEventListener("click", (ev) => {
+    if (onClick) onClick(ev);
+    if (state.map) {
+      new maplibregl.Popup({ closeButton: true, closeOnClick: true })
+        .setLngLat(item.coords)
+        .setHTML(`
+          <div>
+            <h3>${escapeHtml(item.severity)} — ${escapeHtml(item.location)}</h3>
+            <div style="margin:4px 0 6px;font-size:11px;">${escapeHtml(item.title)}</div>
+            <div style="font-size:10px;color:#9aa4b8;margin-bottom:6px;">${escapeHtml(item.summary || "")}</div>
+            ${item.sourceUrl ? `<a href="${escapeHtml(item.sourceUrl)}" target="_blank" rel="noopener">View source →</a>` : ""}
+            <div style="margin-top:6px;font-size:9px;opacity:.75;">${escapeHtml(item.confidence || "")} • ${item.reportCount || 1} report(s)</div>
+          </div>
+        `)
+        .addTo(state.map);
+    }
+  });
+
+  const marker = new maplibregl.Marker({ element: el }).setLngLat(item.coords).addTo(state.map);
   state.markers.push(marker);
 }
 
 function renderMapLayers() {
   if (!state.map) return;
   clearMarkers();
-  if (state.layers.events) {
-    visibleEvents().forEach(event => addMarker(event, "marker-event", "!", () => selectEvent(event)));
-  }
-  if (state.layers.earthquakes) {
-    state.earthquakes.forEach(quake => addQuakeMarker(quake));
-  }
+
+  const toShow = visibleEvents();
+  toShow.forEach(event => {
+    addMarker(event, "marker-event", "!", () => selectEvent(event));
+  });
 }
 
 function selectEvent(event) {
+  if (!event || !isValidCoord(event.coords)) return;
   state.selected = event;
+
   const panel = $("#selected-panel");
   if (panel) {
     panel.innerHTML = `
@@ -471,80 +718,91 @@ function selectEvent(event) {
       ${sourceLinks(event)}
       ${signalMeta(event)}
       ${reportList(event)}
+      <div style="margin-top:8px;font-size:10px;color:var(--muted);">${escapeHtml(event.seenDate ? formatUtc(event.seenDate) : "")}</div>
     `;
   }
-  if (state.map) state.map.flyTo({ center: event.coords, zoom: 4, speed: 0.8 });
+  if (state.map) {
+    state.map.flyTo({ center: event.coords, zoom: 4.2, speed: 0.85 });
+  }
 }
 
-// ─── Controls ──────────────────────────────────────────────────────────────────
+// ─── Controls (new layers + new sidebar lists + news) ──────────────────────────
 
 function wireControls() {
   document.addEventListener("click", event => {
-
-    // Category filter
+    // Category (All / Conflict / Military / Unrest ...)
     const filter = event.target.closest("[data-category]");
     if (filter) {
       state.activeCategory = filter.dataset.category;
       renderFilters();
       renderEventLists();
       renderMapLayers();
+      renderTopConflicts();
+      renderCriticalAlerts();
+      return;
     }
 
-    // Map layer toggle
-    const layer = event.target.closest("[data-layer]");
-    if (layer) {
-      const key = layer.dataset.layer;
-      state.layers[key] = !state.layers[key];
-      layer.classList.toggle("active", state.layers[key]);
+    // New tactical layer toggles
+    const layerBtn = event.target.closest("[data-layer]");
+    if (layerBtn) {
+      const key = layerBtn.dataset.layer;
+      // Deactivate siblings
+      $$(".layer-bank .layer-toggle").forEach(b => b.classList.remove("active"));
+      layerBtn.classList.add("active");
+
+      state.activeLayer = key;
       renderMapLayers();
+      renderEventLists();
+      renderTopConflicts();
+      renderCriticalAlerts();
+      return;
     }
 
-    // Conflict event click in list
-    const eventItem = event.target.closest("[data-event-index]");
-    if (eventItem) {
-      const item = visibleEvents()[Number(eventItem.dataset.eventIndex)];
+    // Click in compact event list or top/alerts → select
+    const evItem = event.target.closest("[data-event-index]");
+    if (evItem) {
+      const idx = Number(evItem.dataset.eventIndex);
+      const item = state.events[idx];
       if (item) selectEvent(item);
+      return;
     }
 
-    // Earthquake click in list
-    const quakeItem = event.target.closest("[data-quake-index]");
-    if (quakeItem) {
-      const quake = state.earthquakes[Number(quakeItem.dataset.quakeIndex)];
-      if (quake) selectQuake(quake);
-    }
-
-    // News source tab
+    // News tabs
     const newsTab = event.target.closest("#news-tabs [data-source]");
     if (newsTab) {
       state.activeNewsSource = newsTab.dataset.source;
-      $$("#news-tabs button").forEach(btn => {
-        btn.classList.toggle("active", btn.dataset.source === state.activeNewsSource);
-      });
+      $$("#news-tabs button").forEach(btn => btn.classList.toggle("active", btn.dataset.source === state.activeNewsSource));
       renderNews();
     }
-
   });
+
+  // Also allow clicking the whole top-item / alert for selection (delegation above covers it)
 }
 
-// ─── Init ──────────────────────────────────────────────────────────────────────
+// ─── Init (conflict focus + auto refresh + initial renders) ────────────────────
 
 async function init() {
   startClock();
   wireControls();
   renderFilters();
   renderEventLists();
+  renderSituationSnapshot();
+  renderTopConflicts();
+  renderCriticalAlerts();
   renderStats();
   createMap();
 
   await loadLiveEvents();
-  renderFilters();
-  renderEventLists();
-  renderStats();
+  renderSituationSnapshot();
+  renderTopConflicts();
+  renderCriticalAlerts();
   renderMapLayers();
   updateTicker();
 
-  // Non-blocking additional sources
-  loadEarthquakes();
+  // Start auto-refresh for live tactical feel
+  startAutoRefresh();
+
+  // News (non-blocking)
   loadNewsFeed();
 }
 

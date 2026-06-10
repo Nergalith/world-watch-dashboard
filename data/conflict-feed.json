@@ -1,235 +1,69 @@
 {
-  "generatedAt": "2026-05-26T12:56:49.463Z",
-  "statusLabel": "Conflict feed",
-  "source": "UN News Peace and Security, International Crisis Group",
+  "generatedAt": "2026-06-10T15:40:49.340Z",
+  "statusLabel": "Conflict feed + curated fallbacks",
+  "source": "UN News Peace and Security, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News, curated fallbacks",
   "events": [
     {
-      "title": "Ukraine: repeated public reporting",
-      "location": "Ukraine",
+      "title": "Lebanon / Israel Border: high-signal conflict watch",
+      "location": "Lebanon / Israel Border",
       "coords": [
-        36.23,
-        49.99
+        35.7,
+        33.2
       ],
-      "category": "Conflict",
+      "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167583",
-      "seenDate": "Sun, 24 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 8,
-      "confidence": "Multiple Reports",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 24 reports across 4 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/lebanon-parties-what-are?traffic_source=rss",
+      "seenDate": "Wed, 10 Jun 2026 14:46:05 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 24,
+      "confidence": "High Signal",
       "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167583",
-          "seenDate": "Sun, 24 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167569",
-          "seenDate": "Sat, 23 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
-          "category": "Infrastructure",
-          "severity": "Critical"
-        },
-        {
-          "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167578",
-          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167562",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Israel / Gaza: repeated public reporting",
-      "location": "Israel / Gaza",
-      "coords": [
-        34.45,
-        31.45
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 6 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-      "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 6,
-      "confidence": "Multiple Reports",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-          "seenDate": "Fri, 22 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167560",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Palestine: Killings, destruction and settler encroachment continues",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167538",
-          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Taiwan Strait: corroborated conflict signal",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Military",
-      "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167550",
-      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
-      "sources": [
+        "Al Jazeera",
+        "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167550",
-          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167540",
-          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
-          "category": "Military",
-          "severity": "Critical"
-        },
-        {
-          "title": "The Trump-Xi Summit: What Happened in Beijing?",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/pod/asia-pacific/china/trump-xi-summit-what-happened-beijing",
-          "seenDate": "Sat, 16 May 2026 16:24:05 +0000",
+          "title": "What are Lebanon’s most important political parties?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/lebanon-parties-what-are?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 14:46:05 +0000",
           "category": "Infrastructure",
           "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Sudan: critical conflict watch",
-      "location": "Sudan",
-      "coords": [
-        30.2,
-        15.7
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167528",
-      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
+        },
         {
-          "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167528",
-          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 14:44:49 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 11:57:49 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Red Sea / Yemen: critical conflict watch",
-      "location": "Red Sea / Yemen",
-      "coords": [
-        43.33,
-        12.58
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-      "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
-      "sourceName": "International Crisis Group",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "International Crisis Group"
-      ],
-      "reports": [
+        },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "seenDate": "Fri, 15 May 2026 22:08:58 +0000",
+          "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 10:09:41 +0000",
           "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 17:47:41 GMT",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         }
       ]
@@ -241,111 +75,559 @@
         53.7,
         32.4
       ],
-      "category": "Infrastructure",
-      "severity": "High",
-      "summary": "Iran is active on the public watch board with 5 reports across 2 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
-      "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 5,
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Iran is active on the public watch board with 23 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 10 Jun 2026 14:15:39 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 4,
+      "reportCount": 23,
       "confidence": "High Signal",
       "sources": [
-        "International Crisis Group",
+        "Al Jazeera",
+        "BBC Middle East",
+        "BBC World News",
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "Trump and Iran trade new threats after strikes exchanged",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 14:15:39 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "US bombs Iran’s water facilities: Why that’s so significant",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 13:27:27 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 11:50:48 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Iran fires missiles at US bases carrying images of killed commanders",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 09:45:33 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "US strikes Iran in response to downing of military helicopter",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 09:39:35 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Israel / Gaza: high-signal conflict watch",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Israel / Gaza is active on the public watch board with 17 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners?traffic_source=rss",
+      "seenDate": "Wed, 10 Jun 2026 15:30:42 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 17,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Middle East",
+        "BBC World News",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167548",
-          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Washington 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/washington-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:03:03 +0000",
+          "title": "Sanctions on settlers not enough: Target Israeli gov’t, say campaigners",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 15:30:42 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Tehran 18 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/tehran-18-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 16:59:45 +0000",
+          "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 12:55:23 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "7-month-old baby shot by Israeli soldier in Hebron",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 12:44:39 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Hormuz 15 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/hormuz-15-may-2026-1",
-          "seenDate": "Fri, 15 May 2026 19:01:20 +0000",
+          "title": "Satellite images show Israel’s destruction of historical city of Tyre",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 11:46:50 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Washington 15 May 2026 #2",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/washington-15-may-2026-2",
-          "seenDate": "Fri, 15 May 2026 19:00:01 +0000",
+          "title": "What’s happening at the World Cup one day before tournament starts?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 11:40:15 +0000",
           "category": "Conflict",
           "severity": "High"
         }
       ]
     },
     {
-      "title": "Lebanon / Israel Border: corroborated conflict signal",
-      "location": "Lebanon / Israel Border",
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
       "coords": [
-        35.7,
-        33.2
+        36.23,
+        49.99
       ],
-      "category": "Military",
-      "severity": "High",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
+      "seenDate": "Wed, 10 Jun 2026 12:44:09 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 10,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 12:44:09 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Ukraine says missiles hit military plant deep inside Russia",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 11:43:40 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 09:57:20 GMT",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
+          "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 08 Jun 2026 23:23:15 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+          "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Sahel: high-signal conflict watch",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Sahel is active on the public watch board with 6 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 09 Jun 2026 15:09:23 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 2,
+      "reportCount": 6,
+      "confidence": "High Signal",
+      "sources": [
+        "BBC Africa",
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Who is the Somali referee barred from entering the US for the World Cup?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 15:09:23 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "I have right papers and visa - barred referee Artan",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 13:43:54 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "What happened and why?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/sport/football/videos/cwyk9zlxlw8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 09:30:23 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Brighton agree £21.5m deal for Nigeria winger Yohanna",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 06 Jun 2026 18:25:16 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 03 Jun 2026 05:13:02 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Pakistan / Afghanistan: high-signal conflict watch",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Pakistan / Afghanistan is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 10 Jun 2026 15:31:15 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 3,
+      "reportCount": 5,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 15:31:15 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 12:30:19 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 16:44:23 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+          "seenDate": "Mon, 08 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Somalia: high-signal conflict watch",
+      "location": "Somalia",
+      "coords": [
+        45.3,
+        5.2
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Somalia is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 10 Jun 2026 14:08:28 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "World Cup referee denied US entry returns to Somalia to hero's welcome",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 14:08:28 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 10 Jun 2026 14:08:28 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/heros-welcome-for-somali-referee-denied-entry-to-us-world-cup-tournament?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 12:15:48 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 06 Jun 2026 23:25:20 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Sudan: corroborated conflict signal",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Sudan is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+      "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 2,
       "reportCount": 3,
       "confidence": "Corroborated",
       "sources": [
-        "International Crisis Group",
+        "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+          "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Military",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+          "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Lebanon 16 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/lebanon-16-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:04:44 +0000",
-          "category": "Military",
+          "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Israel 16 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/israel-16-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:03:51 +0000",
-          "category": "Military",
+          "title": "The human cost of the war in Sudan, three years on",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 15 Apr 2026 08:38:36 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Myanmar: critical conflict watch",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Myanmar is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 09 Jun 2026 21:13:17 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 21:13:17 GMT",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
+          "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 21:04:20 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Iraq: critical conflict watch",
+      "location": "Iraq",
+      "coords": [
+        43.7,
+        33.2
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Iraq is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/cyv2l60q188o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 02 Jun 2026 07:29:32 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC Middle East"
+      ],
+      "reports": [
+        {
+          "title": "Wars, sanctions and punishments: Iraq's 40-year World Cup wait",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/cyv2l60q188o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 02 Jun 2026 07:29:32 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Taiwan Strait is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss",
+      "seenDate": "Wed, 10 Jun 2026 13:36:58 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 11,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Eight red cards shown to Brazil in fiery friendly against US women",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 13:36:58 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Mexico vs South Africa: World Cup group match – teams, start and lineups",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 13:06:47 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Graham Platner wins Maine primary election: Results and key takeaways",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 10:22:43 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Why is the FIFA World Cup 2026 being held in three countries?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 09:57:57 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Argentina World Cup 2026 preview: Players to watch, group matches and squad",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/6/10/argentina-world-cup-2026-preview-players-to-watch-group-matches-squad?traffic_source=rss",
+          "seenDate": "Wed, 10 Jun 2026 08:59:58 +0000",
+          "category": "Infrastructure",
           "severity": "High"
         }
       ]
     },
     {
-      "title": "Democratic Republic of Congo: repeated public reporting",
+      "title": "Democratic Republic of Congo: high-signal conflict watch",
       "location": "Democratic Republic of Congo",
       "coords": [
         29.2,
@@ -353,38 +635,93 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 3 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167553",
-      "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 3,
-      "confidence": "Multiple Reports",
+      "summary": "Democratic Republic of Congo is active on the public watch board with 9 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sun, 07 Jun 2026 16:55:52 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 2,
+      "reportCount": 9,
+      "confidence": "High Signal",
       "sources": [
+        "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167553",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
+          "title": "DR Congo friendly to be played behind closed doors",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 07 Jun 2026 16:55:52 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167542",
-          "seenDate": "Tue, 19 May 2026 12:00:00 +0000",
+          "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/articles/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 05 Jun 2026 21:48:31 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
+          "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 05 Jun 2026 15:14:22 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167534",
-          "seenDate": "Mon, 18 May 2026 12:00:00 +0000",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Mayor cancels DR Congo friendly over Ebola concern",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 02 Jun 2026 19:28:55 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "South China Sea: public conflict signal",
+      "location": "South China Sea",
+      "coords": [
+        114.2,
+        12.2
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "South China Sea is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 09 Jun 2026 07:36:15 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 09 Jun 2026 07:36:15 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 08 Jun 2026 12:19:11 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -399,68 +736,22 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Haiti is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-      "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
+      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167661",
+      "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
-      "reportCount": 2,
+      "reportCount": 1,
       "confidence": "Single Source",
       "sources": [
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+          "title": "Haiti: Harrowing needs must be met with long-term engagement",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-          "seenDate": "Thu, 21 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167559",
-          "seenDate": "Wed, 20 May 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Iraq: public conflict signal",
-      "location": "Iraq",
-      "coords": [
-        43.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iraq is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
-      "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
-      "sourceName": "International Crisis Group",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "International Crisis Group"
-      ],
-      "reports": [
-        {
-          "title": "Iraq 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/iraq-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:02:22 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Riyadh 17 May 2026 #1",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/content/riyadh-17-may-2026-1",
-          "seenDate": "Mon, 18 May 2026 17:00:38 +0000",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167661",
+          "seenDate": "Fri, 05 Jun 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -476,8 +767,8 @@
       "category": "Conflict",
       "severity": "High",
       "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
-      "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+      "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 1,
@@ -487,14 +778,754 @@
       ],
       "reports": [
         {
-          "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
+          "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
           "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/05/1167518",
-          "seenDate": "Fri, 15 May 2026 12:00:00 +0000",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+          "seenDate": "Thu, 04 Jun 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
       ]
+    },
+    {
+      "title": "Red Sea / Yemen: public conflict signal",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Red Sea / Yemen is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+      "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+          "seenDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Korean Peninsula: public conflict signal",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Korean Peninsula is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Mon, 08 Jun 2026 14:22:38 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 08 Jun 2026 14:22:38 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Eastern Ukraine remains a priority conflict watch area",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Israel-Gaza and regional spillover remain under watch",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Red Sea corridor remains under elevated security watch",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Sudan conflict continues to drive regional instability",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Pakistan-Afghanistan border activity remains a watch point",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "South China Sea military pressure remains elevated",
+      "location": "South China Sea",
+      "coords": [
+        114.2,
+        12.2
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Myanmar conflict activity remains under monitoring",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Sahel security pressure remains regionally significant",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Haiti gang violence remains a public security watch point",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Korean Peninsula military signaling remains under watch",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback watch area. Live public feeds were unavailable during the last refresh.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Gaza humanitarian crisis and operations continue",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback for ongoing high-intensity conflict zone with significant civilian impact.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "RSF-SAF clashes persist across Sudan",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback for major internal conflict with widespread displacement.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Houthi maritime attacks in Red Sea",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback for ongoing attacks on shipping and international response.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Protests and crackdowns in Myanmar",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback for ongoing resistance and military operations.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "DRC M23 and allied forces activity",
+      "location": "Democratic Republic of Congo",
+      "coords": [
+        29.2,
+        -1.7
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback for regional conflict involving multiple armed groups.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Iran-Israel tensions and proxy actions",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback for escalating regional military posturing.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Taiwan Strait PLA maneuvers",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback for military exercises and sovereignty tensions.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Sahel coups and jihadist expansion",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback for instability, coups, and militant activity across the region.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Intense fighting in eastern Ukraine frontlines",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated fallback: ongoing artillery and drone strikes with high civilian risk.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Gaza ground operations and airstrikes escalate",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated fallback: dense urban combat and humanitarian access issues.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "RSF advances and SAF counteroffensives in Sudan",
+      "location": "Sudan",
+      "coords": [
+        30.2,
+        15.7
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated fallback: major clashes displacing thousands in Khartoum region.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Houthi attacks on commercial shipping in Red Sea",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: missile and drone strikes prompting international naval response.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Large-scale protests against military rule in Myanmar",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback: widespread demonstrations met with violent crackdowns.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "M23 rebel offensive near Goma, DRC",
+      "location": "Democratic Republic of Congo",
+      "coords": [
+        29.2,
+        -1.7
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: rebel advances threatening major city and regional stability.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Iran-backed proxy attacks on US assets in Middle East",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: escalating strikes and retaliation risks across region.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "PLA naval exercises encircling Taiwan",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: large-scale military drills simulating blockade.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Jihadist attacks and military responses in Sahel",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: coordinated assaults on bases and villages.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Border clashes between Pakistan and Afghanistan",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated fallback: militant cross-border activity and security operations.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "South China Sea island building and patrols intensify",
+      "location": "South China Sea",
+      "coords": [
+        114.2,
+        12.2
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated fallback: increased naval presence and territorial disputes.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "US-Iran direct strikes after helicopter incident in Strait of Hormuz",
+      "location": "Strait of Hormuz",
+      "coords": [
+        56.5,
+        26.5
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: US and Iran exchange strikes following downing of helicopter in key oil transit chokepoint. Escalation risk high.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Iranian missile strikes on US Gulf bases",
+      "location": "Gulf bases",
+      "coords": [
+        50,
+        26
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: Direct Iranian response targeting US military installations in the Persian Gulf after Hormuz incident.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "US airstrikes on Iranian targets near Tehran",
+      "location": "Tehran",
+      "coords": [
+        51.4,
+        35.7
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: US launches precision strikes on Iranian military sites in capital region amid Hormuz escalation.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Red Sea Houthi attacks on US and allied shipping intensify",
+      "location": "Red Sea / Bab el-Mandeb",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: Multiple drone and missile attacks on commercial and military vessels in strategic waterway.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Israel-Gaza ceasefire collapses with new rocket and airstrike exchanges",
+      "location": "Israel / Gaza",
+      "coords": [
+        34.45,
+        31.45
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Curated: Major escalation with heavy civilian casualties reported in renewed fighting.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Sudan RSF captures key capital districts in Khartoum fighting",
+      "location": "Sudan",
+      "coords": [
+        32.5,
+        15.6
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: Intense urban combat displacing hundreds of thousands; humanitarian crisis deepens.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Ukraine forces repel major Russian offensive near Donetsk",
+      "location": "Ukraine",
+      "coords": [
+        37.8,
+        48
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: Heavy fighting with significant armor losses on both sides along eastern front.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Pakistan-Afghanistan border skirmishes kill dozens in cross-border fire",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.5,
+        33.5
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated: Taliban and Pakistani forces clash amid rising militant infiltration.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "China-Philippines naval standoff escalates in South China Sea",
+      "location": "South China Sea",
+      "coords": [
+        116,
+        11
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Curated: Water cannon incidents and ramming between coast guards near disputed features.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Iranian proxies launch fresh attacks on Israel from multiple fronts",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.5,
+        33.5
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Curated: Hezbollah and other groups exchange fire with Israeli forces in northern border region.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
+    },
+    {
+      "title": "Major protests erupt in Tehran over economic crisis and foreign policy",
+      "location": "Iran",
+      "coords": [
+        51.4,
+        35.7
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "High",
+      "summary": "Curated: Widespread demonstrations met with security crackdown amid Hormuz tensions.",
+      "sourceUrl": "",
+      "seenDate": "",
+      "sourceName": "Curated fallback",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source"
     }
   ]
 }

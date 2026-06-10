@@ -1,17 +1,21 @@
 :root {
   color-scheme: dark;
-  --bg: #030507;
-  --panel: rgba(7, 10, 14, 0.88);
-  --panel-strong: #080b10;
-  --text: #f5f7fb;
-  --soft: #bdc6d5;
-  --muted: #7f8a9d;
-  --line: rgba(218, 231, 255, 0.14);
-  --red: #ff3737;
-  --cyan: #42c8ff;
-  --green: #29d37d;
-  --amber: #f6a43a;
-  --blue: #4a90ff;
+  --bg: #020305;
+  --panel: rgba(6, 8, 12, 0.92);
+  --panel-strong: #05070a;
+  --panel-elev: #0a0d12;
+  --text: #f4f6fa;
+  --soft: #c5ccd9;
+  --muted: #7a8496;
+  --line: rgba(200, 210, 230, 0.12);
+  --red: #e11d48;
+  --red-soft: #f43f5e;
+  --orange: #f97316;
+  --amber: #fb923c;
+  --cyan: #38bdf8;
+  --green: #22c55e;
+  --blue: #3b82f6;
+  --alert: #ef4444;
 }
 
 * { box-sizing: border-box; }
@@ -32,11 +36,11 @@ button, a { font: inherit; }
 .site-shell { min-height: 100vh; }
 
 .dashboard-shell {
-  height: 100vh;
-  min-height: 680px;
+  min-height: 100vh;
+  height: auto; /* allow content (esp. news feed) to extend and enable page scrolling */
   display: grid;
-  grid-template-rows: auto auto minmax(0, 1fr) clamp(150px, 21vh, 190px);
-  overflow: hidden;
+  grid-template-rows: auto auto auto minmax(0, 1fr) auto; /* last row auto so news-strip not clipped */
+  overflow: visible; /* prevent clipping of bottom content */
 }
 
 /* ── Topbar ──────────────────────────────────────────────────────────────────── */
@@ -109,6 +113,30 @@ button, a { font: inherit; }
   border-color: rgba(255, 55, 55, 0.72);
   color: var(--text);
   background: rgba(255, 55, 55, 0.1);
+}
+
+/* Back to Home link - subtle tactical style in header */
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  font-family: "Cascadia Mono", "SFMono-Regular", Consolas, monospace;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 4px 8px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.02);
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 4px;
+  margin-right: 8px;
+}
+.home-link:hover {
+  color: var(--text);
+  border-color: rgba(255, 55, 55, 0.5);
+  background: rgba(255, 55, 55, 0.08);
 }
 
 .topbar-right {
@@ -195,30 +223,54 @@ button, a { font: inherit; }
 
 .operations-layout {
   min-height: 0;
-  display: grid;
-  grid-template-columns: clamp(196px, 17vw, 238px) minmax(420px, 1fr) clamp(286px, 22vw, 334px);
+  height: 100%; /* ensure it fills the grid row's 1fr height */
+  display: flex; /* flex for reliable center fill with MapLibre absolute child */
   gap: 10px;
   padding: 10px;
+  /* horizontal: left fixed | center flex:1 | right fixed */
 }
 
 /* ── Map card ────────────────────────────────────────────────────────────────── */
 
 .map-card {
   position: relative;
-  height: clamp(500px, calc(100vh - 144px), 720px);
   border: 1px solid var(--line);
   background: #020407;
   overflow: hidden;
+  /* height controlled by flex parent in .operations-layout */
 }
 
-.operations-layout .map-card {
-  height: auto;
+/* Flex children for 3-col layout inside operations-layout */
+.operations-layout > .left-stack {
+  flex: 0 0 clamp(196px, 17vw, 238px);
+  min-height: 0; /* allow internal scrolling grids */
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: 10px;
+}
+
+.operations-layout > .map-card {
+  flex: 1 1 auto;  /* this makes the center column fill all available width/height */
+  min-width: 420px;
+  min-height: 600px;  /* solid minimum for map dominance */
+  position: relative;
+  height: 100%;  /* fill the flex item's height */
+  overflow: hidden;
+}
+
+.operations-layout > .side-stack {
+  flex: 0 0 clamp(286px, 22vw, 334px);
   min-height: 0;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: 10px;
 }
 
 #world-map {
   position: absolute;
   inset: 0;
+  /* Guarantee the container has real dimensions even if parent grid calc is delayed */
+  min-height: inherit;
 }
 
 .map-control-panel, .selected-panel {
@@ -666,7 +718,7 @@ button, a { font: inherit; }
   min-height: 0;
   padding: 0 10px 10px;
   border-top: 1px solid rgba(218, 231, 255, 0.08);
-  overflow: hidden;
+  /* removed overflow:hidden to allow full news feed visibility and page scroll */
 }
 
 .lower-deck .news-strip-head {
@@ -677,8 +729,7 @@ button, a { font: inherit; }
 .lower-deck .news-grid {
   grid-template-columns: repeat(4, minmax(210px, 1fr));
   gap: 8px;
-  max-height: 128px;
-  overflow: hidden;
+  /* removed max-height + overflow:hidden so the news feed is not cut off */
 }
 
 .lower-deck .news-item {
@@ -865,6 +916,38 @@ h1 {
   line-height: 1.5;
 }
 
+/* Richer tactical event cards consistent with sidebar (top-list, alerts) */
+.event-card {
+  border: 1px solid var(--line);
+  transition: border-color 0.15s, background 0.15s;
+}
+.event-card.critical {
+  border-color: rgba(225, 29, 72, 0.5);
+  background: rgba(225, 29, 72, 0.03);
+}
+.event-card.high {
+  border-color: rgba(249, 115, 22, 0.4);
+}
+.event-card .event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+  align-items: center;
+}
+.event-card .meta-count {
+  font-size: 9px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 1px 6px;
+  border: 1px solid var(--line);
+}
+.event-card:hover { 
+  border-color: var(--red); 
+  background: rgba(255, 55, 55, 0.05);
+}
+
 /* ── Responsive ──────────────────────────────────────────────────────────────── */
 
 @media (max-width: 1080px) {
@@ -874,17 +957,19 @@ h1 {
     overflow: visible;
   }
   .operations-layout {
-    grid-template-columns: 1fr minmax(280px, 342px);
+    display: block; /* stack for tablet */
   }
-  .left-stack {
-    grid-column: 1 / -1;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    grid-template-rows: none;
+  .operations-layout > .left-stack,
+  .operations-layout > .side-stack {
+    display: block;
+    flex: none;
+    width: 100%;
   }
-  .operations-layout .map-card {
+  .operations-layout > .map-card {
     min-height: 520px;
+    height: min(68vh, 640px);
+    margin: 10px 0;
   }
-  .map-layout { grid-template-columns: 1fr; }
   .map-card {
     height: min(68vh, 640px);
     min-height: 460px;
@@ -904,21 +989,264 @@ h1 {
   .utc-clock { font-size: 10px; }
   .intel-ticker { gap: 10px; font-size: 10px; }
   .nav { justify-content: flex-start; }
+  .home-link { margin: 2px 0 4px 0; } /* tighten in stacked mobile header */
   .map-card {
     height: min(62vh, 520px);
     min-height: 420px;
   }
   .operations-layout {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: block;
   }
-  .left-stack {
-    grid-template-columns: 1fr;
-  }
-  .operations-layout .side-stack {
-    grid-template-rows: none;
+  .operations-layout > .left-stack,
+  .operations-layout > .side-stack,
+  .operations-layout > .map-card {
+    width: 100%;
+    flex: none;
   }
   .map-control-panel { width: 148px; }
   .news-grid { grid-template-columns: 1fr; }
   .event-grid, .source-grid { grid-template-columns: 1fr; }
 }
+
+/* =========================================================
+   TACTICAL REDESIGN ADDITIONS (World Watch — conflict focus)
+   Richer dark UI, red/orange alerts, new components
+   ========================================================= */
+
+/* Prominent OSINT disclaimer */
+.osint-disclaimer {
+  background: rgba(225, 29, 72, 0.08);
+  border: 1px solid rgba(225, 29, 72, 0.35);
+  color: var(--soft);
+  font-size: 11px;
+  line-height: 1.45;
+  padding: 8px 14px;
+  margin: 0;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  align-items: baseline;
+}
+.osint-disclaimer strong {
+  color: var(--red);
+  letter-spacing: 0.5px;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+.osint-disclaimer span {
+  color: var(--muted);
+}
+.osint-disclaimer .disclaimer-meta {
+  font-size: 10px;
+  color: var(--muted);
+  opacity: 0.9;
+}
+.disclaimer-page {
+  margin: 8px 0 16px;
+  padding: 14px 16px;
+  font-size: 13px;
+}
+
+/* Enhanced intel ticker + prominent last-updated */
+.intel-ticker {
+  background: rgba(2, 3, 5, 0.98);
+}
+#last-updated,
+.last-updated {
+  margin-left: auto;
+  color: var(--muted);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--line);
+  padding: 2px 8px;
+  background: rgba(255,255,255,0.02);
+}
+
+/* Tactical layer toggles (conflict focused) */
+.layer-bank .layer-toggle {
+  text-align: left;
+  padding: 8px 12px;
+  min-height: 36px;
+}
+.layer-bank .layer-toggle.active {
+  border-color: var(--red);
+  color: var(--text);
+  background: rgba(225, 29, 72, 0.12);
+}
+
+/* Snapshot grid (counters + updated) */
+.snapshot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--line);
+}
+.snapshot-item {
+  background: var(--panel);
+  padding: 10px 12px;
+  display: grid;
+  gap: 2px;
+}
+.snapshot-item strong {
+  font-size: 22px;
+  line-height: 1.05;
+  color: var(--text);
+  font-family: "Cascadia Mono", "SFMono-Regular", Consolas, monospace;
+}
+.snapshot-item .label {
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+.snapshot-item.critical strong { color: var(--red); }
+.snapshot-item .updated {
+  grid-column: 1 / -1;
+  font-size: 10px;
+  color: var(--cyan);
+  padding-top: 4px;
+  border-top: 1px solid var(--line);
+  margin-top: 4px;
+}
+
+/* Top Conflicts ranked list */
+.top-list {
+  display: grid;
+  gap: 1px;
+  background: var(--line);
+}
+.top-item {
+  background: var(--panel);
+  padding: 9px 12px;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 8px;
+  align-items: center;
+  cursor: pointer;
+}
+.top-item:hover { background: rgba(255, 255, 255, 0.03); }
+.top-item .sev {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border: 1px solid currentColor;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.top-item.critical .sev { color: var(--red); }
+.top-item.high .sev { color: var(--orange); }
+.top-item .title {
+  font-size: 12px;
+  line-height: 1.3;
+  color: var(--text);
+}
+.top-item .meta {
+  font-size: 9px;
+  color: var(--muted);
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* Critical Alerts */
+.alert-list {
+  display: grid;
+  gap: 6px;
+}
+.alert-item {
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  background: rgba(239, 68, 68, 0.06);
+  padding: 8px 10px;
+  font-size: 12px;
+  line-height: 1.35;
+  cursor: pointer;
+}
+.alert-item:hover { border-color: var(--alert); background: rgba(239, 68, 68, 0.1); }
+.alert-item .title { font-weight: 600; color: var(--text); }
+.alert-item .src { color: var(--cyan); font-size: 10px; }
+
+/* Improved news cards (stronger) */
+.news-item {
+  padding: 10px 12px;
+  gap: 5px;
+}
+.news-item .news-title { font-size: 12.5px; }
+.news-strip-head { border-bottom-color: var(--line); }
+
+/* Map popups (richer tactical) */
+.maplibregl-popup-content {
+  background: var(--panel-strong);
+  border: 1px solid var(--red);
+  color: var(--text);
+  font-family: "Cascadia Mono", "SFMono-Regular", Consolas, monospace;
+  font-size: 11px;
+  line-height: 1.4;
+  padding: 8px 10px;
+  max-width: 280px;
+}
+.maplibregl-popup-content h3 {
+  margin: 0 0 4px;
+  font-size: 12px;
+  color: var(--red);
+}
+.maplibregl-popup-content .meta {
+  color: var(--muted);
+  font-size: 9px;
+}
+.maplibregl-popup-content a {
+  color: var(--cyan);
+  text-decoration: none;
+  font-size: 10px;
+}
+
+/* Stronger marker visuals + pulses for priority */
+.marker-event {
+  box-shadow: 0 0 0 5px rgba(225, 29, 72, 0.2);
+}
+.marker-critical {
+  animation: pulse-red 1.8s ease-in-out infinite;
+  box-shadow: 0 0 0 7px rgba(225, 29, 72, 0.28);
+}
+.marker-high {
+  background: var(--orange);
+  box-shadow: 0 0 0 5px rgba(249, 115, 22, 0.18);
+}
+.marker-military { background: #fb923c; color: #111; }
+.marker-uprising { background: #f59e0b; }
+
+/* Subtle data update pulse / flash helper */
+.data-updated {
+  animation: data-flash 900ms ease-out;
+}
+@keyframes data-flash {
+  0% { box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.35); }
+  100% { box-shadow: 0 0 0 0 rgba(56, 189, 248, 0); }
+}
+
+/* Last updated / timestamps more prominent */
+#last-updated,
+.last-updated,
+.news-time,
+.meta span {
+  font-family: "Cascadia Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+/* Tighter panels on right stack for tactical density */
+.side-stack .panel {
+  border-color: var(--line);
+}
+.side-stack .panel-head .tag.alert {
+  border-color: var(--red);
+  color: var(--red);
+}
+
+/* Source status dots more alert-oriented */
+.source-status .status-dot.active { background: var(--red); box-shadow: 0 0 8px rgba(225,29,72,.6); }
+
+/* General polish for tactical feel */
+.panel-head { border-bottom-color: rgba(200,210,230,.08); }
+.list-item:hover { background: rgba(225, 29, 72, 0.06); }
+.stat-item, .snapshot-item { border-right-color: var(--line); border-bottom-color: var(--line); }
+
+/* Hide quake remnants if any legacy elements remain */
+.quake-panel, [data-layer="earthquakes"] { display: none !important; }
