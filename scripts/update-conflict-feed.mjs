@@ -723,7 +723,7 @@ function normalizeArticle(article, sourceName = "GDELT") {
 }
 
 function xmlTag(block, tagName) {
-  const match = block.match(new RegExp(`<${tagName}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tagName}>`, "i"));
+  const match = block.match(new RegExp(`<${tagName}(?:\s[^>]*)?>([\s\S]*?)<\/${tagName}>`, "i"));
   if (!match) return "";
   return decodeEntities(match[1].replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "").trim());
 }
