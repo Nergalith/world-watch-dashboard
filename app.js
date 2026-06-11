@@ -286,7 +286,7 @@ function renderNews() {
 
 function categories() {
   // Focused on conflict/uprising/military; Infrastructure kept only if present in data
-  const preferred = ["All", "Conflict", "Military", "Unrest", "Uprisings"];
+  const preferred = ["All", "Conflict", "Military Hotspots", "Uprisings/Protests"];
   const extras = state.events.map(e => e.category).filter(c => !preferred.includes(c));
   return [...preferred, ...new Set(extras)];
 }
@@ -301,7 +301,7 @@ function visibleEvents() {
   } else if (layer === "uprisings") {
     list = list.filter(e => ["unrest", "uprising", "protest"].some(k => (e.category || "").toLowerCase().includes(k)));
   } else if (layer === "military") {
-    list = list.filter(e => (e.category || "").toLowerCase() === "military");
+    list = list.filter(e => (e.category || "").toLowerCase().includes("military"));
   } else if (layer === "critical") {
     list = list.filter(e => (e.severity || "").toLowerCase() === "critical");
   }
