@@ -337,6 +337,9 @@ button, a { font: inherit; }
   bottom: 14px;
   width: min(350px, calc(100% - 28px));
   padding: 12px;
+  max-height: min(190px, calc(100% - 96px));
+  overflow: auto;
+  scrollbar-width: thin;
 }
 
 .map-label {
@@ -366,14 +369,16 @@ button, a { font: inherit; }
 }
 
 .selected-panel h2 {
-  margin-top: 8px;
-  font-size: 18px;
+  margin: 6px 0 0;
+  font-size: 16px;
+  line-height: 1.15;
 }
 
 .selected-panel p {
-  margin-top: 8px;
+  margin: 6px 0 0;
   color: var(--soft);
-  line-height: 1.5;
+  line-height: 1.35;
+  font-size: 13px;
 }
 
 /* ── Side stack ──────────────────────────────────────────────────────────────── */
