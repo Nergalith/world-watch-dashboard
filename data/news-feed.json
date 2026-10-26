@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-26T06:20:50.491Z",
-  "checkedAt": "2026-10-26T06:20:50.491Z",
-  "lastLiveAt": "2026-10-26T06:20:50.491Z",
+  "generatedAt": "2026-10-26T14:21:08.296Z",
+  "checkedAt": "2026-10-26T14:21:08.296Z",
+  "lastLiveAt": "2026-10-26T14:21:08.296Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,118 +10,142 @@
   ],
   "items": [
     {
-      "title": "China’s political elite gather for talks on Communist Party discipline",
-      "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 05:38:41 +0000"
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 14:16:09 GMT"
     },
     {
-      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "title": "The Price of Protest",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 05:24:59 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 14:01:08 +0000"
     },
     {
-      "title": "Israel’s election: Five key things to know",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 05:16:38 +0000"
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 13:54:21 GMT"
     },
     {
-      "title": "Social video captures moment Brazil’s election turned",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 05:01:59 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 13:20:23 +0000"
     },
     {
-      "title": "Bolsonaro calls for Brazil election result to be annulled",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+      "title": "Israel expands expulsions in occupied West Bank to cement control",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 04:36:46 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 13:11:08 +0000"
     },
     {
-      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+      "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 04:21:26 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 13:02:22 +0000"
     },
     {
-      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "title": "Has Pakistan reopened its border with Iran for trade?",
+      "link": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 04:05:44 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 13:01:16 +0000"
     },
     {
-      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 03:50:12 +0000"
-    },
-    {
-      "title": "Lula thanks Brazil’s youth for historic election win",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 03:14:26 +0000"
-    },
-    {
-      "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-      "link": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 02:59:50 +0000"
-    },
-    {
-      "title": "Seoul ‘fabricated’ landmine blast, North Korea tells UN in letter",
-      "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 02:55:15 +0000"
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 12:57:58 GMT"
     },
     {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 01:07:05 GMT"
+      "publishedAt": "Mon, 26 Oct 2026 12:52:16 GMT"
     },
     {
-      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+      "title": "Manchester United crisis: What are the top five problems facing the club?",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 01:02:57 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 12:18:12 +0000"
     },
     {
-      "title": "Serbia celebrates historic election win for student-backed movement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 00:58:21 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 12:17:02 +0000"
     },
     {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 00:16:29 +0000"
+      "title": "Five ways Trump has changed immigration in the US",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 11:29:02 GMT"
     },
     {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 00:02:55 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 11:08:48 +0000"
     },
     {
-      "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 00:00:00 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 11:04:55 +0000"
     },
     {
-      "title": "Thousands protest in Prague against public media funding reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "title": "Saudi-led coalition says it struck Houthi missile facilities",
+      "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 25 Oct 2026 23:29:13 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 10:41:23 +0000"
     },
     {
-      "title": "Venezuela’s opposition leader Machado returns after months in exile",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 25 Oct 2026 23:23:25 +0000"
+      "publishedAt": "Mon, 26 Oct 2026 10:36:48 +0000"
+    },
+    {
+      "title": "If Netanyahu loses, what changes for Palestinians?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 10:16:39 +0000"
+    },
+    {
+      "title": "Algeria’s military deployment to Niger: What’s behind the move?",
+      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 09:52:11 +0000"
+    },
+    {
+      "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
+      "link": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 09:45:25 +0000"
+    },
+    {
+      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 09:15:21 +0000"
+    },
+    {
+      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+      "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 08:43:39 +0000"
+    },
+    {
+      "title": "Lula’s victory may be a turning point for Latin America",
+      "link": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 08:41:23 +0000"
+    },
+    {
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 07:40:57 GMT"
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -136,58 +160,34 @@
       "publishedAt": "Sun, 25 Oct 2026 22:05:30 GMT"
     },
     {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 14:39:47 GMT"
-    },
-    {
       "title": "Russia to host first Olympic federation world event since Ukraine invasion",
       "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 25 Oct 2026 14:34:33 GMT"
     },
     {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 10:55:33 GMT"
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 09:00:00 GMT"
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 05:15:52 GMT"
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 02:27:15 GMT"
-    },
-    {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 24 Oct 2026 23:03:21 GMT"
-    },
-    {
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 24 Oct 2026 23:02:51 GMT"
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 24 Oct 2026 09:46:53 GMT"
+      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 18,
+      "items": 17,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-26T06:20:50.491Z"
+      "checkedAt": "2026-10-26T14:21:08.296Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 17,
-      "rawItems": 35,
+      "items": 9,
+      "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-10-26T06:20:50.491Z"
+      "checkedAt": "2026-10-26T14:21:08.296Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-26T06:20:50.491Z"
+      "checkedAt": "2026-10-26T14:21:08.296Z"
     }
   ]
 }
