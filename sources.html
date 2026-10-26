@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Sources &amp; OSINT Notes | Nergalith World Watch — Public Data Transparency</title>
     <meta name="description" content="Nergalith World Watch Sources — full list of public OSINT feeds, RSS, GDELT, curated fallbacks for conflicts, uprisings, military. Aggregates open sources only." />
-    <link rel="stylesheet" href="styles.css?v=20261026-honest-feed" />
+    <link rel="stylesheet" href="styles.css?v=20261026-country-view" />
   </head>
   <body>
     <div class="site-shell">
@@ -69,6 +69,27 @@
               <a class="source-link" href="https://news.un.org/" target="_blank" rel="noopener">UN News</a>
             </div>
           </article>
+          <article class="source-card" id="country-scoring">
+            <span class="tag live">Live</span>
+            <h2>Country View: How This Is Scored</h2>
+            <p>Every hour we collect headlines from the feeds below and tag each one with the countries it names (country names, people's nationality, and major cities or regions, for example Karachi or Balochistan for Pakistan). A headline counts as a <em>conflict report</em> if it uses words like attack, killed, militants, airstrike or fighting. We keep the last 30 days.</p>
+            <p><strong>Severity reflects how much conflict reporting a country is getting, not casualties or territory.</strong> It is the number of conflict reports per day: Red 4 or more, Orange 1.5 or more, Yellow 0.3 or more, Green below that. Grey means none of our sources named the country recently, not that it is calm. Trend compares the last 7 days with the 7 days before (escalating, cooling or steady); it needs 14 days of collection first.</p>
+            <p>Limits: this is keyword counting, not a human or AI judgement. Countries with more English-language coverage, or with their own outlets in our list (such as Pakistan), get more headlines. Always read the original story.</p>
+            <div class="source-stack">
+              <a class="source-link" href="https://www.dawn.com/" target="_blank" rel="noopener">Dawn</a>
+              <a class="source-link" href="https://tribune.com.pk/" target="_blank" rel="noopener">Express Tribune</a>
+              <a class="source-link" href="https://www.geo.tv/" target="_blank" rel="noopener">Geo News</a>
+              <a class="source-link" href="https://www.thenews.com.pk/" target="_blank" rel="noopener">The News</a>
+              <a class="source-link" href="https://www.bbc.com/news/world/asia" target="_blank" rel="noopener">BBC Asia / Europe / Latin America</a>
+              <a class="source-link" href="https://www.thehindu.com/news/international/" target="_blank" rel="noopener">The Hindu</a>
+              <a class="source-link" href="https://www.africanews.com/" target="_blank" rel="noopener">Africanews</a>
+              <a class="source-link" href="https://allafrica.com/" target="_blank" rel="noopener">AllAfrica</a>
+              <a class="source-link" href="https://www.theguardian.com/world" target="_blank" rel="noopener">The Guardian</a>
+              <a class="source-link" href="https://www.france24.com/en/" target="_blank" rel="noopener">France 24</a>
+              <a class="source-link" href="https://www.rfi.fr/en/" target="_blank" rel="noopener">RFI</a>
+            </div>
+            <p class="meta">Country borders: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain), 1:110m, simplified. Borders are shown for display only and imply no position on disputed territory.</p>
+          </article>
           <article class="source-card">
             <span class="tag note">Curated</span>
             <h2>Curated Conflict Fallback</h2>
@@ -87,6 +108,6 @@
         </section>
       </main>
     </div>
-    <script src="app.js?v=20261026-honest-feed"></script>
+    <script src="app.js?v=20261026-country-view"></script>
   </body>
 </html>

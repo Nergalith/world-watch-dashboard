@@ -34,6 +34,18 @@ Lightweight, static-friendly multi-page dashboard designed to be hosted standalo
 - Clean Nergalith branding + Map / Events / Sources navigation
 - Fully static + fast (vanilla JS + CDN MapLibre, no build step)
 
+## Country View
+
+The map shades every country by how much **conflict reporting** it is getting (Red / Orange / Yellow / Green, grey = no recent reports). Hover for the name and level; click for a panel with severity, trend, counts and the last 7 days of headlines with links to the original stories.
+
+- **Tagging** (`scripts/country-view.mjs`): each headline is tagged with the countries it names (names, nationality words, major cities/regions such as Karachi or Balochistan -> Pakistan, Gaza -> Palestine). Ambiguous names (Georgia, Jordan, Chad, Turkey) are only matched when the text does not point elsewhere. A headline is a conflict report if it contains armed-conflict keywords.
+- **Window**: `data/country-items.json` keeps a rolling 30-day window (deduped by URL and title, capped at 8,000 items). The page loads only the smaller summary `data/country-feed.json`.
+- **Severity**: conflict reports per day = conflict reports in the window / min(30, days collected + 7). Red >= 4, Orange >= 1.5, Yellow >= 0.3, otherwise Green. Countries never named stay grey ("No recent reports"), not green.
+- **Trend**: last 7 days vs the previous 7 days (escalating if at least 1.5x and 3 more; cooling if the reverse; otherwise steady). Shows "not enough data" until 14 days have been collected or when counts are small.
+- **Honesty**: severity reflects reporting volume, not casualties or territory. It is keyword counting, so it is biased towards countries with more English-language coverage or with their own outlets in the source list.
+- **Sources**: the conflict and news feeds above plus Dawn, Express Tribune, Geo News, The News (Pakistan), BBC Asia/Europe/Latin America, The Hindu, Africanews, AllAfrica, The Guardian, France 24 and RFI. Borders: Natural Earth 1:110m (public domain), simplified in `data/countries.geojson`.
+- **Tests**: `node scripts/test-country-view.mjs`.
+
 ## Refresh Workflow (unchanged)
 
 - `.github/workflows/update-conflict-feed.yml` (cron + git-auto-commit)

@@ -1,4 +1,5 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { tagCountries, isConflictText, scoreCountries, mergeWindow, THRESHOLDS, WINDOW_DAYS } from "./country-view.mjs";
 
 const USER_AGENT = "NergalithWorldConflictTracking/1.0";
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
@@ -948,15 +949,22 @@ async function fetchACLED() {
   }
 }
 
+// One fetch per feed URL per run; the conflict feed, news strip and country view share it.
+const xmlCache = new Map();
+function fetchXml(url) {
+  if (!xmlCache.has(url)) {
+    xmlCache.set(url, fetchWithRetry(url, { attempts: 2, baseDelayMs: 3000 }).then(response => response.text()));
+  }
+  return xmlCache.get(url);
+}
+
 async function fetchRssEvents(source) {
-  const response = await fetchWithRetry(source.url, { attempts: 2, baseDelayMs: 3000 });
-  const xml = await response.text();
+  const xml = await fetchXml(source.url);
   return { raw: xmlItems(xml).length, events: parseRssItems(xml, source.name) };
 }
 
 async function fetchRssNews(source) {
-  const response = await fetchWithRetry(source.url, { attempts: 2, baseDelayMs: 3000 });
-  const xml = await response.text();
+  const xml = await fetchXml(source.url);
   return { raw: xmlItems(xml).length, items: parseNewsItems(xml, source.name) };
 }
 
@@ -1106,6 +1114,88 @@ function ageText(fromIso, toIso) {
   return hours < 1 ? "under 1 hour" : hours < 48 ? `${hours} hours` : `${Math.round(hours / 24)} days`;
 }
 
+// Extra feeds used only for the country view, chosen for local coverage (South Asia, Africa,
+// Latin America, Europe). Each was checked to return items before being added.
+const COUNTRY_EXTRA_SOURCES = [
+  { name: "Dawn (Pakistan)", url: "https://www.dawn.com/feeds/pakistan" },
+  { name: "Dawn (Home)", url: "https://www.dawn.com/feeds/home" },
+  { name: "Express Tribune (Pakistan)", url: "https://tribune.com.pk/feed/pakistan" },
+  { name: "Geo News", url: "https://www.geo.tv/rss/1/1" },
+  { name: "The News International", url: "https://www.thenews.com.pk/rss/1/1" },
+  { name: "BBC Asia", url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml" },
+  { name: "The Hindu (International)", url: "https://www.thehindu.com/news/international/feeder/default.rss" },
+  { name: "Africanews", url: "https://www.africanews.com/feed/rss" },
+  { name: "AllAfrica", url: "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf" },
+  { name: "BBC Latin America", url: "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" },
+  { name: "BBC Europe", url: "https://feeds.bbci.co.uk/news/world/europe/rss.xml" },
+  { name: "The Guardian World", url: "https://www.theguardian.com/world/rss" },
+  { name: "France 24", url: "https://www.france24.com/en/rss" },
+  { name: "RFI English", url: "https://www.rfi.fr/en/rss" }
+];
+
+function parseCountryItems(xml, sourceName, fetchedAt) {
+  return xmlItems(xml).map(block => {
+    const title = stripHtml(decodeEntities(xmlTag(block, "title")));
+    const url = safeUrl(xmlTag(block, "link"));
+    if (!title || !url) return null;
+    const summary = stripHtml(decodeEntities(xmlTag(block, "description"))).slice(0, 400);
+    const published = Date.parse(xmlTag(block, "pubDate") || xmlTag(block, "updated") || xmlTag(block, "dc:date") || xmlTag(block, "published"));
+    const date = new Date(Number.isFinite(published) ? Math.min(published, Date.parse(fetchedAt)) : Date.parse(fetchedAt)).toISOString();
+    // Countries come from the headline; the summary is only used when the headline names none
+    // (summaries often mention the outlet's home country in passing).
+    let countries = tagCountries(title);
+    if (!countries.length) countries = tagCountries(summary);
+    if (!countries.length) return null;
+    return { title, url, source: sourceName, date, countries, conflict: isConflictText(`${title}. ${summary}`) };
+  }).filter(Boolean);
+}
+
+async function updateCountryView(now, sources) {
+  const statuses = [];
+  const incoming = [];
+  const seen = new Set();
+  for (const source of sources) {
+    if (seen.has(source.url)) continue;
+    seen.add(source.url);
+    try {
+      const xml = await fetchXml(source.url);
+      const raw = xmlItems(xml).length;
+      const items = parseCountryItems(xml, source.name, now);
+      incoming.push(...items);
+      statuses.push(sourceStatus(source.name, "country", now, { status: raw ? "up" : "empty", items: items.length, rawItems: raw }));
+    } catch (error) {
+      console.error(`${source.name} (country view): ${error.message}`);
+      statuses.push(sourceStatus(source.name, "country", now, { status: "failed", error: error.message }));
+    }
+  }
+
+  // Rolling window of tagged headlines (used by the updater only; the page loads the smaller summary).
+  const previous = await readJson("data/country-items.json");
+  const nowMs = Date.parse(now);
+  const items = mergeWindow(previous?.items || [], incoming, { now: nowMs });
+  const collectingSince = previous?.collectingSince || now;
+  await writeFile("data/country-items.json", `${JSON.stringify({ collectingSince, updatedAt: now, windowDays: WINDOW_DAYS, items })}\n`);
+
+  const { coverageDays, countries } = scoreCountries(items, { now: nowMs, collectingSince });
+  const summary = {
+    generatedAt: now,
+    lastLiveAt: incoming.length ? now : previous?.updatedAt || null,
+    mode: incoming.length ? "live" : "stale",
+    collectingSince,
+    coverageDays,
+    windowDays: WINDOW_DAYS,
+    thresholds: THRESHOLDS,
+    itemCount: items.length,
+    newThisRun: incoming.length,
+    sources: statuses.filter(s => s.items).map(s => s.name),
+    sourceStatus: statuses,
+    countries
+  };
+  await writeFile("data/country-feed.json", `${JSON.stringify(summary)}\n`);
+  console.log(`Country view: ${incoming.length} tagged items this run, ${items.length} in ${WINDOW_DAYS}-day window, ${Object.keys(countries).length} countries`);
+  return statuses;
+}
+
 async function main() {
   const now = new Date().toISOString();
   const liveEvents = [];
@@ -1213,8 +1303,9 @@ async function main() {
 
   await writeFile("data/news-feed.json", `${JSON.stringify(newsFeed, null, 2)}\n`);
   console.log(`News feed: mode=${newsFeed.mode}, ${newsFeed.items.length} items`);
+  const countryStatuses = await updateCountryView(now, [...rssSources, ...newsSources, ...COUNTRY_EXTRA_SOURCES]);
   console.log("\nSource status:");
-  for (const s of [...statuses, ...newsStatuses]) {
+  for (const s of [...statuses, ...newsStatuses, ...countryStatuses]) {
     console.log(`  [${s.kind}] ${s.name.padEnd(28)} ${s.status.padEnd(8)} items=${s.items}${s.rawItems != null ? ` (raw ${s.rawItems})` : ""}${s.error ? ` ${s.error}` : ""}`);
   }
 }

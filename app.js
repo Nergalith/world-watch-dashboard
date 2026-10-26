@@ -93,7 +93,10 @@ const state = {
   newsMeta: { sourceStatus: [] },
   map: null,
   markers: [],
-  selected: null
+  selected: null,
+  countryMeta: null,
+  countryShapes: null,
+  showCountries: true
 };
 
 // ─── Utilities ─────────────────────────────────────────────────────────────────
@@ -301,7 +304,7 @@ function statusRows(list) {
 }
 
 function renderSourceStatus() {
-  const all = [...(state.feedMeta.sourceStatus || []), ...(state.newsMeta.sourceStatus || [])];
+  const all = [...(state.feedMeta.sourceStatus || []), ...(state.newsMeta.sourceStatus || []), ...(state.countryMeta?.sourceStatus || [])];
   const table = $("#source-status-table");
   if (table) {
     table.innerHTML = all.length
@@ -689,7 +692,11 @@ function createMap() {
   // Robust resize handling (grid layouts + window resizes often need this)
   const doResize = () => { if (state.map) state.map.resize(); };
 
+  // Re-add the country fill whenever a style finishes loading (also covers the fallback basemap).
+  state.map.on("style.load", () => addCountryLayer());
+
   state.map.on("load", () => {
+    addCountryLayer();
     renderMapLayers();
     // Explicit resize inside load handler (critical for MapLibre + dynamic flex/grid layouts)
     if (state.map) state.map.resize();
@@ -758,6 +765,7 @@ function addMarker(item, className, label, onClick) {
 
   // Rich popup on click (in addition to side panel)
   el.addEventListener("click", (ev) => {
+    state.markerClickAt = Date.now(); // stops the country underneath from also opening
     if (onClick) onClick(ev);
     if (state.map) {
       new maplibregl.Popup({ closeButton: true, closeOnClick: true })
@@ -842,6 +850,15 @@ function wireControls() {
       return;
     }
 
+    const countryToggle = event.target.closest("#country-toggle");
+    if (countryToggle) {
+      state.showCountries = !state.showCountries;
+      countryToggle.classList.toggle("active", state.showCountries);
+      countryToggle.setAttribute("aria-pressed", String(state.showCountries));
+      setCountryVisibility();
+      return;
+    }
+
     // Click in compact event list or top/alerts → select
     const evItem = event.target.closest("[data-event-index]");
     if (evItem) {
@@ -886,8 +903,199 @@ async function init() {
   // Start auto-refresh for live tactical feel
   startAutoRefresh();
 
-  // News (non-blocking)
+  // News and country view (non-blocking)
   loadNewsFeed();
+  loadCountryView();
+}
+
+
+// ─── Country view: shaded countries + click for a 7-day brief ──────────────────
+// Severity reflects how much conflict reporting a country is getting, not casualties or territory.
+
+const COUNTRY_COLORS = { RED: "#d64541", ORANGE: "#e8862a", YELLOW: "#e3c84a", GREEN: "#4f9d69", NONE: "#3a3f4a" };
+const SEVERITY_WORDS = {
+  RED: "Red: very heavy conflict reporting",
+  ORANGE: "Orange: heavy conflict reporting",
+  YELLOW: "Yellow: some conflict reporting",
+  GREEN: "Green: little conflict reporting",
+  NONE: "No recent reports"
+};
+let countryHoverPopup = null;
+
+async function loadCountryView() {
+  try {
+    const needsShapes = Boolean($("#world-map"));
+    const [feedRes, shapesRes] = await Promise.all([
+      fetch("data/country-feed.json", { cache: "no-store" }),
+      needsShapes ? fetch("data/countries.geojson") : Promise.resolve(null)
+    ]);
+    if (!feedRes.ok) throw new Error(`country feed HTTP ${feedRes.status}`);
+    state.countryMeta = await feedRes.json();
+    if (shapesRes && shapesRes.ok) state.countryShapes = await shapesRes.json();
+    renderSourceStatus();
+    renderCountryNote();
+    addCountryLayer();
+  } catch (error) {
+    console.warn("Country view unavailable:", error.message);
+    const note = $("#country-note");
+    if (note) note.textContent = "Country shading is unavailable right now.";
+  }
+}
+
+function countryInfo(id) {
+  return state.countryMeta?.countries?.[id] || null;
+}
+
+function countryShapesWithSeverity() {
+  if (!state.countryShapes) return null;
+  return {
+    type: "FeatureCollection",
+    features: state.countryShapes.features.map(f => ({
+      ...f,
+      properties: { ...f.properties, severity: countryInfo(f.properties.id)?.severity || "NONE" }
+    }))
+  };
+}
+
+function firstSymbolLayerId() {
+  const layers = state.map?.getStyle()?.layers || [];
+  return layers.find(layer => layer.type === "symbol")?.id;
+}
+
+function addCountryLayer() {
+  const map = state.map;
+  const data = countryShapesWithSeverity();
+  if (!map || !data || !map.isStyleLoaded()) return;
+  try {
+    if (map.getSource("countries")) {
+      map.getSource("countries").setData(data);
+    } else {
+      map.addSource("countries", { type: "geojson", data, promoteId: "id" });
+      const before = firstSymbolLayerId();
+      map.addLayer({
+        id: "country-fill",
+        type: "fill",
+        source: "countries",
+        paint: {
+          "fill-color": ["match", ["get", "severity"],
+            "RED", COUNTRY_COLORS.RED, "ORANGE", COUNTRY_COLORS.ORANGE, "YELLOW", COUNTRY_COLORS.YELLOW,
+            "GREEN", COUNTRY_COLORS.GREEN, COUNTRY_COLORS.NONE],
+          "fill-opacity": ["case", ["boolean", ["feature-state", "hover"], false], 0.75, ["match", ["get", "severity"], "NONE", 0.25, 0.5]]
+        }
+      }, before);
+      map.addLayer({
+        id: "country-line",
+        type: "line",
+        source: "countries",
+        paint: { "line-color": "#0b0f16", "line-width": 0.6, "line-opacity": 0.8 }
+      }, before);
+      wireCountryEvents();
+    }
+    setCountryVisibility();
+  } catch (error) {
+    console.warn("Could not add country layer:", error.message);
+  }
+}
+
+let countryEventsWired = false;
+let hoveredCountryId = null;
+function wireCountryEvents() {
+  const map = state.map;
+  if (countryEventsWired || !map) return;
+  countryEventsWired = true;
+
+  map.on("mousemove", "country-fill", e => {
+    const feature = e.features?.[0];
+    if (!feature) return;
+    map.getCanvas().style.cursor = "pointer";
+    const id = feature.properties.id;
+    if (hoveredCountryId !== id) {
+      if (hoveredCountryId) map.setFeatureState({ source: "countries", id: hoveredCountryId }, { hover: false });
+      hoveredCountryId = id;
+      map.setFeatureState({ source: "countries", id }, { hover: true });
+    }
+    const info = countryInfo(id);
+    const label = info ? `${SEVERITY_WORDS[info.severity]}${info.trend && info.trend !== "not enough data" ? ` · ${info.trend}` : ""}` : SEVERITY_WORDS.NONE;
+    if (!countryHoverPopup) countryHoverPopup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, className: "country-hover", offset: 12 });
+    countryHoverPopup.setLngLat(e.lngLat).setHTML(`<strong>${escapeHtml(feature.properties.name)}</strong><br>${escapeHtml(label)}`).addTo(map);
+  });
+
+  map.on("mouseleave", "country-fill", () => {
+    map.getCanvas().style.cursor = "";
+    if (hoveredCountryId) map.setFeatureState({ source: "countries", id: hoveredCountryId }, { hover: false });
+    hoveredCountryId = null;
+    if (countryHoverPopup) countryHoverPopup.remove();
+  });
+
+  map.on("click", "country-fill", e => {
+    const feature = e.features?.[0];
+    if (!feature) return;
+    if (Date.now() - (state.markerClickAt || 0) < 400) return; // a marker was clicked
+    selectCountry(feature.properties.id, feature.properties.name);
+  });
+}
+
+function setCountryVisibility() {
+  const map = state.map;
+  if (!map) return;
+  ["country-fill", "country-line"].forEach(id => {
+    if (map.getLayer(id)) map.setLayoutProperty(id, "visibility", state.showCountries ? "visible" : "none");
+  });
+  if (!state.showCountries && countryHoverPopup) countryHoverPopup.remove();
+}
+
+function shortDate(value = "") {
+  const time = Date.parse(value);
+  if (!Number.isFinite(time)) return "";
+  return new Date(time).toLocaleDateString(undefined, { day: "numeric", month: "short" });
+}
+
+function countryBriefHtml(id, name) {
+  const info = countryInfo(id);
+  const meta = state.countryMeta;
+  const howLink = `<a class="country-how" href="sources.html#country-scoring">How this is scored</a>`;
+  if (!info) {
+    return `
+      <span class="tag sev-none">No recent reports</span>
+      <h2>${escapeHtml(name)}</h2>
+      <p>None of the sources we follow have named ${escapeHtml(name)} in the last ${meta?.windowDays || 30} days. That does not mean nothing is happening there.</p>
+      <p class="country-fine">${howLink}</p>`;
+  }
+  const trend = info.trend === "not enough data" ? "Trend: not enough data yet" : `Trend: ${info.trend}`;
+  const headlines = info.headlines || [];
+  const list = headlines.length
+    ? `<ul class="country-headlines">${headlines.map(h => `
+        <li${h.conflict ? ' class="is-conflict"' : ""}>
+          <a href="${escapeHtml(h.url)}" target="_blank" rel="noopener">${escapeHtml(h.title)}</a>
+          <span>${escapeHtml(h.source)} · ${escapeHtml(shortDate(h.date))}</span>
+        </li>`).join("")}</ul>`
+    : `<p>No headlines in the last 7 days.</p>`;
+  return `
+    <span class="tag sev-${info.severity.toLowerCase()}">${escapeHtml(SEVERITY_WORDS[info.severity])}</span>
+    <h2>${escapeHtml(name)}</h2>
+    <p class="country-stats">${escapeHtml(trend)}<br>
+      ${info.conflictReports} conflict reports and ${info.mentions} ${info.mentions === 1 ? "mention" : "mentions"} in the last ${meta?.windowDays || 30} days · ${info.conflictLast7} conflict reports this week</p>
+    <h3 class="country-sub">Last 7 days${headlines.length >= 15 ? " (top 15)" : ""}</h3>
+    ${list}
+    <p class="country-fine">Severity reflects how much conflict reporting a country is getting, not casualties or territory. ${howLink}</p>`;
+}
+
+function selectCountry(id, name) {
+  const panel = $("#selected-panel");
+  if (!panel) return;
+  panel.innerHTML = countryBriefHtml(id, name);
+  panel.classList.add("country-open");
+  panel.scrollTop = 0;
+}
+
+function renderCountryNote() {
+  const note = $("#country-note");
+  const meta = state.countryMeta;
+  if (!note || !meta) return;
+  const days = meta.coverageDays || 0;
+  note.textContent = days < 14
+    ? `Collecting since ${shortDate(meta.collectingSince)}; colours will settle as more days are collected.`
+    : `Based on ${meta.itemCount} headlines from ${meta.sources?.length || 0} sources over ${meta.windowDays} days.`;
 }
 
 init();
