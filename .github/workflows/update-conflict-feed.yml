@@ -32,4 +32,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update conflict feed"
-          file_pattern: data/conflict-feed.json data/news-feed.json
+          file_pattern: data/conflict-feed.json data/news-feed.json data/country-feed.json data/country-items.json
