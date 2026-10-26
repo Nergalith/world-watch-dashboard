@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20261026-honest-feed" />
+    <link rel="stylesheet" href="styles.css?v=20261026-country-view" />
     <script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
   </head>
   <body class="dashboard-page">
@@ -71,6 +71,18 @@
               <button class="layer-toggle" data-layer="military" type="button">Military Hotspots</button>
               <button class="layer-toggle" data-layer="critical" type="button">Critical Areas Only</button>
             </div>
+            <div class="monitor-label">Map Layers</div>
+            <div class="country-layer-bank">
+              <button class="layer-toggle active" id="country-toggle" type="button" aria-pressed="true">Countries (conflict reporting)</button>
+            </div>
+            <div class="country-legend" aria-label="Country colour key">
+              <span><i style="background:#d64541"></i>Very heavy</span>
+              <span><i style="background:#e8862a"></i>Heavy</span>
+              <span><i style="background:#e3c84a"></i>Some</span>
+              <span><i style="background:#4f9d69"></i>Little</span>
+              <span><i style="background:#3a3f4a"></i>No recent reports</span>
+            </div>
+            <p class="country-note"><span id="country-note">Loading country view…</span> <a href="sources.html#country-scoring">How this is scored</a></p>
             <div class="source-status" id="source-status-mini">
               <div><span class="status-dot active"></span> GDELT + UN + Crisis Group</div>
               <div><span class="status-dot active"></span> Curated regional watch</div>
@@ -98,8 +110,8 @@
           <!-- Selected detail (enhanced; also powered by map popups) -->
           <aside class="selected-panel" id="selected-panel">
             <span class="tag">OSINT Signal</span>
-            <h2>Select a marker</h2>
-            <p>Click or tap any marker for summary, sources, and direct links to public reporting.</p>
+            <h2>Select a country or marker</h2>
+            <p>Tap a country for its last 7 days of headlines, or a marker for a conflict signal.</p>
           </aside>
         </section>
 
@@ -148,6 +160,6 @@
       </section>
 
     </div>
-    <script src="app.js?v=20261026-honest-feed"></script>
+    <script src="app.js?v=20261026-country-view"></script>
   </body>
 </html>
