@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-26T14:21:08.296Z",
-  "checkedAt": "2026-10-26T14:21:08.296Z",
-  "lastLiveAt": "2026-10-26T14:21:08.296Z",
+  "generatedAt": "2026-10-26T20:33:39.282Z",
+  "checkedAt": "2026-10-26T20:33:39.282Z",
+  "lastLiveAt": "2026-10-26T20:33:39.282Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,70 +10,148 @@
   ],
   "items": [
     {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 20:00:30 GMT"
+    },
+    {
+      "title": "Jordan arrests three suspects over deadly church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 19:25:53 +0000"
+    },
+    {
+      "title": "Brazil’s real sinks after Lula’s re-election victory",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 18:27:23 +0000"
+    },
+    {
+      "title": "Could the midterms change US military support for Israel?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 18:05:12 +0000"
+    },
+    {
+      "title": "Zelenskyy says peace talks with Russia, US to restart",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 17:58:14 +0000"
+    },
+    {
+      "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 17:55:59 +0000"
+    },
+    {
+      "title": "Algeria’s president orders troop deployment to neighbouring Niger",
+      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 17:55:47 +0000"
+    },
+    {
+      "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+      "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 17:27:34 +0000"
+    },
+    {
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 17:00:09 GMT"
+    },
+    {
+      "title": "Delegations arrive in Tehran for security talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 16:55:19 +0000"
+    },
+    {
+      "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 16:51:13 +0000"
+    },
+    {
+      "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 16:39:48 +0000"
+    },
+    {
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 16:30:34 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 16:12:00 +0000"
+    },
+    {
+      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 15:44:59 +0000"
+    },
+    {
+      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 15:41:29 +0000"
+    },
+    {
+      "title": "What does the Israeli election mean for religious groups?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 15:40:41 +0000"
+    },
+    {
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 15:37:33 GMT"
+    },
+    {
+      "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+      "link": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 14:38:50 +0000"
+    },
+    {
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT"
+    },
+    {
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 26 Oct 2026 14:27:32 GMT"
+    },
+    {
       "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
       "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 26 Oct 2026 14:16:09 GMT"
     },
     {
-      "title": "The Price of Protest",
-      "link": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 14:01:08 +0000"
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 13:54:21 GMT"
-    },
-    {
-      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 13:20:23 +0000"
-    },
-    {
-      "title": "Israel expands expulsions in occupied West Bank to cement control",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 13:11:08 +0000"
-    },
-    {
-      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 13:02:22 +0000"
-    },
-    {
-      "title": "Has Pakistan reopened its border with Iran for trade?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 13:01:16 +0000"
-    },
-    {
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 12:57:58 GMT"
-    },
-    {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 12:52:16 GMT"
-    },
-    {
-      "title": "Manchester United crisis: What are the top five problems facing the club?",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 12:18:12 +0000"
-    },
-    {
-      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 12:17:02 +0000"
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Five ways Trump has changed immigration in the US",
@@ -82,88 +160,16 @@
       "publishedAt": "Mon, 26 Oct 2026 11:29:02 GMT"
     },
     {
-      "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 11:08:48 +0000"
-    },
-    {
-      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
-      "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 11:04:55 +0000"
-    },
-    {
-      "title": "Saudi-led coalition says it struck Houthi missile facilities",
-      "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 10:41:23 +0000"
-    },
-    {
-      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
-      "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 10:36:48 +0000"
-    },
-    {
-      "title": "If Netanyahu loses, what changes for Palestinians?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 10:16:39 +0000"
-    },
-    {
-      "title": "Algeria’s military deployment to Niger: What’s behind the move?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 09:52:11 +0000"
-    },
-    {
-      "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
-      "link": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 09:45:25 +0000"
-    },
-    {
-      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 09:15:21 +0000"
-    },
-    {
-      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 08:43:39 +0000"
-    },
-    {
-      "title": "Lula’s victory may be a turning point for Latin America",
-      "link": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 08:41:23 +0000"
-    },
-    {
       "title": "China's big political meeting could see Xi 'tighten discipline' in party",
       "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 26 Oct 2026 07:40:57 GMT"
     },
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 22:11:13 GMT"
-    },
-    {
       "title": "Why Israel's election is one of the most important in its history",
       "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 25 Oct 2026 22:05:30 GMT"
-    },
-    {
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 14:34:33 GMT"
     },
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
       "source": "UN News",
       "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-      "source": "UN News",
-      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 17,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-26T14:21:08.296Z"
+      "checkedAt": "2026-10-26T20:33:39.282Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 9,
-      "rawItems": 26,
+      "items": 10,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-10-26T14:21:08.296Z"
+      "checkedAt": "2026-10-26T20:33:39.282Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-26T14:21:08.296Z"
+      "checkedAt": "2026-10-26T20:33:39.282Z"
     }
   ]
 }
