@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://unpkg.com" />
     <link rel="preconnect" href="https://basemaps.cartocdn.com" />
     <link href="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.css" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=202606-panel-fit" />
+    <link rel="stylesheet" href="styles.css?v=20261026-honest-feed" />
     <script src="https://unpkg.com/maplibre-gl@5.7.3/dist/maplibre-gl.js"></script>
   </head>
   <body class="dashboard-page">
@@ -33,6 +33,8 @@
           <div class="status-pill" id="feed-status">Loading OSINT feed</div>
         </div>
       </header>
+
+      <div class="feed-mode-banner" id="feed-mode-banner" role="status" hidden></div>
 
       <!-- Prominent OSINT disclaimer (exact per requirements) -->
       <div class="osint-disclaimer" role="note" aria-label="Public OSINT disclaimer">
@@ -59,7 +61,7 @@
           <section class="panel monitor-panel">
             <div class="panel-head">
               <span>Threat Layers</span>
-              <span class="tag live">Live OSINT</span>
+              <span class="tag note" id="layers-live-tag">Checking</span>
             </div>
             <div class="monitor-label">Filter Map</div>
             <div class="layer-bank">
@@ -69,7 +71,7 @@
               <button class="layer-toggle" data-layer="military" type="button">Military Hotspots</button>
               <button class="layer-toggle" data-layer="critical" type="button">Critical Areas Only</button>
             </div>
-            <div class="source-status">
+            <div class="source-status" id="source-status-mini">
               <div><span class="status-dot active"></span> GDELT + UN + Crisis Group</div>
               <div><span class="status-dot active"></span> Curated regional watch</div>
               <div><span class="status-dot standby"></span> Public RSS news</div>
@@ -146,6 +148,6 @@
       </section>
 
     </div>
-    <script src="app.js?v=202606-panel-fit"></script>
+    <script src="app.js?v=20261026-honest-feed"></script>
   </body>
 </html>

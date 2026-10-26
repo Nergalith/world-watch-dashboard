@@ -1,4 +1,32 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+
+const USER_AGENT = "NergalithWorldConflictTracking/1.0";
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+// Fetch with timeout and a small, polite retry (max 3 attempts). Honors Retry-After on 429/503.
+async function fetchWithRetry(url, { attempts = 3, baseDelayMs = 5000, timeoutMs = 25000 } = {}) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      const response = await fetch(url, { headers: { "user-agent": USER_AGENT }, signal: AbortSignal.timeout(timeoutMs) });
+      if (response.ok) return response;
+      lastError = new Error(`HTTP ${response.status}`);
+      if (![429, 500, 502, 503, 504].includes(response.status)) throw lastError;
+      const retryAfter = Number(response.headers.get("retry-after"));
+      const delay = Number.isFinite(retryAfter) && retryAfter > 0 ? Math.min(retryAfter * 1000, 60000) : baseDelayMs * 2 ** (attempt - 1);
+      if (attempt < attempts) {
+        console.log(`  ${url.slice(0, 60)}... ${lastError.message}, retry ${attempt}/${attempts - 1} in ${Math.round(delay / 1000)}s`);
+        await sleep(delay);
+      }
+    } catch (error) {
+      lastError = error.name === "TimeoutError" ? new Error("timeout") : error;
+      if (/^HTTP 4/.test(lastError.message) && !lastError.message.includes("429")) throw lastError;
+      if (attempt < attempts) await sleep(baseDelayMs * 2 ** (attempt - 1));
+    }
+  }
+  throw lastError;
+}
+
 
 const regions = [
   { name: "Ukraine", coords: [36.23, 49.99], keywords: ["ukraine", "kyiv", "kharkiv", "donetsk", "luhansk", "zaporizhzhia", "crimea", "russia"] },
@@ -34,7 +62,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Israel-Gaza and regional spillover remain under watch",
@@ -48,7 +77,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Red Sea corridor remains under elevated security watch",
@@ -62,7 +92,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Sudan conflict continues to drive regional instability",
@@ -76,7 +107,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Pakistan-Afghanistan border activity remains a watch point",
@@ -90,7 +122,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "South China Sea military pressure remains elevated",
@@ -104,7 +137,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Myanmar conflict activity remains under monitoring",
@@ -118,7 +152,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Sahel security pressure remains regionally significant",
@@ -132,7 +167,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Haiti gang violence remains a public security watch point",
@@ -146,7 +182,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Korean Peninsula military signaling remains under watch",
@@ -160,7 +197,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Gaza humanitarian crisis and operations continue",
@@ -174,7 +212,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "RSF-SAF clashes persist across Sudan",
@@ -188,7 +227,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Houthi maritime attacks in Red Sea",
@@ -202,7 +242,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Protests and crackdowns in Myanmar",
@@ -216,7 +257,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "DRC M23 and allied forces activity",
@@ -230,7 +272,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Iran-Israel tensions and proxy actions",
@@ -244,7 +287,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Taiwan Strait PLA maneuvers",
@@ -258,7 +302,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Sahel coups and jihadist expansion",
@@ -272,7 +317,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Intense fighting in eastern Ukraine frontlines",
@@ -286,7 +332,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Gaza ground operations and airstrikes escalate",
@@ -300,7 +347,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "RSF advances and SAF counteroffensives in Sudan",
@@ -314,7 +362,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Houthi attacks on commercial shipping in Red Sea",
@@ -328,7 +377,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Large-scale protests against military rule in Myanmar",
@@ -342,7 +392,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "M23 rebel offensive near Goma, DRC",
@@ -356,7 +407,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Iran-backed proxy attacks on US assets in Middle East",
@@ -370,7 +422,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "PLA naval exercises encircling Taiwan",
@@ -384,7 +437,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Jihadist attacks and military responses in Sahel",
@@ -398,7 +452,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Border clashes between Pakistan and Afghanistan",
@@ -412,7 +467,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "South China Sea island building and patrols intensify",
@@ -426,7 +482,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   // === NEW high-priority fallbacks for current events (US-Iran, etc.) ===
   {
@@ -441,7 +498,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Iranian missile strikes on US Gulf bases",
@@ -455,7 +513,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "US airstrikes on Iranian targets near Tehran",
@@ -469,7 +528,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Red Sea Houthi attacks on US and allied shipping intensify",
@@ -483,7 +543,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Israel-Gaza ceasefire collapses with new rocket and airstrike exchanges",
@@ -497,7 +558,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Sudan RSF captures key capital districts in Khartoum fighting",
@@ -511,7 +573,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Ukraine forces repel major Russian offensive near Donetsk",
@@ -525,7 +588,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Pakistan-Afghanistan border skirmishes kill dozens in cross-border fire",
@@ -539,7 +603,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "China-Philippines naval standoff escalates in South China Sea",
@@ -553,7 +618,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Iranian proxies launch fresh attacks on Israel from multiple fronts",
@@ -567,7 +633,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Major protests erupt in Tehran over economic crisis and foreign policy",
@@ -581,7 +648,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "US carrier strike group deploys to Persian Gulf in response to Iran",
@@ -595,7 +663,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Red Sea coalition launches strikes on Houthi positions in Yemen",
@@ -609,7 +678,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Syrian regime and rebels clash near Damascus amid regional spillover",
@@ -623,7 +693,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   },
   {
     title: "Iraq militias strike US interests in retaliation for Hormuz strikes",
@@ -637,7 +708,8 @@ const fallbackEvents = [
     sourceName: "Curated fallback",
     sourceCount: 1,
     reportCount: 1,
-    confidence: "Single Source"
+    confidence: "Single Source",
+    curated: true
   }
 ];
 
@@ -722,25 +794,40 @@ function normalizeArticle(article, sourceName = "GDELT") {
   };
 }
 
+// Small tolerant RSS/Atom helpers. NOTE: the old version built the regex from a template
+// string, which silently turned "\\s" into "s" and "[\\s\\S]" into "[sS]", so no tag ever matched.
 function xmlTag(block, tagName) {
-  const match = block.match(new RegExp(`<${tagName}(?:\s[^>]*)?>([\s\S]*?)<\/${tagName}>`, "i"));
-  if (!match) return "";
-  return decodeEntities(match[1].replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "").trim());
+  const pattern = new RegExp("<" + tagName + "(?:\\s[^>]*)?>([\\s\\S]*?)</" + tagName + ">", "i");
+  const match = block.match(pattern);
+  if (!match) {
+    // Atom-style <link href="..."/>
+    if (tagName === "link") {
+      const href = block.match(/<link\b[^>]*\bhref=["']([^"']+)["']/i);
+      return href ? decodeEntities(href[1]) : "";
+    }
+    return "";
+  }
+  const inner = match[1].trim().replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1");
+  return decodeEntities(inner.trim());
+}
+
+function xmlItems(xml) {
+  return [...String(xml).matchAll(/<(item|entry)\b[\s\S]*?<\/\1>/gi)].map(match => match[0]);
 }
 
 function parseRssItems(xml, sourceName) {
-  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(match => match[0]);
+  const items = xmlItems(xml);
   return items.map(item => normalizeArticle({
     title: xmlTag(item, "title"),
     url: xmlTag(item, "link"),
     description: stripHtml(xmlTag(item, "description")),
-    pubDate: xmlTag(item, "pubDate"),
+    pubDate: xmlTag(item, "pubDate") || xmlTag(item, "updated"),
     domain: xmlTag(item, "source") || sourceName
   }, sourceName)).filter(Boolean);
 }
 
 function parseNewsItems(xml, sourceName) {
-  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(match => match[0]);
+  const items = xmlItems(xml);
   return items.map(item => {
     const title = stripHtml(decodeEntities(xmlTag(item, "title")));
     const link = safeUrl(xmlTag(item, "link"));
@@ -750,7 +837,7 @@ function parseNewsItems(xml, sourceName) {
       title,
       link,
       source: sourceName,
-      publishedAt: xmlTag(item, "pubDate")
+      publishedAt: xmlTag(item, "pubDate") || xmlTag(item, "updated")
     };
   }).filter(Boolean);
 }
@@ -797,8 +884,8 @@ async function fetchGdeltEvents() {
   ];
   const query = terms.join(" OR ");
   const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(query)}&mode=ArtList&format=json&maxrecords=500&timespan=3d&sort=datedesc`;
-  const response = await fetch(url, { headers: { "user-agent": "NergalithWorldConflictTracking/1.0" } });
-  if (!response.ok) throw new Error(`GDELT ${response.status}`);
+  // GDELT rate-limits aggressively (HTTP 429); back off 10s, 20s between at most 3 attempts.
+  const response = await fetchWithRetry(url, { attempts: 3, baseDelayMs: 10000 });
   const data = await response.json();
   const collected = [];
   for (const article of data.articles || []) {
@@ -862,16 +949,15 @@ async function fetchACLED() {
 }
 
 async function fetchRssEvents(source) {
-  const response = await fetch(source.url, { headers: { "user-agent": "NergalithWorldConflictTracking/1.0" } });
-  if (!response.ok) throw new Error(`${source.name} ${response.status}`);
+  const response = await fetchWithRetry(source.url, { attempts: 2, baseDelayMs: 3000 });
   const xml = await response.text();
-  return parseRssItems(xml, source.name);
+  return { raw: xmlItems(xml).length, events: parseRssItems(xml, source.name) };
 }
 
 async function fetchRssNews(source) {
-  const response = await fetch(source.url, { headers: { "user-agent": "NergalithWorldConflictTracking/1.0" } });
-  if (!response.ok) throw new Error(`${source.name} ${response.status}`);
-  return parseNewsItems(await response.text(), source.name);
+  const response = await fetchWithRetry(source.url, { attempts: 2, baseDelayMs: 3000 });
+  const xml = await response.text();
+  return { raw: xmlItems(xml).length, items: parseNewsItems(xml, source.name) };
 }
 
 function dedupeNews(items) {
@@ -993,150 +1079,144 @@ function groupSignals(events) {
     .slice(0, 80);
 }
 
-async function main() {
-  let events = [];
-  const sourcesUsed = [];
-  let statusLabel = "Conflict feed";
-
-  // ACLED for richer conflict data (optional; provide ACLED_API_KEY + ACLED_EMAIL in CI secrets for live)
+async function readJson(path) {
   try {
-    const acledEvents = await fetchACLED();
-    if (acledEvents.length) {
-      sourcesUsed.push("ACLED");
-      events.push(...acledEvents);
-    }
-  } catch (error) {
-    console.error(`ACLED: ${error.message}`);
+    return JSON.parse(await readFile(path, "utf8"));
+  } catch {
+    return null;
   }
+}
 
-  const rssSources = [
-    {
-      name: "UN News Peace and Security",
-      url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
-    },
-    {
-      name: "International Crisis Group",
-      url: "https://www.crisisgroup.org/rss.xml"
-    },
-    {
-      name: "BBC Africa",
-      url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml"
-    },
-    {
-      name: "BBC Middle East",
-      url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
-    },
-    {
-      name: "Reuters World",
-      url: "https://feeds.reuters.com/Reuters/worldNews"
-    },
-    {
-      name: "Al Jazeera",
-      url: "https://www.aljazeera.com/xml/rss/all.xml"
-    },
-    {
-      name: "UN OCHA (Humanitarian)",
-      url: "https://www.unocha.org/rss.xml"
-    },
-    {
-      name: "BBC World News",
-      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+function sourceStatus(name, kind, startedAt, result) {
+  return {
+    name,
+    kind,
+    status: result.status,
+    items: result.items || 0,
+    rawItems: result.rawItems ?? null,
+    error: result.error || "",
+    checkedAt: startedAt
+  };
+}
+
+function ageText(fromIso, toIso) {
+  const ms = Date.parse(toIso) - Date.parse(fromIso);
+  if (!Number.isFinite(ms) || ms < 0) return "";
+  const hours = Math.round(ms / 3600000);
+  return hours < 1 ? "under 1 hour" : hours < 48 ? `${hours} hours` : `${Math.round(hours / 24)} days`;
+}
+
+async function main() {
+  const now = new Date().toISOString();
+  const liveEvents = [];
+  const statuses = [];
+
+  // ACLED is optional; it only runs when ACLED_API_KEY is configured as a secret.
+  if (process.env.ACLED_API_KEY) {
+    try {
+      const acledEvents = await fetchACLED();
+      liveEvents.push(...acledEvents);
+      statuses.push(sourceStatus("ACLED", "conflict", now, { status: acledEvents.length ? "up" : "empty", items: acledEvents.length }));
+    } catch (error) {
+      statuses.push(sourceStatus("ACLED", "conflict", now, { status: "failed", error: error.message }));
     }
-  ];
+  } else {
+    statuses.push(sourceStatus("ACLED", "conflict", now, { status: "skipped", error: "No API key configured (optional)" }));
+  }
 
   try {
     const gdeltEvents = await fetchGdeltEvents();
-    if (gdeltEvents.length) {
-      sourcesUsed.push("GDELT");
-      events.push(...gdeltEvents);
-    }
+    liveEvents.push(...gdeltEvents);
+    statuses.push(sourceStatus("GDELT", "conflict", now, { status: gdeltEvents.length ? "up" : "empty", items: gdeltEvents.length }));
   } catch (error) {
     console.error(`GDELT: ${error.message}`);
+    statuses.push(sourceStatus("GDELT", "conflict", now, { status: "failed", error: error.message }));
   }
+
+  // Reuters' public RSS (feeds.reuters.com) was retired and no longer resolves; replaced with UN News Africa.
+  const rssSources = [
+    { name: "UN News Peace and Security", url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml" },
+    { name: "UN News Africa", url: "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml" },
+    { name: "International Crisis Group", url: "https://www.crisisgroup.org/rss.xml" },
+    { name: "BBC Africa", url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml" },
+    { name: "BBC Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
+    { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+    { name: "UN OCHA (Humanitarian)", url: "https://www.unocha.org/rss.xml" },
+    { name: "BBC World News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" }
+  ];
 
   for (const source of rssSources) {
     try {
-      const rssEvents = await fetchRssEvents(source);
-      if (rssEvents.length) {
-        sourcesUsed.push(source.name);
-        events.push(...rssEvents);
-      }
+      const { raw, events } = await fetchRssEvents(source);
+      liveEvents.push(...events);
+      statuses.push(sourceStatus(source.name, "conflict", now, { status: raw ? "up" : "empty", items: events.length, rawItems: raw }));
     } catch (error) {
       console.error(`${source.name}: ${error.message}`);
+      statuses.push(sourceStatus(source.name, "conflict", now, { status: "failed", error: error.message }));
     }
   }
 
-  events = groupSignals(events);
-
-  // Always supplement with high-quality curated fallbacks for major hotspots (Ukraine, Gaza, Sudan, Red Sea, Sahel, etc.)
-  // to guarantee rich volume (30-100+ signals) focused on conflicts, uprisings, military.
-  // Use raw fallbacks (not re-grouped) so each provides a distinct signal/marker.
-  // Live sources (GDELT/RSS/ACLED) are merged first for freshness; fallbacks ensure coverage.
-  const supplemental = fallbackEvents.slice(0, 40);
-  if (supplemental.length) {
-    sourcesUsed.push("curated fallbacks");
-    events = events.concat(supplemental);
-    if (!statusLabel.includes("fallbacks")) {
-      statusLabel = statusLabel === "Conflict feed" ? "Conflict feed + curated fallbacks" : statusLabel + " + curated fallbacks";
-    }
+  // Mode: "live" = this run ingested live items; "stale" = this run got nothing, previous live data kept;
+  // "curated" = no live data has ever been available, curated watch areas shown instead.
+  const previous = await readJson("data/conflict-feed.json");
+  let feed;
+  if (liveEvents.length) {
+    const events = groupSignals(liveEvents);
+    feed = { mode: "live", generatedAt: now, checkedAt: now, lastLiveAt: now, statusLabel: "Live public feeds", liveItemCount: liveEvents.length, events };
+  } else if (previous && ["live", "stale"].includes(previous.mode) && previous.lastLiveAt && Array.isArray(previous.events) && previous.events.length) {
+    feed = { ...previous, mode: "stale", checkedAt: now, statusLabel: `Live feeds unavailable; showing last live data (${ageText(previous.lastLiveAt, now)} old)` };
+  } else {
+    feed = { mode: "curated", generatedAt: now, checkedAt: now, lastLiveAt: null, statusLabel: "Curated watch areas, live feeds currently unavailable", liveItemCount: 0, events: fallbackEvents.slice(0, 40) };
   }
-
-  if (!events.length) {
-    sourcesUsed.push("curated fallback");
-    statusLabel = "Fallback conflict feed";
-    events = groupSignals(fallbackEvents);
-  }
-
-  const feed = {
-    generatedAt: new Date().toISOString(),
-    statusLabel,
-    source: sourcesUsed.join(", "),
-    events
-  };
+  feed.source = statuses.filter(s => s.status === "up" && s.items).map(s => s.name).join(", ") || (feed.mode === "curated" ? "Curated fallback" : feed.source || "");
+  feed.sourceStatus = statuses;
 
   await mkdir("data", { recursive: true });
   await writeFile("data/conflict-feed.json", `${JSON.stringify(feed, null, 2)}\n`);
-  console.log(`Wrote ${events.length} events from ${feed.source}`);
+  console.log(`Conflict feed: mode=${feed.mode}, ${feed.events.length} signals from ${liveEvents.length} live items`);
 
   const newsSources = [
-    {
-      name: "Al Jazeera",
-      url: "https://www.aljazeera.com/xml/rss/all.xml"
-    },
-    {
-      name: "BBC",
-      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
-    },
-    {
-      name: "UN News",
-      url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
-    }
+    { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+    { name: "BBC", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml" }
   ];
   const newsItems = [];
-  const newsSourcesUsed = [];
-
+  const newsStatuses = [];
   for (const source of newsSources) {
     try {
-      const items = await fetchRssNews(source);
-      if (items.length) {
-        newsItems.push(...items);
-        newsSourcesUsed.push(source.name);
-      }
+      const { raw, items } = await fetchRssNews(source);
+      newsItems.push(...items);
+      newsStatuses.push(sourceStatus(source.name, "news", now, { status: raw ? "up" : "empty", items: items.length, rawItems: raw }));
     } catch (error) {
       console.error(`${source.name} news: ${error.message}`);
+      newsStatuses.push(sourceStatus(source.name, "news", now, { status: "failed", error: error.message }));
     }
   }
 
-  const newsFeed = {
-    generatedAt: new Date().toISOString(),
-    sources: newsSourcesUsed,
-    items: dedupeNews(newsItems)
-      .sort((a, b) => dateValue(b.publishedAt) - dateValue(a.publishedAt))
-      .slice(0, 30)
-  };
+  const previousNews = await readJson("data/news-feed.json");
+  let newsFeed;
+  if (newsItems.length) {
+    newsFeed = {
+      mode: "live",
+      generatedAt: now,
+      checkedAt: now,
+      lastLiveAt: now,
+      sources: newsStatuses.filter(s => s.items).map(s => s.name),
+      items: dedupeNews(newsItems).sort((a, b) => dateValue(b.publishedAt) - dateValue(a.publishedAt)).slice(0, 30)
+    };
+  } else if (previousNews?.lastLiveAt && Array.isArray(previousNews.items) && previousNews.items.length) {
+    newsFeed = { ...previousNews, mode: "stale", checkedAt: now };
+  } else {
+    newsFeed = { mode: "unavailable", generatedAt: now, checkedAt: now, lastLiveAt: null, sources: [], items: [] };
+  }
+  newsFeed.sourceStatus = newsStatuses;
 
   await writeFile("data/news-feed.json", `${JSON.stringify(newsFeed, null, 2)}\n`);
-  console.log(`Wrote ${newsFeed.items.length} news items from ${newsFeed.sources.join(", ") || "no live sources"}`);
+  console.log(`News feed: mode=${newsFeed.mode}, ${newsFeed.items.length} items`);
+  console.log("\nSource status:");
+  for (const s of [...statuses, ...newsStatuses]) {
+    console.log(`  [${s.kind}] ${s.name.padEnd(28)} ${s.status.padEnd(8)} items=${s.items}${s.rawItems != null ? ` (raw ${s.rawItems})` : ""}${s.error ? ` ${s.error}` : ""}`);
+  }
 }
 
 await main();

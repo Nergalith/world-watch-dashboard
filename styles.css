@@ -1275,3 +1275,17 @@ h1 {
 
 /* Hide quake remnants if any legacy elements remain */
 .quake-panel, [data-layer="earthquakes"] { display: none !important; }
+
+/* Honest feed status (curated / stale banner + sources status table) */
+.feed-mode-banner {
+  margin: 8px 16px 0;
+  padding: 8px 12px;
+  border: 1px solid rgba(246, 164, 58, 0.58);
+  border-radius: 6px;
+  color: var(--amber);
+  font-size: 0.9rem;
+}
+.feed-mode-banner[hidden] { display: none; }
+.source-status-panel { margin-bottom: 16px; overflow-x: auto; }
+.status-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+.status-table th, .status-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }

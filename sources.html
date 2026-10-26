@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Sources &amp; OSINT Notes | Nergalith World Watch — Public Data Transparency</title>
     <meta name="description" content="Nergalith World Watch Sources — full list of public OSINT feeds, RSS, GDELT, curated fallbacks for conflicts, uprisings, military. Aggregates open sources only." />
-    <link rel="stylesheet" href="styles.css?v=202606-panel-fit" />
+    <link rel="stylesheet" href="styles.css?v=20261026-honest-feed" />
   </head>
   <body>
     <div class="site-shell">
@@ -40,35 +40,39 @@
           <span class="disclaimer-meta">All items link back to original publishers. Data can be delayed, incomplete, or noisy. Always cross-verify. This is not emergency guidance or classified analysis.</span>
         </section>
 
+        <section class="panel source-status-panel">
+          <div class="panel-head"><span>Source Status (last scheduled check)</span></div>
+          <div id="source-status-table"><p class="meta">Loading source status…</p></div>
+        </section>
+
         <section class="source-grid">
           <article class="source-card">
             <span class="tag live">Live</span>
             <h2>Multi-Source Conflict Feed</h2>
-            <p>A scheduled GitHub job pulls recent public signals from GDELT, UN News Peace and Security, International Crisis Group, BBC (Africa/Middle East), Al Jazeera, and Reuters.</p>
+            <p>A scheduled GitHub job pulls recent public signals from GDELT, UN News Peace and Security, International Crisis Group, UN News Africa, BBC (Africa/Middle East/World), Al Jazeera, and UN OCHA. ACLED is used only when an API key is configured.</p>
             <div class="source-stack">
               <a class="source-link" href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT</a>
               <a class="source-link" href="https://news.un.org/en/news/topic/peace-and-security" target="_blank" rel="noopener">UN News</a>
               <a class="source-link" href="https://www.crisisgroup.org/" target="_blank" rel="noopener">Crisis Group</a>
               <a class="source-link" href="https://www.bbc.com/news/world" target="_blank" rel="noopener">BBC World</a>
               <a class="source-link" href="https://www.aljazeera.com/" target="_blank" rel="noopener">Al Jazeera</a>
-              <a class="source-link" href="https://www.reuters.com/" target="_blank" rel="noopener">Reuters</a>
+              <a class="source-link" href="https://www.unocha.org/" target="_blank" rel="noopener">UN OCHA</a>
             </div>
           </article>
           <article class="source-card">
             <span class="tag live">Live</span>
             <h2>Open News Headlines</h2>
-            <p>The live news deck refreshes hourly from official RSS feeds published by Al Jazeera, BBC World, UN News Peace and Security, and Reuters.</p>
+            <p>The live news deck refreshes hourly from official RSS feeds published by Al Jazeera, BBC World, and UN News Peace and Security.</p>
             <div class="source-stack">
               <a class="source-link" href="https://www.aljazeera.com/" target="_blank" rel="noopener">Al Jazeera</a>
               <a class="source-link" href="https://www.bbc.com/news/world" target="_blank" rel="noopener">BBC World</a>
               <a class="source-link" href="https://news.un.org/" target="_blank" rel="noopener">UN News</a>
-              <a class="source-link" href="https://www.reuters.com/" target="_blank" rel="noopener">Reuters</a>
             </div>
           </article>
           <article class="source-card">
-            <span class="tag live">Live</span>
+            <span class="tag note">Curated</span>
             <h2>Curated Conflict Fallback</h2>
-            <p>When live public feeds are unavailable or rate-limited, the dashboard falls back to a small set of globally relevant high-priority conflict watch areas so the map never goes blank.</p>
+            <p>If no live public data has been collected, the dashboard shows a small hand-picked set of watch areas, clearly marked "Curated", so the map is never blank. These are not live reports. If live feeds fail after a good run, the last live data is kept and labelled with its age instead.</p>
           </article>
           <article class="source-card">
             <span class="tag planned">Planned</span>
@@ -83,6 +87,6 @@
         </section>
       </main>
     </div>
-    <script src="app.js?v=202606-panel-fit"></script>
+    <script src="app.js?v=20261026-honest-feed"></script>
   </body>
 </html>

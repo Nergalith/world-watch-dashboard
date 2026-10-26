@@ -7,6 +7,8 @@ const fallbackEvents = [
     coords: [43.33, 12.58],
     category: "Conflict",
     severity: "High",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "The southern Red Sea remains a high-sensitivity conflict and maritime security watch area."
   },
   {
@@ -15,6 +17,8 @@ const fallbackEvents = [
     coords: [36.23, 49.99],
     category: "Conflict",
     severity: "Critical",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "Military activity keeps eastern Ukraine among the highest-priority conflict monitoring regions."
   },
   {
@@ -23,6 +27,8 @@ const fallbackEvents = [
     coords: [34.45, 31.45],
     category: "Conflict",
     severity: "Critical",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "The conflict remains a priority watch area because of civilian risk, regional escalation potential, and diplomatic pressure."
   },
   {
@@ -31,6 +37,8 @@ const fallbackEvents = [
     coords: [114.2, 12.2],
     category: "Military",
     severity: "High",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "Patrol patterns, sovereignty disputes, and military signaling keep the region in an elevated monitoring posture."
   },
   {
@@ -39,6 +47,8 @@ const fallbackEvents = [
     coords: [35.2, 33.8],
     category: "Conflict",
     severity: "High",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "Regional military activity, maritime traffic, and diplomatic pressure keep the area on the watch board."
   },
   {
@@ -47,6 +57,8 @@ const fallbackEvents = [
     coords: [30.2, 15.7],
     category: "Conflict",
     severity: "Critical",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "Continued fighting and humanitarian pressure keep Sudan on the conflict watch board."
   },
   {
@@ -55,6 +67,8 @@ const fallbackEvents = [
     coords: [69.2, 33.8],
     category: "Unrest",
     severity: "High",
+    sourceName: "Curated fallback",
+    curated: true,
     summary: "Border incidents, militant activity, and state security responses keep the region relevant for daily monitoring."
   }
 ];
@@ -70,9 +84,13 @@ const state = {
   activeLayer: "all",           // new tactical layers
   layers: { events: true },     // legacy key kept for minimal breakage
   feedMeta: {
+    mode: "curated",
     generatedAt: "",
-    source: ""
+    lastLiveAt: "",
+    source: "",
+    sourceStatus: []
   },
+  newsMeta: { sourceStatus: [] },
   map: null,
   markers: [],
   selected: null
@@ -145,7 +163,8 @@ function normalizeEvent(e) {
     reportCount,
     confidence,
     sources: Array.isArray(e.sources) ? e.sources : (e.sourceName ? [e.sourceName] : []),
-    reports: Array.isArray(e.reports) ? e.reports : []
+    reports: Array.isArray(e.reports) ? e.reports : [],
+    curated: Boolean(e.curated) || e.sourceName === "Curated fallback"
   };
 }
 
@@ -188,23 +207,22 @@ async function loadLiveEvents(silent = false) {
     // Strict validation + normalize (fixes coord bugs + fallback shape)
     const signals = raw.filter(e => isValidCoord(e.coords)).map(normalizeEvent);
 
-    if (signals.length) {
-      state.events = signals;
-      state.feedMeta = {
-        generatedAt: data.generatedAt || "",
-        source: data.source || ""
-      };
-      const updated = data.generatedAt ? formatUtc(data.generatedAt) : "recently";
-      setStatus(`${data.statusLabel || "OSINT feed"} • ${updated}`);
-      updateLastUpdated(data.generatedAt);
-    } else {
-      setStatus(data.statusLabel || "Using curated conflict watch areas");
-    }
+    const mode = ["live", "stale", "curated"].includes(data.mode) ? data.mode : "curated";
+    state.feedMeta = {
+      mode,
+      generatedAt: data.generatedAt || "",
+      lastLiveAt: data.lastLiveAt || "",
+      source: data.source || "",
+      sourceStatus: Array.isArray(data.sourceStatus) ? data.sourceStatus : []
+    };
+    if (signals.length) state.events = signals;
+    applyFeedStatus();
   } catch (err) {
-    if (!silent) setStatus("Curated conflict watch active");
-    // Normalize whatever is currently in state (fallbacks)
+    state.feedMeta.mode = "curated";
+    applyFeedStatus();
     state.events = (state.events || []).map(normalizeEvent);
   }
+  renderSourceStatus();
 
   // Fix stale filter after data change (from prior review)
   const cats = categories();
@@ -233,10 +251,73 @@ function startAutoRefresh() {
   }, 1000 * 60 * 6);
 }
 
+// Honest status: "Live" and "Updated" appear only when real live items were ingested.
+const CURATED_LABEL = "Curated watch areas, live feeds currently unavailable";
+
+function applyFeedStatus() {
+  const meta = state.feedMeta;
+  const pill = $("#feed-status");
+  const banner = $("#feed-mode-banner");
+  const tag = $("#layers-live-tag");
+  let text;
+  if (meta.mode === "live") {
+    text = `Live public feeds • ${formatUtc(meta.lastLiveAt || meta.generatedAt)}`;
+  } else if (meta.mode === "stale") {
+    text = `Live feeds unavailable • showing last live data from ${formatUtc(meta.lastLiveAt)}`;
+  } else {
+    text = CURATED_LABEL;
+  }
+  setStatus(text);
+  if (pill) pill.dataset.mode = meta.mode;
+  if (tag) {
+    tag.textContent = meta.mode === "live" ? "Live OSINT" : meta.mode === "stale" ? "Stale" : "Curated";
+    tag.className = `tag ${meta.mode === "live" ? "live" : "note"}`;
+  }
+  if (banner) {
+    banner.hidden = meta.mode === "live";
+    banner.textContent = meta.mode === "stale"
+      ? `Live feeds did not respond on the last check. Showing the last live data, from ${formatUtc(meta.lastLiveAt)}.`
+      : `${CURATED_LABEL}. Items marked "Curated" are hand-picked watch areas, not live reports.`;
+  }
+  updateLastUpdated(meta.mode === "curated" ? "" : meta.lastLiveAt || meta.generatedAt);
+}
+
 function updateLastUpdated(iso) {
   const el = $("#last-updated");
   if (!el) return;
-  el.textContent = iso ? `Updated: ${formatUtc(iso)}` : "Updated: live";
+  el.textContent = iso ? `Last live data: ${formatUtc(iso)}` : "No live data yet";
+}
+
+function statusRows(list) {
+  return list.map(s => `
+    <tr>
+      <td>${escapeHtml(s.name)}</td>
+      <td>${escapeHtml(s.kind || "")}</td>
+      <td><span class="status-dot ${s.status === "up" ? "active" : "standby"}"></span> ${escapeHtml(s.status)}</td>
+      <td>${Number(s.items) || 0}</td>
+      <td>${escapeHtml(formatUtc(s.checkedAt))}</td>
+      <td>${escapeHtml(s.error || "")}</td>
+    </tr>`).join("");
+}
+
+function renderSourceStatus() {
+  const all = [...(state.feedMeta.sourceStatus || []), ...(state.newsMeta.sourceStatus || [])];
+  const table = $("#source-status-table");
+  if (table) {
+    table.innerHTML = all.length
+      ? `<table class="status-table"><thead><tr><th>Source</th><th>Feed</th><th>Status</th><th>Items</th><th>Checked</th><th>Note</th></tr></thead><tbody>${statusRows(all)}</tbody></table>`
+      : `<p class="meta">Source status not available yet.</p>`;
+  }
+  const mini = $("#source-status-mini");
+  if (mini && all.length) {
+    const conflict = state.feedMeta.sourceStatus || [];
+    const up = conflict.filter(s => s.status === "up").length;
+    const newsUp = (state.newsMeta.sourceStatus || []).filter(s => s.status === "up").length;
+    mini.innerHTML = `
+      <div><span class="status-dot ${up ? "active" : "standby"}"></span> ${up} of ${conflict.length} conflict sources up</div>
+      <div><span class="status-dot ${newsUp ? "active" : "standby"}"></span> ${newsUp} news sources up</div>
+      <div><span class="status-dot ${state.feedMeta.mode === "curated" ? "active" : "standby"}"></span> Curated watch areas ${state.feedMeta.mode === "curated" ? "shown" : "off"}</div>`;
+  }
 }
 
 // ─── Quakes de-emphasized / removed from primary UI (per core requirements) ────
@@ -253,10 +334,12 @@ async function loadNewsFeed() {
     if (!res.ok) throw new Error(`News ${res.status}`);
     const data = await res.json();
     state.news = Array.isArray(data.items) ? data.items : [];
+    state.newsMeta = { sourceStatus: Array.isArray(data.sourceStatus) ? data.sourceStatus : [] };
   } catch {
     state.news = [];
   }
   renderNews();
+  renderSourceStatus();
   updateTicker();
 }
 
@@ -270,7 +353,7 @@ function renderNews() {
   if (!feed) return;
   const items = filteredNews().slice(0, 12);
   if (!items.length) {
-    feed.innerHTML = `<div class="news-loading">No items available — feeds may be loading.</div>`;
+    feed.innerHTML = `<div class="news-loading">No live headlines available right now.</div>`;
     return;
   }
   feed.innerHTML = items.map(item => `
@@ -312,6 +395,7 @@ function visibleEvents() {
 }
 
 function eventTag(event) {
+  if (event.curated) return `<span class="tag note">Curated</span> <span class="tag">${escapeHtml(event.category)} / ${escapeHtml(event.severity)}</span>`;
   return `<span class="tag">${escapeHtml(event.category)} / ${escapeHtml(event.severity)}</span>`;
 }
 
@@ -346,7 +430,7 @@ function signalMeta(event) {
   const confidence   = event.confidence || (sourceCount > 1 ? "Corroborated" : "Single Source");
   const sourceText   = sourceCount === 1 ? "1 source" : `${sourceCount} sources`;
   const reportText   = reportCount === 1 ? "1 report" : `${reportCount} reports`;
-  return itemMeta(event.category, event.severity, confidence, sourceText, reportText, formatDate(event.seenDate));
+  return itemMeta(event.curated ? "Curated watch area" : "", event.category, event.severity, event.curated ? "" : confidence, sourceText, reportText, formatDate(event.seenDate));
 }
 
 function reportList(event) {
@@ -375,7 +459,7 @@ function renderSituationSnapshot() {
   const crit = events.filter(e => (e.severity || "").toLowerCase() === "critical").length;
   const regions = new Set(events.map(e => e.location).filter(Boolean)).size;
   const reports = events.reduce((t, e) => t + (Number(e.reportCount) || 1), 0);
-  const updated = state.feedMeta.generatedAt ? formatUtc(state.feedMeta.generatedAt) : "—";
+  const updated = state.feedMeta.mode === "curated" ? "none (curated)" : formatUtc(state.feedMeta.lastLiveAt || state.feedMeta.generatedAt) || "—";
 
   container.innerHTML = `
     <div class="snapshot-item critical">
@@ -460,7 +544,7 @@ function renderStats() {
   const events = state.events || [];
   const crit = events.filter(e => (e.severity || "").toLowerCase() === "critical").length;
   const reports = events.reduce((t, e) => t + (Number(e.reportCount) || 1), 0);
-  const updated = state.feedMeta.generatedAt ? formatDate(state.feedMeta.generatedAt) : "—";
+  const updated = state.feedMeta.mode === "curated" ? "—" : formatDate(state.feedMeta.lastLiveAt || state.feedMeta.generatedAt) || "—";
 
   stats.innerHTML = [
     ["Signals", events.length],
@@ -487,7 +571,7 @@ function renderEventLists() {
           ${itemMeta(
             event.severity,
             event.confidence || "Signal",
-            event.sourceCount > 1 ? `${event.sourceCount} sources` : "Single source"
+            event.curated ? "Curated" : (event.sourceCount > 1 ? `${event.sourceCount} sources` : "Single source")
           )}
           <h3>${escapeHtml(event.title)}</h3>
           <span class="tag">${escapeHtml(event.location)}</span>
