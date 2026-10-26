@@ -1,14 +1,38 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-26T05:08:00.644Z",
-  "checkedAt": "2026-10-26T05:08:00.644Z",
-  "lastLiveAt": "2026-10-26T05:08:00.644Z",
+  "generatedAt": "2026-10-26T06:20:50.491Z",
+  "checkedAt": "2026-10-26T06:20:50.491Z",
+  "lastLiveAt": "2026-10-26T06:20:50.491Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "China’s political elite gather for talks on Communist Party discipline",
+      "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 05:38:41 +0000"
+    },
+    {
+      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 05:24:59 +0000"
+    },
+    {
+      "title": "Israel’s election: Five key things to know",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 05:16:38 +0000"
+    },
+    {
+      "title": "Social video captures moment Brazil’s election turned",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 26 Oct 2026 05:01:59 +0000"
+    },
     {
       "title": "Bolsonaro calls for Brazil election result to be annulled",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
@@ -46,13 +70,13 @@
       "publishedAt": "Mon, 26 Oct 2026 02:59:50 +0000"
     },
     {
-      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "title": "Seoul ‘fabricated’ landmine blast, North Korea tells UN in letter",
       "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Mon, 26 Oct 2026 02:55:15 +0000"
     },
     {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 26 Oct 2026 01:07:05 GMT"
@@ -82,7 +106,7 @@
       "publishedAt": "Mon, 26 Oct 2026 00:02:55 +0000"
     },
     {
-      "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Mon, 26 Oct 2026 00:00:00 +0000"
@@ -100,12 +124,6 @@
       "publishedAt": "Sun, 25 Oct 2026 23:23:25 +0000"
     },
     {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 25 Oct 2026 22:57:17 +0000"
-    },
-    {
       "title": "Deeply divided Israel braces for pivotal election",
       "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -118,16 +136,16 @@
       "publishedAt": "Sun, 25 Oct 2026 22:05:30 GMT"
     },
     {
-      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 25 Oct 2026 21:41:10 +0000"
-    },
-    {
       "title": "Gabon says access to social media restored after eight-month ban",
       "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 25 Oct 2026 14:39:47 GMT"
+    },
+    {
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 25 Oct 2026 14:34:33 GMT"
     },
     {
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -140,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 25 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 05:45:31 GMT"
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -172,22 +184,10 @@
       "publishedAt": "Sat, 24 Oct 2026 23:02:51 GMT"
     },
     {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 24 Oct 2026 22:08:47 GMT"
-    },
-    {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
       "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 24 Oct 2026 09:46:53 GMT"
-    },
-    {
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 24 Oct 2026 09:38:28 GMT"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 16,
+      "items": 18,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-26T05:08:00.644Z"
+      "checkedAt": "2026-10-26T06:20:50.491Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 18,
-      "rawItems": 32,
+      "items": 17,
+      "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-10-26T05:08:00.644Z"
+      "checkedAt": "2026-10-26T06:20:50.491Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-26T05:08:00.644Z"
+      "checkedAt": "2026-10-26T06:20:50.491Z"
     }
   ]
 }
