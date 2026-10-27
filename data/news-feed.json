@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-27T06:22:12.194Z",
-  "checkedAt": "2026-10-27T06:22:12.194Z",
-  "lastLiveAt": "2026-10-27T06:22:12.194Z",
+  "generatedAt": "2026-10-27T13:18:09.023Z",
+  "checkedAt": "2026-10-27T13:18:09.023Z",
+  "lastLiveAt": "2026-10-27T13:18:09.023Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,94 +10,148 @@
   ],
   "items": [
     {
-      "title": "Why has France struggled to address students’ demands?",
-      "link": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
+      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+      "link": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 05:22:22 +0000"
+      "publishedAt": "Tue, 27 Oct 2026 12:31:19 +0000"
     },
     {
-      "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 04:54:26 +0000"
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 12:25:14 GMT"
     },
     {
-      "title": "Israel heads to the polls as shift to the right dominates critical election",
-      "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 04:44:14 +0000"
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 12:02:20 GMT"
     },
     {
-      "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 11:53:57 GMT"
+    },
+    {
+      "title": "The Ballon d’Or has a narrow definition of footballing greatness",
+      "link": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 04:30:00 +0000"
+      "publishedAt": "Tue, 27 Oct 2026 11:49:59 +0000"
+    },
+    {
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 11:23:19 GMT"
+    },
+    {
+      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 11:19:46 +0000"
+    },
+    {
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 11:11:33 GMT"
+    },
+    {
+      "title": "Families of victims killed in Jordanian strike deny links to church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 10:52:48 +0000"
+    },
+    {
+      "title": "Why Jordan has struck Syria: What we know",
+      "link": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 10:46:53 +0000"
+    },
+    {
+      "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 10:36:54 +0000"
+    },
+    {
+      "title": "North Korean howitzer guns spotted close to border with South Korea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 10:22:20 +0000"
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 10:17:36 GMT"
+    },
+    {
+      "title": "WNBA Finals: Valkyries beat Dream to reach the brink of their first title",
+      "link": "https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 09:52:36 +0000"
+    },
+    {
+      "title": "Israel election results 2026: When will we know who won and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 09:22:45 +0000"
+    },
+    {
+      "title": "UK prosecutors charge two after RAF Fairford incident",
+      "link": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 09:12:21 +0000"
+    },
+    {
+      "title": "Cruise ship crashes into two container ships during storm",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 08:46:19 +0000"
+    },
+    {
+      "title": "Israelis begin voting as Netanyahu fights for political survival",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 08:38:44 +0000"
+    },
+    {
+      "title": "Why it could take time for a new Israeli government to form",
+      "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 08:37:30 GMT"
+    },
+    {
+      "title": "Drone strike in Sudan’s Nyala kills at least 21, injures 40",
+      "link": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 08:35:27 +0000"
+    },
+    {
+      "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+      "link": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 08:02:37 +0000"
+    },
+    {
+      "title": "Qatar’s path to defence autonomy",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 07:55:01 +0000"
+    },
+    {
+      "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+      "link": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 06:56:30 +0000"
     },
     {
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 27 Oct 2026 02:40:17 GMT"
-    },
-    {
-      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 02:29:00 +0000"
-    },
-    {
-      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-      "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 01:32:54 +0000"
-    },
-    {
-      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 01:06:50 +0000"
-    },
-    {
-      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 00:33:06 +0000"
-    },
-    {
-      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 23:53:45 +0000"
-    },
-    {
-      "title": "Jordan strikes Syria after church attack, killing at least seven people",
-      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 23:50:11 +0000"
-    },
-    {
-      "title": "Jordan attacks Syria in response to Karak church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 23:48:51 +0000"
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT"
-    },
-    {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 17:00:09 GMT"
     },
     {
       "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -118,16 +172,10 @@
       "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT"
     },
     {
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 14:27:32 GMT"
-    },
-    {
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 14:16:09 GMT"
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Women and girls’ share of civilian war deaths doubles since 2021",
@@ -140,54 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
       "source": "UN News",
       "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "In Egypt, Guterres warns against Iran-US escalation",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "source": "UN News",
-      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Five ways Trump has changed immigration in the US",
-      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 11:29:02 GMT"
-    },
-    {
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 26 Oct 2026 07:40:57 GMT"
-    },
-    {
-      "title": "Why Israel's election is one of the most important in its history",
-      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 25 Oct 2026 22:05:30 GMT"
-    },
-    {
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "source": "UN News",
-      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-      "source": "UN News",
-      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-      "source": "UN News",
-      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-      "source": "UN News",
-      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-27T06:22:12.194Z"
+      "checkedAt": "2026-10-27T13:18:09.023Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 11,
-      "rawItems": 31,
+      "items": 12,
+      "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-10-27T06:22:12.194Z"
+      "checkedAt": "2026-10-27T13:18:09.023Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-27T06:22:12.194Z"
+      "checkedAt": "2026-10-27T13:18:09.023Z"
     }
   ]
 }
