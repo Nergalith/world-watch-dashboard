@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-26T20:33:39.282Z",
-  "checkedAt": "2026-10-26T20:33:39.282Z",
-  "lastLiveAt": "2026-10-26T20:33:39.282Z",
+  "generatedAt": "2026-10-27T00:31:21.500Z",
+  "checkedAt": "2026-10-27T00:31:21.500Z",
+  "lastLiveAt": "2026-10-27T00:31:21.500Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 111,
+  "liveItemCount": 107,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 27 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "seenDate": "Mon, 26 Oct 2026 18:05:12 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 4 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+      "seenDate": "Mon, 26 Oct 2026 20:46:01 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 27,
+      "reportCount": 23,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -30,19 +30,19 @@
       ],
       "reports": [
         {
+          "title": "Palestinian children crawl under Israeli military gates to get to school",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 20:46:01 +0000",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
           "title": "Could the midterms change US military support for Israel?",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
           "seenDate": "Mon, 26 Oct 2026 18:05:12 +0000",
           "category": "Military Hotspots",
-          "severity": "High"
-        },
-        {
-          "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 16:51:13 +0000",
-          "category": "Conflict",
           "severity": "High"
         },
         {
@@ -54,19 +54,19 @@
           "severity": "High"
         },
         {
-          "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 16:24:24 +0000",
+          "title": "Deeply divided Israel braces for pivotal election",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 25 Oct 2026 22:11:13 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 16:12:00 +0000",
-          "category": "Conflict",
+          "title": "Why Israel's election is one of the most important in its history",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 25 Oct 2026 22:05:30 GMT",
+          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -136,71 +136,6 @@
       ]
     },
     {
-      "title": "Red Sea / Yemen: high-signal conflict watch",
-      "location": "Red Sea / Yemen",
-      "coords": [
-        43.33,
-        12.58
-      ],
-      "category": "Military Hotspots",
-      "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-      "seenDate": "Mon, 26 Oct 2026 15:41:29 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 12,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Middle East",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 15:41:29 +0000",
-          "category": "Military Hotspots",
-          "severity": "High"
-        },
-        {
-          "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 14:38:50 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-          "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 22 Oct 2026 15:56:36 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 22 Oct 2026 13:46:33 GMT",
-          "category": "Infrastructure",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Democratic Republic of Congo: high-signal conflict watch",
       "location": "Democratic Republic of Congo",
       "coords": [
@@ -211,7 +146,7 @@
       "severity": "Critical",
       "summary": "Democratic Republic of Congo is active on the public watch board with 11 reports across 3 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Mon, 26 Oct 2026 20:00:30 GMT",
+      "seenDate": "Mon, 26 Oct 2026 21:02:47 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 3,
       "reportCount": 11,
@@ -226,7 +161,7 @@
           "title": "Lula wins fourth term in dramatic Brazil election comeback",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Mon, 26 Oct 2026 20:00:30 GMT",
+          "seenDate": "Mon, 26 Oct 2026 21:02:47 GMT",
           "category": "Conflict",
           "severity": "High"
         },
@@ -265,6 +200,70 @@
       ]
     },
     {
+      "title": "Red Sea / Yemen: high-signal conflict watch",
+      "location": "Red Sea / Yemen",
+      "coords": [
+        43.33,
+        12.58
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Red Sea / Yemen is active on the public watch board with 10 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 10,
+      "confidence": "High Signal",
+      "sources": [
+        "BBC Middle East",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+          "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 22 Oct 2026 15:56:36 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 22 Oct 2026 13:46:33 GMT",
+          "category": "Infrastructure",
+          "severity": "Critical"
+        },
+        {
+          "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 22 Oct 2026 01:07:34 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Yemen war continues to force families from homes amid hunger and disease",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+          "seenDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
       "title": "Ukraine: high-signal conflict watch",
       "location": "Ukraine",
       "coords": [
@@ -273,12 +272,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 10 reports across 3 sources. Category is currently assessed as Conflict.",
+      "summary": "Ukraine is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
       "seenDate": "Mon, 26 Oct 2026 17:58:14 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 10,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -293,14 +292,6 @@
           "seenDate": "Mon, 26 Oct 2026 17:58:14 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 17:27:34 +0000",
-          "category": "Infrastructure",
-          "severity": "Critical"
         },
         {
           "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
@@ -325,6 +316,14 @@
           "seenDate": "Fri, 16 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/vis/global/multiplying-crises-fraying-consensus-2026-un-general-assembly",
+          "seenDate": "Thu, 15 Oct 2026 22:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -337,12 +336,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-      "seenDate": "Mon, 26 Oct 2026 16:55:19 +0000",
+      "summary": "Iran is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "seenDate": "Mon, 26 Oct 2026 21:42:18 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 6,
+      "reportCount": 5,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -351,18 +350,10 @@
       ],
       "reports": [
         {
-          "title": "Delegations arrive in Tehran for security talks",
+          "title": "Africa food security under threat due to Iran war, trade officials warn",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 16:55:19 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-          "seenDate": "Mon, 26 Oct 2026 16:39:48 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 21:42:18 +0000",
           "category": "Conflict",
           "severity": "Critical"
         },
@@ -389,6 +380,90 @@
           "seenDate": "Sat, 24 Oct 2026 07:36:02 GMT",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+          "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Syria: repeated public reporting",
+      "location": "Syria",
+      "coords": [
+        38.3,
+        35
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Syria is active on the public watch board with 3 reports across 1 source. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+      "seenDate": "Mon, 26 Oct 2026 23:50:11 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 1,
+      "reportCount": 3,
+      "confidence": "Multiple Reports",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "reports": [
+        {
+          "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 23:50:11 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Jordan attacks Syria in response to Karak church attack",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 23:48:51 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Huge explosion at a weapons depot in Syria",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 20:41:33 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Iraq: critical conflict watch",
+      "location": "Iraq",
+      "coords": [
+        43.7,
+        33.2
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Iraq is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "seenDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "reports": [
+        {
+          "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+          "seenDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -401,12 +476,12 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 7 reports across 4 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
-      "seenDate": "Mon, 26 Oct 2026 18:29:26 +0000",
+      "summary": "Taiwan Strait is active on the public watch board with 8 reports across 4 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+      "seenDate": "Mon, 26 Oct 2026 23:18:31 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 7,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -415,6 +490,14 @@
         "International Crisis Group"
       ],
       "reports": [
+        {
+          "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+          "seenDate": "Mon, 26 Oct 2026 23:18:31 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
         {
           "title": "Trump faces private citizens lawsuit over limiting White House media access",
           "sourceName": "Al Jazeera",
@@ -444,14 +527,6 @@
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
           "seenDate": "Mon, 26 Oct 2026 07:40:57 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Aga banned for fake prescription from family member",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 22 Oct 2026 18:25:41 GMT",
           "category": "Infrastructure",
           "severity": "High"
         }
@@ -745,7 +820,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "GDELT",
@@ -754,16 +829,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "UN News Peace and Security",
       "kind": "conflict",
       "status": "up",
-      "items": 25,
+      "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "UN News Africa",
@@ -772,7 +847,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "International Crisis Group",
@@ -781,7 +856,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "BBC Africa",
@@ -790,7 +865,7 @@
       "items": 9,
       "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "BBC Middle East",
@@ -799,16 +874,16 @@
       "items": 19,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 16,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -817,7 +892,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     },
     {
       "name": "BBC World News",
@@ -826,7 +901,7 @@
       "items": 10,
       "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-10-26T20:33:39.282Z"
+      "checkedAt": "2026-10-27T00:31:21.500Z"
     }
   ]
 }
