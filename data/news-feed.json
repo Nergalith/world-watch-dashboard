@@ -1,14 +1,68 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-27T00:31:21.500Z",
-  "checkedAt": "2026-10-27T00:31:21.500Z",
-  "lastLiveAt": "2026-10-27T00:31:21.500Z",
+  "generatedAt": "2026-10-27T06:22:12.194Z",
+  "checkedAt": "2026-10-27T06:22:12.194Z",
+  "lastLiveAt": "2026-10-27T06:22:12.194Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Why has France struggled to address students’ demands?",
+      "link": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 05:22:22 +0000"
+    },
+    {
+      "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 04:54:26 +0000"
+    },
+    {
+      "title": "Israel heads to the polls as shift to the right dominates critical election",
+      "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 04:44:14 +0000"
+    },
+    {
+      "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 04:30:00 +0000"
+    },
+    {
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 02:40:17 GMT"
+    },
+    {
+      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 02:29:00 +0000"
+    },
+    {
+      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+      "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 01:32:54 +0000"
+    },
+    {
+      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 01:06:50 +0000"
+    },
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 27 Oct 2026 00:33:06 +0000"
+    },
     {
       "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
@@ -22,7 +76,7 @@
       "publishedAt": "Mon, 26 Oct 2026 23:53:45 +0000"
     },
     {
-      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "title": "Jordan strikes Syria after church attack, killing at least seven people",
       "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Mon, 26 Oct 2026 23:50:11 +0000"
@@ -34,76 +88,10 @@
       "publishedAt": "Mon, 26 Oct 2026 23:48:51 +0000"
     },
     {
-      "title": "Former FBI director James Comey hit with third set of charges under Trump",
-      "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 22:03:26 +0000"
-    },
-    {
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 21:42:18 +0000"
-    },
-    {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT"
-    },
-    {
-      "title": "Palestinian children crawl under Israeli military gates to get to school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 20:46:01 +0000"
-    },
-    {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 20:41:33 +0000"
-    },
-    {
-      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 20:20:09 +0000"
-    },
-    {
-      "title": "Jordan arrests three suspects over deadly church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 19:25:53 +0000"
-    },
-    {
-      "title": "Brazil’s real sinks after Lula’s re-election victory",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 18:27:23 +0000"
-    },
-    {
-      "title": "Could the midterms change US military support for Israel?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 18:05:12 +0000"
-    },
-    {
-      "title": "Zelenskyy says peace talks with Russia, US to restart",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 17:58:14 +0000"
-    },
-    {
-      "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 17:55:59 +0000"
-    },
-    {
-      "title": "Algeria’s president orders troop deployment to neighbouring Niger",
-      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 26 Oct 2026 17:55:47 +0000"
     },
     {
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
@@ -188,6 +176,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
       "source": "UN News",
       "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 15,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-27T00:31:21.500Z"
+      "checkedAt": "2026-10-27T06:22:12.194Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 28,
+      "items": 11,
+      "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-10-27T00:31:21.500Z"
+      "checkedAt": "2026-10-27T06:22:12.194Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-27T00:31:21.500Z"
+      "checkedAt": "2026-10-27T06:22:12.194Z"
     }
   ]
 }
