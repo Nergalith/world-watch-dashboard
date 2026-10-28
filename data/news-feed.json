@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-28T05:51:18.345Z",
-  "checkedAt": "2026-10-28T05:51:18.345Z",
-  "lastLiveAt": "2026-10-28T05:51:18.345Z",
+  "generatedAt": "2026-10-28T13:06:02.476Z",
+  "checkedAt": "2026-10-28T13:06:02.476Z",
+  "lastLiveAt": "2026-10-28T13:06:02.476Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,106 @@
   ],
   "items": [
     {
-      "title": "Mbappe faces backlash in China for meme fiasco",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+      "title": "Victims of Jordan’s air strikes in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 04:28:22 +0000"
+      "publishedAt": "Wed, 28 Oct 2026 12:35:19 +0000"
+    },
+    {
+      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 12:22:20 +0000"
+    },
+    {
+      "title": "Israeli voters: hope and despair as election ballots are counted",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 11:55:08 +0000"
+    },
+    {
+      "title": "Cyclone leaves trail of destruction in India as thousands evacuated",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 11:41:04 +0000"
+    },
+    {
+      "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+      "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 11:36:04 +0000"
+    },
+    {
+      "title": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 11:33:26 +0000"
+    },
+    {
+      "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 11:33:13 +0000"
+    },
+    {
+      "title": "‘Russia is already part of who I am’: African students in Moscow",
+      "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 10:40:52 +0000"
+    },
+    {
+      "title": "Norway and Finland hold rare phone call with Putin: What that means",
+      "link": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 10:31:22 +0000"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT"
+    },
+    {
+      "title": "Hormuz oil spill forces closure of UAE beaches",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 10:02:32 +0000"
+    },
+    {
+      "title": "Netanyahu or Eisenkot? Can you form Israel’s next coalition government?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 10:00:11 +0000"
+    },
+    {
+      "title": "Israel’s stock market drops as exit polls show no clear election winner",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 09:55:47 +0000"
+    },
+    {
+      "title": "Mapping the siege of Yemen’s Taiz, and the price families are paying",
+      "link": "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 09:43:09 +0000"
+    },
+    {
+      "title": "Israeli right makes provocative statements as election votes are counted",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 09:30:03 +0000"
+    },
+    {
+      "title": "China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 08:57:49 +0000"
+    },
+    {
+      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 08:28:39 GMT"
     },
     {
       "title": "Watch: What happens now after close vote in Israeli election?",
@@ -22,76 +118,10 @@
       "publishedAt": "Wed, 28 Oct 2026 04:22:59 GMT"
     },
     {
-      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
-      "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 03:10:17 +0000"
-    },
-    {
-      "title": "Five key takeaways from Israel’s parliamentary elections",
-      "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 02:53:35 +0000"
-    },
-    {
-      "title": "Arab parties on track to win record seats in Israel election, polls show",
-      "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 00:43:56 +0000"
-    },
-    {
-      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-      "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 00:43:02 +0000"
-    },
-    {
-      "title": "Israel’s Eisenkot says country voted for change",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 00:30:22 +0000"
-    },
-    {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 23:35:51 +0000"
-    },
-    {
-      "title": "A bad day for Ben-Gvir as he addresses his supporters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 23:16:38 +0000"
-    },
-    {
-      "title": "Israel election results: No clear winner projected, what’s next?",
-      "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 23:06:47 +0000"
-    },
-    {
-      "title": "Smotrich dances in Israel despite far-right decline",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 23:03:44 +0000"
-    },
-    {
-      "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 22:56:32 +0000"
-    },
-    {
-      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 22:31:31 +0000"
-    },
-    {
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 22:29:31 +0000"
+      "title": "China's families are now supporting more old people than kids",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 23:16:08 GMT"
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -100,34 +130,10 @@
       "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
-      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
-      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 21:47:34 +0000"
-    },
-    {
-      "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 21:28:33 +0000"
-    },
-    {
-      "title": "Forever Wars: Why can’t America stop?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 21:21:08 +0000"
-    },
-    {
-      "title": "Will players in the Gulf establish a new security framework?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 21:14:12 +0000"
-    },
-    {
-      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 27 Oct 2026 21:12:27 +0000"
+      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 27 Oct 2026 21:46:43 GMT"
     },
     {
       "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
@@ -142,40 +148,28 @@
       "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 15:41:46 GMT"
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Netherlands pulls out of Eurovision again over Israel participation",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 11:23:19 GMT"
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 27 Oct 2026 10:17:36 GMT"
-    },
-    {
-      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 06:15:24 GMT"
-    },
-    {
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 02:40:17 GMT"
     },
     {
       "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168673",
       "source": "UN News",
       "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 18,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-28T05:51:18.345Z"
+      "checkedAt": "2026-10-28T13:06:02.476Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 27,
+      "items": 9,
+      "rawItems": 20,
       "error": "",
-      "checkedAt": "2026-10-28T05:51:18.345Z"
+      "checkedAt": "2026-10-28T13:06:02.476Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 28,
+      "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T05:51:18.345Z"
+      "checkedAt": "2026-10-28T13:06:02.476Z"
     }
   ]
 }
