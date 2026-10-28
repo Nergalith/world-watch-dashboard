@@ -1,14 +1,68 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-28T18:53:36.313Z",
-  "checkedAt": "2026-10-28T18:53:36.313Z",
-  "lastLiveAt": "2026-10-28T18:53:36.313Z",
+  "generatedAt": "2026-10-28T23:16:23.027Z",
+  "checkedAt": "2026-10-28T23:16:23.027Z",
+  "lastLiveAt": "2026-10-28T23:16:23.027Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 22:13:35 GMT"
+    },
+    {
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
+    },
+    {
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 20:53:02 GMT"
+    },
+    {
+      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 20:38:01 +0000"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
+    },
+    {
+      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 19:13:32 +0000"
+    },
+    {
+      "title": "What are the implications of Israel’s elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 19:03:03 +0000"
+    },
+    {
+      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 19:01:46 +0000"
+    },
+    {
+      "title": "Students on hunger strike in India demand restoration of student union",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 28 Oct 2026 18:52:58 +0000"
+    },
     {
       "title": "Jerusalem Daily: What’s next after Israel’s elections?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
@@ -26,18 +80,6 @@
       "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Wed, 28 Oct 2026 17:09:05 +0000"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 16:59:47 GMT"
-    },
-    {
-      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 16:30:29 GMT"
     },
     {
       "title": "Kremlin says European countries not included in next Ukraine talks",
@@ -58,34 +100,10 @@
       "publishedAt": "Wed, 28 Oct 2026 15:40:04 +0000"
     },
     {
-      "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 15:36:39 +0000"
-    },
-    {
-      "title": "Are GCC countries looking for a regional security pact with Iran?",
-      "link": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 14:51:14 +0000"
-    },
-    {
-      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 14:32:16 +0000"
-    },
-    {
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT"
-    },
-    {
-      "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
-      "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 14:30:17 +0000"
     },
     {
       "title": "Israel's election result is messy - here's why",
@@ -94,28 +112,10 @@
       "publishedAt": "Wed, 28 Oct 2026 14:26:24 GMT"
     },
     {
-      "title": "Espionage threats blur lines between security and dissent in Iran",
-      "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 14:03:08 +0000"
-    },
-    {
-      "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
-      "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 13:56:41 +0000"
-    },
-    {
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 13:47:39 +0000"
-    },
-    {
-      "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 12:56:24 +0000"
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -134,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
-    },
-    {
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 21:46:43 GMT"
     },
     {
       "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
       "source": "UN News",
       "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 23,
+      "items": 11,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 27,
+      "items": 26,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     }
   ]
 }

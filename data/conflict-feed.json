@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-28T18:53:36.313Z",
-  "checkedAt": "2026-10-28T18:53:36.313Z",
-  "lastLiveAt": "2026-10-28T18:53:36.313Z",
+  "generatedAt": "2026-10-28T23:16:23.027Z",
+  "checkedAt": "2026-10-28T23:16:23.027Z",
+  "lastLiveAt": "2026-10-28T23:16:23.027Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 108,
+  "liveItemCount": 104,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -16,9 +16,9 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Israel / Gaza is active on the public watch board with 29 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 18:31:33 +0000",
-      "sourceName": "Al Jazeera",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
+      "sourceName": "BBC World News",
       "sourceCount": 5,
       "reportCount": 29,
       "confidence": "High Signal",
@@ -30,6 +30,30 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 20:24:39 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "What are the implications of Israel’s elections?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:03:03 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Jerusalem Daily: What’s next after Israel’s elections?",
           "sourceName": "Al Jazeera",
@@ -45,28 +69,69 @@
           "seenDate": "Wed, 28 Oct 2026 17:54:51 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+      "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 12,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
         {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:59:47 GMT",
+          "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Israeli soldier visiting UK faces war crimes complaint",
+          "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:06:17 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:01:46 +0000",
           "category": "Conflict",
-          "severity": "Critical"
+          "severity": "High"
         },
         {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 14:30:31 GMT",
+          "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 16:35:30 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Kremlin says European countries not included in next Ukraine talks",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 16:12:02 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -132,71 +197,6 @@
           "sourceName": "International Crisis Group",
           "sourceUrl": "https://www.crisisgroup.org/vid/africa/sudan/zeinab-badawi-sudans-forgotten-humanitarian-crisis",
           "seenDate": "Thu, 22 Oct 2026 20:03:14 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 16:35:30 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 11,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:35:30 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Kremlin says European countries not included in next Ukraine talks",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:12:02 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 20:42:38 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 18:28:23 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -275,35 +275,18 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 14:51:14 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 6,
+      "summary": "Iran is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 2,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Are GCC countries looking for a regional security pact with Iran?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 14:51:14 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Espionage threats blur lines between security and dissent in Iran",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 14:03:08 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "In Egypt, Guterres warns against Iran-US escalation",
           "sourceName": "UN News - Global perspective Human stories",
@@ -327,38 +310,37 @@
           "seenDate": "Sat, 24 Oct 2026 07:36:02 GMT",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+          "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
     {
-      "title": "Syria: corroborated conflict signal",
+      "title": "Syria: critical conflict watch",
       "location": "Syria",
       "coords": [
         38.3,
         35
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Syria is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 13:47:39 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
+      "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 27 Oct 2026 02:40:17 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East"
       ],
       "reports": [
-        {
-          "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 13:47:39 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
           "sourceName": "BBC Middle East",
@@ -433,70 +415,6 @@
       ]
     },
     {
-      "title": "Taiwan Strait: high-signal conflict watch",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Infrastructure",
-      "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 15:36:39 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 6,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 15:36:39 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 12:56:24 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "China's families are now supporting more old people than kids",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Aga banned for fake prescription from family member",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 22 Oct 2026 18:25:41 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Sahel: high-signal conflict watch",
       "location": "Sahel",
       "coords": [
@@ -555,6 +473,61 @@
           "sourceName": "BBC Africa",
           "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 2,
+      "reportCount": 4,
+      "confidence": "High Signal",
+      "sources": [
+        "BBC Africa",
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "China's families are now supporting more old people than kids",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Aga banned for fake prescription from family member",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 22 Oct 2026 18:25:41 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "South Africa's Andrews died of tear in artery around heart - autopsy",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 21 Oct 2026 14:39:26 GMT",
           "category": "Infrastructure",
           "severity": "High"
         }
@@ -775,7 +748,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "GDELT",
@@ -783,17 +756,17 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "UN News Peace and Security",
       "kind": "conflict",
       "status": "up",
-      "items": 24,
+      "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "UN News Africa",
@@ -802,7 +775,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "International Crisis Group",
@@ -811,7 +784,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "BBC Africa",
@@ -820,7 +793,7 @@
       "items": 9,
       "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "BBC Middle East",
@@ -829,16 +802,16 @@
       "items": 20,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 12,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -847,16 +820,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 11,
-      "rawItems": 23,
+      "items": 12,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-28T18:53:36.313Z"
+      "checkedAt": "2026-10-28T23:16:23.027Z"
     }
   ]
 }
