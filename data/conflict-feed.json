@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-27T23:48:39.993Z",
-  "checkedAt": "2026-10-27T23:48:39.993Z",
-  "lastLiveAt": "2026-10-27T23:48:39.993Z",
+  "generatedAt": "2026-10-28T05:51:18.345Z",
+  "checkedAt": "2026-10-28T05:51:18.345Z",
+  "lastLiveAt": "2026-10-28T05:51:18.345Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 94,
+  "liveItemCount": 96,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 34 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "seenDate": "Tue, 27 Oct 2026 23:35:51 +0000",
-      "sourceName": "Al Jazeera",
+      "summary": "Israel / Gaza is active on the public watch board with 36 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 28 Oct 2026 04:22:59 GMT",
+      "sourceName": "BBC Middle East",
       "sourceCount": 5,
-      "reportCount": 34,
+      "reportCount": 36,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -31,107 +31,42 @@
       ],
       "reports": [
         {
-          "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:35:51 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+          "title": "Watch: What happens now after close vote in Israeli election?",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:27:13 GMT",
+          "seenDate": "Wed, 28 Oct 2026 04:22:59 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "A bad day for Ben-Gvir as he addresses his supporters",
+          "title": "Five key takeaways from Israel’s parliamentary elections",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:16:38 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "No clear mandate projected in Israel election: What’s next?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:06:47 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 02:53:35 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Smotrich dances in Israel despite far-right decline",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:03:44 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "seenDate": "Tue, 27 Oct 2026 22:29:31 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 11,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 22:29:31 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
+          "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 02:09:11 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 20:42:38 GMT",
+          "title": "Arab parties on track to win record seats in Israel election, polls show",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 00:43:56 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+          "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 19:36:01 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 18:42:48 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 00:43:02 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -198,6 +133,71 @@
           "seenDate": "Fri, 23 Oct 2026 10:23:07 GMT",
           "category": "Conflict",
           "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "seenDate": "Tue, 27 Oct 2026 22:29:31 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 9,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+          "seenDate": "Tue, 27 Oct 2026 22:29:31 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 20:42:38 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Norway and Finland leaders hold rare call with Putin",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 18:28:23 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+          "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "title": "Syria: critical conflict watch",
+      "title": "Syria: corroborated conflict signal",
       "location": "Syria",
       "coords": [
         38.3,
@@ -385,17 +385,26 @@
       ],
       "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 27 Oct 2026 02:40:17 GMT",
-      "sourceName": "BBC Middle East",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
+      "summary": "Syria is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+      "seenDate": "Wed, 28 Oct 2026 03:10:17 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 2,
+      "reportCount": 2,
+      "confidence": "Corroborated",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East"
       ],
       "reports": [
+        {
+          "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 03:10:17 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
         {
           "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
           "sourceName": "BBC Middle East",
@@ -403,6 +412,70 @@
           "seenDate": "Tue, 27 Oct 2026 02:40:17 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "High",
+      "summary": "Taiwan Strait is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+      "seenDate": "Wed, 28 Oct 2026 04:28:22 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 6,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Mbappe faces backlash in China for meme fiasco",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 04:28:22 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 03:49:40 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 13:25:54 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Aga banned for fake prescription from family member",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 22 Oct 2026 18:25:41 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
         }
       ]
     },
@@ -462,61 +535,6 @@
       ]
     },
     {
-      "title": "Taiwan Strait: high-signal conflict watch",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Infrastructure",
-      "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 2,
-      "reportCount": 4,
-      "confidence": "High Signal",
-      "sources": [
-        "BBC Africa",
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 13:25:54 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Aga banned for fake prescription from family member",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 22 Oct 2026 18:25:41 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "South Africa's Andrews died of tear in artery around heart - autopsy",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 21 Oct 2026 14:39:26 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Haiti: public conflict signal",
       "location": "Haiti",
       "coords": [
@@ -555,45 +573,6 @@
       ]
     },
     {
-      "title": "Lebanon / Israel Border: corroborated conflict signal",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
-      "seenDate": "Tue, 27 Oct 2026 20:34:44 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "Al Jazeera",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
-          "seenDate": "Tue, 27 Oct 2026 20:34:44 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-          "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
-          "category": "Military Hotspots",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Venezuela / Guyana: corroborated conflict signal",
       "location": "Venezuela / Guyana",
       "coords": [
@@ -615,7 +594,7 @@
       ],
       "reports": [
         {
-          "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+          "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
           "seenDate": "Tue, 27 Oct 2026 21:28:33 +0000",
@@ -663,6 +642,36 @@
       ]
     },
     {
+      "title": "Lebanon / Israel Border: public conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+          "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "High"
+        }
+      ]
+    },
+    {
       "title": "Myanmar: public conflict signal",
       "location": "Myanmar",
       "coords": [
@@ -702,7 +711,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "GDELT",
@@ -710,8 +719,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "error": "HTTP 429",
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -720,7 +729,7 @@
       "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "UN News Africa",
@@ -729,7 +738,7 @@
       "items": 0,
       "rawItems": 0,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "International Crisis Group",
@@ -738,7 +747,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "BBC Africa",
@@ -747,25 +756,25 @@
       "items": 10,
       "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "BBC Middle East",
       "kind": "conflict",
       "status": "up",
-      "items": 20,
-      "rawItems": 24,
+      "items": 21,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 17,
+      "items": 18,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -774,7 +783,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     },
     {
       "name": "BBC World News",
@@ -783,7 +792,7 @@
       "items": 13,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-27T23:48:39.993Z"
+      "checkedAt": "2026-10-28T05:51:18.345Z"
     }
   ]
 }
