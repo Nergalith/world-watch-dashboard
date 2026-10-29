@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-28T23:16:23.027Z",
-  "checkedAt": "2026-10-28T23:16:23.027Z",
-  "lastLiveAt": "2026-10-28T23:16:23.027Z",
+  "generatedAt": "2026-10-29T02:31:29.724Z",
+  "checkedAt": "2026-10-29T02:31:29.724Z",
+  "lastLiveAt": "2026-10-29T02:31:29.724Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 104,
+  "liveItemCount": 102,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,14 +13,14 @@
         34.45,
         31.45
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 29 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
-      "sourceName": "BBC World News",
+      "summary": "Israel / Gaza is active on the public watch board with 31 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 00:34:24 +0000",
+      "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 29,
+      "reportCount": 31,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -31,6 +31,22 @@
       ],
       "reports": [
         {
+          "title": "Israelis rally for Jewish-Arab government after election gains",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 00:34:24 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "High"
+        },
+        {
+          "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 00:01:07 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "Israel's election deadlock is a sign of the country's deep divisions",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
@@ -39,99 +55,18 @@
           "severity": "High"
         },
         {
+          "title": "Watch: King dances in the streets of the Bahamas capital",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 20:44:10 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 28 Oct 2026 20:24:39 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "What are the implications of Israel’s elections?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 19:03:03 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 18:31:33 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 17:54:51 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 12,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 19:01:46 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:35:30 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Kremlin says European countries not included in next Ukraine talks",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 16:12:02 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -144,28 +79,27 @@
         30.2,
         15.7
       ],
-      "category": "Conflict",
+      "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 17:09:05 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
+      "summary": "Sudan is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "seenDate": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
       "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 17:09:05 +0000",
-          "category": "Conflict",
+          "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+          "seenDate": "Wed, 28 Oct 2026 12:00:00 +0000",
+          "category": "Military Hotspots",
           "severity": "Critical"
         },
         {
@@ -197,6 +131,71 @@
           "sourceName": "International Crisis Group",
           "sourceUrl": "https://www.crisisgroup.org/vid/africa/sudan/zeinab-badawi-sudans-forgotten-humanitarian-crisis",
           "seenDate": "Thu, 22 Oct 2026 20:03:14 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+      "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 9,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:01:46 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 22:11:08 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 20:42:38 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Norway and Finland leaders hold rare call with Putin",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 27 Oct 2026 18:28:23 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -273,20 +272,29 @@
         53.7,
         32.4
       ],
-      "category": "Conflict",
+      "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 4,
+      "summary": "Iran is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 5,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 00:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
         {
           "title": "In Egypt, Guterres warns against Iran-US escalation",
           "sourceName": "UN News - Global perspective Human stories",
@@ -360,12 +368,12 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 11 reports across 2 sources. Category is currently assessed as Conflict.",
+      "summary": "Democratic Republic of Congo is active on the public watch board with 10 reports across 2 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
       "seenDate": "Wed, 28 Oct 2026 14:50:04 GMT",
       "sourceName": "BBC Africa",
       "sourceCount": 2,
-      "reportCount": 11,
+      "reportCount": 10,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
@@ -479,7 +487,7 @@
       ]
     },
     {
-      "title": "Taiwan Strait: high-signal conflict watch",
+      "title": "Taiwan Strait: corroborated conflict signal",
       "location": "Taiwan Strait",
       "coords": [
         121,
@@ -487,13 +495,13 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Infrastructure.",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
       "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 2,
-      "reportCount": 4,
-      "confidence": "High Signal",
+      "reportCount": 3,
+      "confidence": "Corroborated",
       "sources": [
         "BBC Africa",
         "BBC World News"
@@ -504,14 +512,6 @@
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 17:11:27 GMT",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -748,7 +748,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "GDELT",
@@ -756,17 +756,17 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "error": "HTTP 429",
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "UN News Peace and Security",
       "kind": "conflict",
       "status": "up",
-      "items": 22,
+      "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "UN News Africa",
@@ -775,7 +775,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "International Crisis Group",
@@ -784,7 +784,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "BBC Africa",
@@ -793,7 +793,7 @@
       "items": 9,
       "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "BBC Middle East",
@@ -802,16 +802,16 @@
       "items": 20,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 9,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -820,7 +820,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "BBC World News",
@@ -829,7 +829,7 @@
       "items": 12,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     }
   ]
 }

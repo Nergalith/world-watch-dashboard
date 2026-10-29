@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-28T23:16:23.027Z",
-  "checkedAt": "2026-10-28T23:16:23.027Z",
-  "lastLiveAt": "2026-10-28T23:16:23.027Z",
+  "generatedAt": "2026-10-29T02:31:29.724Z",
+  "checkedAt": "2026-10-29T02:31:29.724Z",
+  "lastLiveAt": "2026-10-29T02:31:29.724Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,34 @@
   ],
   "items": [
     {
+      "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 02:02:02 +0000"
+    },
+    {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 22:13:35 GMT"
+      "publishedAt": "Thu, 29 Oct 2026 01:14:01 GMT"
+    },
+    {
+      "title": "Israelis rally for Jewish-Arab government after election gains",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 00:34:24 +0000"
+    },
+    {
+      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 00:01:07 +0000"
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 00:00:00 +0000"
     },
     {
       "title": "Girl seriously injured in wolf attack at German wildlife park",
@@ -76,30 +100,6 @@
       "publishedAt": "Wed, 28 Oct 2026 17:54:51 +0000"
     },
     {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 17:09:05 +0000"
-    },
-    {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 16:12:02 +0000"
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 16:06:17 +0000"
-    },
-    {
-      "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 15:40:04 +0000"
-    },
-    {
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -110,6 +110,12 @@
       "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 28 Oct 2026 14:26:24 GMT"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
       "source": "UN News",
       "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "In Egypt, Guterres warns against Iran-US escalation",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "source": "UN News",
-      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -198,7 +198,7 @@
       "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "BBC",
@@ -207,16 +207,16 @@
       "items": 11,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 26,
+      "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-28T23:16:23.027Z"
+      "checkedAt": "2026-10-29T02:31:29.724Z"
     }
   ]
 }
