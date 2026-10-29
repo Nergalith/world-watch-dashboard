@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-29T02:31:29.724Z",
-  "checkedAt": "2026-10-29T02:31:29.724Z",
-  "lastLiveAt": "2026-10-29T02:31:29.724Z",
+  "generatedAt": "2026-10-29T10:06:50.957Z",
+  "checkedAt": "2026-10-29T10:06:50.957Z",
+  "lastLiveAt": "2026-10-29T10:06:50.957Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 102,
+  "liveItemCount": 105,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,14 +13,14 @@
         34.45,
         31.45
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 31 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-      "seenDate": "Thu, 29 Oct 2026 00:34:24 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 29 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 09:31:37 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 31,
+      "reportCount": 29,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -31,42 +31,42 @@
       ],
       "reports": [
         {
-          "title": "Israelis rally for Jewish-Arab government after election gains",
+          "title": "Israeli settler take-over",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-          "seenDate": "Thu, 29 Oct 2026 00:34:24 +0000",
-          "category": "Uprisings/Protests",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 09:31:37 +0000",
+          "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+          "title": "How could Israel break election deadlock? Here are four scenarios",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 09:06:48 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "How to stop the US-Israel war on Iran",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-          "seenDate": "Thu, 29 Oct 2026 00:01:07 +0000",
+          "sourceUrl": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:54:51 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:41:04 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
           "title": "Israel's election deadlock is a sign of the country's deep divisions",
-          "sourceName": "BBC World News",
+          "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: King dances in the streets of the Bahamas capital",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 20:44:10 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 20:24:39 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -145,33 +145,42 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
+      "summary": "Ukraine is active on the public watch board with 9 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Thu, 29 Oct 2026 08:23:31 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 5,
       "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
+        "BBC Africa",
         "BBC World News",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+          "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 08:23:31 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 19:13:32 +0000",
+          "sourceUrl": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 08:14:34 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-          "seenDate": "Wed, 28 Oct 2026 19:01:46 +0000",
+          "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 19:15:58 GMT",
           "category": "Conflict",
           "severity": "High"
         },
@@ -188,14 +197,6 @@
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
           "seenDate": "Tue, 27 Oct 2026 20:42:38 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 18:28:23 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -272,11 +273,11 @@
         53.7,
         32.4
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-      "seenDate": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "summary": "Iran is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 08:51:30 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 5,
@@ -288,12 +289,12 @@
       ],
       "reports": [
         {
-          "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+          "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-          "seenDate": "Thu, 29 Oct 2026 00:00:00 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 08:51:30 +0000",
+          "category": "Conflict",
+          "severity": "High"
         },
         {
           "title": "In Egypt, Guterres warns against Iran-US escalation",
@@ -325,6 +326,44 @@
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168664",
           "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Korean Peninsula: critical conflict watch",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Infrastructure",
+      "severity": "Critical",
+      "summary": "Korean Peninsula is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 08:58:57 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "reports": [
+        {
+          "title": "North Koreans being recruited into forced labour in Russia, report says",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 08:58:57 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "North Korea fires missiles as row over landmine blast intensifies",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:24:47 +0000",
+          "category": "Military Hotspots",
           "severity": "Critical"
         }
       ]
@@ -368,18 +407,26 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 10 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 28 Oct 2026 14:50:04 GMT",
+      "summary": "Democratic Republic of Congo is active on the public watch board with 11 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Thu, 29 Oct 2026 07:16:00 GMT",
       "sourceName": "BBC Africa",
       "sourceCount": 2,
-      "reportCount": 10,
+      "reportCount": 11,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:16:00 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Judoka determined to prove refugees belong at Dakar 2026",
           "sourceName": "BBC Africa",
@@ -411,14 +458,6 @@
           "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168655",
-          "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -431,12 +470,12 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Sahel is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 27 Oct 2026 19:01:16 GMT",
+      "summary": "Sahel is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 27 Oct 2026 18:35:02 GMT",
       "sourceName": "BBC Africa",
       "sourceCount": 3,
-      "reportCount": 5,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
@@ -444,14 +483,6 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 19:01:16 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "Controversial Islamic cleric shot dead in northern Nigeria",
           "sourceName": "BBC Africa",
@@ -487,7 +518,7 @@
       ]
     },
     {
-      "title": "Taiwan Strait: corroborated conflict signal",
+      "title": "Taiwan Strait: high-signal conflict watch",
       "location": "Taiwan Strait",
       "coords": [
         121,
@@ -495,23 +526,32 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Thu, 29 Oct 2026 07:54:33 GMT",
       "sourceName": "BBC World News",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "BBC World News"
       ],
       "reports": [
         {
-          "title": "China's families are now supporting more old people than kids",
+          "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
           "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 23:16:08 GMT",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:54:33 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Man City beat Brighton on penalties after dramatic League Cup comeback",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/10/29/man-city-beat-bournemouth-on-penalties-after-dramatic-league-cup-comeback?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:12:40 +0000",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -529,6 +569,54 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 21 Oct 2026 14:39:26 GMT",
           "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Haiti: corroborated conflict signal",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Haiti is active on the public watch board with 3 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+      "seenDate": "Thu, 29 Oct 2026 07:36:38 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+          "seenDate": "Thu, 29 Oct 2026 07:36:38 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 06:24:56 GMT",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
+          "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+          "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -649,36 +737,6 @@
       ]
     },
     {
-      "title": "Haiti: public conflict signal",
-      "location": "Haiti",
-      "coords": [
-        -72.3,
-        18.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-      "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-          "seenDate": "Mon, 19 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Lebanon / Israel Border: public conflict signal",
       "location": "Lebanon / Israel Border",
       "coords": [
@@ -707,36 +765,6 @@
           "severity": "High"
         }
       ]
-    },
-    {
-      "title": "Venezuela / Guyana: public conflict signal",
-      "location": "Venezuela / Guyana",
-      "coords": [
-        -61.7,
-        6.8
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Venezuela / Guyana is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 28 Oct 2026 04:32:36 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 04:32:36 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
     }
   ],
   "source": "UN News Peace and Security, UN News Africa, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News",
@@ -748,7 +776,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "GDELT",
@@ -757,7 +785,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -766,7 +794,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "UN News Africa",
@@ -775,7 +803,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "International Crisis Group",
@@ -784,34 +812,34 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
-      "items": 9,
+      "items": 10,
       "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "BBC Middle East",
       "kind": "conflict",
       "status": "up",
-      "items": 20,
-      "rawItems": 23,
+      "items": 21,
+      "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 8,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -820,7 +848,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "BBC World News",
@@ -829,7 +857,7 @@
       "items": 12,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     }
   ]
 }

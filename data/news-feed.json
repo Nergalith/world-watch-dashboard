@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-29T02:31:29.724Z",
-  "checkedAt": "2026-10-29T02:31:29.724Z",
-  "lastLiveAt": "2026-10-29T02:31:29.724Z",
+  "generatedAt": "2026-10-29T10:06:50.957Z",
+  "checkedAt": "2026-10-29T10:06:50.957Z",
+  "lastLiveAt": "2026-10-29T10:06:50.957Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,94 @@
   ],
   "items": [
     {
-      "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+      "title": "Israeli settler take-over",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 02:02:02 +0000"
+      "publishedAt": "Thu, 29 Oct 2026 09:31:37 +0000"
+    },
+    {
+      "title": "Brazilians split over Flavio Bolsonaro’s exit to US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 09:12:40 +0000"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 09:06:48 GMT"
+    },
+    {
+      "title": "Photos: Aftermath of deadly Cyclone Arnab in southern India",
+      "link": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 09:06:38 +0000"
+    },
+    {
+      "title": "North Koreans being recruited into forced labour in Russia, report says",
+      "link": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 08:58:57 +0000"
+    },
+    {
+      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
+      "link": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 08:51:30 +0000"
+    },
+    {
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 08:23:31 GMT"
+    },
+    {
+      "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+      "link": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 08:14:34 +0000"
+    },
+    {
+      "title": "How to stop the US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 07:54:51 +0000"
+    },
+    {
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 07:54:33 GMT"
+    },
+    {
+      "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
+      "link": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 07:41:04 +0000"
+    },
+    {
+      "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+      "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 07:36:38 +0000"
+    },
+    {
+      "title": "North Korea fires missiles as row over landmine blast intensifies",
+      "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 07:24:47 +0000"
+    },
+    {
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 06:24:56 GMT"
+    },
+    {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 01:30:43 GMT"
     },
     {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -22,88 +106,16 @@
       "publishedAt": "Thu, 29 Oct 2026 01:14:01 GMT"
     },
     {
-      "title": "Israelis rally for Jewish-Arab government after election gains",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 00:34:24 +0000"
-    },
-    {
-      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
-      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 00:01:07 +0000"
-    },
-    {
-      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 +0000"
-    },
-    {
       "title": "Girl seriously injured in wolf attack at German wildlife park",
       "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
     },
     {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 20:53:02 GMT"
-    },
-    {
-      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-      "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 20:38:01 +0000"
-    },
-    {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
-    },
-    {
-      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 19:13:32 +0000"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 19:03:03 +0000"
-    },
-    {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 19:01:46 +0000"
-    },
-    {
-      "title": "Students on hunger strike in India demand restoration of student union",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 18:52:58 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 18:31:33 +0000"
-    },
-    {
-      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 28 Oct 2026 17:54:51 +0000"
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT"
     },
     {
       "title": "Israel's election result is messy - here's why",
@@ -130,12 +142,6 @@
       "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT"
     },
     {
-      "title": "China's families are now supporting more old people than kids",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 23:16:08 GMT"
-    },
-    {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -146,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 27 Oct 2026 20:42:38 GMT"
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
       "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 12,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-29T02:31:29.724Z"
+      "checkedAt": "2026-10-29T10:06:50.957Z"
     }
   ]
 }
