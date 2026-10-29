@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-29T10:06:50.957Z",
-  "checkedAt": "2026-10-29T10:06:50.957Z",
-  "lastLiveAt": "2026-10-29T10:06:50.957Z",
+  "generatedAt": "2026-10-29T16:57:36.813Z",
+  "checkedAt": "2026-10-29T16:57:36.813Z",
+  "lastLiveAt": "2026-10-29T16:57:36.813Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,88 @@
   ],
   "items": [
     {
-      "title": "Israeli settler take-over",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 09:31:37 +0000"
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 15:47:20 GMT"
     },
     {
-      "title": "Brazilians split over Flavio Bolsonaro’s exit to US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss",
+      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 09:12:40 +0000"
+      "publishedAt": "Thu, 29 Oct 2026 15:35:53 +0000"
+    },
+    {
+      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 15:12:36 +0000"
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT"
+    },
+    {
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT"
+    },
+    {
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "link": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 13:44:42 +0000"
+    },
+    {
+      "title": "Men pulled from vehicle stranded by floods in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 13:15:14 +0000"
+    },
+    {
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 12:49:17 GMT"
+    },
+    {
+      "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+      "link": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 12:46:29 +0000"
+    },
+    {
+      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 12:32:49 +0000"
+    },
+    {
+      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+      "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 12:29:05 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+      "link": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 11:41:44 +0000"
+    },
+    {
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 11:25:16 GMT"
     },
     {
       "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -28,64 +100,16 @@
       "publishedAt": "Thu, 29 Oct 2026 09:06:48 GMT"
     },
     {
-      "title": "Photos: Aftermath of deadly Cyclone Arnab in southern India",
-      "link": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 09:06:38 +0000"
-    },
-    {
-      "title": "North Koreans being recruited into forced labour in Russia, report says",
-      "link": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 08:58:57 +0000"
-    },
-    {
-      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 08:51:30 +0000"
-    },
-    {
       "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
       "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 29 Oct 2026 08:23:31 GMT"
     },
     {
-      "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
-      "link": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 08:14:34 +0000"
-    },
-    {
-      "title": "How to stop the US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 07:54:51 +0000"
-    },
-    {
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
       "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 29 Oct 2026 07:54:33 GMT"
-    },
-    {
-      "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
-      "link": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 07:41:04 +0000"
-    },
-    {
-      "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
-      "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 07:36:38 +0000"
-    },
-    {
-      "title": "North Korea fires missiles as row over landmine blast intensifies",
-      "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 07:24:47 +0000"
     },
     {
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
@@ -100,28 +124,10 @@
       "publishedAt": "Thu, 29 Oct 2026 01:30:43 GMT"
     },
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 01:14:01 GMT"
-    },
-    {
       "title": "Girl seriously injured in wolf attack at German wildlife park",
       "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
-    },
-    {
-      "title": "Israel's election result is messy - here's why",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 14:26:24 GMT"
     },
     {
       "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
@@ -134,24 +140,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
       "source": "UN News",
       "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT"
-    },
-    {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
-    },
-    {
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 27 Oct 2026 20:42:38 GMT"
     },
     {
       "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
@@ -188,6 +176,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
       "source": "UN News",
       "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "source": "UN News",
+      "publishedAt": "Fri, 23 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 10,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-29T10:06:50.957Z"
+      "checkedAt": "2026-10-29T16:57:36.813Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 12,
-      "rawItems": 27,
+      "items": 11,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-10-29T10:06:50.957Z"
+      "checkedAt": "2026-10-29T16:57:36.813Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-29T10:06:50.957Z"
+      "checkedAt": "2026-10-29T16:57:36.813Z"
     }
   ]
 }
