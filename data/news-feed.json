@@ -1,14 +1,86 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-30T01:59:37.925Z",
-  "checkedAt": "2026-10-30T01:59:37.925Z",
-  "lastLiveAt": "2026-10-30T01:59:37.925Z",
+  "generatedAt": "2026-10-30T08:43:29.754Z",
+  "checkedAt": "2026-10-30T08:43:29.754Z",
+  "lastLiveAt": "2026-10-30T08:43:29.754Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+      "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 07:51:08 +0000"
+    },
+    {
+      "title": "AI’s real bottleneck is electricity. Who will pay for it?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 07:13:47 +0000"
+    },
+    {
+      "title": "Britain must sanction Israel, not just its settlers",
+      "link": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 07:10:50 +0000"
+    },
+    {
+      "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 07:07:36 +0000"
+    },
+    {
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT"
+    },
+    {
+      "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+      "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 04:40:07 +0000"
+    },
+    {
+      "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 04:14:09 +0000"
+    },
+    {
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 03:24:12 GMT"
+    },
+    {
+      "title": "Flash floods kill five in Syria",
+      "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 03:11:55 +0000"
+    },
+    {
+      "title": "Husband of one of Modi’s closest advisors questions election integrity",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 02:41:18 +0000"
+    },
+    {
+      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 02:40:26 +0000"
+    },
+    {
+      "title": "Democrats have an identity crisis - it won't be an easy fix",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 02:14:41 GMT"
+    },
     {
       "title": "Trump administration renews bid to block Alaska election results",
       "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
@@ -22,64 +94,16 @@
       "publishedAt": "Fri, 30 Oct 2026 01:05:26 +0000"
     },
     {
-      "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
-      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 00:29:24 +0000"
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 00:17:28 GMT"
     },
     {
-      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 00:11:20 +0000"
-    },
-    {
-      "title": "What does bourbon have to do with the US midterms?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 00:08:50 +0000"
-    },
-    {
-      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-      "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 23:52:30 +0000"
-    },
-    {
-      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 21:16:26 +0000"
-    },
-    {
-      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 21:10:13 +0000"
-    },
-    {
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 20:40:03 +0000"
-    },
-    {
-      "title": "Does Russia offer African countries an equal partnership?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 20:34:28 +0000"
-    },
-    {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 20:22:04 +0000"
+      "title": "China made Mbappé apologise - but many don't know exactly what he said",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 23:03:15 GMT"
     },
     {
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
@@ -94,30 +118,6 @@
       "publishedAt": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
-      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 19:21:19 +0000"
-    },
-    {
-      "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-      "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 19:02:33 +0000"
-    },
-    {
-      "title": "Pentagon fires general it says leaked classified information to media",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 19:02:19 +0000"
-    },
-    {
-      "title": "Texas Republican group seeks to block certification of state’s election",
-      "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 18:40:01 +0000"
-    },
-    {
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -130,10 +130,10 @@
       "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT"
     },
     {
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 12:49:17 GMT"
+      "publishedAt": "Thu, 29 Oct 2026 14:08:23 GMT"
     },
     {
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
@@ -166,28 +166,28 @@
       "publishedAt": "Thu, 29 Oct 2026 11:25:16 GMT"
     },
     {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 09:06:48 GMT"
-    },
-    {
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 08:23:31 GMT"
-    },
-    {
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 07:54:33 GMT"
-    },
-    {
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
       "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 29 Oct 2026 06:24:56 GMT"
+    },
+    {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 29 Oct 2026 01:30:43 GMT"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 16,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-30T01:59:37.925Z"
+      "checkedAt": "2026-10-30T08:43:29.754Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 12,
-      "rawItems": 28,
+      "items": 13,
+      "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-10-30T01:59:37.925Z"
+      "checkedAt": "2026-10-30T08:43:29.754Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T01:59:37.925Z"
+      "checkedAt": "2026-10-30T08:43:29.754Z"
     }
   ]
 }
