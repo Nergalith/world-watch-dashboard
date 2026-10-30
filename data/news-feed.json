@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-30T08:43:29.754Z",
-  "checkedAt": "2026-10-30T08:43:29.754Z",
-  "lastLiveAt": "2026-10-30T08:43:29.754Z",
+  "generatedAt": "2026-10-30T15:59:03.149Z",
+  "checkedAt": "2026-10-30T15:59:03.149Z",
+  "lastLiveAt": "2026-10-30T15:59:03.149Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,28 +10,136 @@
   ],
   "items": [
     {
-      "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
-      "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 07:51:08 +0000"
+      "publishedAt": "Fri, 30 Oct 2026 15:50:23 +0000"
     },
     {
-      "title": "AI’s real bottleneck is electricity. Who will pay for it?",
-      "link": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss",
+      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 07:13:47 +0000"
+      "publishedAt": "Fri, 30 Oct 2026 15:37:03 +0000"
     },
     {
-      "title": "Britain must sanction Israel, not just its settlers",
-      "link": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
+      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 07:10:50 +0000"
+      "publishedAt": "Fri, 30 Oct 2026 15:26:00 +0000"
     },
     {
-      "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
-      "link": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 15:17:11 GMT"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 15:09:29 GMT"
+    },
+    {
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT"
+    },
+    {
+      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 07:07:36 +0000"
+      "publishedAt": "Fri, 30 Oct 2026 14:40:19 +0000"
+    },
+    {
+      "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 14:19:49 +0000"
+    },
+    {
+      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+      "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 14:18:07 +0000"
+    },
+    {
+      "title": "Bhutan hot springs hit by flood from glacial lake burst",
+      "link": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 14:01:03 +0000"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 13:46:16 GMT"
+    },
+    {
+      "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
+      "link": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 13:29:57 +0000"
+    },
+    {
+      "title": "Italy tightens security as students, unions launch nationwide protests",
+      "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 13:14:11 +0000"
+    },
+    {
+      "title": "Sudan RSF commander defects from Hemedti’s forces",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 12:55:10 +0000"
+    },
+    {
+      "title": "Russia back in ice hockey world championships after sport court ruling",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 12:43:28 +0000"
+    },
+    {
+      "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+      "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 12:26:56 +0000"
+    },
+    {
+      "title": "Spain’s deadly train crash redraws electoral battle lines",
+      "link": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 12:20:22 +0000"
+    },
+    {
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 12:20:04 GMT"
+    },
+    {
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 11:43:17 +0000"
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 11:23:06 GMT"
+    },
+    {
+      "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 11:08:00 +0000"
     },
     {
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
@@ -40,40 +148,10 @@
       "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT"
     },
     {
-      "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
-      "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 04:40:07 +0000"
-    },
-    {
-      "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 04:14:09 +0000"
-    },
-    {
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 03:24:12 GMT"
-    },
-    {
-      "title": "Flash floods kill five in Syria",
-      "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 03:11:55 +0000"
-    },
-    {
-      "title": "Husband of one of Modi’s closest advisors questions election integrity",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 02:41:18 +0000"
-    },
-    {
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 02:40:26 +0000"
     },
     {
       "title": "Democrats have an identity crisis - it won't be an easy fix",
@@ -82,34 +160,10 @@
       "publishedAt": "Fri, 30 Oct 2026 02:14:41 GMT"
     },
     {
-      "title": "Trump administration renews bid to block Alaska election results",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 01:30:30 +0000"
-    },
-    {
-      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 01:05:26 +0000"
-    },
-    {
       "title": "Student-backed election winners demand sweeping resignations in Serbia",
       "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 00:17:28 GMT"
-    },
-    {
-      "title": "China made Mbappé apologise - but many don't know exactly what he said",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 23:03:15 GMT"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 20:21:54 GMT"
     },
     {
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
@@ -130,64 +184,10 @@
       "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT"
     },
     {
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 14:08:23 GMT"
-    },
-    {
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
       "source": "UN News",
       "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Russia drone strike on Ukrainian railway station kills 13",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 11:25:16 GMT"
-    },
-    {
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 06:24:56 GMT"
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 01:30:43 GMT"
-    },
-    {
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-30T08:43:29.754Z"
+      "checkedAt": "2026-10-30T15:59:03.149Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 13,
-      "rawItems": 34,
+      "rawItems": 36,
       "error": "",
-      "checkedAt": "2026-10-30T08:43:29.754Z"
+      "checkedAt": "2026-10-30T15:59:03.149Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T08:43:29.754Z"
+      "checkedAt": "2026-10-30T15:59:03.149Z"
     }
   ]
 }
