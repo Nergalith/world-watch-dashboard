@@ -1,14 +1,56 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-29T21:50:45.251Z",
-  "checkedAt": "2026-10-29T21:50:45.251Z",
-  "lastLiveAt": "2026-10-29T21:50:45.251Z",
+  "generatedAt": "2026-10-30T01:59:37.925Z",
+  "checkedAt": "2026-10-30T01:59:37.925Z",
+  "lastLiveAt": "2026-10-30T01:59:37.925Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Trump administration renews bid to block Alaska election results",
+      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 01:30:30 +0000"
+    },
+    {
+      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 01:05:26 +0000"
+    },
+    {
+      "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 00:29:24 +0000"
+    },
+    {
+      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 00:11:20 +0000"
+    },
+    {
+      "title": "What does bourbon have to do with the US midterms?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 00:08:50 +0000"
+    },
+    {
+      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+      "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 29 Oct 2026 23:52:30 +0000"
+    },
     {
       "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
       "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
@@ -76,30 +118,6 @@
       "publishedAt": "Thu, 29 Oct 2026 18:40:01 +0000"
     },
     {
-      "title": "At least 14 people killed in attack on Ukraine train station",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 18:03:21 +0000"
-    },
-    {
-      "title": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 17:28:18 +0000"
-    },
-    {
-      "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
-      "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 17:25:17 +0000"
-    },
-    {
-      "title": "France football chief backs Real Madrid’s Mbappe after China apology",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 29 Oct 2026 16:43:37 +0000"
-    },
-    {
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -116,6 +134,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 29 Oct 2026 12:49:17 GMT"
+    },
+    {
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
@@ -164,30 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 29 Oct 2026 06:24:56 GMT"
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 01:30:43 GMT"
-    },
-    {
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
-    },
-    {
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-29T21:50:45.251Z"
+      "checkedAt": "2026-10-30T01:59:37.925Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 12,
       "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-10-29T21:50:45.251Z"
+      "checkedAt": "2026-10-30T01:59:37.925Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-29T21:50:45.251Z"
+      "checkedAt": "2026-10-30T01:59:37.925Z"
     }
   ]
 }
