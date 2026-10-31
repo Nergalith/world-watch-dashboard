@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-31T07:03:00.231Z",
-  "checkedAt": "2026-10-31T07:03:00.231Z",
-  "lastLiveAt": "2026-10-31T07:03:00.231Z",
+  "generatedAt": "2026-10-31T13:41:51.611Z",
+  "checkedAt": "2026-10-31T13:41:51.611Z",
+  "lastLiveAt": "2026-10-31T13:41:51.611Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,112 @@
   ],
   "items": [
     {
-      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-      "link": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 13:12:46 GMT"
+    },
+    {
+      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 05:48:25 +0000"
+      "publishedAt": "Sat, 31 Oct 2026 12:58:28 +0000"
+    },
+    {
+      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
+      "link": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 12:49:04 +0000"
+    },
+    {
+      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+      "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 12:45:49 +0000"
+    },
+    {
+      "title": "Paris steps up security as police patrol streets",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 12:22:49 +0000"
+    },
+    {
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 12:22:45 +0000"
+    },
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 12:21:25 GMT"
+    },
+    {
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 12:13:42 +0000"
+    },
+    {
+      "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 11:27:07 +0000"
+    },
+    {
+      "title": "Thousands protest across Italy over living costs and military spending",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 11:07:39 +0000"
+    },
+    {
+      "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 10:53:55 +0000"
+    },
+    {
+      "title": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 10:49:19 +0000"
+    },
+    {
+      "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+      "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 10:38:43 +0000"
+    },
+    {
+      "title": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
+      "link": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 10:24:21 +0000"
+    },
+    {
+      "title": "Education under fire: Gaza’s children face death on their way to school",
+      "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 10:00:17 +0000"
+    },
+    {
+      "title": "Rival US and Russian resolutions on Western Sahara fail at UN",
+      "link": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 09:35:21 +0000"
+    },
+    {
+      "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
+      "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 09:26:46 +0000"
+    },
+    {
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 09:16:14 GMT"
     },
     {
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -22,58 +124,10 @@
       "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
     },
     {
-      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 05:37:51 +0000"
-    },
-    {
-      "title": "Mohammed Deif, rare footage and October 7 documents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 05:07:34 +0000"
-    },
-    {
-      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 04:51:25 +0000"
-    },
-    {
       "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
       "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 04:32:07 GMT"
-    },
-    {
-      "title": "Iran says four tankers on fire after striking mines in Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 03:55:48 +0000"
-    },
-    {
-      "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 03:27:21 +0000"
-    },
-    {
-      "title": "Ebola death toll in DR Congo passes 5,000",
-      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 02:51:52 +0000"
-    },
-    {
-      "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 02:44:38 +0000"
-    },
-    {
-      "title": "Poland’s president joins protest amid constitutional crisis at top court",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 02:24:00 +0000"
     },
     {
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -88,28 +142,10 @@
       "publishedAt": "Sat, 31 Oct 2026 01:32:33 GMT"
     },
     {
-      "title": "Pope Leo becomes first pontiff to vote in US general election",
-      "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 01:31:44 +0000"
-    },
-    {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 00:40:43 GMT"
-    },
-    {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 00:29:58 GMT"
-    },
-    {
-      "title": "Iran war live: Tehran warns of earth-shattering blow; drones target Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 00:00:00 +0000"
     },
     {
       "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
@@ -136,12 +172,6 @@
       "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
-    },
-    {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
       "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -158,36 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 12:20:04 GMT"
-    },
-    {
-      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT"
-    },
-    {
-      "title": "Democrats have an identity crisis - it won't be an easy fix",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 02:14:41 GMT"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-31T07:03:00.231Z"
+      "checkedAt": "2026-10-31T13:41:51.611Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 17,
-      "rawItems": 35,
+      "items": 18,
+      "rawItems": 36,
       "error": "",
-      "checkedAt": "2026-10-31T07:03:00.231Z"
+      "checkedAt": "2026-10-31T13:41:51.611Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T07:03:00.231Z"
+      "checkedAt": "2026-10-31T13:41:51.611Z"
     }
   ]
 }
