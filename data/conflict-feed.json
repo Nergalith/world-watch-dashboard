@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-31T00:51:24.829Z",
-  "checkedAt": "2026-10-31T00:51:24.829Z",
-  "lastLiveAt": "2026-10-31T00:51:24.829Z",
+  "generatedAt": "2026-10-31T07:03:00.231Z",
+  "checkedAt": "2026-10-31T07:03:00.231Z",
+  "lastLiveAt": "2026-10-31T07:03:00.231Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 107,
+  "liveItemCount": 103,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 19:34:36 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 22 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 05:07:34 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 23,
+      "reportCount": 22,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -30,20 +30,12 @@
       ],
       "reports": [
         {
-          "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+          "title": "Mohammed Deif, rare footage and October 7 documents",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 19:34:36 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 05:07:34 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 18:35:44 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         },
         {
           "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
@@ -68,6 +60,14 @@
           "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Israel's election result is messy - here's why",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 14:26:24 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -78,14 +78,14 @@
         36.23,
         49.99
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 15 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sat, 31 Oct 2026 00:40:43 GMT",
-      "sourceName": "BBC World News",
+      "summary": "Ukraine is active on the public watch board with 17 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 05:37:51 +0000",
+      "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 15,
+      "reportCount": 17,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -96,44 +96,44 @@
       ],
       "reports": [
         {
+          "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 05:37:51 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 04:51:25 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 03:27:21 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 02:44:38 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "US approves sale of 500 Patriot missiles to Ukraine",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Sat, 31 Oct 2026 00:40:43 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
-        },
-        {
-          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 23:19:17 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 22:11:52 GMT",
-          "category": "Uprisings/Protests",
-          "severity": "High"
-        },
-        {
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:41:51 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:37:20 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -144,30 +144,21 @@
         30.2,
         15.7
       ],
-      "category": "Infrastructure",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 14 reports across 4 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 20:10:22 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 14,
+      "summary": "Sudan is active on the public watch board with 13 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "seenDate": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 13,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Port Sudan families can barely afford water as shortages persist",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:10:22 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
         {
           "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
           "sourceName": "UN News - Global perspective Human stories",
@@ -199,6 +190,14 @@
           "seenDate": "Fri, 23 Oct 2026 11:30:32 GMT",
           "category": "Military Hotspots",
           "severity": "High"
+        },
+        {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 23 Oct 2026 10:23:07 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -211,19 +210,28 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 3,
-      "reportCount": 8,
+      "summary": "Red Sea / Yemen is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 05:48:25 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 05:48:25 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "Yemen war makes reaching assistance too dangerous for many",
           "sourceName": "UN News - Global perspective Human stories",
@@ -255,14 +263,6 @@
           "seenDate": "Thu, 22 Oct 2026 15:56:36 GMT",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Yemen war continues to force families from homes amid hunger and disease",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-          "seenDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         }
       ]
     },
@@ -276,8 +276,8 @@
       "category": "Military Hotspots",
       "severity": "Critical",
       "summary": "Iran is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "seenDate": "Sat, 31 Oct 2026 00:00:00 +0000",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 03:55:48 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
       "reportCount": 4,
@@ -288,18 +288,18 @@
       ],
       "reports": [
         {
-          "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+          "title": "Iran says four tankers on fire after striking mines in Hormuz",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 00:00:00 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 03:55:48 +0000",
           "category": "Military Hotspots",
           "severity": "Critical"
         },
         {
-          "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+          "title": "Iran war live: Tehran warns of earth-shattering blow; drones target Riyadh",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 18:33:29 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 00:00:00 +0000",
           "category": "Military Hotspots",
           "severity": "Critical"
         },
@@ -318,62 +318,6 @@
           "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Pakistan / Afghanistan: high-signal conflict watch",
-      "location": "Pakistan / Afghanistan",
-      "coords": [
-        69.2,
-        33.8
-      ],
-      "category": "Military Hotspots",
-      "severity": "Critical",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 18:55:36 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 4,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News",
-        "International Crisis Group"
-      ],
-      "reports": [
-        {
-          "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 18:55:36 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 07:53:38 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/rpt/asia-pacific/india-pakistan/360-trigger-jammu-and-kashmir-militant-violence-under-indian-central-rule",
-          "seenDate": "Thu, 22 Oct 2026 22:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "On Our Radar",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/sco/global/our-radar",
-          "seenDate": "Thu, 22 Oct 2026 22:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -416,45 +360,6 @@
       ]
     },
     {
-      "title": "Korean Peninsula: corroborated conflict signal",
-      "location": "Korean Peninsula",
-      "coords": [
-        127.5,
-        38.4
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Korean Peninsula is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 21:13:14 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 18:03:45 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Democratic Republic of Congo: high-signal conflict watch",
       "location": "Democratic Republic of Congo",
       "coords": [
@@ -463,18 +368,35 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 10 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-      "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 10,
+      "summary": "Democratic Republic of Congo is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 31 Oct 2026 04:32:07 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 3,
+      "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 31 Oct 2026 04:32:07 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ebola death toll in DR Congo passes 5,000",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 02:51:52 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
           "sourceName": "UN News - Global perspective Human stories",
@@ -498,22 +420,6 @@
           "seenDate": "Wed, 28 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168676",
-          "seenDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168667",
-          "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -526,35 +432,18 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 22:58:38 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 8,
+      "summary": "Taiwan Strait is active on the public watch board with 5 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 2,
+      "reportCount": 5,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "BBC World News"
       ],
       "reports": [
-        {
-          "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 22:58:38 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:43:21 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
         {
           "title": "Why has Caf abandoned plans to hold Afcon every four years?",
           "sourceName": "BBC Africa",
@@ -578,11 +467,27 @@
           "seenDate": "Fri, 30 Oct 2026 12:20:04 GMT",
           "category": "Infrastructure",
           "severity": "High"
+        },
+        {
+          "title": "What's at stake for Trump in the US midterms?",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 10:19:48 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "The Documentary Podcast",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
         }
       ]
     },
     {
-      "title": "Sahel: high-signal conflict watch",
+      "title": "Sahel: corroborated conflict signal",
       "location": "Sahel",
       "coords": [
         2.5,
@@ -590,27 +495,19 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Sahel is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78pry0788no?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Thu, 29 Oct 2026 13:05:51 GMT",
-      "sourceName": "BBC Africa",
+      "summary": "Sahel is active on the public watch board with 3 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
+      "seenDate": "Fri, 23 Oct 2026 08:58:43 +0000",
+      "sourceName": "International Crisis Group",
       "sourceCount": 3,
-      "reportCount": 4,
-      "confidence": "High Signal",
+      "reportCount": 3,
+      "confidence": "Corroborated",
       "sources": [
         "BBC Africa",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "President Tinubu to 'pray for Nigeria' during Saudi Arabia trip",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78pry0788no?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 29 Oct 2026 13:05:51 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
           "sourceName": "International Crisis Group",
@@ -633,6 +530,53 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
           "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Pakistan / Afghanistan: corroborated conflict signal",
+      "location": "Pakistan / Afghanistan",
+      "coords": [
+        69.2,
+        33.8
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Pakistan / Afghanistan is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 30 Oct 2026 07:53:38 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "BBC World News",
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 07:53:38 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/rpt/asia-pacific/india-pakistan/360-trigger-jammu-and-kashmir-militant-violence-under-indian-central-rule",
+          "seenDate": "Thu, 22 Oct 2026 22:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "On Our Radar",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/sco/global/our-radar",
+          "seenDate": "Thu, 22 Oct 2026 22:00:00 +0000",
+          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -686,8 +630,8 @@
       "category": "Conflict",
       "severity": "High",
       "summary": "Somalia is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-      "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+      "seenDate": "Sat, 31 Oct 2026 12:00:00 +0000",
       "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 1,
       "reportCount": 2,
@@ -697,18 +641,56 @@
       ],
       "reports": [
         {
+          "title": "Somalia looks to the future as the UN's political mission closes",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+          "seenDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168674",
           "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Korean Peninsula: public conflict signal",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Korean Peninsula is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 31 Oct 2026 02:12:19 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 31 Oct 2026 02:12:19 GMT",
+          "category": "Conflict",
+          "severity": "High"
         },
         {
-          "title": "Somali families face renewed violence amid worsening hunger crisis",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168495",
-          "seenDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 21:13:14 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -743,66 +725,6 @@
           "severity": "High"
         }
       ]
-    },
-    {
-      "title": "Haiti: public conflict signal",
-      "location": "Haiti",
-      "coords": [
-        -72.3,
-        18.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 03:32:44 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "New York police will now investigate Cornell sex complaints, governor says",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 03:32:44 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Venezuela / Guyana: public conflict signal",
-      "location": "Venezuela / Guyana",
-      "coords": [
-        -61.7,
-        6.8
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Venezuela / Guyana is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Thu, 29 Oct 2026 21:05:03 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "Venezuela opposition leader María Machado calls for elections upon return",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 29 Oct 2026 21:05:03 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
     }
   ],
   "source": "UN News Peace and Security, UN News Africa, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News",
@@ -814,7 +736,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "GDELT",
@@ -823,7 +745,7 @@
       "items": 0,
       "rawItems": null,
       "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -832,7 +754,7 @@
       "items": 20,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "UN News Africa",
@@ -841,7 +763,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "International Crisis Group",
@@ -850,7 +772,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "BBC Africa",
@@ -859,7 +781,7 @@
       "items": 10,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "BBC Middle East",
@@ -868,16 +790,16 @@
       "items": 19,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 11,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -886,16 +808,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 15,
-      "rawItems": 39,
+      "items": 13,
+      "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     }
   ]
 }

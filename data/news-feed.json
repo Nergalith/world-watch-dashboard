@@ -1,14 +1,98 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-31T00:51:24.829Z",
-  "checkedAt": "2026-10-31T00:51:24.829Z",
-  "lastLiveAt": "2026-10-31T00:51:24.829Z",
+  "generatedAt": "2026-10-31T07:03:00.231Z",
+  "checkedAt": "2026-10-31T07:03:00.231Z",
+  "lastLiveAt": "2026-10-31T07:03:00.231Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+      "link": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 05:48:25 +0000"
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
+    },
+    {
+      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 05:37:51 +0000"
+    },
+    {
+      "title": "Mohammed Deif, rare footage and October 7 documents",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 05:07:34 +0000"
+    },
+    {
+      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 04:51:25 +0000"
+    },
+    {
+      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 04:32:07 GMT"
+    },
+    {
+      "title": "Iran says four tankers on fire after striking mines in Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 03:55:48 +0000"
+    },
+    {
+      "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 03:27:21 +0000"
+    },
+    {
+      "title": "Ebola death toll in DR Congo passes 5,000",
+      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 02:51:52 +0000"
+    },
+    {
+      "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 02:44:38 +0000"
+    },
+    {
+      "title": "Poland’s president joins protest amid constitutional crisis at top court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 02:24:00 +0000"
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 02:12:19 GMT"
+    },
+    {
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 01:32:33 GMT"
+    },
+    {
+      "title": "Pope Leo becomes first pontiff to vote in US general election",
+      "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 01:31:44 +0000"
+    },
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
@@ -22,7 +106,7 @@
       "publishedAt": "Sat, 31 Oct 2026 00:29:58 GMT"
     },
     {
-      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "title": "Iran war live: Tehran warns of earth-shattering blow; drones target Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 31 Oct 2026 00:00:00 +0000"
@@ -52,54 +136,6 @@
       "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
-      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 20:37:20 +0000"
-    },
-    {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 20:13:36 +0000"
-    },
-    {
-      "title": "Port Sudan families can barely afford water as shortages persist",
-      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 20:10:22 +0000"
-    },
-    {
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 18:55:36 +0000"
-    },
-    {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 18:35:44 +0000"
-    },
-    {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 18:33:29 +0000"
-    },
-    {
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 18:03:45 +0000"
-    },
-    {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 17:43:21 +0000"
-    },
-    {
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -110,12 +146,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 15:17:11 GMT"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 15:09:29 GMT"
     },
     {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
@@ -154,40 +184,10 @@
       "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT"
     },
     {
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 03:24:12 GMT"
-    },
-    {
       "title": "Democrats have an identity crisis - it won't be an easy fix",
       "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 02:14:41 GMT"
-    },
-    {
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 00:17:28 GMT"
-    },
-    {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 20:05:57 GMT"
-    },
-    {
-      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 9,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 16,
-      "rawItems": 39,
+      "items": 17,
+      "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T00:51:24.829Z"
+      "checkedAt": "2026-10-31T07:03:00.231Z"
     }
   ]
 }
