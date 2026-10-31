@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-30T20:51:16.245Z",
-  "checkedAt": "2026-10-30T20:51:16.245Z",
-  "lastLiveAt": "2026-10-30T20:51:16.245Z",
+  "generatedAt": "2026-10-31T00:51:24.829Z",
+  "checkedAt": "2026-10-31T00:51:24.829Z",
+  "lastLiveAt": "2026-10-31T00:51:24.829Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 109,
+  "liveItemCount": 107,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 26 reports across 4 sources. Category is currently assessed as Conflict.",
+      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 4 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
       "seenDate": "Fri, 30 Oct 2026 19:34:36 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 26,
+      "reportCount": 23,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -46,14 +46,6 @@
           "severity": "Critical"
         },
         {
-          "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 15:50:23 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
           "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
@@ -62,10 +54,84 @@
           "severity": "High"
         },
         {
-          "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+          "title": "How could Israel break election deadlock? Here are four scenarios",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 29 Oct 2026 09:06:48 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 28 Oct 2026 20:53:02 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 15 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 31 Oct 2026 00:40:43 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 5,
+      "reportCount": 15,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 31 Oct 2026 00:40:43 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 23:19:17 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 22:11:52 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "High"
+        },
+        {
+          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 20:41:51 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 15:06:00 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+          "seenDate": "Fri, 30 Oct 2026 20:37:20 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -137,102 +203,27 @@
       ]
     },
     {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 12 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 20:41:51 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 5,
-      "reportCount": 12,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:41:51 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:13:36 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:25:20 GMT",
-          "category": "Uprisings/Protests",
-          "severity": "High"
-        },
-        {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 16:26:11 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 14:19:49 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Red Sea / Yemen: high-signal conflict watch",
       "location": "Red Sea / Yemen",
       "coords": [
         43.33,
         12.58
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 15:26:00 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 9,
+      "summary": "Red Sea / Yemen is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 15:26:00 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
         {
           "title": "Yemen war makes reaching assistance too dangerous for many",
           "sourceName": "UN News - Global perspective Human stories",
@@ -264,6 +255,14 @@
           "seenDate": "Thu, 22 Oct 2026 15:56:36 GMT",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Yemen war continues to force families from homes amid hunger and disease",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+          "seenDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -277,8 +276,8 @@
       "category": "Military Hotspots",
       "severity": "Critical",
       "summary": "Iran is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 18:33:29 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 00:00:00 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
       "reportCount": 4,
@@ -289,19 +288,19 @@
       ],
       "reports": [
         {
+          "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 00:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
           "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
           "seenDate": "Fri, 30 Oct 2026 18:33:29 +0000",
           "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 14:40:19 +0000",
-          "category": "Conflict",
           "severity": "Critical"
         },
         {
@@ -379,53 +378,6 @@
       ]
     },
     {
-      "title": "Korean Peninsula: corroborated conflict signal",
-      "location": "Korean Peninsula",
-      "coords": [
-        127.5,
-        38.4
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Korean Peninsula is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 20:10:56 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
-      "sources": [
-        "Al Jazeera",
-        "BBC World News"
-      ],
-      "reports": [
-        {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 20:10:56 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 18:03:45 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-          "seenDate": "Fri, 30 Oct 2026 15:37:03 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Syria: critical conflict watch",
       "location": "Syria",
       "coords": [
@@ -459,6 +411,45 @@
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Tue, 27 Oct 2026 02:40:17 GMT",
           "category": "Uprisings/Protests",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Korean Peninsula: corroborated conflict signal",
+      "location": "Korean Peninsula",
+      "coords": [
+        127.5,
+        38.4
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Korean Peninsula is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 2,
+      "reportCount": 2,
+      "confidence": "Corroborated",
+      "sources": [
+        "Al Jazeera",
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 21:13:14 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+          "seenDate": "Fri, 30 Oct 2026 18:03:45 +0000",
+          "category": "Military Hotspots",
           "severity": "Critical"
         }
       ]
@@ -535,12 +526,12 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 7 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "seenDate": "Fri, 30 Oct 2026 17:43:21 +0000",
+      "summary": "Taiwan Strait is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+      "seenDate": "Fri, 30 Oct 2026 22:58:38 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 7,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -548,6 +539,14 @@
         "BBC World News"
       ],
       "reports": [
+        {
+          "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+          "seenDate": "Fri, 30 Oct 2026 22:58:38 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
         {
           "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
           "sourceName": "Al Jazeera",
@@ -577,14 +576,6 @@
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 30 Oct 2026 12:20:04 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "What's at stake for Trump in the US midterms?",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 10:19:48 GMT",
           "category": "Infrastructure",
           "severity": "High"
         }
@@ -724,6 +715,36 @@
       ]
     },
     {
+      "title": "Lebanon / Israel Border: public conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
       "title": "Haiti: public conflict signal",
       "location": "Haiti",
       "coords": [
@@ -793,7 +814,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "GDELT",
@@ -801,8 +822,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -811,7 +832,7 @@
       "items": 20,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "UN News Africa",
@@ -820,7 +841,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "International Crisis Group",
@@ -829,7 +850,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "BBC Africa",
@@ -838,7 +859,7 @@
       "items": 10,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "BBC Middle East",
@@ -847,16 +868,16 @@
       "items": 19,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 15,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -865,16 +886,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 13,
-      "rawItems": 37,
+      "items": 15,
+      "rawItems": 39,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     }
   ]
 }

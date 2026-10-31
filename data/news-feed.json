@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-30T20:51:16.245Z",
-  "checkedAt": "2026-10-30T20:51:16.245Z",
-  "lastLiveAt": "2026-10-30T20:51:16.245Z",
+  "generatedAt": "2026-10-31T00:51:24.829Z",
+  "checkedAt": "2026-10-31T00:51:24.829Z",
+  "lastLiveAt": "2026-10-31T00:51:24.829Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,22 +10,58 @@
   ],
   "items": [
     {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 00:40:43 GMT"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 31 Oct 2026 00:29:58 GMT"
+    },
+    {
+      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 23:19:17 GMT"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 22:11:52 GMT"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
+    },
+    {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 30 Oct 2026 20:37:20 +0000"
+    },
+    {
       "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Fri, 30 Oct 2026 20:13:36 +0000"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 20:10:56 GMT"
     },
     {
       "title": "Port Sudan families can barely afford water as shortages persist",
@@ -52,12 +88,6 @@
       "publishedAt": "Fri, 30 Oct 2026 18:33:29 +0000"
     },
     {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 18:17:27 GMT"
-    },
-    {
       "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
       "source": "Al Jazeera",
@@ -74,24 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 15:50:23 +0000"
-    },
-    {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 15:37:03 +0000"
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 15:26:00 +0000"
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
@@ -112,28 +124,22 @@
       "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT"
     },
     {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 14:40:19 +0000"
-    },
-    {
-      "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 14:19:49 +0000"
-    },
-    {
-      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-      "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 14:18:07 +0000"
-    },
-    {
       "title": "China denies allegations of spy operation targeting Nvidia CEO",
       "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 12:20:04 GMT"
+    },
+    {
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
     },
     {
       "title": "Yemen war makes reaching assistance too dangerous for many",
@@ -172,12 +178,6 @@
       "publishedAt": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT"
-    },
-    {
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
       "source": "UN News",
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 14,
-      "rawItems": 37,
+      "items": 16,
+      "rawItems": 39,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-30T20:51:16.245Z"
+      "checkedAt": "2026-10-31T00:51:24.829Z"
     }
   ]
 }
