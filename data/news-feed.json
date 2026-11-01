@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-01T10:35:19.839Z",
-  "checkedAt": "2026-11-01T10:35:19.839Z",
-  "lastLiveAt": "2026-11-01T10:35:19.839Z",
+  "generatedAt": "2026-11-01T17:09:01.431Z",
+  "checkedAt": "2026-11-01T17:09:01.431Z",
+  "lastLiveAt": "2026-11-01T17:09:01.431Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,52 +10,76 @@
   ],
   "items": [
     {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
+    },
+    {
+      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
+      "link": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 16:24:16 +0000"
+    },
+    {
+      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 15:38:12 +0000"
+    },
+    {
+      "title": "Photos: Thousands join India’s opposition rally against election chief",
+      "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 14:46:03 +0000"
+    },
+    {
+      "title": "Israel election: When will government be formed, who will lead it?",
+      "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 14:16:14 +0000"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill at least nine people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 14:10:59 +0000"
+    },
+    {
+      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 13:36:16 +0000"
+    },
+    {
+      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
+      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 13:25:27 +0000"
+    },
+    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 09:28:06 GMT"
+      "publishedAt": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
-      "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 08:24:50 +0000"
+      "publishedAt": "Sun, 01 Nov 2026 13:02:10 +0000"
     },
     {
-      "title": "Iran security chief says US letter signals ‘positive’ shift",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+      "title": "Binance restarts withdrawals after $6.3bn heist",
+      "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 08:14:00 +0000"
+      "publishedAt": "Sun, 01 Nov 2026 12:50:55 +0000"
     },
     {
-      "title": "Bangladesh forms wage board as garment workers protest",
-      "link": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 08:13:00 +0000"
-    },
-    {
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 07:34:55 +0000"
-    },
-    {
-      "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-      "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 07:24:20 +0000"
-    },
-    {
-      "title": "Police storm Portugal housing protest camp",
-      "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 07:06:21 +0000"
-    },
-    {
-      "title": "A Gulf non-aggression pact could be the path forward",
-      "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 07:03:56 +0000"
+      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+      "source": "UN News",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -164,30 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
       "source": "UN News",
       "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-      "source": "UN News",
-      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Women and girls face greater dangers in war",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168684",
-      "source": "UN News",
-      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 7,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-01T10:35:19.839Z"
+      "checkedAt": "2026-11-01T17:09:01.431Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 12,
-      "rawItems": 25,
+      "items": 13,
+      "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-01T10:35:19.839Z"
+      "checkedAt": "2026-11-01T17:09:01.431Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T10:35:19.839Z"
+      "checkedAt": "2026-11-01T17:09:01.431Z"
     }
   ]
 }
