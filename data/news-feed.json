@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-01T02:17:54.484Z",
-  "checkedAt": "2026-11-01T02:17:54.484Z",
-  "lastLiveAt": "2026-11-01T02:17:54.484Z",
+  "generatedAt": "2026-11-01T10:35:19.839Z",
+  "checkedAt": "2026-11-01T10:35:19.839Z",
+  "lastLiveAt": "2026-11-01T10:35:19.839Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,46 +10,70 @@
   ],
   "items": [
     {
-      "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 02:05:40 +0000"
-    },
-    {
-      "title": "Polish president holds crisis talks in court standoff",
-      "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 00:30:59 +0000"
-    },
-    {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 00:12:07 GMT"
-    },
-    {
-      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 00:00:51 +0000"
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 22:11:45 GMT"
+      "publishedAt": "Sun, 01 Nov 2026 09:28:06 GMT"
     },
     {
-      "title": "Israel’s allegations of Qatari election interference rejected",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 20:24:58 +0000"
+      "publishedAt": "Sun, 01 Nov 2026 08:24:50 +0000"
     },
     {
-      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "title": "Iran security chief says US letter signals ‘positive’ shift",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 20:09:18 +0000"
+      "publishedAt": "Sun, 01 Nov 2026 08:14:00 +0000"
+    },
+    {
+      "title": "Bangladesh forms wage board as garment workers protest",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 08:13:00 +0000"
+    },
+    {
+      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 07:34:55 +0000"
+    },
+    {
+      "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+      "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 07:24:20 +0000"
+    },
+    {
+      "title": "Police storm Portugal housing protest camp",
+      "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 07:06:21 +0000"
+    },
+    {
+      "title": "A Gulf non-aggression pact could be the path forward",
+      "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 07:03:56 +0000"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 07:00:55 GMT"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 00:46:12 GMT"
+    },
+    {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 00:27:33 GMT"
     },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -58,28 +82,10 @@
       "publishedAt": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 18:48:29 +0000"
-    },
-    {
-      "title": "Tension and clashes as hundreds of thousands protest again in France",
-      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 18:28:14 +0000"
-    },
-    {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 17:53:35 GMT"
-    },
-    {
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 17:49:23 +0000"
     },
     {
       "title": "Emotional reunions with loved ones for Oleshky evacuees",
@@ -112,40 +118,10 @@
       "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
     },
     {
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 04:32:07 GMT"
-    },
-    {
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 02:12:19 GMT"
-    },
-    {
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 01:32:33 GMT"
-    },
-    {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 30 Oct 2026 22:11:52 GMT"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
-    },
-    {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
       "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
@@ -188,6 +164,30 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
       "source": "UN News",
       "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 7,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-01T02:17:54.484Z"
+      "checkedAt": "2026-11-01T10:35:19.839Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 15,
-      "rawItems": 27,
+      "items": 12,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-01T02:17:54.484Z"
+      "checkedAt": "2026-11-01T10:35:19.839Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T02:17:54.484Z"
+      "checkedAt": "2026-11-01T10:35:19.839Z"
     }
   ]
 }
