@@ -1,14 +1,38 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-31T22:32:38.967Z",
-  "checkedAt": "2026-10-31T22:32:38.967Z",
-  "lastLiveAt": "2026-10-31T22:32:38.967Z",
+  "generatedAt": "2026-11-01T02:17:54.484Z",
+  "checkedAt": "2026-11-01T02:17:54.484Z",
+  "lastLiveAt": "2026-11-01T02:17:54.484Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 02:05:40 +0000"
+    },
+    {
+      "title": "Polish president holds crisis talks in court standoff",
+      "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 00:30:59 +0000"
+    },
+    {
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 00:12:07 GMT"
+    },
+    {
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 00:00:51 +0000"
+    },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -58,22 +82,10 @@
       "publishedAt": "Sat, 31 Oct 2026 17:49:23 +0000"
     },
     {
-      "title": "Jerusalem Daily: Who will form Israel’s next government?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 17:29:00 +0000"
-    },
-    {
       "title": "Emotional reunions with loved ones for Oleshky evacuees",
       "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 16:55:47 GMT"
-    },
-    {
-      "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 31 Oct 2026 16:28:04 +0000"
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -136,12 +148,6 @@
       "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
       "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
       "source": "UN News",
@@ -158,12 +164,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Democrats have an identity crisis - it won't be an easy fix",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 02:14:41 GMT"
     },
     {
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 7,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 16,
-      "rawItems": 28,
+      "items": 15,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     }
   ]
 }

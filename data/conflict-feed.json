@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-31T22:32:38.967Z",
-  "checkedAt": "2026-10-31T22:32:38.967Z",
-  "lastLiveAt": "2026-10-31T22:32:38.967Z",
+  "generatedAt": "2026-11-01T02:17:54.484Z",
+  "checkedAt": "2026-11-01T02:17:54.484Z",
+  "lastLiveAt": "2026-11-01T02:17:54.484Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 107,
+  "liveItemCount": 106,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,11 +13,11 @@
         34.45,
         31.45
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 25 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
-      "seenDate": "Sat, 31 Oct 2026 20:24:58 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 25 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+      "seenDate": "Sun, 01 Nov 2026 02:05:40 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
       "reportCount": 25,
@@ -29,6 +29,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 02:05:40 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "High"
+        },
         {
           "title": "Israel’s allegations of Qatari election interference rejected",
           "sourceName": "Al Jazeera",
@@ -52,14 +60,6 @@
           "seenDate": "Sat, 31 Oct 2026 17:49:23 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        },
-        {
-          "title": "Jerusalem Daily: Who will form Israel’s next government?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 17:29:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         },
         {
           "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
@@ -266,25 +266,99 @@
       ]
     },
     {
-      "title": "Iran: critical conflict watch",
+      "title": "Sahel: high-signal conflict watch",
+      "location": "Sahel",
+      "coords": [
+        2.5,
+        15.6
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Sahel is active on the public watch board with 5 reports across 4 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+      "seenDate": "Sat, 31 Oct 2026 22:36:41 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 5,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 22:36:41 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+          "seenDate": "Sat, 31 Oct 2026 21:01:19 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
+          "seenDate": "Fri, 23 Oct 2026 08:58:43 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "WHO supports Nigeria after first Ebola case confirmed",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+          "seenDate": "Wed, 21 Oct 2026 12:00:00 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "'Knowledge is power' - Awoniyi",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Iran: corroborated conflict signal",
       "location": "Iran",
       "coords": [
         53.7,
         32.4
       ],
-      "category": "Conflict",
+      "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
+      "summary": "Iran is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "seenDate": "Sun, 01 Nov 2026 00:00:51 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
       "sources": [
+        "Al Jazeera",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 00:00:51 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
         {
           "title": "In Egypt, Guterres warns against Iran-US escalation",
           "sourceName": "UN News - Global perspective Human stories",
@@ -413,12 +487,12 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "summary": "Taiwan Strait is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Infrastructure.",
       "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
       "seenDate": "Sat, 31 Oct 2026 20:30:35 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 8,
+      "reportCount": 6,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -451,82 +525,25 @@
           "severity": "High"
         },
         {
-          "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 17:32:42 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 16:28:04 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Sahel: high-signal conflict watch",
-      "location": "Sahel",
-      "coords": [
-        2.5,
-        15.6
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Sahel is active on the public watch board with 4 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
-      "seenDate": "Sat, 31 Oct 2026 21:01:19 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 4,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 21:01:19 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
-          "seenDate": "Fri, 23 Oct 2026 08:58:43 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "WHO supports Nigeria after first Ebola case confirmed",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-          "seenDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "'Knowledge is power' - Awoniyi",
+          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
           "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "What's at stake for Trump in the US midterms?",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 10:19:48 GMT",
           "category": "Infrastructure",
           "severity": "High"
         }
       ]
     },
     {
-      "title": "Pakistan / Afghanistan: high-signal conflict watch",
+      "title": "Pakistan / Afghanistan: corroborated conflict signal",
       "location": "Pakistan / Afghanistan",
       "coords": [
         69.2,
@@ -534,13 +551,13 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
+      "summary": "Pakistan / Afghanistan is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
       "seenDate": "Sat, 31 Oct 2026 18:50:25 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
-      "reportCount": 4,
-      "confidence": "High Signal",
+      "reportCount": 3,
+      "confidence": "Corroborated",
       "sources": [
         "Al Jazeera",
         "International Crisis Group"
@@ -551,14 +568,6 @@
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
           "seenDate": "Sat, 31 Oct 2026 18:50:25 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
-          "seenDate": "Sat, 31 Oct 2026 17:21:05 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -743,7 +752,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "GDELT",
@@ -751,8 +760,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -761,7 +770,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "UN News Africa",
@@ -770,7 +779,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "International Crisis Group",
@@ -779,7 +788,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "BBC Africa",
@@ -788,7 +797,7 @@
       "items": 11,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "BBC Middle East",
@@ -797,16 +806,16 @@
       "items": 19,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 14,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -815,16 +824,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
       "items": 10,
-      "rawItems": 28,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-10-31T22:32:38.967Z"
+      "checkedAt": "2026-11-01T02:17:54.484Z"
     }
   ]
 }
