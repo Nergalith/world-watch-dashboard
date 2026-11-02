@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-01T21:13:39.121Z",
-  "checkedAt": "2026-11-01T21:13:39.121Z",
-  "lastLiveAt": "2026-11-01T21:13:39.121Z",
+  "generatedAt": "2026-11-02T00:51:09.812Z",
+  "checkedAt": "2026-11-02T00:51:09.812Z",
+  "lastLiveAt": "2026-11-02T00:51:09.812Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 95,
+  "liveItemCount": 98,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,14 +13,14 @@
         34.45,
         31.45
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 24 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "seenDate": "Sun, 01 Nov 2026 17:30:45 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 25 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+      "seenDate": "Sun, 01 Nov 2026 23:29:48 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 24,
+      "reportCount": 25,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -29,6 +29,22 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Nine people dead after Learjet crashes in Florida",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 23:29:48 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Thousands displaced from Hebron as Israel carries on siege",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 21:28:47 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
           "sourceName": "Al Jazeera",
@@ -46,26 +62,10 @@
           "severity": "Critical"
         },
         {
-          "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-          "seenDate": "Sun, 01 Nov 2026 15:38:12 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
           "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 30 Oct 2026 15:09:29 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 29 Oct 2026 09:06:48 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -78,11 +78,11 @@
         36.23,
         49.99
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sun, 01 Nov 2026 21:01:58 GMT",
+      "summary": "Ukraine is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sun, 01 Nov 2026 22:38:24 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 5,
       "reportCount": 13,
@@ -96,19 +96,27 @@
       ],
       "reports": [
         {
-          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
           "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 01 Nov 2026 21:01:58 GMT",
-          "category": "Uprisings/Protests",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 01 Nov 2026 22:38:24 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 22:15:14 +0000",
+          "category": "Conflict",
           "severity": "Critical"
         },
         {
-          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-          "seenDate": "Sun, 01 Nov 2026 16:24:16 +0000",
-          "category": "Conflict",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 01 Nov 2026 21:55:01 GMT",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         },
         {
@@ -125,14 +133,6 @@
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Sat, 31 Oct 2026 17:53:35 GMT",
           "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 22:11:52 GMT",
-          "category": "Uprisings/Protests",
           "severity": "High"
         }
       ]
@@ -266,26 +266,34 @@
       ]
     },
     {
-      "title": "Iran: corroborated conflict signal",
+      "title": "Iran: high-signal conflict watch",
       "location": "Iran",
       "coords": [
         53.7,
         32.4
       ],
-      "category": "Conflict",
+      "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-      "seenDate": "Sun, 01 Nov 2026 19:00:32 +0000",
+      "summary": "Iran is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "seenDate": "Mon, 02 Nov 2026 00:00:00 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "reportCount": 4,
+      "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+          "seenDate": "Mon, 02 Nov 2026 00:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
         {
           "title": "How will the Iran war shape the outcome of the US midterm vote?",
           "sourceName": "Al Jazeera",
@@ -309,6 +317,53 @@
           "seenDate": "Fri, 23 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: corroborated conflict signal",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "Critical",
+      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "seenDate": "Sun, 01 Nov 2026 23:19:51 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa"
+      ],
+      "reports": [
+        {
+          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+          "seenDate": "Sun, 01 Nov 2026 23:19:51 +0000",
+          "category": "Infrastructure",
+          "severity": "Critical"
+        },
+        {
+          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "The Documentary Podcast",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
         }
       ]
     },
@@ -586,44 +641,6 @@
       ]
     },
     {
-      "title": "Taiwan Strait: public conflict signal",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Infrastructure",
-      "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "BBC Africa"
-      ],
-      "reports": [
-        {
-          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "The Documentary Podcast",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Lebanon / Israel Border: public conflict signal",
       "location": "Lebanon / Israel Border",
       "coords": [
@@ -693,7 +710,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "GDELT",
@@ -701,8 +718,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -711,7 +728,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "UN News Africa",
@@ -720,7 +737,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "International Crisis Group",
@@ -729,7 +746,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "BBC Africa",
@@ -738,7 +755,7 @@
       "items": 11,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "BBC Middle East",
@@ -747,16 +764,16 @@
       "items": 20,
       "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 5,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -765,7 +782,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "BBC World News",
@@ -774,7 +791,7 @@
       "items": 7,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-01T21:13:39.121Z",
-  "checkedAt": "2026-11-01T21:13:39.121Z",
-  "lastLiveAt": "2026-11-01T21:13:39.121Z",
+  "generatedAt": "2026-11-02T00:51:09.812Z",
+  "checkedAt": "2026-11-02T00:51:09.812Z",
+  "lastLiveAt": "2026-11-02T00:51:09.812Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,52 @@
   ],
   "items": [
     {
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 23:24:56 +0000"
+    },
+    {
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 23:19:51 +0000"
+    },
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 01 Nov 2026 22:38:24 GMT"
+    },
+    {
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 22:32:54 +0000"
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 22:15:14 +0000"
+    },
+    {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 21:01:58 GMT"
+      "publishedAt": "Sun, 01 Nov 2026 21:55:01 GMT"
+    },
+    {
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 21:28:47 +0000"
     },
     {
       "title": "Police clash with housing crisis protesters in Portugal",
@@ -38,6 +80,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 01 Nov 2026 18:51:56 GMT"
+    },
+    {
+      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+      "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 01 Nov 2026 18:51:07 +0000"
     },
     {
       "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
@@ -68,18 +116,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
-    },
-    {
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "link": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 16:24:16 +0000"
-    },
-    {
-      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 15:38:12 +0000"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -152,42 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 30 Oct 2026 22:11:52 GMT"
-    },
-    {
-      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 16,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-01T21:13:39.121Z"
+      "checkedAt": "2026-11-02T00:51:09.812Z"
     }
   ]
 }
