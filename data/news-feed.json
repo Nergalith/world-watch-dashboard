@@ -1,14 +1,56 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-02T00:51:09.812Z",
-  "checkedAt": "2026-11-02T00:51:09.812Z",
-  "lastLiveAt": "2026-11-02T00:51:09.812Z",
+  "generatedAt": "2026-11-02T07:44:03.471Z",
+  "checkedAt": "2026-11-02T07:44:03.471Z",
+  "lastLiveAt": "2026-11-02T07:44:03.471Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "The future of the Palestinian vote in Israel",
+      "link": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 07:14:44 +0000"
+    },
+    {
+      "title": "Shadowy Indian election ‘consultants’ add US midterms to global footprint",
+      "link": "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 06:28:01 +0000"
+    },
+    {
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 06:00:54 GMT"
+    },
+    {
+      "title": "Trump makes fevered campaign push in final weekend before election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 04:04:28 GMT"
+    },
+    {
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 03:58:38 GMT"
+    },
+    {
+      "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+      "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 01:40:50 +0000"
+    },
+    {
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 00:29:16 +0000"
+    },
     {
       "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
@@ -28,12 +70,6 @@
       "publishedAt": "Sun, 01 Nov 2026 23:19:51 +0000"
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 22:38:24 GMT"
-    },
-    {
       "title": "High-ranking US Democratic senator suffers stroke",
       "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
       "source": "Al Jazeera",
@@ -46,70 +82,16 @@
       "publishedAt": "Sun, 01 Nov 2026 22:15:14 +0000"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 21:55:01 GMT"
-    },
-    {
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 21:28:47 +0000"
-    },
-    {
-      "title": "Police clash with housing crisis protesters in Portugal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 20:31:17 +0000"
-    },
-    {
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 19:00:32 +0000"
-    },
-    {
-      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-      "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 18:58:23 +0000"
-    },
-    {
       "title": "Peaceful protests in Germany spiral into violence and looting",
       "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 01 Nov 2026 18:51:56 GMT"
     },
     {
-      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-      "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 18:51:07 +0000"
-    },
-    {
-      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-      "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 18:37:37 +0000"
-    },
-    {
-      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 18:23:57 +0000"
-    },
-    {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 01 Nov 2026 17:56:47 GMT"
-    },
-    {
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 01 Nov 2026 17:30:45 +0000"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -148,12 +130,6 @@
       "publishedAt": "Sun, 01 Nov 2026 00:27:33 GMT"
     },
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 31 Oct 2026 19:22:26 GMT"
-    },
-    {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -188,6 +164,30 @@
       "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
+    },
+    {
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-02T00:51:09.812Z"
+      "checkedAt": "2026-11-02T07:44:03.471Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 16,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-02T00:51:09.812Z"
+      "checkedAt": "2026-11-02T07:44:03.471Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-02T00:51:09.812Z"
+      "checkedAt": "2026-11-02T07:44:03.471Z"
     }
   ]
 }
