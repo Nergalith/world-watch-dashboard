@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-03T09:39:31.571Z",
-  "checkedAt": "2026-11-03T09:39:31.571Z",
-  "lastLiveAt": "2026-11-03T09:39:31.571Z",
+  "generatedAt": "2026-11-03T17:53:28.713Z",
+  "checkedAt": "2026-11-03T17:53:28.713Z",
+  "lastLiveAt": "2026-11-03T17:53:28.713Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,118 @@
   ],
   "items": [
     {
-      "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-      "link": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 09:33:18 +0000"
+      "publishedAt": "Tue, 03 Nov 2026 17:26:02 +0000"
     },
     {
-      "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-      "link": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
+      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 09:18:48 +0000"
+      "publishedAt": "Tue, 03 Nov 2026 17:03:24 +0000"
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT"
+    },
+    {
+      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 16:49:10 +0000"
+    },
+    {
+      "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+      "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 16:22:15 +0000"
+    },
+    {
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 15:47:34 +0000"
+    },
+    {
+      "title": "In Pictures: US midterm elections in 20 photos",
+      "link": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 15:46:57 +0000"
+    },
+    {
+      "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 15:18:13 +0000"
+    },
+    {
+      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 15:00:10 +0000"
+    },
+    {
+      "title": "Global food security is under threat",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 14:58:10 +0000"
+    },
+    {
+      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+      "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 14:30:24 +0000"
+    },
+    {
+      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+      "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 14:17:29 +0000"
+    },
+    {
+      "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 14:02:00 +0000"
+    },
+    {
+      "title": "Trump says US will stop giving Israel aid after year-end",
+      "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 13:42:05 +0000"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 03 Nov 2026 13:28:30 GMT"
+    },
+    {
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 03 Nov 2026 13:26:19 GMT"
+    },
+    {
+      "title": "Iran commander sets out five conditions for regional security",
+      "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 13:21:57 +0000"
+    },
+    {
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 13:05:39 +0000"
+    },
+    {
+      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "North Korea denies being behind record $6.3bn Binance hack",
@@ -34,48 +136,6 @@
       "publishedAt": "Tue, 03 Nov 2026 07:29:46 GMT"
     },
     {
-      "title": "When will we know the US midterm election results?",
-      "link": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 07:27:21 +0000"
-    },
-    {
-      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 07:24:12 GMT"
-    },
-    {
-      "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
-      "link": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 06:55:39 +0000"
-    },
-    {
-      "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-      "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 06:46:27 +0000"
-    },
-    {
-      "title": "Texas Senate candidates Paxton and Talarico make final appeals",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 05:12:40 +0000"
-    },
-    {
-      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 05:02:34 +0000"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 03:00:36 GMT"
-    },
-    {
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -86,12 +146,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 02 Nov 2026 18:25:01 GMT"
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT"
     },
     {
       "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
@@ -134,60 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Russia drone strike on Ukrainian railway station kills 13",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
-      "source": "UN News",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-      "source": "UN News",
-      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 7,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-03T09:39:31.571Z"
+      "checkedAt": "2026-11-03T17:53:28.713Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 10,
-      "rawItems": 24,
+      "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-03T09:39:31.571Z"
+      "checkedAt": "2026-11-03T17:53:28.713Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 24,
+      "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-03T09:39:31.571Z"
+      "checkedAt": "2026-11-03T17:53:28.713Z"
     }
   ]
 }
