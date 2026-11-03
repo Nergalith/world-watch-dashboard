@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-03T17:53:28.713Z",
-  "checkedAt": "2026-11-03T17:53:28.713Z",
-  "lastLiveAt": "2026-11-03T17:53:28.713Z",
+  "generatedAt": "2026-11-03T23:28:11.404Z",
+  "checkedAt": "2026-11-03T23:28:11.404Z",
+  "lastLiveAt": "2026-11-03T23:28:11.404Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 114,
+  "liveItemCount": 112,
   "events": [
     {
       "title": "Ukraine: high-signal conflict watch",
@@ -13,14 +13,14 @@
         36.23,
         49.99
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 21 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "seenDate": "Tue, 03 Nov 2026 17:24:08 +0000",
+      "summary": "Ukraine is active on the public watch board with 20 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "seenDate": "Tue, 03 Nov 2026 21:43:19 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 21,
+      "reportCount": 20,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -30,6 +30,22 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "President Zelenskyy says US elections will impact war in Ukraine",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+          "seenDate": "Tue, 03 Nov 2026 21:43:19 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+          "seenDate": "Tue, 03 Nov 2026 20:54:44 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "High"
+        },
         {
           "title": "Russian strikes on Dnipro kill two, injure 20 others",
           "sourceName": "Al Jazeera",
@@ -53,22 +69,6 @@
           "seenDate": "Tue, 03 Nov 2026 16:22:15 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 15:18:13 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Global food security is under threat",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 14:58:10 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -81,12 +81,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 21 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "seenDate": "Tue, 03 Nov 2026 17:26:02 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 20 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "seenDate": "Tue, 03 Nov 2026 21:15:17 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 21,
+      "reportCount": 20,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -94,6 +94,22 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Palestinian families return home after Israeli siege of Hebron",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+          "seenDate": "Tue, 03 Nov 2026 21:15:17 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Palestinian Americans turn to US flags to protect West Bank homes",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
+          "seenDate": "Tue, 03 Nov 2026 18:38:50 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
           "sourceName": "Al Jazeera",
@@ -115,22 +131,6 @@
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Tue, 03 Nov 2026 15:09:51 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 15:00:10 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 14:30:24 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -210,19 +210,36 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 9 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "seenDate": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 3,
-      "reportCount": 9,
+      "summary": "Red Sea / Yemen is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+      "seenDate": "Tue, 03 Nov 2026 19:09:09 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 10,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+          "seenDate": "Tue, 03 Nov 2026 19:09:09 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+          "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
           "sourceName": "UN News - Global perspective Human stories",
@@ -246,87 +263,6 @@
           "seenDate": "Fri, 30 Oct 2026 15:29:06 +0000",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "October Trends and November Alerts 2026",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
-          "seenDate": "Fri, 30 Oct 2026 14:08:18 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Yemen war makes reaching assistance too dangerous for many",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Iran: high-signal conflict watch",
-      "location": "Iran",
-      "coords": [
-        53.7,
-        32.4
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 8 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-      "seenDate": "Tue, 03 Nov 2026 13:21:57 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 8,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Middle East",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Iran commander sets out five conditions for regional security",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 13:21:57 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Qatar remains hopeful the US and Iran can reach a deal",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 13:05:39 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 11:33:33 GMT",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Mon, 02 Nov 2026 06:05:34 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Mon, 02 Nov 2026 06:00:54 GMT",
-          "category": "Conflict",
-          "severity": "Critical"
         }
       ]
     },
@@ -339,12 +275,12 @@
       ],
       "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 8 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 03 Nov 2026 17:21:26 GMT",
+      "summary": "Taiwan Strait is active on the public watch board with 9 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 03 Nov 2026 21:53:38 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 3,
-      "reportCount": 8,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
@@ -353,10 +289,18 @@
       ],
       "reports": [
         {
-          "title": "Bomb threats target seven flights across Europe",
+          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 03 Nov 2026 21:53:38 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 17:21:26 GMT",
+          "seenDate": "Tue, 03 Nov 2026 20:42:47 GMT",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -383,13 +327,116 @@
           "seenDate": "Tue, 03 Nov 2026 13:44:44 GMT",
           "category": "Infrastructure",
           "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Iran: high-signal conflict watch",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Iran is active on the public watch board with 6 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 03 Nov 2026 11:33:33 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 3,
+      "reportCount": 6,
+      "confidence": "High Signal",
+      "sources": [
+        "BBC Middle East",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 03 Nov 2026 11:33:33 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
         },
         {
-          "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 00:09:13 GMT",
-          "category": "Infrastructure",
+          "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 02 Nov 2026 06:05:34 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 02 Nov 2026 06:00:54 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "How the War in Iran Could Escalate",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/opd/middle-east-north-africa/iran/how-war-iran-could-escalate",
+          "seenDate": "Tue, 27 Oct 2026 15:52:48 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "In Egypt, Guterres warns against Iran-US escalation",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+          "seenDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Myanmar: corroborated conflict signal",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Uprisings/Protests",
+      "severity": "Critical",
+      "summary": "Myanmar is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+      "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "BBC Africa",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+          "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+          "seenDate": "Thu, 29 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 09 Oct 2026 15:26:33 GMT",
+          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -543,84 +590,6 @@
       ]
     },
     {
-      "title": "Lebanon / Israel Border: corroborated conflict signal",
-      "location": "Lebanon / Israel Border",
-      "coords": [
-        35.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "seenDate": "Tue, 03 Nov 2026 15:47:34 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "Al Jazeera",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-          "seenDate": "Tue, 03 Nov 2026 15:47:34 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Myanmar: corroborated conflict signal",
-      "location": "Myanmar",
-      "coords": [
-        96.1,
-        21.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Myanmar is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "seenDate": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "BBC Africa",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-          "seenDate": "Thu, 29 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 09 Oct 2026 15:26:33 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Sahel: corroborated conflict signal",
       "location": "Sahel",
       "coords": [
@@ -655,6 +624,66 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
           "category": "Infrastructure",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Haiti: public conflict signal",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Military Hotspots",
+      "severity": "High",
+      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+      "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+          "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+          "category": "Military Hotspots",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Lebanon / Israel Border: public conflict signal",
+      "location": "Lebanon / Israel Border",
+      "coords": [
+        35.7,
+        33.2
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -759,7 +788,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "GDELT",
@@ -767,8 +796,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -777,7 +806,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "UN News Africa",
@@ -786,7 +815,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "International Crisis Group",
@@ -795,7 +824,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "BBC Africa",
@@ -804,7 +833,7 @@
       "items": 12,
       "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "BBC Middle East",
@@ -813,16 +842,16 @@
       "items": 20,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 13,
+      "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -831,16 +860,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 15,
-      "rawItems": 31,
+      "items": 16,
+      "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     }
   ]
 }

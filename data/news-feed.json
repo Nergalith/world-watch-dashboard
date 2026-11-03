@@ -1,14 +1,56 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-03T17:53:28.713Z",
-  "checkedAt": "2026-11-03T17:53:28.713Z",
-  "lastLiveAt": "2026-11-03T17:53:28.713Z",
+  "generatedAt": "2026-11-03T23:28:11.404Z",
+  "checkedAt": "2026-11-03T23:28:11.404Z",
+  "lastLiveAt": "2026-11-03T23:28:11.404Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "US midterm election results live: Polls start closing in some states",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 22:30:00 +0000"
+    },
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 21:43:19 +0000"
+    },
+    {
+      "title": "Netanyahu’s eight-seat problem",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 21:19:13 +0000"
+    },
+    {
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 20:54:44 +0000"
+    },
+    {
+      "title": "Severe weather disrupts election day across several US states",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 19:13:19 +0000"
+    },
+    {
+      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+      "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 19:09:09 +0000"
+    },
+    {
+      "title": "Greenland parliament approves security deal with US, Denmark",
+      "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 18:05:48 +0000"
+    },
     {
       "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
@@ -40,60 +82,6 @@
       "publishedAt": "Tue, 03 Nov 2026 16:22:15 +0000"
     },
     {
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 15:47:34 +0000"
-    },
-    {
-      "title": "In Pictures: US midterm elections in 20 photos",
-      "link": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 15:46:57 +0000"
-    },
-    {
-      "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-      "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 15:18:13 +0000"
-    },
-    {
-      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 15:00:10 +0000"
-    },
-    {
-      "title": "Global food security is under threat",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 14:58:10 +0000"
-    },
-    {
-      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-      "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 14:30:24 +0000"
-    },
-    {
-      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-      "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 14:17:29 +0000"
-    },
-    {
-      "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
-      "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 14:02:00 +0000"
-    },
-    {
-      "title": "Trump says US will stop giving Israel aid after year-end",
-      "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 13:42:05 +0000"
-    },
-    {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -106,16 +94,22 @@
       "publishedAt": "Tue, 03 Nov 2026 13:26:19 GMT"
     },
     {
-      "title": "Iran commander sets out five conditions for regional security",
-      "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 13:21:57 +0000"
+      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Qatar remains hopeful the US and Iran can reach a deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 13:05:39 +0000"
+      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 15,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 10,
-      "rawItems": 31,
+      "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-03T17:53:28.713Z"
+      "checkedAt": "2026-11-03T23:28:11.404Z"
     }
   ]
 }
