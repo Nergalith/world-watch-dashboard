@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-02T18:28:46.953Z",
-  "checkedAt": "2026-11-02T18:28:46.953Z",
-  "lastLiveAt": "2026-11-02T18:28:46.953Z",
+  "generatedAt": "2026-11-03T01:37:57.814Z",
+  "checkedAt": "2026-11-03T01:37:57.814Z",
+  "lastLiveAt": "2026-11-03T01:37:57.814Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,112 @@
   ],
   "items": [
     {
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 03 Nov 2026 01:23:03 GMT"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 01:01:16 +0000"
+    },
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 00:50:38 +0000"
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT"
+    },
+    {
+      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 03 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 23:41:18 +0000"
+    },
+    {
+      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 22:59:41 +0000"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 18:28:50 GMT"
+      "publishedAt": "Mon, 02 Nov 2026 21:10:04 GMT"
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 20:48:56 +0000"
+    },
+    {
+      "title": "What’s the future of the Western Sahara conflict?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 20:43:44 +0000"
+    },
+    {
+      "title": "HRW calls on Zambia to halt post-election crackdown",
+      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 19:40:10 +0000"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 19:33:10 GMT"
+    },
+    {
+      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
+      "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 19:11:37 +0000"
+    },
+    {
+      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 18:49:26 +0000"
+    },
+    {
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 18:34:24 GMT"
+    },
+    {
+      "title": "After Israel’s election: What’s next?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 18:32:59 +0000"
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 02 Nov 2026 18:25:01 GMT"
+    },
+    {
+      "title": "Russian bombing of Ukrainian aid centre kills 26 people",
+      "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 02 Nov 2026 18:23:02 +0000"
     },
     {
       "title": "Shop freezers in seven European countries hit by cyber-attack",
@@ -34,88 +136,10 @@
       "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT"
     },
     {
-      "title": "Drone attacks extend campaign targeting Sudan’s power system",
-      "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 17:26:32 +0000"
-    },
-    {
-      "title": "Real Madrid matches still banned in China despite Mbappe apology",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 17:08:25 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 16:56:41 +0000"
-    },
-    {
-      "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 16:13:21 +0000"
-    },
-    {
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-      "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 16:03:52 +0000"
-    },
-    {
-      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-      "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 16:03:40 +0000"
-    },
-    {
-      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-      "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 15:00:08 +0000"
-    },
-    {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 14:35:01 GMT"
-    },
-    {
-      "title": "How US oil firms profit $130bn from Iran war as household bills surge",
-      "link": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 14:27:50 +0000"
-    },
-    {
       "title": "What we know about the alert app hack in Ukraine and Russia",
       "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 02 Nov 2026 14:24:25 GMT"
-    },
-    {
-      "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-      "link": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 14:17:31 +0000"
-    },
-    {
-      "title": "Police arrive at German university pro-Palestine protest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 13:37:26 +0000"
-    },
-    {
-      "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 13:04:42 +0000"
-    },
-    {
-      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
-      "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 12:36:23 +0000"
     },
     {
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
@@ -124,22 +148,10 @@
       "publishedAt": "Mon, 02 Nov 2026 12:22:10 GMT"
     },
     {
-      "title": "Oman and China sign deals to boost trade and investment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 12:18:07 +0000"
-    },
-    {
-      "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
-      "link": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 12:14:10 +0000"
-    },
-    {
-      "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-      "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 02 Nov 2026 12:08:59 +0000"
+      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+      "source": "UN News",
+      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
@@ -152,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 02 Nov 2026 10:48:47 GMT"
-    },
-    {
-      "title": "What are Americans voting for in this election?",
-      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 09:22:55 GMT"
     },
     {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -182,12 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
-    },
-    {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 01 Nov 2026 13:11:37 GMT"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 15,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-02T18:28:46.953Z"
+      "checkedAt": "2026-11-03T01:37:57.814Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 18,
-      "rawItems": 32,
+      "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-11-02T18:28:46.953Z"
+      "checkedAt": "2026-11-03T01:37:57.814Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 23,
+      "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-02T18:28:46.953Z"
+      "checkedAt": "2026-11-03T01:37:57.814Z"
     }
   ]
 }
