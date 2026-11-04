@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-04T15:29:32.636Z",
-  "checkedAt": "2026-11-04T15:29:32.636Z",
-  "lastLiveAt": "2026-11-04T15:29:32.636Z",
+  "generatedAt": "2026-11-04T21:56:07.206Z",
+  "checkedAt": "2026-11-04T21:56:07.206Z",
+  "lastLiveAt": "2026-11-04T21:56:07.206Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 102,
+  "liveItemCount": 105,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 18 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-      "seenDate": "Wed, 04 Nov 2026 13:40:52 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 21 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+      "seenDate": "Wed, 04 Nov 2026 21:13:56 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 18,
+      "reportCount": 21,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -29,44 +29,44 @@
       ],
       "reports": [
         {
-          "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+          "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 13:40:52 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 21:13:56 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+          "title": "Netanyahu bet on Trump – but both lost",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 13:33:05 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 17:41:48 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+          "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 13:29:40 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 17:18:50 +0000",
           "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Trump says US 'won't be paying Israel' by end of year",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 15:09:51 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 01 Nov 2026 17:06:32 GMT",
-          "category": "Uprisings/Protests",
           "severity": "Critical"
+        },
+        {
+          "title": "Palestinian citizens of Israel face intimidation after election success",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 17:14:21 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "The new Congress may struggle to push a progressive agenda",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 17:05:09 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -77,11 +77,11 @@
         36.23,
         49.99
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 15 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-      "seenDate": "Wed, 04 Nov 2026 15:04:34 +0000",
+      "summary": "Ukraine is active on the public watch board with 15 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "seenDate": "Wed, 04 Nov 2026 20:31:56 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
       "reportCount": 15,
@@ -95,28 +95,28 @@
       ],
       "reports": [
         {
-          "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+          "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 15:04:34 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 04 Nov 2026 15:01:10 GMT",
-          "category": "Conflict",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 20:31:56 +0000",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         },
         {
-          "title": "Can Russia compete with the US, China and the EU in Africa?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 11:03:33 +0000",
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 04 Nov 2026 20:22:40 GMT",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 16:20:23 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
         },
         {
           "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
@@ -210,8 +210,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Iran is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-      "seenDate": "Wed, 04 Nov 2026 13:26:44 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "seenDate": "Wed, 04 Nov 2026 21:00:00 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
       "reportCount": 11,
@@ -224,42 +224,42 @@
       ],
       "reports": [
         {
-          "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+          "title": "US midterm election results live: Trump blames Iran war after losses",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 13:26:44 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 21:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
         },
         {
-          "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+          "title": "Will the US resume its attacks on Iran?",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 12:48:11 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 20:25:50 +0000",
           "category": "Conflict",
           "severity": "Critical"
         },
         {
-          "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+          "title": "Iranians celebrate Democrat victory in US midterms",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 12:44:30 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 19:59:14 +0000",
           "category": "Conflict",
-          "severity": "Critical"
+          "severity": "High"
         },
         {
           "title": "Iran's chief negotiator says Americans voted 'no to war'",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 04 Nov 2026 12:21:21 GMT",
+          "seenDate": "Wed, 04 Nov 2026 16:59:15 GMT",
           "category": "Conflict",
           "severity": "Critical"
         },
         {
-          "title": "‘Seismic shift’: World reacts to US midterm election results",
+          "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 11:24:50 +0000",
+          "sourceUrl": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 16:37:49 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -274,28 +274,19 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
-      "seenDate": "Wed, 04 Nov 2026 14:08:18 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 10,
+      "summary": "Red Sea / Yemen is active on the public watch board with 9 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
-          "seenDate": "Wed, 04 Nov 2026 14:08:18 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
           "sourceName": "UN News - Global perspective Human stories",
@@ -327,6 +318,14 @@
           "seenDate": "Fri, 30 Oct 2026 15:29:06 +0000",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "October Trends and November Alerts 2026",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
+          "seenDate": "Fri, 30 Oct 2026 14:08:18 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -339,12 +338,12 @@
       ],
       "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Tue, 03 Nov 2026 14:56:46 GMT",
-      "sourceName": "BBC Africa",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Tue, 03 Nov 2026 00:09:13 GMT",
+      "sourceName": "BBC World News",
       "sourceCount": 3,
-      "reportCount": 5,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
@@ -352,14 +351,6 @@
         "International Crisis Group"
       ],
       "reports": [
-        {
-          "title": "Libya's top religious authority rules against wearing Nike clothes",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 14:56:46 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
         {
           "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
           "sourceName": "BBC World News",
@@ -442,64 +433,43 @@
       ]
     },
     {
-      "title": "Syria: critical conflict watch",
-      "location": "Syria",
-      "coords": [
-        38.3,
-        35
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Syria is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 06:02:23 GMT",
-      "sourceName": "BBC Middle East",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "BBC Middle East"
-      ],
-      "reports": [
-        {
-          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 06:02:23 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 27 Oct 2026 02:40:17 GMT",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Democratic Republic of Congo: high-signal conflict watch",
       "location": "Democratic Republic of Congo",
       "coords": [
         29.2,
         -1.7
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "High",
-      "summary": "Democratic Republic of Congo is active on the public watch board with 11 reports across 2 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 04 Nov 2026 11:46:09 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 2,
-      "reportCount": 11,
+      "summary": "Democratic Republic of Congo is active on the public watch board with 13 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "seenDate": "Wed, 04 Nov 2026 19:22:09 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 13,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "WHO approves trials for two new Ebola vaccines",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+          "seenDate": "Wed, 04 Nov 2026 19:22:09 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 04 Nov 2026 18:34:19 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
           "sourceName": "BBC Africa",
@@ -521,22 +491,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168708",
           "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Judoka determined to prove refugees belong at Dakar 2026",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 28 Oct 2026 14:50:04 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168689",
-          "seenDate": "Wed, 28 Oct 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
         }
@@ -708,6 +662,36 @@
           "severity": "High"
         }
       ]
+    },
+    {
+      "title": "Syria: public conflict signal",
+      "location": "Syria",
+      "coords": [
+        38.3,
+        35
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 30 Oct 2026 06:02:23 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC Middle East"
+      ],
+      "reports": [
+        {
+          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 06:02:23 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
     }
   ],
   "source": "UN News Peace and Security, UN News Africa, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News",
@@ -719,7 +703,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "GDELT",
@@ -727,8 +711,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "error": "HTTP 429",
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -737,7 +721,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "UN News Africa",
@@ -746,7 +730,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "International Crisis Group",
@@ -755,7 +739,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "BBC Africa",
@@ -764,7 +748,7 @@
       "items": 12,
       "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "BBC Middle East",
@@ -773,16 +757,16 @@
       "items": 21,
       "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 10,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -791,16 +775,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 5,
+      "items": 6,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-04T15:29:32.636Z",
-  "checkedAt": "2026-11-04T15:29:32.636Z",
-  "lastLiveAt": "2026-11-04T15:29:32.636Z",
+  "generatedAt": "2026-11-04T21:56:07.206Z",
+  "checkedAt": "2026-11-04T21:56:07.206Z",
+  "lastLiveAt": "2026-11-04T21:56:07.206Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,82 +10,118 @@
   ],
   "items": [
     {
-      "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-      "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 15:04:34 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 21:13:56 +0000"
     },
     {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Democrat leaders hail midterm election success",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 20:50:31 +0000"
+    },
+    {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 20:31:56 +0000"
+    },
+    {
+      "title": "Will the US resume its attacks on Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 20:25:50 +0000"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 04 Nov 2026 15:01:10 GMT"
+      "publishedAt": "Wed, 04 Nov 2026 20:22:40 GMT"
     },
     {
-      "title": "Why is the western US still counting votes after election day?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 14:35:54 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 19:59:14 +0000"
     },
     {
-      "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 13:33:05 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 19:22:09 +0000"
     },
     {
-      "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+      "title": "Danish students join European protest wave against education funding cuts",
+      "link": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 13:29:40 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 17:54:48 +0000"
     },
     {
-      "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+      "title": "Netanyahu bet on Trump – but both lost",
+      "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 13:26:44 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 17:41:48 +0000"
     },
     {
-      "title": "Why are Europe’s governments struggling to respond to growing protests?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/why-are-europes-governments-struggling-to-respond-to-growing-protests?traffic_source=rss",
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 13:03:07 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 17:18:50 +0000"
     },
     {
-      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+      "title": "Palestinian citizens of Israel face intimidation after election success",
+      "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 12:48:11 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 17:14:21 +0000"
     },
     {
-      "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+      "title": "The new Congress may struggle to push a progressive agenda",
+      "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 12:44:30 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 17:05:09 +0000"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 04 Nov 2026 12:21:21 GMT"
+      "publishedAt": "Wed, 04 Nov 2026 16:59:15 GMT"
+    },
+    {
+      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+      "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 16:37:49 +0000"
+    },
+    {
+      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 16:20:23 +0000"
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 04 Nov 2026 16:18:21 GMT"
+    },
+    {
+      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 04 Nov 2026 15:51:32 +0000"
     },
     {
       "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
       "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 04 Nov 2026 11:46:09 GMT"
-    },
-    {
-      "title": "‘Seismic shift’: World reacts to US midterm election results",
-      "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 11:24:50 +0000"
-    },
-    {
-      "title": "Can Russia compete with the US, China and the EU in Africa?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 04 Nov 2026 11:03:33 +0000"
     },
     {
       "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
@@ -152,42 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Russia drone strike on Ukrainian railway station kills 13",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "source": "UN News",
-      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 10,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 5,
+      "items": 6,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-04T15:29:32.636Z"
+      "checkedAt": "2026-11-04T21:56:07.206Z"
     }
   ]
 }
