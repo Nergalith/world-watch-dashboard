@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-03T23:28:11.404Z",
-  "checkedAt": "2026-11-03T23:28:11.404Z",
-  "lastLiveAt": "2026-11-03T23:28:11.404Z",
+  "generatedAt": "2026-11-04T06:35:36.562Z",
+  "checkedAt": "2026-11-04T06:35:36.562Z",
+  "lastLiveAt": "2026-11-04T06:35:36.562Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,88 +10,40 @@
   ],
   "items": [
     {
-      "title": "US midterm election results live: Polls start closing in some states",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+      "title": "Lula’s victory is a stress test for the Global South",
+      "link": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 22:30:00 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 06:12:59 +0000"
     },
     {
-      "title": "President Zelenskyy says US elections will impact war in Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+      "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 21:43:19 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 04:39:31 +0000"
     },
     {
-      "title": "Netanyahu’s eight-seat problem",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "title": "Nervous Republicans await results at Paxton’s Texas election party",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 21:19:13 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 03:56:21 +0000"
     },
     {
-      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 20:54:44 +0000"
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 04 Nov 2026 03:46:10 GMT"
     },
     {
-      "title": "Severe weather disrupts election day across several US states",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 19:13:19 +0000"
-    },
-    {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 19:09:09 +0000"
-    },
-    {
-      "title": "Greenland parliament approves security deal with US, Denmark",
-      "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 18:05:48 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 17:26:02 +0000"
-    },
-    {
-      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 17:03:24 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 01:13:49 +0000"
     },
     {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT"
-    },
-    {
-      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 16:49:10 +0000"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-      "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 03 Nov 2026 16:22:15 +0000"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 13:28:30 GMT"
-    },
-    {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 13:26:19 GMT"
     },
     {
       "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
@@ -118,22 +70,10 @@
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 08:33:20 GMT"
-    },
-    {
       "title": "Why a US-Russia showdown left Morocco celebrating",
       "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 03 Nov 2026 07:29:46 GMT"
-    },
-    {
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT"
     },
     {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -146,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 02 Nov 2026 17:34:58 GMT"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT"
     },
     {
       "title": "What we know about the alert app hack in Ukraine and Russia",
@@ -188,6 +122,72 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Russia drone strike on Ukrainian railway station kills 13",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "source": "UN News",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "source": "UN News",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "source": "UN News",
+      "publishedAt": "Tue, 27 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "source": "UN News",
+      "publishedAt": "Mon, 26 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 4,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-03T23:28:11.404Z"
+      "checkedAt": "2026-11-04T06:35:36.562Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 32,
+      "items": 6,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-03T23:28:11.404Z"
+      "checkedAt": "2026-11-04T06:35:36.562Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-03T23:28:11.404Z"
+      "checkedAt": "2026-11-04T06:35:36.562Z"
     }
   ]
 }
