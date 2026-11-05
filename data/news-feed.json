@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-05T11:05:05.066Z",
-  "checkedAt": "2026-11-05T11:05:05.066Z",
-  "lastLiveAt": "2026-11-05T11:05:05.066Z",
+  "generatedAt": "2026-11-05T18:47:52.556Z",
+  "checkedAt": "2026-11-05T18:47:52.556Z",
+  "lastLiveAt": "2026-11-05T18:47:52.556Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,94 +10,82 @@
   ],
   "items": [
     {
-      "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
-      "link": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 10:25:28 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 18:30:09 +0000"
     },
     {
-      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-      "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+      "title": "AI stocks plunge after US election, driving down markets",
+      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 10:24:14 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 17:56:17 +0000"
     },
     {
-      "title": "A month after Yemen government offensive began, war of attrition takes hold",
-      "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+      "title": "Jordanian officer killed in stabbing attack in Amman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 09:58:18 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 17:08:45 +0000"
     },
     {
-      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-      "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+      "title": "Bishara: US election deals a blow to warmongers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 09:57:04 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 16:48:53 +0000"
     },
     {
-      "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-      "link": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
+      "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 09:52:02 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 16:46:34 +0000"
     },
     {
-      "title": "It’s Gaza, stupid",
-      "link": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+      "title": "Jerusalem Daily: Settler pogroms in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 09:44:33 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 15:10:42 +0000"
     },
     {
-      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-      "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+      "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 09:13:35 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 14:45:46 +0000"
+    },
+    {
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 14:30:37 +0000"
+    },
+    {
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 14:19:25 +0000"
+    },
+    {
+      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 14:15:52 +0000"
     },
     {
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 05 Nov 2026 08:07:22 GMT"
+      "publishedAt": "Thu, 05 Nov 2026 13:51:03 GMT"
     },
     {
-      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-      "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 07:50:44 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 13:28:12 +0000"
     },
     {
-      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-      "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 07:44:47 +0000"
-    },
-    {
-      "title": "New Zealand braces for knife-edge election: What you need to know",
-      "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 06:34:50 +0000"
-    },
-    {
-      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-      "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 05:39:31 +0000"
-    },
-    {
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 04:49:56 +0000"
-    },
-    {
-      "title": "Brazilian airport torn apart by violent storm",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 04:12:11 +0000"
-    },
-    {
-      "title": "Paraguay bank collapses with half of population’s savings",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 04:11:45 +0000"
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -110,18 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 05 Nov 2026 02:09:23 GMT"
-    },
-    {
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 04 Nov 2026 23:50:40 GMT"
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 04 Nov 2026 22:48:43 GMT"
     },
     {
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
@@ -178,16 +154,40 @@
       "publishedAt": "Mon, 02 Nov 2026 17:34:58 GMT"
     },
     {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 14:24:25 GMT"
-    },
-    {
       "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
       "source": "UN News",
       "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "source": "UN News",
+      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+      "source": "UN News",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "source": "UN News",
+      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-05T11:05:05.066Z"
+      "checkedAt": "2026-11-05T18:47:52.556Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 7,
-      "rawItems": 20,
+      "items": 4,
+      "rawItems": 21,
       "error": "",
-      "checkedAt": "2026-11-05T11:05:05.066Z"
+      "checkedAt": "2026-11-05T18:47:52.556Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-05T11:05:05.066Z"
+      "checkedAt": "2026-11-05T18:47:52.556Z"
     }
   ]
 }
