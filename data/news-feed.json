@@ -1,14 +1,74 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-05T18:47:52.556Z",
-  "checkedAt": "2026-11-05T18:47:52.556Z",
-  "lastLiveAt": "2026-11-05T18:47:52.556Z",
+  "generatedAt": "2026-11-06T00:22:08.901Z",
+  "checkedAt": "2026-11-06T00:22:08.901Z",
+  "lastLiveAt": "2026-11-06T00:22:08.901Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 20:48:47 +0000"
+    },
+    {
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 20:43:46 +0000"
+    },
+    {
+      "title": "Mass protests in France driven by nationwide strike action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 20:11:37 +0000"
+    },
+    {
+      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+      "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 20:07:04 +0000"
+    },
+    {
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 05 Nov 2026 19:58:40 GMT"
+    },
+    {
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 19:31:28 +0000"
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 05 Nov 2026 19:08:48 GMT"
+    },
+    {
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 05 Nov 2026 19:08:08 GMT"
+    },
+    {
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 05 Nov 2026 18:47:10 +0000"
+    },
     {
       "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
@@ -40,48 +100,6 @@
       "publishedAt": "Thu, 05 Nov 2026 16:46:34 +0000"
     },
     {
-      "title": "Jerusalem Daily: Settler pogroms in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 15:10:42 +0000"
-    },
-    {
-      "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 14:45:46 +0000"
-    },
-    {
-      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-      "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 14:30:37 +0000"
-    },
-    {
-      "title": "Could the US midterms further isolate Israel in Washington?",
-      "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 14:19:25 +0000"
-    },
-    {
-      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
-      "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 14:15:52 +0000"
-    },
-    {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 05 Nov 2026 13:51:03 GMT"
-    },
-    {
-      "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 13:28:12 +0000"
-    },
-    {
       "title": "Children at risk as war zone attacks on water and sanitation more than triple",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
       "source": "UN News",
@@ -92,12 +110,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 05 Nov 2026 03:47:56 GMT"
-    },
-    {
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 05 Nov 2026 02:09:23 GMT"
     },
     {
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
@@ -148,12 +160,6 @@
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 02 Nov 2026 17:34:58 GMT"
-    },
-    {
       "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
       "source": "UN News",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
       "source": "UN News",
       "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-05T18:47:52.556Z"
+      "checkedAt": "2026-11-06T00:22:08.901Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 4,
       "rawItems": 21,
       "error": "",
-      "checkedAt": "2026-11-05T18:47:52.556Z"
+      "checkedAt": "2026-11-06T00:22:08.901Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-05T18:47:52.556Z"
+      "checkedAt": "2026-11-06T00:22:08.901Z"
     }
   ]
 }
