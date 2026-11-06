@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-06T00:22:08.901Z",
-  "checkedAt": "2026-11-06T00:22:08.901Z",
-  "lastLiveAt": "2026-11-06T00:22:08.901Z",
+  "generatedAt": "2026-11-06T07:58:06.829Z",
+  "checkedAt": "2026-11-06T07:58:06.829Z",
+  "lastLiveAt": "2026-11-06T07:58:06.829Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,34 +10,112 @@
   ],
   "items": [
     {
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 07:56:19 GMT"
+    },
+    {
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 07:33:41 GMT"
+    },
+    {
+      "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+      "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 07:28:53 +0000"
+    },
+    {
+      "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+      "link": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 07:09:42 +0000"
+    },
+    {
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 06:46:21 GMT"
+    },
+    {
+      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 06:06:24 +0000"
+    },
+    {
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 06:01:13 GMT"
+    },
+    {
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 06:00:46 GMT"
+    },
+    {
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 05:00:47 +0000"
+    },
+    {
+      "title": "Trump issues proclamation declaring Oval Office national monument",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 04:48:00 +0000"
+    },
+    {
+      "title": "Building wind turbines out of parts found in Gaza’s rubble",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 04:20:22 +0000"
+    },
+    {
+      "title": "Paraguay’s president impeached amid bank collapse crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 03:49:33 +0000"
+    },
+    {
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 02:48:19 +0000"
+    },
+    {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 06 Nov 2026 02:08:57 GMT"
+    },
+    {
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 02:03:47 +0000"
+    },
+    {
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 00:15:22 +0000"
+    },
+    {
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 06 Nov 2026 00:06:31 +0000"
+    },
+    {
       "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Fri, 06 Nov 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 20:48:47 +0000"
-    },
-    {
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 20:43:46 +0000"
-    },
-    {
-      "title": "Mass protests in France driven by nationwide strike action",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 20:11:37 +0000"
-    },
-    {
-      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 20:07:04 +0000"
     },
     {
       "title": "Who could be behind hoax bomb threats to European air travel?",
@@ -46,58 +124,22 @@
       "publishedAt": "Thu, 05 Nov 2026 19:58:40 GMT"
     },
     {
-      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 19:31:28 +0000"
-    },
-    {
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 05 Nov 2026 19:08:48 GMT"
     },
     {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 05 Nov 2026 19:08:08 GMT"
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 18:47:10 +0000"
-    },
-    {
-      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 18:30:09 +0000"
-    },
-    {
-      "title": "AI stocks plunge after US election, driving down markets",
-      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 17:56:17 +0000"
-    },
-    {
-      "title": "Jordanian officer killed in stabbing attack in Amman",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 17:08:45 +0000"
-    },
-    {
-      "title": "Bishara: US election deals a blow to warmongers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 16:48:53 +0000"
-    },
-    {
-      "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 05 Nov 2026 16:46:34 +0000"
+      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Children at risk as war zone attacks on water and sanitation more than triple",
@@ -146,48 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
       "source": "UN News",
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "source": "UN News",
-      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-      "source": "UN News",
-      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
-      "source": "UN News",
-      "publishedAt": "Sun, 01 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "source": "UN News",
-      "publishedAt": "Fri, 30 Oct 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -198,16 +198,16 @@
       "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-06T00:22:08.901Z"
+      "checkedAt": "2026-11-06T07:58:06.829Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 4,
-      "rawItems": 21,
+      "items": 9,
+      "rawItems": 22,
       "error": "",
-      "checkedAt": "2026-11-06T00:22:08.901Z"
+      "checkedAt": "2026-11-06T07:58:06.829Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-06T00:22:08.901Z"
+      "checkedAt": "2026-11-06T07:58:06.829Z"
     }
   ]
 }
