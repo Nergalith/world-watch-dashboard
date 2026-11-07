@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T20:16:30.668Z",
-  "checkedAt": "2026-11-07T20:16:30.668Z",
-  "lastLiveAt": "2026-11-07T20:16:30.668Z",
+  "generatedAt": "2026-11-07T23:41:56.768Z",
+  "checkedAt": "2026-11-07T23:41:56.768Z",
+  "lastLiveAt": "2026-11-07T23:41:56.768Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,40 @@
   ],
   "items": [
     {
+      "title": "What we know so far after Krakow gun attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 22:58:49 GMT"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 22:19:59 GMT"
+    },
+    {
+      "title": "Who is behind Europe’s suspected hybrid attacks?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 20:48:58 +0000"
+    },
+    {
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 20:44:34 +0000"
+    },
+    {
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 20:26:58 +0000"
+    },
+    {
       "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sat, 07 Nov 2026 20:10:38 +0000"
-    },
-    {
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 20:08:31 GMT"
     },
     {
       "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
@@ -100,18 +124,6 @@
       "publishedAt": "Sat, 07 Nov 2026 15:56:28 GMT"
     },
     {
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 15:34:58 +0000"
-    },
-    {
-      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 14:24:48 +0000"
-    },
-    {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -176,18 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 24,
+      "items": 11,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     }
   ]
 }

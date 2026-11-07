@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T20:16:30.668Z",
-  "checkedAt": "2026-11-07T20:16:30.668Z",
-  "lastLiveAt": "2026-11-07T20:16:30.668Z",
+  "generatedAt": "2026-11-07T23:41:56.768Z",
+  "checkedAt": "2026-11-07T23:41:56.768Z",
+  "lastLiveAt": "2026-11-07T23:41:56.768Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 110,
+  "liveItemCount": 111,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 20 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
-      "seenDate": "Sat, 07 Nov 2026 19:29:06 +0000",
-      "sourceName": "Al Jazeera",
+      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 07 Nov 2026 22:19:59 GMT",
+      "sourceName": "BBC Middle East",
       "sourceCount": 3,
-      "reportCount": 20,
+      "reportCount": 23,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -28,6 +28,30 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 07 Nov 2026 22:19:59 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Mélenchon promises action against Israeli annexation if elected President",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+          "seenDate": "Sat, 07 Nov 2026 20:53:47 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+          "seenDate": "Sat, 07 Nov 2026 20:26:58 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
           "sourceName": "Al Jazeera",
@@ -42,30 +66,6 @@
           "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
           "seenDate": "Sat, 07 Nov 2026 19:04:04 +0000",
           "category": "Uprisings/Protests",
-          "severity": "High"
-        },
-        {
-          "title": "Gaza wedding festival sees 250 couples married at the same time",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 07 Nov 2026 17:58:41 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 17:16:50 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "Jerusalem Daily: Heavy rains flood Gaza",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 17:11:29 +0000",
-          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -338,12 +338,12 @@
       ],
       "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
+      "summary": "Iran is active on the public watch board with 8 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
       "seenDate": "Sat, 07 Nov 2026 19:49:19 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 9,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -369,14 +369,6 @@
           "severity": "Critical"
         },
         {
-          "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 15:34:58 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
           "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
@@ -390,6 +382,14 @@
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 04 Nov 2026 16:59:15 GMT",
           "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 03 Nov 2026 11:33:33 GMT",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         }
       ]
@@ -575,44 +575,6 @@
       ]
     },
     {
-      "title": "Iraq: critical conflict watch",
-      "location": "Iraq",
-      "coords": [
-        43.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Iraq is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-      "seenDate": "Sat, 07 Nov 2026 14:30:00 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 1,
-      "reportCount": 2,
-      "confidence": "Single Source",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "reports": [
-        {
-          "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 14:30:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 14:24:48 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Somalia: high-signal conflict watch",
       "location": "Somalia",
       "coords": [
@@ -771,7 +733,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "GDELT",
@@ -780,7 +742,7 @@
       "items": 0,
       "rawItems": null,
       "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -789,7 +751,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "UN News Africa",
@@ -798,7 +760,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "International Crisis Group",
@@ -807,7 +769,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "BBC Africa",
@@ -816,25 +778,25 @@
       "items": 15,
       "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "BBC Middle East",
       "kind": "conflict",
       "status": "up",
-      "items": 22,
-      "rawItems": 23,
+      "items": 23,
+      "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 13,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -843,16 +805,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 7,
-      "rawItems": 24,
+      "items": 8,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T20:16:30.668Z"
+      "checkedAt": "2026-11-07T23:41:56.768Z"
     }
   ]
 }
