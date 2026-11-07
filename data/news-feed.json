@@ -1,14 +1,134 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T08:52:46.765Z",
-  "checkedAt": "2026-11-07T08:52:46.765Z",
-  "lastLiveAt": "2026-11-07T08:52:46.765Z",
+  "generatedAt": "2026-11-07T15:43:19.212Z",
+  "checkedAt": "2026-11-07T15:43:19.212Z",
+  "lastLiveAt": "2026-11-07T15:43:19.212Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 15:00:10 GMT"
+    },
+    {
+      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 14:24:48 +0000"
+    },
+    {
+      "title": "New Zealand’s prime minister says election is ‘too close to call’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 14:03:06 +0000"
+    },
+    {
+      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 13:50:15 +0000"
+    },
+    {
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 13:24:41 +0000"
+    },
+    {
+      "title": "Gaza displacement camps collapse under rainwater",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 13:14:53 +0000"
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 13:07:23 +0000"
+    },
+    {
+      "title": "Heavy rains flood displacement camps across Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 13:04:51 +0000"
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 12:49:36 GMT"
+    },
+    {
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 12:24:11 +0000"
+    },
+    {
+      "title": "Four things we learned this week about 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 12:23:28 GMT"
+    },
+    {
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 12:22:18 +0000"
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 11:59:26 +0000"
+    },
+    {
+      "title": "Nepal’s fight to rebuild after flood disaster",
+      "link": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 11:10:02 +0000"
+    },
+    {
+      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 10:50:54 +0000"
+    },
+    {
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 10:36:32 +0000"
+    },
+    {
+      "title": "Pakistani astronaut to join China’s next space station mission",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 10:17:53 +0000"
+    },
+    {
+      "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+      "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 09:48:11 +0000"
+    },
+    {
+      "title": "China’s e-bikes boom as fuel prices rise",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 09:30:07 +0000"
+    },
     {
       "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
       "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
@@ -22,82 +142,10 @@
       "publishedAt": "Sat, 07 Nov 2026 07:20:00 GMT"
     },
     {
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 07:10:37 +0000"
-    },
-    {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 07:05:01 +0000"
-    },
-    {
-      "title": "How the Iran war helped Democrats win the midterms",
-      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 06:26:58 +0000"
-    },
-    {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 05:51:23 +0000"
-    },
-    {
-      "title": "President Herzog faces key choice as Israel struggles to form government",
-      "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 05:16:18 +0000"
-    },
-    {
-      "title": "Russia launches missile attack on Kyiv, injuring residents",
-      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 05:11:03 +0000"
-    },
-    {
-      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 05:02:49 +0000"
-    },
-    {
-      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 04:50:46 +0000"
-    },
-    {
-      "title": "Los Angeles reacts to historic mayoral election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 04:14:12 +0000"
-    },
-    {
-      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 04:08:02 +0000"
-    },
-    {
-      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
-      "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 03:53:01 +0000"
-    },
-    {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT"
     },
     {
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
@@ -116,24 +164,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
       "source": "UN News",
       "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 08:18:10 GMT"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 06:46:21 GMT"
     },
     {
       "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
@@ -158,36 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168731",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 18,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T08:52:46.765Z"
+      "checkedAt": "2026-11-07T15:43:19.212Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 7,
-      "rawItems": 28,
+      "items": 6,
+      "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-07T08:52:46.765Z"
+      "checkedAt": "2026-11-07T15:43:19.212Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T08:52:46.765Z"
+      "checkedAt": "2026-11-07T15:43:19.212Z"
     }
   ]
 }
