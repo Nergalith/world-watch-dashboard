@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T01:58:48.324Z",
-  "checkedAt": "2026-11-07T01:58:48.324Z",
-  "lastLiveAt": "2026-11-07T01:58:48.324Z",
+  "generatedAt": "2026-11-07T08:52:46.765Z",
+  "checkedAt": "2026-11-07T08:52:46.765Z",
+  "lastLiveAt": "2026-11-07T08:52:46.765Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,58 +10,88 @@
   ],
   "items": [
     {
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 00:00:00 +0000"
+      "publishedAt": "Sat, 07 Nov 2026 08:45:36 +0000"
     },
     {
-      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 23:07:22 +0000"
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 07 Nov 2026 07:20:00 GMT"
     },
     {
-      "title": "US urges China to honour Busan trade deal commitments",
-      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 23:00:37 +0000"
+      "publishedAt": "Sat, 07 Nov 2026 07:10:37 +0000"
     },
     {
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 21:37:30 +0000"
+      "publishedAt": "Sat, 07 Nov 2026 07:05:01 +0000"
+    },
+    {
+      "title": "How the Iran war helped Democrats win the midterms",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 06:26:58 +0000"
+    },
+    {
+      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 05:51:23 +0000"
+    },
+    {
+      "title": "President Herzog faces key choice as Israel struggles to form government",
+      "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 05:16:18 +0000"
+    },
+    {
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 05:11:03 +0000"
+    },
+    {
+      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 05:02:49 +0000"
+    },
+    {
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 04:50:46 +0000"
+    },
+    {
+      "title": "Los Angeles reacts to historic mayoral election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 04:14:12 +0000"
+    },
+    {
+      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 04:08:02 +0000"
+    },
+    {
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+      "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 03:53:01 +0000"
     },
     {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 19:16:07 +0000"
-    },
-    {
-      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-      "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 19:08:31 +0000"
-    },
-    {
-      "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-      "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 19:07:06 +0000"
-    },
-    {
-      "title": "Why is Paraguay facing a banking and political crisis?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 06 Nov 2026 18:54:08 +0000"
     },
     {
       "title": "Four midterms takeaways for 2028 White House race",
@@ -104,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 06 Nov 2026 06:46:21 GMT"
-    },
-    {
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 06:00:46 GMT"
     },
     {
       "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
@@ -164,30 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
       "source": "UN News",
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "source": "UN News",
-      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-      "source": "UN News",
-      "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T01:58:48.324Z"
+      "checkedAt": "2026-11-07T08:52:46.765Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 7,
-      "rawItems": 25,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-07T01:58:48.324Z"
+      "checkedAt": "2026-11-07T08:52:46.765Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T01:58:48.324Z"
+      "checkedAt": "2026-11-07T08:52:46.765Z"
     }
   ]
 }
