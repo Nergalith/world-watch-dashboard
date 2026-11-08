@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-08T18:51:51.672Z",
-  "checkedAt": "2026-11-08T18:51:51.672Z",
-  "lastLiveAt": "2026-11-08T18:51:51.672Z",
+  "generatedAt": "2026-11-08T22:56:02.405Z",
+  "checkedAt": "2026-11-08T22:56:02.405Z",
+  "lastLiveAt": "2026-11-08T22:56:02.405Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 104,
+  "liveItemCount": 105,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 22 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-      "seenDate": "Sun, 08 Nov 2026 18:12:27 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 21:05:07 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 22,
+      "reportCount": 23,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -28,6 +28,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Deadly sand cliff collapses on displaced families in Gaza",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 21:05:07 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Eisenkot open to Netanyahu joining Israel’s next government",
           "sourceName": "Al Jazeera",
@@ -59,14 +67,6 @@
           "seenDate": "Sun, 08 Nov 2026 16:51:41 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        },
-        {
-          "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-          "seenDate": "Sun, 08 Nov 2026 16:18:09 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -204,31 +204,22 @@
         36.23,
         49.99
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 12 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "seenDate": "Sun, 08 Nov 2026 12:20:17 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
-      "reportCount": 12,
+      "summary": "Ukraine is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 07 Nov 2026 16:50:06 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 4,
+      "reportCount": 11,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "BBC World News",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-          "seenDate": "Sun, 08 Nov 2026 12:20:17 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
         {
           "title": "Italian foreign minister says hackers leaked his personal data",
           "sourceName": "BBC World News",
@@ -259,6 +250,14 @@
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
           "seenDate": "Tue, 03 Nov 2026 07:29:46 GMT",
           "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+          "seenDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -334,14 +333,14 @@
         53.7,
         32.4
       ],
-      "category": "Infrastructure",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 7 reports across 4 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "seenDate": "Sun, 08 Nov 2026 14:06:19 +0000",
+      "summary": "Iran is active on the public watch board with 8 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 20:51:22 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 7,
+      "reportCount": 8,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -351,12 +350,20 @@
       ],
       "reports": [
         {
-          "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+          "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-          "seenDate": "Sun, 08 Nov 2026 14:06:19 +0000",
-          "category": "Infrastructure",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 20:51:22 +0000",
+          "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 20:13:39 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         },
         {
           "title": "Iran executes three men for 'armed unrest' after January protests",
@@ -381,14 +388,62 @@
           "seenDate": "Fri, 06 Nov 2026 07:33:41 GMT",
           "category": "Military Hotspots",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "Critical",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 22:16:10 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 22:16:10 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
         },
         {
-          "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Mon, 02 Nov 2026 06:05:34 GMT",
-          "category": "Conflict",
+          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
+          "category": "Infrastructure",
           "severity": "High"
+        },
+        {
+          "title": "The Documentary Podcast",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Don’t Go Backward on China Policy",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
+          "category": "Infrastructure",
+          "severity": "Critical"
         }
       ]
     },
@@ -436,53 +491,6 @@
           "seenDate": "Fri, 09 Oct 2026 15:26:33 GMT",
           "category": "Conflict",
           "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Taiwan Strait: corroborated conflict signal",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Infrastructure",
-      "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
-      "sources": [
-        "BBC Africa",
-        "International Crisis Group"
-      ],
-      "reports": [
-        {
-          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "The Documentary Podcast",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Don’t Go Backward on China Policy",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
-          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
-          "category": "Infrastructure",
-          "severity": "Critical"
         }
       ]
     },
@@ -703,36 +711,6 @@
           "severity": "High"
         }
       ]
-    },
-    {
-      "title": "Iraq: public conflict signal",
-      "location": "Iraq",
-      "coords": [
-        43.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iraq is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "seenDate": "Sun, 08 Nov 2026 13:06:28 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "reports": [
-        {
-          "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-          "seenDate": "Sun, 08 Nov 2026 13:06:28 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
     }
   ],
   "source": "UN News Peace and Security, UN News Africa, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News",
@@ -744,7 +722,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "GDELT",
@@ -752,8 +730,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -762,7 +740,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "UN News Africa",
@@ -771,7 +749,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "International Crisis Group",
@@ -780,16 +758,16 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
       "items": 13,
-      "rawItems": 27,
+      "rawItems": 29,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "BBC Middle East",
@@ -798,16 +776,16 @@
       "items": 23,
       "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 8,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -816,16 +794,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
       "items": 7,
-      "rawItems": 27,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     }
   ]
 }

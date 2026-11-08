@@ -1,14 +1,38 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-08T18:51:51.672Z",
-  "checkedAt": "2026-11-08T18:51:51.672Z",
-  "lastLiveAt": "2026-11-08T18:51:51.672Z",
+  "generatedAt": "2026-11-08T22:56:02.405Z",
+  "checkedAt": "2026-11-08T22:56:02.405Z",
+  "lastLiveAt": "2026-11-08T22:56:02.405Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 22:16:10 +0000"
+    },
+    {
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 21:05:07 +0000"
+    },
+    {
+      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 20:51:22 +0000"
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 20:13:39 +0000"
+    },
     {
       "title": "Eisenkot open to Netanyahu joining Israel’s next government",
       "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
@@ -40,40 +64,10 @@
       "publishedAt": "Sun, 08 Nov 2026 16:18:09 +0000"
     },
     {
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 14:06:19 +0000"
-    },
-    {
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 13:27:57 +0000"
-    },
-    {
-      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 13:11:41 +0000"
-    },
-    {
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 12:40:12 +0000"
-    },
-    {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 12:20:17 +0000"
     },
     {
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
       "source": "UN News",
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 10,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 8,
-      "rawItems": 27,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-08T18:51:51.672Z"
+      "checkedAt": "2026-11-08T22:56:02.405Z"
     }
   ]
 }
