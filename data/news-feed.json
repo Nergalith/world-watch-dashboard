@@ -1,14 +1,68 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-08T13:34:36.383Z",
-  "checkedAt": "2026-11-08T13:34:36.383Z",
-  "lastLiveAt": "2026-11-08T13:34:36.383Z",
+  "generatedAt": "2026-11-08T18:51:51.672Z",
+  "checkedAt": "2026-11-08T18:51:51.672Z",
+  "lastLiveAt": "2026-11-08T18:51:51.672Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 18:12:27 +0000"
+    },
+    {
+      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 18:01:05 +0000"
+    },
+    {
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 17:44:51 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 17:11:52 +0000"
+    },
+    {
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 16:18:09 +0000"
+    },
+    {
+      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 14:06:19 +0000"
+    },
+    {
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT"
+    },
+    {
+      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 13:27:57 +0000"
+    },
+    {
+      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 13:11:41 +0000"
+    },
     {
       "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
       "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
@@ -22,100 +76,10 @@
       "publishedAt": "Sun, 08 Nov 2026 12:20:17 +0000"
     },
     {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 11:34:58 +0000"
-    },
-    {
-      "title": "What we know so far after Krakow gun attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 08 Nov 2026 11:22:17 GMT"
-    },
-    {
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 10:28:08 +0000"
-    },
-    {
-      "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 10:03:21 +0000"
-    },
-    {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 09:30:17 +0000"
-    },
-    {
-      "title": "Floods in Gaza leave tens of thousands without shelter",
-      "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 09:28:52 +0000"
-    },
-    {
-      "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-      "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 09:09:59 +0000"
-    },
-    {
-      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-      "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 08:47:36 +0000"
-    },
-    {
-      "title": "US military attacks cargo ship in the Gulf of Oman",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 08:24:37 +0000"
-    },
-    {
-      "title": "Mapping how France’s protest wave spread across Europe",
-      "link": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 08:18:38 +0000"
-    },
-    {
-      "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-      "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 07:40:07 +0000"
-    },
-    {
-      "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
-      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 06:55:24 +0000"
-    },
-    {
-      "title": "Is unconditional support for Israel becoming a liability for Republicans?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 06:52:14 +0000"
-    },
-    {
-      "title": "Haitians cheer El Salvador’s Bukele amid gang war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 05:09:39 +0000"
-    },
-    {
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -188,6 +152,42 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168731",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "source": "UN News",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 15,
+      "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-08T13:34:36.383Z"
+      "checkedAt": "2026-11-08T18:51:51.672Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 9,
-      "rawItems": 25,
+      "items": 8,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-11-08T13:34:36.383Z"
+      "checkedAt": "2026-11-08T18:51:51.672Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-08T13:34:36.383Z"
+      "checkedAt": "2026-11-08T18:51:51.672Z"
     }
   ]
 }
