@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T23:41:56.768Z",
-  "checkedAt": "2026-11-07T23:41:56.768Z",
-  "lastLiveAt": "2026-11-07T23:41:56.768Z",
+  "generatedAt": "2026-11-08T06:12:14.427Z",
+  "checkedAt": "2026-11-08T06:12:14.427Z",
+  "lastLiveAt": "2026-11-08T06:12:14.427Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,58 @@
   ],
   "items": [
     {
+      "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 05:09:39 +0000"
+    },
+    {
+      "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+      "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 04:56:37 +0000"
+    },
+    {
+      "title": "Earthquake hits central Japan, injuring more than 20 people",
+      "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 04:20:57 +0000"
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT"
+    },
+    {
+      "title": "US launches task force to disrupt Iran’s land-based supply routes",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 02:34:04 +0000"
+    },
+    {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 22:58:49 GMT"
+      "publishedAt": "Sun, 08 Nov 2026 01:47:41 GMT"
+    },
+    {
+      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+      "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 01:37:55 +0000"
+    },
+    {
+      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 00:00:56 +0000"
+    },
+    {
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 07 Nov 2026 23:45:45 +0000"
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -64,12 +112,6 @@
       "publishedAt": "Sat, 07 Nov 2026 19:10:34 +0000"
     },
     {
-      "title": "Demonstration in Berlin calls for an end to arming Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 19:04:04 +0000"
-    },
-    {
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -80,42 +122,6 @@
       "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 07 Nov 2026 17:58:41 GMT"
-    },
-    {
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 17:39:23 +0000"
-    },
-    {
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 17:16:50 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 17:11:29 +0000"
-    },
-    {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 17:09:24 GMT"
-    },
-    {
-      "title": "Israel builds 90km network of military roads across southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 16:30:33 +0000"
-    },
-    {
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 07 Nov 2026 16:15:18 +0000"
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     }
   ]
 }

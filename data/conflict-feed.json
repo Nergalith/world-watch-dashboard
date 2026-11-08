@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-07T23:41:56.768Z",
-  "checkedAt": "2026-11-07T23:41:56.768Z",
-  "lastLiveAt": "2026-11-07T23:41:56.768Z",
+  "generatedAt": "2026-11-08T06:12:14.427Z",
+  "checkedAt": "2026-11-08T06:12:14.427Z",
+  "lastLiveAt": "2026-11-08T06:12:14.427Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 111,
+  "liveItemCount": 110,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 23 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "sourceName": "BBC Middle East",
+      "summary": "Israel / Gaza is active on the public watch board with 21 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "seenDate": "Sat, 07 Nov 2026 23:45:45 +0000",
+      "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 23,
+      "reportCount": 21,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -28,6 +28,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+          "seenDate": "Sat, 07 Nov 2026 23:45:45 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Israel's president tasks opposition leader Eisenkot with forming government",
           "sourceName": "BBC Middle East",
@@ -58,14 +66,6 @@
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
           "seenDate": "Sat, 07 Nov 2026 19:29:06 +0000",
           "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Demonstration in Berlin calls for an end to arming Israel",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 19:04:04 +0000",
-          "category": "Uprisings/Protests",
           "severity": "High"
         }
       ]
@@ -272,15 +272,14 @@
       ],
       "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 12 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-      "seenDate": "Sat, 07 Nov 2026 19:06:31 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
-      "reportCount": 12,
+      "summary": "Red Sea / Yemen is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sun, 08 Nov 2026 04:03:12 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 4,
+      "reportCount": 10,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "BBC World News",
         "International Crisis Group",
@@ -288,26 +287,10 @@
       ],
       "reports": [
         {
-          "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 19:06:31 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "Houthis report 25 killed in Yemen strikes",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 17:39:23 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "Houthis say at least 25 killed in Saudi air strike",
+          "title": "Houthis say at least 33 killed in Saudi air strike",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 07 Nov 2026 17:09:24 GMT",
+          "seenDate": "Sun, 08 Nov 2026 04:03:12 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
         },
@@ -326,6 +309,22 @@
           "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+          "seenDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+          "seenDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -336,14 +335,14 @@
         53.7,
         32.4
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 8 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-      "seenDate": "Sat, 07 Nov 2026 19:49:19 +0000",
+      "summary": "Iran is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 02:34:04 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 8,
+      "reportCount": 10,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -352,6 +351,22 @@
         "International Crisis Group"
       ],
       "reports": [
+        {
+          "title": "US launches task force to disrupt Iran’s land-based supply routes",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 02:34:04 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 00:00:56 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "Masked protesters set off firecrackers and block roads in Albania",
           "sourceName": "Al Jazeera",
@@ -375,69 +390,62 @@
           "seenDate": "Fri, 06 Nov 2026 07:33:41 GMT",
           "category": "Military Hotspots",
           "severity": "Critical"
-        },
-        {
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 04 Nov 2026 16:59:15 GMT",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 03 Nov 2026 11:33:33 GMT",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
         }
       ]
     },
     {
-      "title": "Lebanon / Israel Border: corroborated conflict signal",
-      "location": "Lebanon / Israel Border",
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
       "coords": [
-        35.7,
-        33.2
+        121,
+        24
       ],
-      "category": "Military Hotspots",
+      "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Lebanon / Israel Border is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-      "seenDate": "Sat, 07 Nov 2026 16:30:33 +0000",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 04:59:02 +0000",
       "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
-        "UN News - Global perspective Human stories"
+        "BBC Africa",
+        "International Crisis Group"
       ],
       "reports": [
         {
-          "title": "Israel builds 90km network of military roads across southern Lebanon",
+          "title": "Plane clips truck during emergency landing on busy Florida road",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-          "seenDate": "Sat, 07 Nov 2026 16:30:33 +0000",
-          "category": "Military Hotspots",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 04:59:02 +0000",
+          "category": "Infrastructure",
           "severity": "High"
         },
         {
-          "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168741",
-          "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
-          "category": "Conflict",
+          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "The Documentary Podcast",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Don’t Go Backward on China Policy",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
+          "category": "Infrastructure",
           "severity": "Critical"
-        },
-        {
-          "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -489,49 +497,40 @@
       ]
     },
     {
-      "title": "Taiwan Strait: corroborated conflict signal",
-      "location": "Taiwan Strait",
+      "title": "Lebanon / Israel Border: critical conflict watch",
+      "location": "Lebanon / Israel Border",
       "coords": [
-        121,
-        24
+        35.7,
+        33.2
       ],
-      "category": "Infrastructure",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "summary": "Lebanon / Israel Border is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 1,
+      "reportCount": 2,
+      "confidence": "Single Source",
       "sources": [
-        "BBC Africa",
-        "International Crisis Group"
+        "UN News - Global perspective Human stories"
       ],
       "reports": [
         {
-          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "The Documentary Podcast",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Don’t Go Backward on China Policy",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
-          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
-          "category": "Infrastructure",
+          "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+          "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+          "seenDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -571,6 +570,36 @@
           "seenDate": "Fri, 30 Oct 2026 06:02:23 GMT",
           "category": "Conflict",
           "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Haiti: critical conflict watch",
+      "location": "Haiti",
+      "coords": [
+        -72.3,
+        18.9
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Haiti is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+      "seenDate": "Sun, 08 Nov 2026 05:09:39 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "reports": [
+        {
+          "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+          "seenDate": "Sun, 08 Nov 2026 05:09:39 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -733,7 +762,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "GDELT",
@@ -742,7 +771,7 @@
       "items": 0,
       "rawItems": null,
       "error": "Unexpected token 'A', \"A maximum \"... is not valid JSON",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -751,7 +780,7 @@
       "items": 21,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "UN News Africa",
@@ -760,7 +789,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "International Crisis Group",
@@ -769,7 +798,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "BBC Africa",
@@ -778,7 +807,7 @@
       "items": 15,
       "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "BBC Middle East",
@@ -787,16 +816,16 @@
       "items": 23,
       "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 12,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -805,7 +834,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     },
     {
       "name": "BBC World News",
@@ -814,7 +843,7 @@
       "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-07T23:41:56.768Z"
+      "checkedAt": "2026-11-08T06:12:14.427Z"
     }
   ]
 }
