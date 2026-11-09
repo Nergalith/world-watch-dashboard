@@ -1,14 +1,44 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-08T22:56:02.405Z",
-  "checkedAt": "2026-11-08T22:56:02.405Z",
-  "lastLiveAt": "2026-11-08T22:56:02.405Z",
+  "generatedAt": "2026-11-09T02:42:37.533Z",
+  "checkedAt": "2026-11-09T02:42:37.533Z",
+  "lastLiveAt": "2026-11-09T02:42:37.533Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 02:23:11 +0000"
+    },
+    {
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 01:19:09 +0000"
+    },
+    {
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 00:00:34 +0000"
+    },
+    {
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 23:58:53 +0000"
+    },
+    {
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 08 Nov 2026 23:55:37 +0000"
+    },
     {
       "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
       "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
@@ -22,7 +52,7 @@
       "publishedAt": "Sun, 08 Nov 2026 21:05:07 +0000"
     },
     {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 08 Nov 2026 20:51:22 +0000"
@@ -52,28 +82,10 @@
       "publishedAt": "Sun, 08 Nov 2026 17:44:51 +0000"
     },
     {
-      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 17:11:52 +0000"
-    },
-    {
-      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 16:18:09 +0000"
-    },
-    {
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -176,18 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
       "source": "UN News",
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 9,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-08T22:56:02.405Z"
+      "checkedAt": "2026-11-09T02:42:37.533Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 8,
-      "rawItems": 28,
+      "items": 7,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-11-08T22:56:02.405Z"
+      "checkedAt": "2026-11-09T02:42:37.533Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-08T22:56:02.405Z"
+      "checkedAt": "2026-11-09T02:42:37.533Z"
     }
   ]
 }
