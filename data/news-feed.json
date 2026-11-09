@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-09T11:43:41.700Z",
-  "checkedAt": "2026-11-09T11:43:41.700Z",
-  "lastLiveAt": "2026-11-09T11:43:41.700Z",
+  "generatedAt": "2026-11-09T22:27:38.680Z",
+  "checkedAt": "2026-11-09T22:27:38.680Z",
+  "lastLiveAt": "2026-11-09T22:27:38.680Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,130 +10,148 @@
   ],
   "items": [
     {
-      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-      "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 10:50:49 +0000"
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 21:37:02 GMT"
     },
     {
-      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-      "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 10:49:02 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 21:18:25 +0000"
     },
     {
-      "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
+      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 10:35:53 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 21:04:11 +0000"
     },
     {
-      "title": "At least four killed as Russia and Ukraine trade strikes overnight",
-      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+      "title": "Cyprus rivals agree new crossings across island’s dividing line",
+      "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 10:08:45 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 20:50:20 +0000"
     },
     {
-      "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-      "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 09:56:13 +0000"
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 20:42:04 GMT"
     },
     {
-      "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-      "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 09:27:35 +0000"
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 20:20:08 GMT"
     },
     {
-      "title": "Which countries and industries emit the most greenhouse gases?",
-      "link": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 07:21:37 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 19:56:45 +0000"
     },
     {
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-      "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+      "title": "How is Gaza coping with another severe winter?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 07:07:26 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 19:47:46 +0000"
     },
     {
-      "title": "Why we disrupted Annalena Baerbock’s award speech",
-      "link": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 06:49:55 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 19:07:56 +0000"
     },
     {
-      "title": "What is next for Israel?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
+      "title": "Two security breaches near White House prompt brief lockdown",
+      "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 06:42:03 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 18:57:01 +0000"
     },
     {
-      "title": "How Israel’s separation wall compares with the Berlin Wall",
-      "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 06:32:18 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 18:48:00 +0000"
     },
     {
-      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+      "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 18:37:03 +0000"
+    },
+    {
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+      "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 18:21:38 +0000"
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 18:08:07 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 17:55:47 +0000"
+    },
+    {
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 17:46:28 +0000"
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 17:06:18 GMT"
+    },
+    {
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 16:59:46 GMT"
+    },
+    {
+      "title": "France accuses Iran of cyberattack on supermarket fridges",
+      "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 16:33:33 +0000"
+    },
+    {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+      "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 09 Nov 2026 16:18:28 +0000"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 09 Nov 2026 06:01:52 GMT"
+      "publishedAt": "Mon, 09 Nov 2026 15:46:20 GMT"
     },
     {
-      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 05:18:39 +0000"
+      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+      "source": "UN News",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "source": "UN News",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sun, 08 Nov 2026 17:51:03 GMT"
-    },
-    {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 21:36:16 GMT"
-    },
-    {
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT"
-    },
-    {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 17:58:41 GMT"
-    },
-    {
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 07 Nov 2026 12:49:36 GMT"
-    },
-    {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT"
+      "publishedAt": "Mon, 09 Nov 2026 10:41:57 GMT"
     },
     {
       "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
@@ -170,24 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "source": "UN News",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-09T11:43:41.700Z"
+      "checkedAt": "2026-11-09T22:27:38.680Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 9,
-      "rawItems": 31,
+      "items": 8,
+      "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-09T11:43:41.700Z"
+      "checkedAt": "2026-11-09T22:27:38.680Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 25,
+      "items": 26,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-09T11:43:41.700Z"
+      "checkedAt": "2026-11-09T22:27:38.680Z"
     }
   ]
 }
