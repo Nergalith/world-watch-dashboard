@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-09T02:42:37.533Z",
-  "checkedAt": "2026-11-09T02:42:37.533Z",
-  "lastLiveAt": "2026-11-09T02:42:37.533Z",
+  "generatedAt": "2026-11-09T11:43:41.700Z",
+  "checkedAt": "2026-11-09T11:43:41.700Z",
+  "lastLiveAt": "2026-11-09T11:43:41.700Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,76 +10,88 @@
   ],
   "items": [
     {
-      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+      "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 02:23:11 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 10:50:49 +0000"
     },
     {
-      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 01:19:09 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 10:49:02 +0000"
     },
     {
-      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:34 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 10:35:53 +0000"
     },
     {
-      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "title": "At least four killed as Russia and Ukraine trade strikes overnight",
+      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 23:58:53 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 10:08:45 +0000"
     },
     {
-      "title": "Mexican mayor found alive after hours-long abduction",
-      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "title": "Iran’s authorities harden domestic security controls amid US strike threats",
+      "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 23:55:37 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 09:56:13 +0000"
     },
     {
-      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 22:16:10 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 09:27:35 +0000"
     },
     {
-      "title": "Deadly sand cliff collapses on displaced families in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "title": "Which countries and industries emit the most greenhouse gases?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 21:05:07 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 07:21:37 +0000"
     },
     {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 20:51:22 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 07:07:26 +0000"
     },
     {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "title": "Why we disrupted Annalena Baerbock’s award speech",
+      "link": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 20:13:39 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 06:49:55 +0000"
     },
     {
-      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-      "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+      "title": "What is next for Israel?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 18:12:27 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 06:42:03 +0000"
     },
     {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "title": "How Israel’s separation wall compares with the Berlin Wall",
+      "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 18:01:05 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 06:32:18 +0000"
     },
     {
-      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 09 Nov 2026 06:01:52 GMT"
+    },
+    {
+      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 08 Nov 2026 17:44:51 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 05:18:39 +0000"
+    },
+    {
+      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 08 Nov 2026 17:51:03 GMT"
     },
     {
       "title": "Iran executes three men for 'armed unrest' after January protests",
@@ -176,18 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
       "source": "UN News",
       "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168731",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "source": "UN News",
-      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -198,16 +198,16 @@
       "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-09T02:42:37.533Z"
+      "checkedAt": "2026-11-09T11:43:41.700Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 7,
-      "rawItems": 27,
+      "items": 9,
+      "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-09T02:42:37.533Z"
+      "checkedAt": "2026-11-09T11:43:41.700Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-09T02:42:37.533Z"
+      "checkedAt": "2026-11-09T11:43:41.700Z"
     }
   ]
 }
