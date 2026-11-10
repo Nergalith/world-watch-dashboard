@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-10T04:39:10.042Z",
-  "checkedAt": "2026-11-10T04:39:10.042Z",
-  "lastLiveAt": "2026-11-10T04:39:10.042Z",
+  "generatedAt": "2026-11-10T13:32:25.593Z",
+  "checkedAt": "2026-11-10T13:32:25.593Z",
+  "lastLiveAt": "2026-11-10T13:32:25.593Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,64 +10,106 @@
   ],
   "items": [
     {
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 13:31:14 GMT"
+    },
+    {
+      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 12:56:41 +0000"
+    },
+    {
+      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 12:25:48 GMT"
+    },
+    {
+      "title": "Why the GCC is setting up an advanced military command base in Kuwait",
+      "link": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 12:09:54 +0000"
+    },
+    {
+      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+      "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 11:52:34 +0000"
+    },
+    {
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 11:23:18 GMT"
+    },
+    {
+      "title": "Who moves first in Iran-US diplomacy?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 11:14:16 +0000"
+    },
+    {
+      "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+      "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 10:51:02 +0000"
+    },
+    {
+      "title": "Nvidia spy scandal fuels debate over chip exports to China",
+      "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 09:42:04 +0000"
+    },
+    {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
       "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 04:09:16 GMT"
+      "publishedAt": "Tue, 10 Nov 2026 09:40:31 GMT"
     },
     {
-      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-      "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 03:17:51 +0000"
-    },
-    {
-      "title": "Newly-elected Democrats react to Hegseth impeachment bid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 03:16:44 +0000"
-    },
-    {
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 02:45:14 +0000"
-    },
-    {
-      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 01:59:59 +0000"
-    },
-    {
-      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 01:56:47 +0000"
-    },
-    {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 01:38:49 GMT"
-    },
-    {
-      "title": "France blames Iran for October supermarket cyberattack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 01:01:47 +0000"
-    },
-    {
-      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 01:00:00 +0000"
+      "publishedAt": "Tue, 10 Nov 2026 09:23:55 GMT"
     },
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 00:09:49 GMT"
+      "publishedAt": "Tue, 10 Nov 2026 09:07:00 GMT"
+    },
+    {
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 08:39:05 GMT"
+    },
+    {
+      "title": "What powers does Netanyahu have as Israel’s interim PM?",
+      "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 08:38:11 +0000"
+    },
+    {
+      "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 08:08:24 +0000"
+    },
+    {
+      "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+      "link": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 06:37:13 +0000"
+    },
+    {
+      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 05:38:53 GMT"
     },
     {
       "title": "The superpower battle over energy – and what it means for your bills",
@@ -76,76 +118,10 @@
       "publishedAt": "Tue, 10 Nov 2026 00:08:28 GMT"
     },
     {
-      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 23:55:23 +0000"
-    },
-    {
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 23:53:03 +0000"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 09 Nov 2026 23:51:22 GMT"
-    },
-    {
-      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 23:47:11 +0000"
-    },
-    {
-      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 23:15:19 +0000"
-    },
-    {
-      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-      "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 22:31:19 +0000"
-    },
-    {
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
-      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 22:10:52 +0000"
-    },
-    {
-      "title": "COP31 opens amid energy crisis as activists demand climate action",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 21:18:25 +0000"
-    },
-    {
-      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 21:04:11 +0000"
-    },
-    {
-      "title": "Cyprus rivals agree new crossings across island’s dividing line",
-      "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 09 Nov 2026 20:50:20 +0000"
-    },
-    {
       "title": "Turkey steel factory blast kills at least 17 people",
       "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 09 Nov 2026 20:42:04 GMT"
-    },
-    {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 09 Nov 2026 20:20:08 GMT"
     },
     {
       "title": "Russia's leading independent newspaper closes after eviction",
@@ -158,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Mon, 09 Nov 2026 17:06:18 GMT"
-    },
-    {
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 09 Nov 2026 16:59:46 GMT"
     },
     {
       "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
@@ -188,6 +158,36 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
       "source": "UN News",
       "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 16,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-10T04:39:10.042Z"
+      "checkedAt": "2026-11-10T13:32:25.593Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 31,
+      "items": 12,
+      "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-10T04:39:10.042Z"
+      "checkedAt": "2026-11-10T13:32:25.593Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 26,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-10T04:39:10.042Z"
+      "checkedAt": "2026-11-10T13:32:25.593Z"
     }
   ]
 }
