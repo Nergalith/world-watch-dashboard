@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-10T20:52:08.097Z",
-  "checkedAt": "2026-11-10T20:52:08.097Z",
-  "lastLiveAt": "2026-11-10T20:52:08.097Z",
+  "generatedAt": "2026-11-11T01:16:32.525Z",
+  "checkedAt": "2026-11-11T01:16:32.525Z",
+  "lastLiveAt": "2026-11-11T01:16:32.525Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,76 @@
   ],
   "items": [
     {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 11 Nov 2026 01:14:40 GMT"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 11 Nov 2026 01:01:20 GMT"
+    },
+    {
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 11 Nov 2026 00:26:02 GMT"
+    },
+    {
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 11 Nov 2026 00:19:42 GMT"
+    },
+    {
+      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 00:01:26 +0000"
+    },
+    {
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 23:38:02 +0000"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 22:52:15 GMT"
+    },
+    {
+      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 22:41:07 +0000"
+    },
+    {
+      "title": "US House Republicans block Pete Hegseth impeachment effort",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 22:36:14 +0000"
+    },
+    {
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 10 Nov 2026 22:03:50 +0000"
+    },
+    {
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 21:21:55 GMT"
+    },
+    {
       "title": "US soldier arrested in UK on suspicion of spying for Russia",
       "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Tue, 10 Nov 2026 20:41:53 +0000"
-    },
-    {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 20:40:13 GMT"
     },
     {
       "title": "Netanyahu and Eisenkot push for new government after election deadlock",
@@ -32,6 +92,12 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Tue, 10 Nov 2026 20:23:03 +0000"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 10 Nov 2026 20:20:04 GMT"
     },
     {
       "title": "F1 champion Lewis Hamilton visits Gaza border",
@@ -64,64 +130,16 @@
       "publishedAt": "Tue, 10 Nov 2026 18:35:35 GMT"
     },
     {
-      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
-      "link": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 18:07:23 +0000"
-    },
-    {
-      "title": "US petrol prices are down, but elevated inflation continues",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 17:40:35 +0000"
-    },
-    {
-      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-      "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 17:35:07 +0000"
-    },
-    {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 17:29:36 GMT"
-    },
-    {
-      "title": "Israeli president warns against repeat election in new Knesset session",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 17:16:15 +0000"
-    },
-    {
       "title": "Israel's new parliament sworn in as leaders compete to form government",
       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 10 Nov 2026 17:03:16 GMT"
     },
     {
-      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 17:02:23 +0000"
-    },
-    {
       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
       "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 10 Nov 2026 17:00:11 GMT"
-    },
-    {
-      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 10 Nov 2026 16:39:25 +0000"
-    },
-    {
-      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 15:40:43 GMT"
     },
     {
       "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
@@ -160,12 +178,6 @@
       "publishedAt": "Tue, 10 Nov 2026 09:40:31 GMT"
     },
     {
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 09:23:55 GMT"
-    },
-    {
       "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
       "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -176,18 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 10 Nov 2026 05:38:53 GMT"
-    },
-    {
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 00:08:28 GMT"
-    },
-    {
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 09 Nov 2026 20:42:04 GMT"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-10T20:52:08.097Z"
+      "checkedAt": "2026-11-11T01:16:32.525Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 16,
-      "rawItems": 35,
+      "items": 18,
+      "rawItems": 38,
       "error": "",
-      "checkedAt": "2026-11-10T20:52:08.097Z"
+      "checkedAt": "2026-11-11T01:16:32.525Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-10T20:52:08.097Z"
+      "checkedAt": "2026-11-11T01:16:32.525Z"
     }
   ]
 }
