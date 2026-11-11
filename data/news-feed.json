@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-11T16:15:35.095Z",
-  "checkedAt": "2026-11-11T16:15:35.095Z",
-  "lastLiveAt": "2026-11-11T16:15:35.095Z",
+  "generatedAt": "2026-11-11T22:48:57.486Z",
+  "checkedAt": "2026-11-11T22:48:57.486Z",
+  "lastLiveAt": "2026-11-11T22:48:57.486Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,58 +10,112 @@
   ],
   "items": [
     {
-      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 15:48:39 +0000"
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
     },
     {
-      "title": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
-      "link": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 15:47:37 +0000"
+      "publishedAt": "Wed, 11 Nov 2026 21:03:40 +0000"
     },
     {
-      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-      "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 15:40:17 +0000"
+      "publishedAt": "Wed, 11 Nov 2026 20:45:30 +0000"
     },
     {
-      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+      "title": "Gaza goalkeeper killed in Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 15:33:38 +0000"
+      "publishedAt": "Wed, 11 Nov 2026 20:44:34 +0000"
+    },
+    {
+      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+      "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 20:39:50 +0000"
+    },
+    {
+      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 20:33:35 +0000"
+    },
+    {
+      "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
+      "link": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 20:24:51 +0000"
+    },
+    {
+      "title": "First Palestinian American elected in New York talks to Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/first-palestinian-american-elected-in-new-york-talks-to-al-jazeera?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 20:24:01 +0000"
+    },
+    {
+      "title": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/how-much-did-pro-israel-groups-spend-against-hasan-piker-at-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 19:51:58 +0000"
+    },
+    {
+      "title": "More than one million people in Lebanon face acute food shortages, UN says",
+      "link": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 18:43:40 +0000"
+    },
+    {
+      "title": "‘Malign actors’: Ireland fears Russia could threaten undersea cables",
+      "link": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 18:19:09 +0000"
+    },
+    {
+      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+      "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 18:13:10 +0000"
     },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 15:05:11 GMT"
+      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT"
+    },
+    {
+      "title": "Portugal cancels more than 300 flights, shuts schools due to Storm Charles",
+      "link": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 17:46:40 +0000"
+    },
+    {
+      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
+      "link": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 11 Nov 2026 17:38:03 +0000"
     },
     {
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 14:51:26 GMT"
+      "publishedAt": "Wed, 11 Nov 2026 16:59:34 GMT"
     },
     {
-      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+      "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 14:10:47 +0000"
+      "publishedAt": "Wed, 11 Nov 2026 16:58:32 +0000"
     },
     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 14:06:27 GMT"
-    },
-    {
-      "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-      "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 14:04:17 +0000"
+      "publishedAt": "Wed, 11 Nov 2026 16:45:11 GMT"
     },
     {
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
@@ -70,40 +124,10 @@
       "publishedAt": "Wed, 11 Nov 2026 13:24:29 GMT"
     },
     {
-      "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-      "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 13:16:30 +0000"
-    },
-    {
-      "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-      "link": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 12:48:21 +0000"
-    },
-    {
-      "title": "US soldier arrested for Russia spying: What we know",
-      "link": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 12:23:22 +0000"
-    },
-    {
       "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 11 Nov 2026 12:14:12 GMT"
-    },
-    {
-      "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
-      "link": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 12:13:52 +0000"
-    },
-    {
-      "title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 12:05:51 +0000"
     },
     {
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
@@ -118,22 +142,10 @@
       "publishedAt": "Wed, 11 Nov 2026 11:34:50 GMT"
     },
     {
-      "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 10:57:39 +0000"
-    },
-    {
       "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
       "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 11 Nov 2026 09:28:36 GMT"
-    },
-    {
-      "title": "US warns Madagascar over growing military ties with Russia",
-      "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 07:30:15 GMT"
     },
     {
       "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
@@ -176,18 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 10 Nov 2026 05:38:53 GMT"
-    },
-    {
-      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-11T16:15:35.095Z"
+      "checkedAt": "2026-11-11T22:48:57.486Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-11T16:15:35.095Z"
+      "checkedAt": "2026-11-11T22:48:57.486Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-11T16:15:35.095Z"
+      "checkedAt": "2026-11-11T22:48:57.486Z"
     }
   ]
 }
