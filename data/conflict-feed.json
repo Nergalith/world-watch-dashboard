@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-11T22:48:57.486Z",
-  "checkedAt": "2026-11-11T22:48:57.486Z",
-  "lastLiveAt": "2026-11-11T22:48:57.486Z",
+  "generatedAt": "2026-11-12T03:51:42.151Z",
+  "checkedAt": "2026-11-12T03:51:42.151Z",
+  "lastLiveAt": "2026-11-12T03:51:42.151Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 121,
+  "liveItemCount": 117,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,14 +13,14 @@
         34.45,
         31.45
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 20 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-      "seenDate": "Wed, 11 Nov 2026 20:44:34 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 19 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+      "seenDate": "Thu, 12 Nov 2026 01:20:55 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 20,
+      "reportCount": 19,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -28,6 +28,30 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+          "seenDate": "Thu, 12 Nov 2026 01:20:55 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+          "seenDate": "Thu, 12 Nov 2026 00:00:44 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+          "seenDate": "Wed, 11 Nov 2026 22:55:37 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
         {
           "title": "Gaza goalkeeper killed in Israeli attack",
           "sourceName": "Al Jazeera",
@@ -37,102 +61,12 @@
           "severity": "Critical"
         },
         {
-          "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 20:33:35 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 20:24:51 +0000",
+          "title": "Israel's new parliament sworn in as leaders compete to form government",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 10 Nov 2026 17:03:16 GMT",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "First Palestinian American elected in New York talks to Al Jazeera",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/first-palestinian-american-elected-in-new-york-talks-to-al-jazeera?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 20:24:01 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/how-much-did-pro-israel-groups-spend-against-hasan-piker-at-midterms?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 19:51:58 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 17 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
-      "seenDate": "Wed, 11 Nov 2026 18:19:09 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
-      "reportCount": 17,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "‘Malign actors’: Ireland fears Russia could threaten undersea cables",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:19:09 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:13:10 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:04:58 GMT",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 16:58:32 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "US warns Madagascar over growing military ties with Russia",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 11 Nov 2026 07:30:15 GMT",
-          "category": "Military Hotspots",
-          "severity": "Critical"
         }
       ]
     },
@@ -198,6 +132,136 @@
           "seenDate": "Fri, 06 Nov 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 14 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 11 Nov 2026 18:04:58 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 4,
+      "reportCount": 14,
+      "confidence": "High Signal",
+      "sources": [
+        "BBC Africa",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 11 Nov 2026 18:04:58 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "US warns Madagascar over growing military ties with Russia",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 11 Nov 2026 07:30:15 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 10 Nov 2026 18:35:35 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 10 Nov 2026 17:00:11 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+          "seenDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "title": "Iran: high-signal conflict watch",
+      "location": "Iran",
+      "coords": [
+        53.7,
+        32.4
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Iran is active on the public watch board with 13 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+      "seenDate": "Wed, 11 Nov 2026 22:34:43 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 13,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Middle East",
+        "BBC World News",
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+          "seenDate": "Wed, 11 Nov 2026 22:34:43 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+          "seenDate": "Wed, 11 Nov 2026 21:03:40 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Oil production nears pre-Iran war levels, OPEC says",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+          "seenDate": "Wed, 11 Nov 2026 20:45:30 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 11 Nov 2026 16:59:34 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 11 Nov 2026 16:45:11 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -329,71 +393,6 @@
       ]
     },
     {
-      "title": "Iran: high-signal conflict watch",
-      "location": "Iran",
-      "coords": [
-        53.7,
-        32.4
-      ],
-      "category": "Military Hotspots",
-      "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-      "seenDate": "Wed, 11 Nov 2026 21:03:40 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 12,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Middle East",
-        "BBC World News",
-        "International Crisis Group"
-      ],
-      "reports": [
-        {
-          "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 21:03:40 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Oil production nears pre-Iran war levels, OPEC says",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 20:45:30 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 11 Nov 2026 16:59:34 GMT",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 11 Nov 2026 16:45:11 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Tue, 10 Nov 2026 13:45:13 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Taiwan Strait: high-signal conflict watch",
       "location": "Taiwan Strait",
       "coords": [
@@ -402,43 +401,18 @@
       ],
       "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 7 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-      "seenDate": "Wed, 11 Nov 2026 20:39:50 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 7,
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sun, 08 Nov 2026 07:30:01 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 2,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "International Crisis Group"
       ],
       "reports": [
-        {
-          "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 20:39:50 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Will Sheikh Hasina return to Bangladesh?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:43:21 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Zohran Mamdani’s influence grows as Democrats eye 2028 strategies",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/zohran-mamdanis-influence-grows-as-democrats-eye-2028-strategies?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:37:54 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
         {
           "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
           "sourceName": "BBC Africa",
@@ -454,6 +428,22 @@
           "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
           "category": "Infrastructure",
           "severity": "High"
+        },
+        {
+          "title": "The Documentary Podcast",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Don’t Go Backward on China Policy",
+          "sourceName": "International Crisis Group",
+          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
+          "category": "Infrastructure",
+          "severity": "Critical"
         }
       ]
     },
@@ -467,8 +457,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Lebanon / Israel Border is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
-      "seenDate": "Wed, 11 Nov 2026 18:43:40 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "seenDate": "Thu, 12 Nov 2026 00:06:50 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
       "reportCount": 3,
@@ -479,10 +469,10 @@
       ],
       "reports": [
         {
-          "title": "More than one million people in Lebanon face acute food shortages, UN says",
+          "title": "US election results could be positive for Lebanon, Hezbollah chief says",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
-          "seenDate": "Wed, 11 Nov 2026 18:43:40 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+          "seenDate": "Thu, 12 Nov 2026 00:06:50 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -620,18 +610,26 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Sahel is active on the public watch board with 5 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-      "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
+      "summary": "Sahel is active on the public watch board with 6 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Thu, 12 Nov 2026 00:36:11 GMT",
+      "sourceName": "BBC Africa",
       "sourceCount": 2,
-      "reportCount": 5,
+      "reportCount": 6,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 12 Nov 2026 00:36:11 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
           "sourceName": "UN News - Global perspective Human stories",
@@ -661,14 +659,6 @@
           "sourceName": "UN News - Global perspective Human stories",
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168637",
           "seenDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "'Knowledge is power' - Awoniyi",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 02 Oct 2026 12:48:56 GMT",
           "category": "Infrastructure",
           "severity": "High"
         }
@@ -778,7 +768,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "GDELT",
@@ -787,7 +777,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -796,7 +786,7 @@
       "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "UN News Africa",
@@ -805,7 +795,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "International Crisis Group",
@@ -814,16 +804,16 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
-      "items": 17,
-      "rawItems": 32,
+      "items": 18,
+      "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "BBC Middle East",
@@ -832,16 +822,16 @@
       "items": 25,
       "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 14,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -850,16 +840,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 8,
-      "rawItems": 25,
+      "items": 9,
+      "rawItems": 29,
       "error": "",
-      "checkedAt": "2026-11-11T22:48:57.486Z"
+      "checkedAt": "2026-11-12T03:51:42.151Z"
     }
   ]
 }
