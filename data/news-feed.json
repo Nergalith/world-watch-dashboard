@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-12T03:51:42.151Z",
-  "checkedAt": "2026-11-12T03:51:42.151Z",
-  "lastLiveAt": "2026-11-12T03:51:42.151Z",
+  "generatedAt": "2026-11-12T12:50:55.728Z",
+  "checkedAt": "2026-11-12T12:50:55.728Z",
+  "lastLiveAt": "2026-11-12T12:50:55.728Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,58 +10,76 @@
   ],
   "items": [
     {
-      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 01:20:55 +0000"
-    },
-    {
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 00:36:11 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 12:26:01 GMT"
     },
     {
-      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 00:18:46 +0000"
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 12 Nov 2026 12:14:51 GMT"
     },
     {
-      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
+      "link": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 00:06:50 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 11:59:28 +0000"
     },
     {
-      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+      "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 00:00:44 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 10:49:41 +0000"
     },
     {
-      "title": "Barcelona erupts in violence after general strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 23:50:01 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 09:38:00 +0000"
     },
     {
-      "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-      "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 23:05:34 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 09:01:24 +0000"
     },
     {
-      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+      "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+      "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 22:55:37 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 08:35:20 +0000"
     },
     {
-      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-      "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 22:34:43 +0000"
+      "publishedAt": "Thu, 12 Nov 2026 08:34:45 +0000"
+    },
+    {
+      "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
+      "link": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 08:01:29 +0000"
+    },
+    {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 12 Nov 2026 07:59:33 GMT"
+    },
+    {
+      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 07:38:05 +0000"
+    },
+    {
+      "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
+      "link": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 06:37:06 +0000"
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -70,34 +88,10 @@
       "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
     },
     {
-      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-      "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 21:03:40 +0000"
-    },
-    {
-      "title": "Oil production nears pre-Iran war levels, OPEC says",
-      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 20:45:30 +0000"
-    },
-    {
-      "title": "Gaza goalkeeper killed in Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 11 Nov 2026 20:44:34 +0000"
-    },
-    {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 16:59:34 GMT"
+      "publishedAt": "Wed, 11 Nov 2026 21:43:35 GMT"
     },
     {
       "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
@@ -112,22 +106,10 @@
       "publishedAt": "Wed, 11 Nov 2026 13:24:29 GMT"
     },
     {
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 12:14:12 GMT"
-    },
-    {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 11:47:22 GMT"
-    },
-    {
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 11:34:50 GMT"
+      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "source": "UN News",
+      "publishedAt": "Wed, 11 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
@@ -136,28 +118,10 @@
       "publishedAt": "Wed, 11 Nov 2026 09:28:36 GMT"
     },
     {
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 00:26:02 GMT"
-    },
-    {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 00:19:42 GMT"
-    },
-    {
       "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
       "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 10 Nov 2026 18:35:35 GMT"
-    },
-    {
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 10 Nov 2026 17:00:11 GMT"
     },
     {
       "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
@@ -188,6 +152,42 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
       "source": "UN News",
       "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "source": "UN News",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-12T03:51:42.151Z"
+      "checkedAt": "2026-11-12T12:50:55.728Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 9,
       "rawItems": 29,
       "error": "",
-      "checkedAt": "2026-11-12T03:51:42.151Z"
+      "checkedAt": "2026-11-12T12:50:55.728Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-12T03:51:42.151Z"
+      "checkedAt": "2026-11-12T12:50:55.728Z"
     }
   ]
 }
