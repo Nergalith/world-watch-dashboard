@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-13T01:53:31.626Z",
-  "checkedAt": "2026-11-13T01:53:31.626Z",
-  "lastLiveAt": "2026-11-13T01:53:31.626Z",
+  "generatedAt": "2026-11-13T09:39:10.687Z",
+  "checkedAt": "2026-11-13T09:39:10.687Z",
+  "lastLiveAt": "2026-11-13T09:39:10.687Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 116,
+  "liveItemCount": 117,
   "events": [
     {
       "title": "Sudan: high-signal conflict watch",
@@ -13,12 +13,12 @@
         30.2,
         15.7
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 16 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 11 Nov 2026 09:28:36 GMT",
-      "sourceName": "BBC Africa",
+      "summary": "Sudan is active on the public watch board with 16 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "seenDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
       "sourceCount": 3,
       "reportCount": 16,
       "confidence": "High Signal",
@@ -28,6 +28,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+          "seenDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
           "sourceName": "BBC Africa",
@@ -59,14 +67,6 @@
           "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
           "category": "Uprisings/Protests",
           "severity": "Critical"
-        },
-        {
-          "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-          "seenDate": "Fri, 06 Nov 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         }
       ]
     },
@@ -77,11 +77,11 @@
         34.45,
         31.45
       ],
-      "category": "Conflict",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 15 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
-      "seenDate": "Thu, 12 Nov 2026 19:56:26 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 15 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 03:11:43 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 15,
@@ -93,19 +93,11 @@
       ],
       "reports": [
         {
-          "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+          "title": "Gaza surgeon films aftermath of Israeli strike",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 19:56:26 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 18:03:02 +0000",
-          "category": "Infrastructure",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 03:11:43 +0000",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         },
         {
@@ -113,6 +105,14 @@
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Thu, 12 Nov 2026 16:54:12 GMT",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
+        {
+          "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+          "seenDate": "Thu, 12 Nov 2026 12:00:00 +0000",
           "category": "Uprisings/Protests",
           "severity": "Critical"
         },
@@ -141,38 +141,21 @@
         43.33,
         12.58
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 14 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-      "seenDate": "Fri, 13 Nov 2026 00:00:26 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 14,
+      "summary": "Red Sea / Yemen is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+      "seenDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-          "seenDate": "Fri, 13 Nov 2026 00:00:26 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 23:52:38 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
         {
           "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
           "sourceName": "UN News - Global perspective Human stories",
@@ -196,6 +179,22 @@
           "seenDate": "Sun, 08 Nov 2026 04:03:12 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
+        },
+        {
+          "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+          "seenDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+          "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -208,12 +207,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 14 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
-      "seenDate": "Thu, 12 Nov 2026 23:18:50 +0000",
+      "summary": "Ukraine is active on the public watch board with 12 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 04:12:01 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 14,
+      "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -224,28 +223,20 @@
       ],
       "reports": [
         {
-          "title": "Russian court jails rights lawyer for 12 years on treason charge",
+          "title": "US envoys shuttle between Putin and Zelenskyy",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 23:18:50 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 04:12:01 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
           "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Thu, 12 Nov 2026 21:00:42 GMT",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 13 Nov 2026 02:01:35 GMT",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 20:12:21 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
         },
         {
           "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -262,6 +253,14 @@
           "seenDate": "Thu, 12 Nov 2026 13:02:46 GMT",
           "category": "Military Hotspots",
           "severity": "Critical"
+        },
+        {
+          "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+          "seenDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
         }
       ]
     },
@@ -275,8 +274,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Iran is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
-      "seenDate": "Fri, 13 Nov 2026 01:43:17 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 04:48:40 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 12,
@@ -288,18 +287,18 @@
       ],
       "reports": [
         {
-          "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+          "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
-          "seenDate": "Fri, 13 Nov 2026 01:43:17 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 04:48:40 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Iranian men guilty of spying on British journalists",
+          "title": "Iran says it targeted US radar site in Bahrain",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 19:38:33 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 03:17:27 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -325,6 +324,71 @@
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 11 Nov 2026 16:45:11 GMT",
           "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Strait: high-signal conflict watch",
+      "location": "Taiwan Strait",
+      "coords": [
+        121,
+        24
+      ],
+      "category": "Infrastructure",
+      "severity": "Critical",
+      "summary": "Taiwan Strait is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 09:11:37 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 10,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "International Crisis Group"
+      ],
+      "reports": [
+        {
+          "title": "Pope Leo XIV warns on pressures facing modern families",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 09:11:37 +0000",
+          "category": "Infrastructure",
+          "severity": "Critical"
+        },
+        {
+          "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 07:59:31 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 07:39:18 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 05:38:36 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Australian footballers will not be charged after hotel incident, police say",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 13 Nov 2026 03:02:54 GMT",
+          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -393,70 +457,6 @@
       ]
     },
     {
-      "title": "Taiwan Strait: high-signal conflict watch",
-      "location": "Taiwan Strait",
-      "coords": [
-        121,
-        24
-      ],
-      "category": "Infrastructure",
-      "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 13 Nov 2026 01:03:59 GMT",
-      "sourceName": "BBC World News",
-      "sourceCount": 3,
-      "reportCount": 5,
-      "confidence": "High Signal",
-      "sources": [
-        "BBC Africa",
-        "BBC World News",
-        "International Crisis Group"
-      ],
-      "reports": [
-        {
-          "title": "Australian footballers will not be charged after hotel incident, police say",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 13 Nov 2026 01:03:59 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 08 Nov 2026 07:30:01 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 17:33:02 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "The Documentary Podcast",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/sounds/play/p0pjwj3t?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 30 Oct 2026 01:30:00 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Don’t Go Backward on China Policy",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
-          "seenDate": "Thu, 29 Oct 2026 14:33:59 +0000",
-          "category": "Infrastructure",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Lebanon / Israel Border: high-signal conflict watch",
       "location": "Lebanon / Israel Border",
       "coords": [
@@ -466,8 +466,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Lebanon / Israel Border is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
-      "seenDate": "Fri, 13 Nov 2026 01:44:55 +0000",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 04:51:56 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
       "reportCount": 4,
@@ -478,10 +478,10 @@
       ],
       "reports": [
         {
-          "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+          "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
-          "seenDate": "Fri, 13 Nov 2026 01:44:55 +0000",
+          "sourceUrl": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 04:51:56 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -636,18 +636,27 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Sahel is active on the public watch board with 6 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Thu, 12 Nov 2026 07:30:44 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 2,
-      "reportCount": 6,
+      "summary": "Sahel is active on the public watch board with 7 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+      "seenDate": "Fri, 13 Nov 2026 05:23:31 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 7,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+          "seenDate": "Fri, 13 Nov 2026 05:23:31 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Can Nigeria's president regain voters' trust after painful first term?",
           "sourceName": "BBC Africa",
@@ -678,14 +687,6 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 06 Nov 2026 11:04:00 GMT",
           "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "WHO supports Nigeria after first Ebola case confirmed",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-          "seenDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -785,31 +786,31 @@
       ]
     },
     {
-      "title": "Venezuela / Guyana: public conflict signal",
-      "location": "Venezuela / Guyana",
+      "title": "Korean Peninsula: public conflict signal",
+      "location": "Korean Peninsula",
       "coords": [
-        -61.7,
-        6.8
+        127.5,
+        38.4
       ],
-      "category": "Infrastructure",
+      "category": "Conflict",
       "severity": "High",
-      "summary": "Venezuela / Guyana is active on the public watch board with 1 report across 1 source. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-      "seenDate": "Thu, 12 Nov 2026 20:49:36 +0000",
-      "sourceName": "Al Jazeera",
+      "summary": "Korean Peninsula is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 13 Nov 2026 02:48:29 GMT",
+      "sourceName": "BBC World News",
       "sourceCount": 1,
       "reportCount": 1,
       "confidence": "Single Source",
       "sources": [
-        "Al Jazeera"
+        "BBC World News"
       ],
       "reports": [
         {
-          "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-          "seenDate": "Thu, 12 Nov 2026 20:49:36 +0000",
-          "category": "Infrastructure",
+          "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 13 Nov 2026 02:48:29 GMT",
+          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -824,7 +825,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "GDELT",
@@ -832,8 +833,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "error": "fetch failed",
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -842,16 +843,16 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "UN News Africa",
       "kind": "conflict",
       "status": "up",
-      "items": 22,
+      "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "International Crisis Group",
@@ -860,16 +861,16 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
       "items": 16,
-      "rawItems": 32,
+      "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "BBC Middle East",
@@ -878,7 +879,7 @@
       "items": 24,
       "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "Al Jazeera",
@@ -887,7 +888,7 @@
       "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -896,7 +897,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     },
     {
       "name": "BBC World News",
@@ -905,7 +906,7 @@
       "items": 9,
       "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-13T01:53:31.626Z"
+      "checkedAt": "2026-11-13T09:39:10.687Z"
     }
   ]
 }
