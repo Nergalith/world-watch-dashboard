@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-13T09:39:10.687Z",
-  "checkedAt": "2026-11-13T09:39:10.687Z",
-  "lastLiveAt": "2026-11-13T09:39:10.687Z",
+  "generatedAt": "2026-11-13T17:49:14.006Z",
+  "checkedAt": "2026-11-13T17:49:14.006Z",
+  "lastLiveAt": "2026-11-13T17:49:14.006Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,64 +10,142 @@
   ],
   "items": [
     {
-      "title": "Microsoft hit by global outages: What happened and why?",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 09:30:55 +0000"
-    },
-    {
-      "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
-      "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 07:59:31 +0000"
-    },
-    {
-      "title": "The Gulf must build security that can outlast this war",
-      "link": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 07:08:01 +0000"
-    },
-    {
-      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-      "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 05:23:31 +0000"
-    },
-    {
-      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-      "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 04:51:56 +0000"
-    },
-    {
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 04:48:40 +0000"
-    },
-    {
-      "title": "US envoys shuttle between Putin and Zelenskyy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 04:12:01 +0000"
-    },
-    {
-      "title": "Iran says it targeted US radar site in Bahrain",
-      "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 03:17:27 +0000"
-    },
-    {
-      "title": "Gaza surgeon films aftermath of Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 03:11:43 +0000"
-    },
-    {
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Fri, 13 Nov 2026 02:01:35 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 17:12:46 GMT"
+    },
+    {
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+      "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 16:44:56 +0000"
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 16:34:24 +0000"
+    },
+    {
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 16:22:33 +0000"
+    },
+    {
+      "title": "Turkiye and Qatar sign mutual defence agreement",
+      "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 15:49:51 +0000"
+    },
+    {
+      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 15:43:39 +0000"
+    },
+    {
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 15:40:08 GMT"
+    },
+    {
+      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+      "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 15:02:16 +0000"
+    },
+    {
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 14:16:20 +0000"
+    },
+    {
+      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+      "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 14:15:52 +0000"
+    },
+    {
+      "title": "China warns against fresh US chip curbs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 13:42:49 +0000"
+    },
+    {
+      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 13:19:26 +0000"
+    },
+    {
+      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+      "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 12:57:08 +0000"
+    },
+    {
+      "title": "You haven’t got mail: Global Microsoft outage disrupts services",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 12:40:11 +0000"
+    },
+    {
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 12:28:28 GMT"
+    },
+    {
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 12:22:30 GMT"
+    },
+    {
+      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+      "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 12:06:56 +0000"
+    },
+    {
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "source": "UN News",
+      "publishedAt": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 11:59:34 +0000"
+    },
+    {
+      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 11:51:57 +0000"
+    },
+    {
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT"
+    },
+    {
+      "title": "Microsoft outage updates: Outlook, Teams recover as disruptions continue",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 11:18:01 +0000"
     },
     {
       "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -82,28 +160,10 @@
       "publishedAt": "Thu, 12 Nov 2026 23:42:52 GMT"
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT"
-    },
-    {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 12 Nov 2026 18:47:35 GMT"
-    },
-    {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 16:54:12 GMT"
-    },
-    {
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 13:58:49 GMT"
     },
     {
       "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -124,70 +184,10 @@
       "publishedAt": "Thu, 12 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
-    },
-    {
       "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
       "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 11 Nov 2026 21:43:35 GMT"
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 16:45:11 GMT"
-    },
-    {
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 13:24:29 GMT"
-    },
-    {
-      "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
-      "source": "UN News",
-      "publishedAt": "Wed, 11 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 09:28:36 GMT"
-    },
-    {
-      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-      "source": "UN News",
-      "publishedAt": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-      "source": "UN News",
-      "publishedAt": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "source": "UN News",
-      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 9,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-13T09:39:10.687Z"
+      "checkedAt": "2026-11-13T17:49:14.006Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 13,
-      "rawItems": 33,
+      "items": 12,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-13T09:39:10.687Z"
+      "checkedAt": "2026-11-13T17:49:14.006Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-13T09:39:10.687Z"
+      "checkedAt": "2026-11-13T17:49:14.006Z"
     }
   ]
 }
