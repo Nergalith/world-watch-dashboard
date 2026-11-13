@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-12T20:52:46.000Z",
-  "checkedAt": "2026-11-12T20:52:46.000Z",
-  "lastLiveAt": "2026-11-12T20:52:46.000Z",
+  "generatedAt": "2026-11-13T01:53:31.626Z",
+  "checkedAt": "2026-11-13T01:53:31.626Z",
+  "lastLiveAt": "2026-11-13T01:53:31.626Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,64 @@
   ],
   "items": [
     {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+      "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 01:44:55 +0000"
+    },
+    {
+      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 01:43:17 +0000"
+    },
+    {
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 13 Nov 2026 00:20:24 GMT"
+    },
+    {
+      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 00:00:26 +0000"
+    },
+    {
+      "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+      "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 23:52:38 +0000"
+    },
+    {
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 12 Nov 2026 23:42:52 GMT"
+    },
+    {
+      "title": "Russian court jails rights lawyer for 12 years on treason charge",
+      "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 23:18:50 +0000"
+    },
+    {
+      "title": "Microsoft outage hits tens of thousands of users",
+      "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 21:03:09 +0000"
+    },
+    {
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 20:37:36 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 21:00:42 GMT"
+    },
+    {
+      "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 12 Nov 2026 20:49:36 +0000"
     },
     {
       "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
@@ -58,40 +112,10 @@
       "publishedAt": "Thu, 12 Nov 2026 18:03:02 +0000"
     },
     {
-      "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-      "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 17:18:13 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 16:55:10 +0000"
-    },
-    {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 12 Nov 2026 16:54:12 GMT"
-    },
-    {
-      "title": "Prominent Israeli settler denied entry into France",
-      "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 16:44:49 +0000"
-    },
-    {
-      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 16:07:16 +0000"
-    },
-    {
-      "title": "UK court finds two Iranian men guilty of spying for Iran",
-      "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 12 Nov 2026 15:15:48 +0000"
     },
     {
       "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
@@ -164,30 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
       "source": "UN News",
       "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "source": "UN News",
-      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "source": "UN News",
-      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "source": "UN News",
-      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 10,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-12T20:52:46.000Z"
+      "checkedAt": "2026-11-13T01:53:31.626Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 11,
-      "rawItems": 29,
+      "items": 13,
+      "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-12T20:52:46.000Z"
+      "checkedAt": "2026-11-13T01:53:31.626Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-12T20:52:46.000Z"
+      "checkedAt": "2026-11-13T01:53:31.626Z"
     }
   ]
 }
