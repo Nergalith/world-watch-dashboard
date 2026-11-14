@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-14T14:14:10.523Z",
-  "checkedAt": "2026-11-14T14:14:10.523Z",
-  "lastLiveAt": "2026-11-14T14:14:10.523Z",
+  "generatedAt": "2026-11-14T19:14:31.182Z",
+  "checkedAt": "2026-11-14T19:14:31.182Z",
+  "lastLiveAt": "2026-11-14T19:14:31.182Z",
   "statusLabel": "Live public feeds",
   "liveItemCount": 113,
   "events": [
@@ -16,8 +16,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Israel / Gaza is active on the public watch board with 17 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-      "seenDate": "Sat, 14 Nov 2026 09:43:27 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "seenDate": "Sat, 14 Nov 2026 15:57:22 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 17,
@@ -29,20 +29,20 @@
       ],
       "reports": [
         {
-          "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+          "title": "EU calls for immediate humanitarian access to Gaza",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 09:43:27 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 15:57:22 +0000",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 07:46:36 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 15:36:37 +0000",
+          "category": "Conflict",
+          "severity": "High"
         },
         {
           "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
@@ -79,12 +79,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 17 reports across 4 sources. Category is currently assessed as Conflict.",
+      "summary": "Sudan is active on the public watch board with 16 reports across 4 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
       "seenDate": "Sat, 14 Nov 2026 12:49:17 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 17,
+      "reportCount": 16,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -98,14 +98,6 @@
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
           "seenDate": "Sat, 14 Nov 2026 12:49:17 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "South Sudan postpones first-ever national elections until February",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 10:30:32 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -132,6 +124,14 @@
           "seenDate": "Wed, 11 Nov 2026 00:19:42 GMT",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+          "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -145,8 +145,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Ukraine is active on the public watch board with 16 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-      "seenDate": "Sat, 14 Nov 2026 12:57:36 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "seenDate": "Sat, 14 Nov 2026 16:53:39 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
       "reportCount": 16,
@@ -159,6 +159,22 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 16:53:39 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 14 Nov 2026 15:15:57 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
           "sourceName": "Al Jazeera",
@@ -182,22 +198,6 @@
           "seenDate": "Sat, 14 Nov 2026 11:43:06 +0000",
           "category": "Conflict",
           "severity": "Critical"
-        },
-        {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 14 Nov 2026 11:41:20 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 11:00:39 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
         }
       ]
     },
@@ -210,12 +210,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 13 reports across 3 sources. Category is currently assessed as Conflict.",
+      "summary": "Iran is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Conflict.",
       "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
       "seenDate": "Sat, 14 Nov 2026 13:24:44 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
-      "reportCount": 13,
+      "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -228,14 +228,6 @@
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
           "seenDate": "Sat, 14 Nov 2026 13:24:44 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 09:19:43 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -262,6 +254,14 @@
           "seenDate": "Wed, 11 Nov 2026 16:59:34 GMT",
           "category": "Conflict",
           "severity": "Critical"
+        },
+        {
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 11 Nov 2026 16:45:11 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -401,12 +401,12 @@
       ],
       "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Infrastructure.",
+      "summary": "Taiwan Strait is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Infrastructure.",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sat, 14 Nov 2026 05:52:31 GMT",
+      "seenDate": "Sat, 14 Nov 2026 15:53:55 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 3,
-      "reportCount": 5,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
         "BBC Africa",
@@ -418,15 +418,7 @@
           "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 14 Nov 2026 05:52:31 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 13 Nov 2026 19:53:57 GMT",
+          "seenDate": "Sat, 14 Nov 2026 15:53:55 GMT",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -511,18 +503,27 @@
       ],
       "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Myanmar is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "seenDate": "Tue, 03 Nov 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 2,
+      "summary": "Myanmar is active on the public watch board with 3 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "seenDate": "Sat, 14 Nov 2026 16:13:43 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 3,
       "confidence": "Corroborated",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 16:13:43 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
         {
           "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
           "sourceName": "UN News - Global perspective Human stories",
@@ -608,11 +609,11 @@
         2.5,
         15.6
       ],
-      "category": "Conflict",
+      "category": "Infrastructure",
       "severity": "High",
-      "summary": "Sahel is active on the public watch board with 8 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Fri, 13 Nov 2026 22:11:27 GMT",
+      "summary": "Sahel is active on the public watch board with 8 reports across 2 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 14 Nov 2026 15:42:54 GMT",
       "sourceName": "BBC Africa",
       "sourceCount": 2,
       "reportCount": 8,
@@ -623,18 +624,18 @@
       ],
       "reports": [
         {
+          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 14 Nov 2026 15:42:54 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
           "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
           "sourceName": "BBC Africa",
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
           "seenDate": "Fri, 13 Nov 2026 22:11:27 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Nigerian university in mourning after four students die at post-exam party",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 13 Nov 2026 11:37:08 GMT",
           "category": "Conflict",
           "severity": "High"
         },
@@ -757,6 +758,36 @@
           "severity": "High"
         }
       ]
+    },
+    {
+      "title": "South China Sea: public conflict signal",
+      "location": "South China Sea",
+      "coords": [
+        114.2,
+        12.2
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "South China Sea is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 14 Nov 2026 18:17:58 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 1,
+      "reportCount": 1,
+      "confidence": "Single Source",
+      "sources": [
+        "BBC World News"
+      ],
+      "reports": [
+        {
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 14 Nov 2026 18:17:58 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
     }
   ],
   "source": "UN News Peace and Security, UN News Africa, International Crisis Group, BBC Africa, BBC Middle East, Al Jazeera, BBC World News",
@@ -768,7 +799,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "GDELT",
@@ -776,8 +807,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "HTTP 429",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "error": "fetch failed",
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -786,7 +817,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "UN News Africa",
@@ -795,7 +826,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "International Crisis Group",
@@ -804,7 +835,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "BBC Africa",
@@ -813,7 +844,7 @@
       "items": 16,
       "rawItems": 29,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "BBC Middle East",
@@ -822,7 +853,7 @@
       "items": 23,
       "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "Al Jazeera",
@@ -831,7 +862,7 @@
       "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -840,16 +871,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
       "items": 6,
-      "rawItems": 27,
+      "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-14T14:14:10.523Z"
+      "checkedAt": "2026-11-14T19:14:31.182Z"
     }
   ]
 }
