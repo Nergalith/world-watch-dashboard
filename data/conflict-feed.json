@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-14T19:14:31.182Z",
-  "checkedAt": "2026-11-14T19:14:31.182Z",
-  "lastLiveAt": "2026-11-14T19:14:31.182Z",
+  "generatedAt": "2026-11-14T23:04:44.888Z",
+  "checkedAt": "2026-11-14T23:04:44.888Z",
+  "lastLiveAt": "2026-11-14T23:04:44.888Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 113,
+  "liveItemCount": 110,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -79,28 +79,19 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 16 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-      "seenDate": "Sat, 14 Nov 2026 12:49:17 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 4,
-      "reportCount": 16,
+      "summary": "Sudan is active on the public watch board with 15 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "seenDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 3,
+      "reportCount": 15,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "International Crisis Group",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 12:49:17 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
           "sourceName": "UN News - Global perspective Human stories",
@@ -132,6 +123,14 @@
           "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+          "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
         }
       ]
     },
@@ -144,12 +143,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 16 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "seenDate": "Sat, 14 Nov 2026 16:53:39 +0000",
-      "sourceName": "Al Jazeera",
+      "summary": "Ukraine is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sat, 14 Nov 2026 22:37:25 GMT",
+      "sourceName": "BBC World News",
       "sourceCount": 5,
-      "reportCount": 16,
+      "reportCount": 13,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -160,6 +159,22 @@
       ],
       "reports": [
         {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sat, 14 Nov 2026 22:37:25 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 21:10:26 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
@@ -168,35 +183,19 @@
           "severity": "High"
         },
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
           "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 14 Nov 2026 15:15:57 GMT",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 13 Nov 2026 16:40:31 GMT",
           "category": "Conflict",
           "severity": "High"
         },
         {
-          "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 12:57:36 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 12:14:14 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 11:43:06 +0000",
-          "category": "Conflict",
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 12 Nov 2026 13:02:46 GMT",
+          "category": "Military Hotspots",
           "severity": "Critical"
         }
       ]
@@ -210,27 +209,18 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-      "seenDate": "Sat, 14 Nov 2026 13:24:44 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 12,
+      "summary": "Iran is active on the public watch board with 11 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Fri, 13 Nov 2026 12:28:28 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 2,
+      "reportCount": 11,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group"
       ],
       "reports": [
-        {
-          "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-          "seenDate": "Sat, 14 Nov 2026 13:24:44 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
           "sourceName": "BBC Middle East",
@@ -260,6 +250,14 @@
           "sourceName": "BBC Middle East",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 11 Nov 2026 16:45:11 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 10 Nov 2026 13:45:13 GMT",
           "category": "Conflict",
           "severity": "High"
         }
@@ -495,6 +493,53 @@
       ]
     },
     {
+      "title": "Syria: corroborated conflict signal",
+      "location": "Syria",
+      "coords": [
+        38.3,
+        35
+      ],
+      "category": "Military Hotspots",
+      "severity": "Critical",
+      "summary": "Syria is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "seenDate": "Sat, 14 Nov 2026 22:43:12 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 2,
+      "reportCount": 3,
+      "confidence": "Corroborated",
+      "sources": [
+        "Al Jazeera",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Explosion near Syria’s capital kills father and child",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 22:43:12 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Deadly car bomb blast kills two near Syria’s capital",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+          "seenDate": "Sat, 14 Nov 2026 19:46:36 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+          "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
       "title": "Myanmar: corroborated conflict signal",
       "location": "Myanmar",
       "coords": [
@@ -568,36 +613,6 @@
           "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168789",
           "seenDate": "Thu, 12 Nov 2026 12:00:00 +0000",
           "category": "Infrastructure",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
-      "title": "Syria: critical conflict watch",
-      "location": "Syria",
-      "coords": [
-        38.3,
-        35
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Syria is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-          "seenDate": "Wed, 04 Nov 2026 12:00:00 +0000",
-          "category": "Conflict",
           "severity": "Critical"
         }
       ]
@@ -799,7 +814,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "GDELT",
@@ -807,8 +822,8 @@
       "status": "failed",
       "items": 0,
       "rawItems": null,
-      "error": "fetch failed",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "error": "HTTP 429",
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -817,7 +832,7 @@
       "items": 25,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "UN News Africa",
@@ -826,7 +841,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "International Crisis Group",
@@ -835,7 +850,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "BBC Africa",
@@ -844,7 +859,7 @@
       "items": 16,
       "rawItems": 29,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "BBC Middle East",
@@ -853,16 +868,16 @@
       "items": 23,
       "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 10,
+      "items": 7,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -871,7 +886,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     },
     {
       "name": "BBC World News",
@@ -880,7 +895,7 @@
       "items": 6,
       "rawItems": 23,
       "error": "",
-      "checkedAt": "2026-11-14T19:14:31.182Z"
+      "checkedAt": "2026-11-14T23:04:44.888Z"
     }
   ]
 }
