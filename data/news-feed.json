@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-13T23:38:17.907Z",
-  "checkedAt": "2026-11-13T23:38:17.907Z",
-  "lastLiveAt": "2026-11-13T23:38:17.907Z",
+  "generatedAt": "2026-11-14T06:36:38.902Z",
+  "checkedAt": "2026-11-14T06:36:38.902Z",
+  "lastLiveAt": "2026-11-14T06:36:38.902Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,28 +10,82 @@
   ],
   "items": [
     {
-      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+      "title": "Siege fuels disease fears in Yemen’s Taiz",
+      "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 22:02:07 +0000"
+      "publishedAt": "Sat, 14 Nov 2026 06:17:27 +0000"
     },
     {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 14 Nov 2026 05:52:31 GMT"
+    },
+    {
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 04:55:58 +0000"
+    },
+    {
+      "title": "German spies granted sweeping new powers",
+      "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 04:41:11 +0000"
+    },
+    {
+      "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 04:12:15 +0000"
+    },
+    {
+      "title": "What we know about the longest ground stop since 9/11",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 14 Nov 2026 03:45:21 GMT"
+    },
+    {
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 03:32:07 +0000"
+    },
+    {
+      "title": "Microsoft services begin recovering after global outage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 00:17:59 +0000"
+    },
+    {
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 00:06:43 +0000"
+    },
+    {
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 14 Nov 2026 00:03:52 GMT"
+    },
+    {
+      "title": "Iran war live: Tehran says tanker hit naval mine, caught fire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 14 Nov 2026 00:00:25 +0000"
+    },
+    {
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 13 Nov 2026 23:45:22 +0000"
+    },
+    {
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 13 Nov 2026 21:14:22 GMT"
-    },
-    {
-      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 20:48:02 +0000"
-    },
-    {
-      "title": "Microsoft says services still returning amid widespread outage",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 20:16:13 +0000"
     },
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -40,64 +94,10 @@
       "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
     },
     {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 18:28:03 +0000"
-    },
-    {
-      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 18:09:05 +0000"
-    },
-    {
-      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-      "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 18:04:22 +0000"
-    },
-    {
-      "title": "No emails, no problem? Workers joke about Microsoft outage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 17:55:05 +0000"
-    },
-    {
-      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-      "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 16:44:56 +0000"
-    },
-    {
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT"
-    },
-    {
-      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 16:34:24 +0000"
-    },
-    {
-      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 16:22:33 +0000"
-    },
-    {
-      "title": "Turkiye and Qatar sign mutual defence agreement",
-      "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 13 Nov 2026 15:49:51 +0000"
     },
     {
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -116,18 +116,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
       "source": "UN News",
       "publishedAt": "Fri, 13 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT"
-    },
-    {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 13 Nov 2026 00:20:24 GMT"
     },
     {
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
@@ -152,12 +140,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168789",
       "source": "UN News",
       "publishedAt": "Thu, 12 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 11 Nov 2026 21:43:35 GMT"
     },
     {
       "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
@@ -188,6 +170,24 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "source": "UN News",
       "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-13T23:38:17.907Z"
+      "checkedAt": "2026-11-14T06:36:38.902Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-13T23:38:17.907Z"
+      "checkedAt": "2026-11-14T06:36:38.902Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-13T23:38:17.907Z"
+      "checkedAt": "2026-11-14T06:36:38.902Z"
     }
   ]
 }
