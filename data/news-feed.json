@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-15T02:45:09.409Z",
-  "checkedAt": "2026-11-15T02:45:09.409Z",
-  "lastLiveAt": "2026-11-15T02:45:09.409Z",
+  "generatedAt": "2026-11-15T11:06:34.502Z",
+  "checkedAt": "2026-11-15T11:06:34.502Z",
+  "lastLiveAt": "2026-11-15T11:06:34.502Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,22 +10,88 @@
   ],
   "items": [
     {
+      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 09:59:37 +0000"
+    },
+    {
+      "title": "Iran says it targets US radar in Bahrain. What do we know?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 09:41:27 +0000"
+    },
+    {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 09:26:37 GMT"
+    },
+    {
+      "title": "Thousands in Portugal protest against surging rental prices",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 08:40:37 +0000"
+    },
+    {
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 08:17:41 GMT"
+    },
+    {
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 08:15:04 +0000"
+    },
+    {
+      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 08:07:08 +0000"
+    },
+    {
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 07:11:24 +0000"
+    },
+    {
+      "title": "Israel: Making the Holy Land burn",
+      "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 06:49:14 +0000"
+    },
+    {
+      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 06:11:00 +0000"
+    },
+    {
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 05:05:02 +0000"
+    },
+    {
+      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 03:30:29 +0000"
+    },
+    {
+      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+      "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 02:59:06 +0000"
+    },
+    {
       "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
       "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 15 Nov 2026 01:54:55 +0000"
-    },
-    {
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 01:00:42 +0000"
-    },
-    {
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 00:27:14 +0000"
     },
     {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -34,34 +100,10 @@
       "publishedAt": "Sun, 15 Nov 2026 00:06:55 GMT"
     },
     {
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 00:00:08 +0000"
-    },
-    {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 23:34:37 +0000"
-    },
-    {
       "title": "How telecoms upgrade work sparked US flight chaos",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 14 Nov 2026 23:11:27 GMT"
-    },
-    {
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 23:01:30 +0000"
-    },
-    {
-      "title": "Explosion near Syria’s capital kills father and child",
-      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 22:43:12 +0000"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -70,58 +112,16 @@
       "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT"
     },
     {
-      "title": "US flights resume after ageing technology blamed for outage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 21:36:19 +0000"
-    },
-    {
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 21:10:26 +0000"
-    },
-    {
-      "title": "Deadly car bomb blast kills two near Syria’s capital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 19:46:36 +0000"
-    },
-    {
-      "title": "More than 100,000 rally across France in new Yellow Vest protests",
-      "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 19:46:24 +0000"
-    },
-    {
-      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-      "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 19:20:11 +0000"
-    },
-    {
-      "title": "Rising costs and arrests fuel protests in Central African Republic",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 14 Nov 2026 17:50:28 +0000"
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 14 Nov 2026 22:27:06 GMT"
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 14 Nov 2026 15:53:55 GMT"
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT"
-    },
-    {
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 00:03:52 GMT"
     },
     {
       "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
@@ -134,18 +134,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
       "source": "UN News",
       "publishedAt": "Fri, 13 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 23:42:52 GMT"
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 12 Nov 2026 13:02:46 GMT"
     },
     {
       "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
@@ -188,6 +176,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "source": "UN News",
       "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-15T02:45:09.409Z"
+      "checkedAt": "2026-11-15T11:06:34.502Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 8,
-      "rawItems": 23,
+      "items": 7,
+      "rawItems": 21,
       "error": "",
-      "checkedAt": "2026-11-15T02:45:09.409Z"
+      "checkedAt": "2026-11-15T11:06:34.502Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T02:45:09.409Z"
+      "checkedAt": "2026-11-15T11:06:34.502Z"
     }
   ]
 }
