@@ -1,14 +1,86 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-15T17:47:15.378Z",
-  "checkedAt": "2026-11-15T17:47:15.378Z",
-  "lastLiveAt": "2026-11-15T17:47:15.378Z",
+  "generatedAt": "2026-11-15T22:55:05.874Z",
+  "checkedAt": "2026-11-15T22:55:05.874Z",
+  "lastLiveAt": "2026-11-15T22:55:05.874Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 22:24:20 GMT"
+    },
+    {
+      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 22:06:38 +0000"
+    },
+    {
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 21:19:08 +0000"
+    },
+    {
+      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 20:50:15 +0000"
+    },
+    {
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 20:37:43 +0000"
+    },
+    {
+      "title": "Estonia to close border crossings with Russia after alleged arson attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 20:31:18 +0000"
+    },
+    {
+      "title": "Jordan sentences three men to death over deadly church attack in Karak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 20:12:38 +0000"
+    },
+    {
+      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+      "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 20:07:06 +0000"
+    },
+    {
+      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 19:02:21 +0000"
+    },
+    {
+      "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+      "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 18:31:52 +0000"
+    },
+    {
+      "title": "Estonia to close border crossings with Russia after attack on drone maker",
+      "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 18:07:02 +0000"
+    },
+    {
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 16:15:20 GMT"
+    },
     {
       "title": "70 bodies recovered from Gaza rubble, thousands still missing",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
@@ -22,52 +94,10 @@
       "publishedAt": "Sun, 15 Nov 2026 15:21:21 +0000"
     },
     {
-      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 15:01:54 +0000"
-    },
-    {
       "title": "How telecoms upgrade work sparked US flight chaos",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 15 Nov 2026 14:57:15 GMT"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 14:56:21 GMT"
-    },
-    {
-      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 14:55:40 +0000"
-    },
-    {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 14:33:59 GMT"
-    },
-    {
-      "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 14:02:08 +0000"
-    },
-    {
-      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-      "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 13:45:02 +0000"
-    },
-    {
-      "title": "Explosive attack targets investigative journalist’s home in Panama",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 13:43:11 +0000"
     },
     {
       "title": "Iran targets US military base in Bahrain with drone attack",
@@ -76,10 +106,10 @@
       "publishedAt": "Sun, 15 Nov 2026 13:42:58 GMT"
     },
     {
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 13:37:08 +0000"
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "source": "UN News",
+      "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -88,34 +118,10 @@
       "publishedAt": "Sun, 15 Nov 2026 11:06:32 GMT"
     },
     {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 09:26:37 GMT"
-    },
-    {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 08:17:41 GMT"
-    },
-    {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 15 Nov 2026 00:06:55 GMT"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT"
-    },
-    {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 15:53:55 GMT"
     },
     {
       "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
       "source": "UN News",
       "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "source": "UN News",
-      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-15T17:47:15.378Z"
+      "checkedAt": "2026-11-15T22:55:05.874Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 10,
-      "rawItems": 26,
+      "items": 6,
+      "rawItems": 20,
       "error": "",
-      "checkedAt": "2026-11-15T17:47:15.378Z"
+      "checkedAt": "2026-11-15T22:55:05.874Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T17:47:15.378Z"
+      "checkedAt": "2026-11-15T22:55:05.874Z"
     }
   ]
 }
