@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-15T11:06:34.502Z",
-  "checkedAt": "2026-11-15T11:06:34.502Z",
-  "lastLiveAt": "2026-11-15T11:06:34.502Z",
+  "generatedAt": "2026-11-15T17:47:15.378Z",
+  "checkedAt": "2026-11-15T17:47:15.378Z",
+  "lastLiveAt": "2026-11-15T17:47:15.378Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,82 @@
   ],
   "items": [
     {
-      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-      "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 09:59:37 +0000"
+      "publishedAt": "Sun, 15 Nov 2026 15:32:43 +0000"
     },
     {
-      "title": "Iran says it targets US radar in Bahrain. What do we know?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 09:41:27 +0000"
+      "publishedAt": "Sun, 15 Nov 2026 15:21:21 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 15:01:54 +0000"
+    },
+    {
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 14:57:15 GMT"
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 14:56:21 GMT"
+    },
+    {
+      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 14:55:40 +0000"
+    },
+    {
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 14:33:59 GMT"
+    },
+    {
+      "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 14:02:08 +0000"
+    },
+    {
+      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+      "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 13:45:02 +0000"
+    },
+    {
+      "title": "Explosive attack targets investigative journalist’s home in Panama",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 13:43:11 +0000"
+    },
+    {
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 13:42:58 GMT"
+    },
+    {
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 15 Nov 2026 13:37:08 +0000"
+    },
+    {
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 11:06:32 GMT"
     },
     {
       "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
@@ -28,70 +94,10 @@
       "publishedAt": "Sun, 15 Nov 2026 09:26:37 GMT"
     },
     {
-      "title": "Thousands in Portugal protest against surging rental prices",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 08:40:37 +0000"
-    },
-    {
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 15 Nov 2026 08:17:41 GMT"
-    },
-    {
-      "title": "Jordan sentences three men to death by hanging after deadly church attack",
-      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 08:15:04 +0000"
-    },
-    {
-      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-      "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 08:07:08 +0000"
-    },
-    {
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 07:11:24 +0000"
-    },
-    {
-      "title": "Israel: Making the Holy Land burn",
-      "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 06:49:14 +0000"
-    },
-    {
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 06:11:00 +0000"
-    },
-    {
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 05:05:02 +0000"
-    },
-    {
-      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 03:30:29 +0000"
-    },
-    {
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-      "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 02:59:06 +0000"
-    },
-    {
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 01:54:55 +0000"
     },
     {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -100,22 +106,10 @@
       "publishedAt": "Sun, 15 Nov 2026 00:06:55 GMT"
     },
     {
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 23:11:27 GMT"
-    },
-    {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT"
-    },
-    {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 14 Nov 2026 22:27:06 GMT"
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
       "source": "UN News",
       "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-15T11:06:34.502Z"
+      "checkedAt": "2026-11-15T17:47:15.378Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 7,
-      "rawItems": 21,
+      "items": 10,
+      "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-15T11:06:34.502Z"
+      "checkedAt": "2026-11-15T17:47:15.378Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T11:06:34.502Z"
+      "checkedAt": "2026-11-15T17:47:15.378Z"
     }
   ]
 }
