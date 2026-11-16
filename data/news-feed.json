@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-15T22:55:05.874Z",
-  "checkedAt": "2026-11-15T22:55:05.874Z",
-  "lastLiveAt": "2026-11-15T22:55:05.874Z",
+  "generatedAt": "2026-11-16T02:48:25.459Z",
+  "checkedAt": "2026-11-16T02:48:25.459Z",
+  "lastLiveAt": "2026-11-16T02:48:25.459Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,58 @@
   ],
   "items": [
     {
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 16 Nov 2026 02:22:29 +0000"
+    },
+    {
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 16 Nov 2026 01:53:19 GMT"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 22:24:20 GMT"
+      "publishedAt": "Mon, 16 Nov 2026 01:47:57 GMT"
+    },
+    {
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 16 Nov 2026 01:05:44 GMT"
+    },
+    {
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Mon, 16 Nov 2026 00:13:14 GMT"
+    },
+    {
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 16 Nov 2026 00:01:45 +0000"
+    },
+    {
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
       "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
       "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "Sun, 15 Nov 2026 22:06:38 +0000"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 15 Nov 2026 22:00:13 GMT"
     },
     {
       "title": "Yemen’s Houthis unilaterally release 600 war detainees",
@@ -76,34 +118,10 @@
       "publishedAt": "Sun, 15 Nov 2026 18:07:02 +0000"
     },
     {
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 16:15:20 GMT"
-    },
-    {
-      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 15:32:43 +0000"
-    },
-    {
-      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 15 Nov 2026 15:21:21 +0000"
-    },
-    {
       "title": "How telecoms upgrade work sparked US flight chaos",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 15 Nov 2026 14:57:15 GMT"
-    },
-    {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 15 Nov 2026 13:42:58 GMT"
     },
     {
       "title": "Nadia Murad: ‘Day by day, I took my story back’",
@@ -170,24 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
       "source": "UN News",
       "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "source": "UN News",
-      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "source": "UN News",
-      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "source": "UN News",
-      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 6,
+      "items": 8,
       "rawItems": 20,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     }
   ]
 }

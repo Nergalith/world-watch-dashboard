@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-15T22:55:05.874Z",
-  "checkedAt": "2026-11-15T22:55:05.874Z",
-  "lastLiveAt": "2026-11-15T22:55:05.874Z",
+  "generatedAt": "2026-11-16T02:48:25.459Z",
+  "checkedAt": "2026-11-16T02:48:25.459Z",
+  "lastLiveAt": "2026-11-16T02:48:25.459Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 121,
+  "liveItemCount": 120,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -16,8 +16,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Israel / Gaza is active on the public watch board with 19 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-      "seenDate": "Sun, 15 Nov 2026 22:06:38 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+      "seenDate": "Mon, 16 Nov 2026 00:01:45 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 19,
@@ -28,6 +28,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+          "seenDate": "Mon, 16 Nov 2026 00:01:45 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
           "sourceName": "Al Jazeera",
@@ -49,14 +57,6 @@
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
           "seenDate": "Sun, 15 Nov 2026 20:37:43 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "70 bodies recovered from Gaza rubble, thousands still missing",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 15:32:43 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -135,6 +135,72 @@
       ]
     },
     {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Mon, 16 Nov 2026 00:13:14 GMT",
+      "sourceName": "BBC World News",
+      "sourceCount": 5,
+      "reportCount": 13,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "Russia's mega-rich are already imagining a future after Putin",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 16 Nov 2026 00:13:14 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 15 Nov 2026 22:00:13 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Estonia to close border crossings with Russia after alleged arson attack",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+          "seenDate": "Sun, 15 Nov 2026 20:31:18 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 15 Nov 2026 19:32:39 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+          "seenDate": "Sun, 15 Nov 2026 18:31:52 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
       "title": "Democratic Republic of Congo: high-signal conflict watch",
       "location": "Democratic Republic of Congo",
       "coords": [
@@ -205,27 +271,27 @@
         53.7,
         32.4
       ],
-      "category": "Military Hotspots",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "sourceName": "BBC World News",
+      "summary": "Iran is active on the public watch board with 12 reports across 3 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "seenDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "sourceName": "Al Jazeera",
       "sourceCount": 3,
       "reportCount": 12,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East",
-        "BBC World News",
         "International Crisis Group"
       ],
       "reports": [
         {
-          "title": "Iran targets US military base in Bahrain with drone attack",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 15 Nov 2026 13:42:58 GMT",
-          "category": "Military Hotspots",
+          "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+          "seenDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+          "category": "Uprisings/Protests",
           "severity": "Critical"
         },
         {
@@ -269,11 +335,11 @@
         43.33,
         12.58
       ],
-      "category": "Uprisings/Protests",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-      "seenDate": "Sun, 15 Nov 2026 21:19:08 +0000",
+      "summary": "Red Sea / Yemen is active on the public watch board with 11 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "seenDate": "Mon, 16 Nov 2026 02:22:29 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
       "reportCount": 11,
@@ -286,20 +352,20 @@
       ],
       "reports": [
         {
+          "title": "Houthis advance in Yemen as government forces move to defend Aden",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+          "seenDate": "Mon, 16 Nov 2026 02:22:29 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
           "title": "Yemen’s Houthis unilaterally release 600 war detainees",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
           "seenDate": "Sun, 15 Nov 2026 21:19:08 +0000",
           "category": "Uprisings/Protests",
           "severity": "Critical"
-        },
-        {
-          "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 17:33:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         },
         {
           "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
@@ -328,86 +394,20 @@
       ]
     },
     {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 11 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-      "seenDate": "Sun, 15 Nov 2026 20:31:18 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
-      "reportCount": 11,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Estonia to close border crossings with Russia after alleged arson attack",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 20:31:18 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 15 Nov 2026 19:32:39 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 18:31:52 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Estonia to close border crossings with Russia after attack on drone maker",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 18:07:02 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-          "seenDate": "Mon, 09 Nov 2026 12:00:00 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        }
-      ]
-    },
-    {
       "title": "Taiwan Strait: high-signal conflict watch",
       "location": "Taiwan Strait",
       "coords": [
         121,
         24
       ],
-      "category": "Uprisings/Protests",
+      "category": "Infrastructure",
       "severity": "Critical",
-      "summary": "Taiwan Strait is active on the public watch board with 10 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Sun, 15 Nov 2026 22:28:54 GMT",
+      "summary": "Taiwan Strait is active on the public watch board with 9 reports across 4 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Mon, 16 Nov 2026 01:47:57 GMT",
       "sourceName": "BBC World News",
       "sourceCount": 4,
-      "reportCount": 10,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -417,6 +417,30 @@
       ],
       "reports": [
         {
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 16 Nov 2026 01:47:57 GMT",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Czechs rally against gov’t threat to media independence",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+          "seenDate": "Mon, 16 Nov 2026 00:26:32 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "High"
+        },
+        {
+          "title": "Brawl erupts in Brazil’s Women’s League final",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+          "seenDate": "Sun, 15 Nov 2026 23:46:37 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
           "title": "Police ban protests near 10 schools and five universities in Paris",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
@@ -425,35 +449,11 @@
           "severity": "High"
         },
         {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 15 Nov 2026 22:24:20 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
           "title": "Czechs rally against plan to switch funding of public media",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
           "seenDate": "Sun, 15 Nov 2026 21:03:40 GMT",
           "category": "Uprisings/Protests",
-          "severity": "High"
-        },
-        {
-          "title": "Ronaldinho makes comeback in Ravenna win",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 15 Nov 2026 19:31:48 GMT",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 15 Nov 2026 19:20:53 GMT",
-          "category": "Infrastructure",
           "severity": "High"
         }
       ]
@@ -684,27 +684,18 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Somalia is active on the public watch board with 5 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
-      "seenDate": "Sun, 15 Nov 2026 16:47:36 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 3,
-      "reportCount": 5,
+      "summary": "Somalia is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 11 Nov 2026 07:13:52 GMT",
+      "sourceName": "BBC Africa",
+      "sourceCount": 2,
+      "reportCount": 4,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
-        {
-          "title": "Somalia: We would not have recovered without the international community",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 16:47:36 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
         {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "sourceName": "BBC Africa",
@@ -779,36 +770,6 @@
       ]
     },
     {
-      "title": "Iraq: public conflict signal",
-      "location": "Iraq",
-      "coords": [
-        43.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iraq is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-      "seenDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "reports": [
-        {
-          "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-          "seenDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Korean Peninsula: public conflict signal",
       "location": "Korean Peninsula",
       "coords": [
@@ -848,7 +809,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "GDELT",
@@ -857,7 +818,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -866,7 +827,7 @@
       "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "UN News Africa",
@@ -875,7 +836,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "International Crisis Group",
@@ -884,16 +845,16 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
       "items": 17,
-      "rawItems": 30,
+      "rawItems": 31,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "BBC Middle East",
@@ -902,16 +863,16 @@
       "items": 23,
       "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 14,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -920,16 +881,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 406",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 10,
+      "items": 8,
       "rawItems": 20,
       "error": "",
-      "checkedAt": "2026-11-15T22:55:05.874Z"
+      "checkedAt": "2026-11-16T02:48:25.459Z"
     }
   ]
 }
