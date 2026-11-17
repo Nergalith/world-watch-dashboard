@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-17T04:35:41.623Z",
-  "checkedAt": "2026-11-17T04:35:41.623Z",
-  "lastLiveAt": "2026-11-17T04:35:41.623Z",
+  "generatedAt": "2026-11-17T14:33:28.118Z",
+  "checkedAt": "2026-11-17T14:33:28.118Z",
+  "lastLiveAt": "2026-11-17T14:33:28.118Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,118 +10,88 @@
   ],
   "items": [
     {
-      "title": "Gunfire erupts in occupied West Bank settler attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 04:00:08 +0000"
-    },
-    {
-      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-      "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 03:12:54 +0000"
-    },
-    {
-      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 02:52:56 +0000"
-    },
-    {
-      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-      "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 01:38:13 +0000"
-    },
-    {
-      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-      "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 01:19:56 +0000"
-    },
-    {
-      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-      "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 00:45:11 +0000"
-    },
-    {
-      "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-      "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 00:21:19 +0000"
-    },
-    {
-      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 23:57:49 +0000"
-    },
-    {
-      "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-      "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 23:44:32 +0000"
-    },
-    {
-      "title": "EU agrees to resurrect cooperation deal with Syria",
-      "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 23:00:36 +0000"
-    },
-    {
-      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-      "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 22:40:07 +0000"
-    },
-    {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 16 Nov 2026 21:40:07 GMT"
+      "publishedAt": "Tue, 17 Nov 2026 14:25:45 GMT"
     },
     {
-      "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-      "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+      "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 21:35:51 +0000"
+      "publishedAt": "Tue, 17 Nov 2026 13:29:27 +0000"
     },
     {
-      "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-      "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 21:06:19 +0000"
-    },
-    {
-      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 20:20:02 +0000"
-    },
-    {
-      "title": "What will Europe do next in Ukraine?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 20:12:21 +0000"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-      "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Mon, 16 Nov 2026 20:00:07 +0000"
-    },
-    {
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 16 Nov 2026 14:58:12 GMT"
+      "publishedAt": "Tue, 17 Nov 2026 13:02:17 GMT"
     },
     {
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Mon, 16 Nov 2026 14:22:36 GMT"
+      "publishedAt": "Tue, 17 Nov 2026 13:01:11 GMT"
+    },
+    {
+      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+      "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 12:50:12 +0000"
+    },
+    {
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 12:35:57 GMT"
+    },
+    {
+      "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+      "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 12:33:51 +0000"
+    },
+    {
+      "title": "Trump addresses Quad leaders at first summit since 2024",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 12:25:33 +0000"
+    },
+    {
+      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 11:19:04 +0000"
+    },
+    {
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 11:17:32 GMT"
+    },
+    {
+      "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+      "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 10:53:42 +0000"
+    },
+    {
+      "title": "Will President Trump meet Kim Jong Un?",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 10:13:27 GMT"
+    },
+    {
+      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 07:44:17 GMT"
+    },
+    {
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 05:59:01 GMT"
     },
     {
       "title": "Lebanon leading the way in mental health support",
@@ -140,18 +110,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
       "source": "UN News",
       "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 16 Nov 2026 00:41:42 GMT"
-    },
-    {
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 16 Nov 2026 00:13:14 GMT"
     },
     {
       "title": "Nadia Murad: ‘Day by day, I took my story back’",
@@ -188,6 +146,48 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
       "source": "UN News",
       "publishedAt": "Wed, 11 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+      "source": "UN News",
+      "publishedAt": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "source": "UN News",
+      "publishedAt": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+      "source": "UN News",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "source": "UN News",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "source": "UN News",
+      "publishedAt": "Fri, 06 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "source": "UN News",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 16,
+      "items": 6,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-17T04:35:41.623Z"
+      "checkedAt": "2026-11-17T14:33:28.118Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 5,
+      "items": 8,
       "rawItems": 21,
       "error": "",
-      "checkedAt": "2026-11-17T04:35:41.623Z"
+      "checkedAt": "2026-11-17T14:33:28.118Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-17T04:35:41.623Z"
+      "checkedAt": "2026-11-17T14:33:28.118Z"
     }
   ]
 }
