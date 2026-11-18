@@ -1,14 +1,104 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-17T22:56:48.045Z",
-  "checkedAt": "2026-11-17T22:56:48.045Z",
-  "lastLiveAt": "2026-11-17T22:56:48.045Z",
+  "generatedAt": "2026-11-18T04:29:32.211Z",
+  "checkedAt": "2026-11-18T04:29:32.211Z",
+  "lastLiveAt": "2026-11-18T04:29:32.211Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "What is Trump hoping to achieve at APEC meeting in China?",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 01:33:05 +0000"
+    },
+    {
+      "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+      "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 01:32:52 +0000"
+    },
+    {
+      "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+      "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 01:31:53 +0000"
+    },
+    {
+      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 01:07:01 +0000"
+    },
+    {
+      "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+      "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 01:04:43 +0000"
+    },
+    {
+      "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+      "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 00:57:56 +0000"
+    },
+    {
+      "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 00:47:02 +0000"
+    },
+    {
+      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+      "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 00:33:36 +0000"
+    },
+    {
+      "title": "Why China’s Shenzhen was chosen for APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 00:16:26 +0000"
+    },
+    {
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:27 +0000"
+    },
+    {
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 23:38:38 +0000"
+    },
+    {
+      "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+      "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 23:28:54 +0000"
+    },
+    {
+      "title": "Top spy agency suffers network outage, the latest US technical failure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 23:19:12 +0000"
+    },
+    {
+      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 17 Nov 2026 23:09:00 +0000"
+    },
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 17 Nov 2026 23:02:12 GMT"
+    },
     {
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
@@ -28,40 +118,16 @@
       "publishedAt": "Tue, 17 Nov 2026 21:35:24 +0000"
     },
     {
-      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-      "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 21:26:42 +0000"
-    },
-    {
-      "title": "Moment Russian military plane crashes in Siberia, killing 19",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 21:25:43 +0000"
-    },
-    {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT"
     },
     {
-      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-      "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 21:14:31 +0000"
-    },
-    {
       "title": "Russian military plane crashes, killing all 19 on board",
       "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT"
-    },
-    {
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 20:57:56 +0000"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -74,18 +140,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 17 Nov 2026 20:25:46 GMT"
-    },
-    {
-      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 20:11:41 +0000"
-    },
-    {
-      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-      "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 17 Nov 2026 19:03:14 +0000"
     },
     {
       "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -134,60 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
-      "source": "UN News",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
-      "source": "UN News",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
-      "source": "UN News",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 11:17:32 GMT"
-    },
-    {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 10:13:27 GMT"
-    },
-    {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 05:59:01 GMT"
-    },
-    {
-      "title": "Lebanon leading the way in mental health support",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-17T22:56:48.045Z"
+      "checkedAt": "2026-11-18T04:29:32.211Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 15,
-      "rawItems": 27,
+      "items": 16,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-17T22:56:48.045Z"
+      "checkedAt": "2026-11-18T04:29:32.211Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-17T22:56:48.045Z"
+      "checkedAt": "2026-11-18T04:29:32.211Z"
     }
   ]
 }
