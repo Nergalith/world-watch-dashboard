@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-19T03:36:31.368Z",
-  "checkedAt": "2026-11-19T03:36:31.368Z",
-  "lastLiveAt": "2026-11-19T03:36:31.368Z",
+  "generatedAt": "2026-11-19T13:22:40.343Z",
+  "checkedAt": "2026-11-19T13:22:40.343Z",
+  "lastLiveAt": "2026-11-19T13:22:40.343Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,94 +10,118 @@
   ],
   "items": [
     {
-      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 03:01:27 +0000"
-    },
-    {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 02:10:43 +0000"
-    },
-    {
-      "title": "Hegseth unveils new US-Venezuela military deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 01:48:46 +0000"
-    },
-    {
-      "title": "Settler rams into Palestinians at multiple locations in central Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 01:13:45 +0000"
-    },
-    {
-      "title": "Crimean Bridge attacked again, Russian official says",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 01:05:03 GMT"
+      "publishedAt": "Thu, 19 Nov 2026 13:07:35 GMT"
     },
     {
-      "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-      "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+      "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+      "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 00:37:03 +0000"
+      "publishedAt": "Thu, 19 Nov 2026 12:21:33 +0000"
     },
     {
-      "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 00:01:02 +0000"
+      "publishedAt": "Thu, 19 Nov 2026 12:11:42 +0000"
     },
     {
-      "title": "Israel uses Gaza swimming video to minimise winter hardships",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+      "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 23:53:21 +0000"
+      "publishedAt": "Thu, 19 Nov 2026 11:38:39 +0000"
+    },
+    {
+      "title": "Putin says US-China-Russia can strengthen global stability",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 11:22:43 +0000"
+    },
+    {
+      "title": "Denmark parliament approves security deal with Greenland and US",
+      "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 11:09:00 +0000"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 19 Nov 2026 11:07:37 GMT"
+    },
+    {
+      "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+      "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 10:42:53 +0000"
+    },
+    {
+      "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+      "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 10:05:33 +0000"
+    },
+    {
+      "title": "Trump calls for nuclear arms reduction at APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 10:03:27 +0000"
+    },
+    {
+      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+      "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 09:16:47 +0000"
+    },
+    {
+      "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
+      "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 08:32:10 +0000"
+    },
+    {
+      "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 07:52:30 +0000"
+    },
+    {
+      "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+      "link": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 07:51:03 +0000"
+    },
+    {
+      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 07:08:57 +0000"
+    },
+    {
+      "title": "Netanyahu’s last stand and the dangerous politics of survival",
+      "link": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 06:58:44 +0000"
+    },
+    {
+      "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 06:44:59 +0000"
+    },
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT"
     },
     {
       "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 18 Nov 2026 23:28:03 GMT"
-    },
-    {
-      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 22:56:19 +0000"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 22:34:56 GMT"
-    },
-    {
-      "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
-      "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 21:53:17 +0000"
-    },
-    {
-      "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 21:24:19 +0000"
-    },
-    {
-      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 21:01:05 +0000"
-    },
-    {
-      "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 20:38:06 +0000"
     },
     {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -124,22 +148,10 @@
       "publishedAt": "Wed, 18 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 10:53:21 GMT"
-    },
-    {
       "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
       "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 18 Nov 2026 10:23:57 GMT"
-    },
-    {
-      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-      "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 05:11:42 GMT"
     },
     {
       "title": "Rubio says US not 'under systemic attack' after series of tech outages",
@@ -152,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 18 Nov 2026 02:29:52 GMT"
-    },
-    {
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 02:00:37 GMT"
     },
     {
       "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Lebanon leading the way in mental health support",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-19T03:36:31.368Z"
+      "checkedAt": "2026-11-19T13:22:40.343Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 12,
-      "rawItems": 33,
+      "items": 10,
+      "rawItems": 34,
       "error": "",
-      "checkedAt": "2026-11-19T03:36:31.368Z"
+      "checkedAt": "2026-11-19T13:22:40.343Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-19T03:36:31.368Z"
+      "checkedAt": "2026-11-19T13:22:40.343Z"
     }
   ]
 }
