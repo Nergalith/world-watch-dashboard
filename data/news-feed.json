@@ -1,14 +1,86 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-18T22:02:50.407Z",
-  "checkedAt": "2026-11-18T22:02:50.407Z",
-  "lastLiveAt": "2026-11-18T22:02:50.407Z",
+  "generatedAt": "2026-11-19T03:36:31.368Z",
+  "checkedAt": "2026-11-19T03:36:31.368Z",
+  "lastLiveAt": "2026-11-19T03:36:31.368Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 03:01:27 +0000"
+    },
+    {
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 02:10:43 +0000"
+    },
+    {
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 01:48:46 +0000"
+    },
+    {
+      "title": "Settler rams into Palestinians at multiple locations in central Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 01:13:45 +0000"
+    },
+    {
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 19 Nov 2026 01:05:03 GMT"
+    },
+    {
+      "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+      "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 00:37:03 +0000"
+    },
+    {
+      "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 00:01:02 +0000"
+    },
+    {
+      "title": "Israel uses Gaza swimming video to minimise winter hardships",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 23:53:21 +0000"
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 18 Nov 2026 23:28:03 GMT"
+    },
+    {
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 22:56:19 +0000"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 18 Nov 2026 22:34:56 GMT"
+    },
+    {
+      "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+      "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 18 Nov 2026 21:53:17 +0000"
+    },
     {
       "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
       "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
@@ -28,54 +100,6 @@
       "publishedAt": "Wed, 18 Nov 2026 20:38:06 +0000"
     },
     {
-      "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 20:24:50 +0000"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT"
-    },
-    {
-      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 20:14:04 +0000"
-    },
-    {
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 20:12:20 +0000"
-    },
-    {
-      "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 19:31:31 +0000"
-    },
-    {
-      "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-      "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 18:22:26 +0000"
-    },
-    {
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 18:12:42 +0000"
-    },
-    {
-      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 17:45:09 +0000"
-    },
-    {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -88,36 +112,6 @@
       "publishedAt": "Wed, 18 Nov 2026 17:00:04 GMT"
     },
     {
-      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-      "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 16:47:26 +0000"
-    },
-    {
-      "title": "World Bank official says Lebanon reconstruction making slow progress",
-      "link": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 16:44:59 +0000"
-    },
-    {
-      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 16:40:03 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 18 Nov 2026 16:28:54 +0000"
-    },
-    {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 16:10:44 GMT"
-    },
-    {
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -128,12 +122,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
       "source": "UN News",
       "publishedAt": "Wed, 18 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Who to watch in Spain's election race",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 11:44:25 GMT"
     },
     {
       "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
@@ -172,22 +160,34 @@
       "publishedAt": "Wed, 18 Nov 2026 02:00:37 GMT"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 22:46:30 GMT"
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "source": "UN News",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT"
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "source": "UN News",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 17 Nov 2026 20:30:20 GMT"
+      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "source": "UN News",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "source": "UN News",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Lebanon leading the way in mental health support",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "source": "UN News",
+      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 17,
-      "rawItems": 34,
+      "items": 12,
+      "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     }
   ]
 }

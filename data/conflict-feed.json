@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-18T22:02:50.407Z",
-  "checkedAt": "2026-11-18T22:02:50.407Z",
-  "lastLiveAt": "2026-11-18T22:02:50.407Z",
+  "generatedAt": "2026-11-19T03:36:31.368Z",
+  "checkedAt": "2026-11-19T03:36:31.368Z",
+  "lastLiveAt": "2026-11-19T03:36:31.368Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 135,
+  "liveItemCount": 130,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -13,14 +13,14 @@
         34.45,
         31.45
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 24 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 20:38:06 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 21 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 01:13:45 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 24,
+      "reportCount": 21,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -30,6 +30,30 @@
       ],
       "reports": [
         {
+          "title": "Settler rams into Palestinians at multiple locations in central Israel",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 01:13:45 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Israel uses Gaza swimming video to minimise winter hardships",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+          "seenDate": "Wed, 18 Nov 2026 23:53:21 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 22:34:56 GMT",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
           "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
@@ -38,102 +62,12 @@
           "severity": "High"
         },
         {
-          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
           "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 18 Nov 2026 20:14:57 GMT",
-          "category": "Military Hotspots",
-          "severity": "High"
-        },
-        {
-          "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 19:27:42 +0000",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 17 Nov 2026 20:30:20 GMT",
           "category": "Conflict",
           "severity": "High"
-        },
-        {
-          "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 18:22:26 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Israeli forces launch new military operation in central Gaza",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 18:12:42 +0000",
-          "category": "Military Hotspots",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine: high-signal conflict watch",
-      "location": "Ukraine",
-      "coords": [
-        36.23,
-        49.99
-      ],
-      "category": "Conflict",
-      "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 14 reports across 5 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 20:24:50 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
-      "reportCount": 14,
-      "confidence": "High Signal",
-      "sources": [
-        "Al Jazeera",
-        "BBC Africa",
-        "BBC World News",
-        "International Crisis Group",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 20:24:50 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Trump and Putin to meet one-on-one in China Thursday",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 20:12:20 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 19:31:31 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
-        {
-          "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 18 Nov 2026 17:09:43 GMT",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 18 Nov 2026 17:00:40 GMT",
-          "category": "Infrastructure",
-          "severity": "Critical"
         }
       ]
     },
@@ -210,20 +144,29 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 12 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-haiti-south-sudan",
-      "seenDate": "Wed, 18 Nov 2026 17:42:11 +0000",
-      "sourceName": "UN OCHA (Humanitarian)",
-      "sourceCount": 4,
-      "reportCount": 12,
+      "summary": "Red Sea / Yemen is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 00:01:02 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 5,
+      "reportCount": 13,
       "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories",
         "UN OCHA (Humanitarian)"
       ],
       "reports": [
+        {
+          "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 00:01:02 +0000",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
         {
           "title": "Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan",
           "sourceName": "UN OCHA (Humanitarian)",
@@ -255,14 +198,72 @@
           "seenDate": "Mon, 16 Nov 2026 17:56:10 +0000",
           "category": "Conflict",
           "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: high-signal conflict watch",
+      "location": "Ukraine",
+      "coords": [
+        36.23,
+        49.99
+      ],
+      "category": "Conflict",
+      "severity": "Critical",
+      "summary": "Ukraine is active on the public watch board with 11 reports across 5 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 02:57:19 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 5,
+      "reportCount": 11,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "International Crisis Group",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 02:57:19 +0000",
+          "category": "Conflict",
+          "severity": "High"
         },
         {
-          "title": "Yemeni forces retreat to defend port city from Houthis",
-          "sourceName": "BBC Middle East",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Mon, 16 Nov 2026 11:09:38 GMT",
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Thu, 19 Nov 2026 01:05:03 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
+        },
+        {
+          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 23:28:03 GMT",
           "category": "Infrastructure",
           "severity": "High"
+        },
+        {
+          "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 17:09:43 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 17:00:40 GMT",
+          "category": "Infrastructure",
+          "severity": "Critical"
         }
       ]
     },
@@ -330,7 +331,7 @@
       ]
     },
     {
-      "title": "Iran: high-signal conflict watch",
+      "title": "Iran: repeated public reporting",
       "location": "Iran",
       "coords": [
         53.7,
@@ -338,26 +339,17 @@
       ],
       "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 10 reports across 2 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 16:47:26 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 10,
-      "confidence": "High Signal",
+      "summary": "Iran is active on the public watch board with 9 reports across 1 source. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 18 Nov 2026 13:04:48 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 1,
+      "reportCount": 9,
+      "confidence": "Multiple Reports",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East"
       ],
       "reports": [
-        {
-          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 16:47:26 +0000",
-          "category": "Uprisings/Protests",
-          "severity": "Critical"
-        },
         {
           "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
           "sourceName": "BBC Middle East",
@@ -389,6 +381,14 @@
           "seenDate": "Sun, 15 Nov 2026 13:42:58 GMT",
           "category": "Military Hotspots",
           "severity": "Critical"
+        },
+        {
+          "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 13 Nov 2026 12:28:28 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -402,8 +402,8 @@
       "category": "Conflict",
       "severity": "Critical",
       "summary": "Lebanon / Israel Border is active on the public watch board with 4 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 16:44:59 +0000",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+      "seenDate": "Wed, 18 Nov 2026 22:56:19 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 2,
       "reportCount": 4,
@@ -414,10 +414,10 @@
       ],
       "reports": [
         {
-          "title": "World Bank official says Lebanon reconstruction making slow progress",
+          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 16:44:59 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+          "seenDate": "Wed, 18 Nov 2026 22:56:19 +0000",
           "category": "Conflict",
           "severity": "High"
         },
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "title": "Syria: corroborated conflict signal",
+      "title": "Syria: high-signal conflict watch",
       "location": "Syria",
       "coords": [
         38.3,
@@ -456,18 +456,27 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Syria is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.unocha.org/news/syrians-cannot-afford-more-instability-un-deputy-relief-chief-tells-security-council",
-      "seenDate": "Mon, 16 Nov 2026 15:58:13 +0000",
-      "sourceName": "UN OCHA (Humanitarian)",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "summary": "Syria is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+      "seenDate": "Wed, 18 Nov 2026 21:53:17 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "UN News - Global perspective Human stories",
         "UN OCHA (Humanitarian)"
       ],
       "reports": [
+        {
+          "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+          "seenDate": "Wed, 18 Nov 2026 21:53:17 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Syrians “cannot afford more instability,” UN deputy relief chief tells Security Council",
           "sourceName": "UN OCHA (Humanitarian)",
@@ -605,12 +614,12 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 10 reports across 5 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.unocha.org/ocha-cop31",
-      "seenDate": "Wed, 18 Nov 2026 21:30:59 +0000",
-      "sourceName": "UN OCHA (Humanitarian)",
+      "summary": "Taiwan Strait is active on the public watch board with 9 reports across 5 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 03:01:27 +0000",
+      "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 10,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -621,26 +630,18 @@
       ],
       "reports": [
         {
+          "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 03:01:27 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
           "title": "OCHA @COP31",
           "sourceName": "UN OCHA (Humanitarian)",
           "sourceUrl": "https://www.unocha.org/ocha-cop31",
           "seenDate": "Wed, 18 Nov 2026 21:30:59 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 16:40:03 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Wed, 18 Nov 2026 16:10:44 GMT",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -658,6 +659,14 @@
           "sourceUrl": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
           "seenDate": "Wed, 18 Nov 2026 08:33:32 GMT",
           "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "Irishman charged with destroying US military aircraft with axe",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 02:00:37 GMT",
+          "category": "Military Hotspots",
           "severity": "High"
         }
       ]
@@ -728,7 +737,64 @@
       ]
     },
     {
-      "title": "Somalia: corroborated conflict signal",
+      "title": "Myanmar: high-signal conflict watch",
+      "location": "Myanmar",
+      "coords": [
+        96.1,
+        21.9
+      ],
+      "category": "Conflict",
+      "severity": "High",
+      "summary": "Myanmar is active on the public watch board with 4 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 02:10:43 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 4,
+      "confidence": "High Signal",
+      "sources": [
+        "Al Jazeera",
+        "BBC Africa",
+        "BBC World News",
+        "UN News - Global perspective Human stories"
+      ],
+      "reports": [
+        {
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 02:10:43 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 18 Nov 2026 23:04:06 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+          "seenDate": "Mon, 16 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Fri, 09 Oct 2026 15:26:33 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "title": "Somalia: high-signal conflict watch",
       "location": "Somalia",
       "coords": [
         45.3,
@@ -736,18 +802,27 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Somalia is active on the public watch board with 3 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-      "seenDate": "Wed, 11 Nov 2026 07:13:52 GMT",
-      "sourceName": "BBC Africa",
-      "sourceCount": 2,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "summary": "Somalia is active on the public watch board with 4 reports across 3 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 00:37:03 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 3,
+      "reportCount": 4,
+      "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "BBC Africa",
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 00:37:03 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "sourceName": "BBC Africa",
@@ -775,45 +850,6 @@
       ]
     },
     {
-      "title": "Myanmar: corroborated conflict signal",
-      "location": "Myanmar",
-      "coords": [
-        96.1,
-        21.9
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Myanmar is active on the public watch board with 2 reports across 2 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168809",
-      "seenDate": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "sourceName": "UN News - Global perspective Human stories",
-      "sourceCount": 2,
-      "reportCount": 2,
-      "confidence": "Corroborated",
-      "sources": [
-        "BBC Africa",
-        "UN News - Global perspective Human stories"
-      ],
-      "reports": [
-        {
-          "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168809",
-          "seenDate": "Mon, 16 Nov 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-          "sourceName": "BBC Africa",
-          "sourceUrl": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Fri, 09 Oct 2026 15:26:33 GMT",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Venezuela / Guyana: public conflict signal",
       "location": "Venezuela / Guyana",
       "coords": [
@@ -822,53 +858,31 @@
       ],
       "category": "Military Hotspots",
       "severity": "High",
-      "summary": "Venezuela / Guyana is active on the public watch board with 1 report across 1 source. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 21:01:05 +0000",
+      "summary": "Venezuela / Guyana is active on the public watch board with 2 reports across 1 source. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "seenDate": "Thu, 19 Nov 2026 01:48:46 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 1,
-      "reportCount": 1,
+      "reportCount": 2,
       "confidence": "Single Source",
       "sources": [
         "Al Jazeera"
       ],
       "reports": [
+        {
+          "title": "Hegseth unveils new US-Venezuela military deal",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+          "seenDate": "Thu, 19 Nov 2026 01:48:46 +0000",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
         {
           "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
           "sourceName": "Al Jazeera",
           "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
           "seenDate": "Wed, 18 Nov 2026 21:01:05 +0000",
           "category": "Military Hotspots",
-          "severity": "High"
-        }
-      ]
-    },
-    {
-      "title": "South China Sea: public conflict signal",
-      "location": "South China Sea",
-      "coords": [
-        114.2,
-        12.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "South China Sea is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-      "seenDate": "Wed, 18 Nov 2026 18:09:57 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "reports": [
-        {
-          "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-          "seenDate": "Wed, 18 Nov 2026 18:09:57 +0000",
-          "category": "Conflict",
           "severity": "High"
         }
       ]
@@ -883,7 +897,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "GDELT",
@@ -892,7 +906,7 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "UN News Peace and Security",
@@ -901,7 +915,7 @@
       "items": 23,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "UN News Africa",
@@ -910,7 +924,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "International Crisis Group",
@@ -919,7 +933,7 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "BBC Africa",
@@ -928,7 +942,7 @@
       "items": 17,
       "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "BBC Middle East",
@@ -937,16 +951,16 @@
       "items": 25,
       "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 15,
+      "items": 12,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -955,16 +969,16 @@
       "items": 7,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 16,
-      "rawItems": 34,
+      "items": 14,
+      "rawItems": 33,
       "error": "",
-      "checkedAt": "2026-11-18T22:02:50.407Z"
+      "checkedAt": "2026-11-19T03:36:31.368Z"
     }
   ]
 }
