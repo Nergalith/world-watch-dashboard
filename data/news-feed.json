@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-20T03:27:18.126Z",
-  "checkedAt": "2026-11-20T03:27:18.126Z",
-  "lastLiveAt": "2026-11-20T03:27:18.126Z",
+  "generatedAt": "2026-11-20T13:03:02.323Z",
+  "checkedAt": "2026-11-20T13:03:02.323Z",
+  "lastLiveAt": "2026-11-20T13:03:02.323Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,22 +10,82 @@
   ],
   "items": [
     {
-      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-      "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 02:54:22 +0000"
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
-      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 02:25:33 +0000"
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 12:56:48 GMT"
     },
     {
-      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-      "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+      "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+      "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 01:06:15 +0000"
+      "publishedAt": "Fri, 20 Nov 2026 12:20:29 +0000"
+    },
+    {
+      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+      "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 12:19:24 +0000"
+    },
+    {
+      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+      "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 11:01:51 +0000"
+    },
+    {
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 10:56:02 GMT"
+    },
+    {
+      "title": "Drone operator removes Man United training footage and issues apology",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 10:37:20 +0000"
+    },
+    {
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 09:54:00 +0000"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 09:37:59 GMT"
+    },
+    {
+      "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 09:16:30 +0000"
+    },
+    {
+      "title": "Pakistan minister visits India for first time since 2025 war",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 09:11:57 +0000"
+    },
+    {
+      "title": "Russia’s day-long attack on Kyiv damages embassies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 08:56:08 +0000"
+    },
+    {
+      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 04:13:22 GMT"
     },
     {
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -34,70 +94,10 @@
       "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT"
     },
     {
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 00:31:02 +0000"
-    },
-    {
-      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 23:58:40 +0000"
-    },
-    {
       "title": "California targets Nvidia in China AI chip probe",
       "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT"
-    },
-    {
-      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 22:58:48 +0000"
-    },
-    {
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-      "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 21:58:27 +0000"
-    },
-    {
-      "title": "Haiti police say at least 34 suspected gang members killed in raid",
-      "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 21:39:39 +0000"
-    },
-    {
-      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 20:59:20 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 20:58:41 +0000"
-    },
-    {
-      "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-      "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 20:54:08 +0000"
-    },
-    {
-      "title": "Will the Shenzhen summit safeguard world peace?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 20:43:51 +0000"
-    },
-    {
-      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 20:30:54 +0000"
     },
     {
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
@@ -136,28 +136,16 @@
       "publishedAt": "Thu, 19 Nov 2026 13:07:35 GMT"
     },
     {
+      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+      "source": "UN News",
+      "publishedAt": "Thu, 19 Nov 2026 12:00:00 +0000"
+    },
+    {
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT"
-    },
-    {
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 23:28:03 GMT"
-    },
-    {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT"
-    },
-    {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 13:04:48 GMT"
     },
     {
       "title": "Dozens more children killed in Yemen amid escalating hostilities",
@@ -188,6 +176,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Lebanon leading the way in mental health support",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "source": "UN News",
+      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "source": "UN News",
+      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,28 +195,28 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-20T03:27:18.126Z"
+      "checkedAt": "2026-11-20T13:03:02.323Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 12,
-      "rawItems": 36,
+      "items": 14,
+      "rawItems": 37,
       "error": "",
-      "checkedAt": "2026-11-20T03:27:18.126Z"
+      "checkedAt": "2026-11-20T13:03:02.323Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 28,
+      "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-20T03:27:18.126Z"
+      "checkedAt": "2026-11-20T13:03:02.323Z"
     }
   ]
 }
