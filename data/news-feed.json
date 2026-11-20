@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-20T13:03:02.323Z",
-  "checkedAt": "2026-11-20T13:03:02.323Z",
-  "lastLiveAt": "2026-11-20T13:03:02.323Z",
+  "generatedAt": "2026-11-20T21:13:15.756Z",
+  "checkedAt": "2026-11-20T21:13:15.756Z",
+  "lastLiveAt": "2026-11-20T21:13:15.756Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,82 +10,112 @@
   ],
   "items": [
     {
+      "title": "Sudan’s war leaves disabled children missing out on education",
+      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 20:45:08 +0000"
+    },
+    {
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 20:30:46 +0000"
+    },
+    {
+      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 20:14:56 +0000"
+    },
+    {
+      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+      "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 19:57:05 +0000"
+    },
+    {
+      "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 19:12:14 +0000"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 19:03:56 GMT"
+    },
+    {
+      "title": "Former US national security adviser confronted by students on Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 18:51:26 +0000"
+    },
+    {
+      "title": "Swimming lessons offer Gaza’s children a moment of relief",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 18:43:37 +0000"
+    },
+    {
+      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+      "link": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 18:37:35 +0000"
+    },
+    {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 16:54:29 GMT"
+    },
+    {
+      "title": "Cost of living protests sweep across Europe",
+      "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 16:45:34 GMT"
+    },
+    {
+      "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+      "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 16:13:57 +0000"
+    },
+    {
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 15:55:16 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Palestinians return home to ruins",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 15:42:04 +0000"
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 20 Nov 2026 15:14:01 GMT"
+    },
+    {
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 12:56:48 GMT"
+      "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+      "source": "UN News",
+      "publishedAt": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 12:20:29 +0000"
-    },
-    {
-      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-      "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 12:19:24 +0000"
-    },
-    {
-      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-      "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 11:01:51 +0000"
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 10:56:02 GMT"
-    },
-    {
-      "title": "Drone operator removes Man United training footage and issues apology",
-      "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 10:37:20 +0000"
-    },
-    {
-      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-      "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 09:54:00 +0000"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 09:37:59 GMT"
-    },
-    {
-      "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-      "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 09:16:30 +0000"
-    },
-    {
-      "title": "Pakistan minister visits India for first time since 2025 war",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 09:11:57 +0000"
-    },
-    {
-      "title": "Russia’s day-long attack on Kyiv damages embassies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 08:56:08 +0000"
-    },
-    {
-      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 04:13:22 GMT"
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "source": "UN News",
+      "publishedAt": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -94,58 +124,16 @@
       "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT"
     },
     {
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT"
-    },
-    {
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 17:38:22 GMT"
-    },
-    {
       "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 19 Nov 2026 17:23:29 GMT"
     },
     {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 17:03:23 GMT"
-    },
-    {
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 13:31:23 GMT"
-    },
-    {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 13:07:35 GMT"
-    },
-    {
       "title": "Battle to control GPS and radio signals raises civilian safety concerns",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168843",
       "source": "UN News",
       "publishedAt": "Thu, 19 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT"
     },
     {
       "title": "Dozens more children killed in Yemen amid escalating hostilities",
@@ -188,6 +176,18 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
       "source": "UN News",
       "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+      "source": "UN News",
+      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "source": "UN News",
+      "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 10,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-20T13:03:02.323Z"
+      "checkedAt": "2026-11-20T21:13:15.756Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 14,
-      "rawItems": 37,
+      "items": 8,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-20T13:03:02.323Z"
+      "checkedAt": "2026-11-20T21:13:15.756Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-20T13:03:02.323Z"
+      "checkedAt": "2026-11-20T21:13:15.756Z"
     }
   ]
 }
