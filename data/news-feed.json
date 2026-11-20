@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-19T22:13:00.716Z",
-  "checkedAt": "2026-11-19T22:13:00.716Z",
-  "lastLiveAt": "2026-11-19T22:13:00.716Z",
+  "generatedAt": "2026-11-20T03:27:18.126Z",
+  "checkedAt": "2026-11-20T03:27:18.126Z",
+  "lastLiveAt": "2026-11-20T03:27:18.126Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,16 +10,64 @@
   ],
   "items": [
     {
-      "title": "Haiti police say at least 34 suspected gang members killed in raid",
-      "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 21:39:39 +0000"
+      "publishedAt": "Fri, 20 Nov 2026 02:54:22 +0000"
+    },
+    {
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 02:25:33 +0000"
+    },
+    {
+      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 01:06:15 +0000"
     },
     {
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Thu, 19 Nov 2026 21:21:43 GMT"
+      "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT"
+    },
+    {
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 20 Nov 2026 00:31:02 +0000"
+    },
+    {
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 23:58:40 +0000"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT"
+    },
+    {
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 22:58:48 +0000"
+    },
+    {
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 21:58:27 +0000"
+    },
+    {
+      "title": "Haiti police say at least 34 suspected gang members killed in raid",
+      "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 19 Nov 2026 21:39:39 +0000"
     },
     {
       "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
@@ -58,55 +106,13 @@
       "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT"
     },
     {
-      "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-      "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 19:53:24 +0000"
-    },
-    {
-      "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 19:40:23 +0000"
-    },
-    {
-      "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-      "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 19:33:25 +0000"
-    },
-    {
-      "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-      "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 19:23:45 +0000"
-    },
-    {
-      "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 19:01:00 +0000"
-    },
-    {
-      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-      "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 18:46:10 +0000"
-    },
-    {
-      "title": "Trump-Xi-Putin summit: Five things you need to know",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Thu, 19 Nov 2026 18:13:52 +0000"
-    },
-    {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 19 Nov 2026 17:38:22 GMT"
     },
     {
-      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 19 Nov 2026 17:23:29 GMT"
@@ -160,12 +166,6 @@
       "publishedAt": "Wed, 18 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 18 Nov 2026 10:23:57 GMT"
-    },
-    {
       "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
       "source": "UN News",
@@ -198,7 +198,7 @@
       "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-19T22:13:00.716Z"
+      "checkedAt": "2026-11-20T03:27:18.126Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 12,
       "rawItems": 36,
       "error": "",
-      "checkedAt": "2026-11-19T22:13:00.716Z"
+      "checkedAt": "2026-11-20T03:27:18.126Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-19T22:13:00.716Z"
+      "checkedAt": "2026-11-20T03:27:18.126Z"
     }
   ]
 }
