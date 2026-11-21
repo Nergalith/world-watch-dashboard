@@ -1,14 +1,74 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-21T18:05:01.170Z",
-  "checkedAt": "2026-11-21T18:05:01.170Z",
-  "lastLiveAt": "2026-11-21T18:05:01.170Z",
+  "generatedAt": "2026-11-21T23:25:48.918Z",
+  "checkedAt": "2026-11-21T23:25:48.918Z",
+  "lastLiveAt": "2026-11-21T23:25:48.918Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 22:02:03 +0000"
+    },
+    {
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 21:31:03 +0000"
+    },
+    {
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 21:11:54 +0000"
+    },
+    {
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 21:02:18 +0000"
+    },
+    {
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 20:56:35 +0000"
+    },
+    {
+      "title": "Thousands protest across Europe over living costs and housing",
+      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 20:47:50 +0000"
+    },
+    {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
+    },
+    {
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 18:42:38 +0000"
+    },
+    {
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 18:05:51 +0000"
+    },
+    {
+      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 17:57:27 +0000"
+    },
     {
       "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
@@ -40,58 +100,16 @@
       "publishedAt": "Sat, 21 Nov 2026 15:01:18 +0000"
     },
     {
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 14:15:36 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 14:06:06 +0000"
-    },
-    {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
-      "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 12:45:24 +0000"
-    },
-    {
-      "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-      "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 12:30:49 +0000"
-    },
-    {
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 12:29:49 +0000"
-    },
-    {
-      "title": "Mexico captures FBI-wanted cartel boss in military raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 11:53:56 +0000"
-    },
-    {
-      "title": "Migrants caravan in Mexico walks towards US border",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 11:04:10 +0000"
-    },
-    {
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 11:02:49 +0000"
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "source": "UN News",
+      "publishedAt": "Sat, 21 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -170,24 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
-      "source": "UN News",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Lebanon leading the way in mental health support",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-21T18:05:01.170Z"
+      "checkedAt": "2026-11-21T23:25:48.918Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 7,
-      "rawItems": 25,
+      "items": 8,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-11-21T18:05:01.170Z"
+      "checkedAt": "2026-11-21T23:25:48.918Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-21T18:05:01.170Z"
+      "checkedAt": "2026-11-21T23:25:48.918Z"
     }
   ]
 }
