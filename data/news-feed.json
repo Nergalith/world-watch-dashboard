@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-21T02:26:45.589Z",
-  "checkedAt": "2026-11-21T02:26:45.589Z",
-  "lastLiveAt": "2026-11-21T02:26:45.589Z",
+  "generatedAt": "2026-11-21T11:16:44.772Z",
+  "checkedAt": "2026-11-21T11:16:44.772Z",
+  "lastLiveAt": "2026-11-21T11:16:44.772Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,94 +10,94 @@
   ],
   "items": [
     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 21 Nov 2026 02:09:46 GMT"
+      "title": "Migrants caravan in Mexico walks towards US border",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 11:04:10 +0000"
     },
     {
-      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-      "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 01:12:48 +0000"
+      "publishedAt": "Sat, 21 Nov 2026 11:02:49 +0000"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 21 Nov 2026 10:26:36 GMT"
+    },
+    {
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 09:30:24 +0000"
+    },
+    {
+      "title": "Fire sprinkler sprays water at flame-covered sign in China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 09:20:40 +0000"
+    },
+    {
+      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 08:39:35 +0000"
+    },
+    {
+      "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 08:33:52 +0000"
+    },
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 21 Nov 2026 08:10:25 GMT"
+    },
+    {
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 21 Nov 2026 08:10:03 GMT"
+    },
+    {
+      "title": "Can mediation succeed in a war-torn world? | Episode 1",
+      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 07:38:38 +0000"
+    },
+    {
+      "title": "Emergency crews in Ukraine hit by a double-tap strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 07:12:03 +0000"
+    },
+    {
+      "title": "Sudan’s war will end, but will it be too late?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 06:32:04 +0000"
+    },
+    {
+      "title": "Netanyahu is playing with the fire that killed Rabin",
+      "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 06:21:03 +0000"
+    },
+    {
+      "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 05:46:29 +0000"
     },
     {
       "title": "ANC fights to keep control of South Africa's key cities after election setback",
       "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 21 Nov 2026 00:34:51 GMT"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 00:00:06 +0000"
-    },
-    {
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 23:20:50 +0000"
-    },
-    {
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 22:15:07 +0000"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 21:57:07 GMT"
-    },
-    {
-      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 21:05:07 +0000"
-    },
-    {
-      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-      "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 20:59:04 +0000"
-    },
-    {
-      "title": "Gaza’s displaced children celebrate World Children’s Day",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 20:45:09 +0000"
-    },
-    {
-      "title": "Sudan’s war leaves disabled children missing out on education",
-      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 20:45:08 +0000"
-    },
-    {
-      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-      "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 20:30:46 +0000"
-    },
-    {
-      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 20:14:56 +0000"
-    },
-    {
-      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-      "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 19:57:05 +0000"
-    },
-    {
-      "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 20 Nov 2026 19:12:14 +0000"
     },
     {
       "title": "Cost of living protests sweep across Europe",
@@ -116,12 +116,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 20 Nov 2026 15:14:01 GMT"
-    },
-    {
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
       "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
       "source": "UN News",
       "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "source": "UN News",
+      "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 12,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-21T02:26:45.589Z"
+      "checkedAt": "2026-11-21T11:16:44.772Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 7,
-      "rawItems": 25,
+      "rawItems": 24,
       "error": "",
-      "checkedAt": "2026-11-21T02:26:45.589Z"
+      "checkedAt": "2026-11-21T11:16:44.772Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-21T02:26:45.589Z"
+      "checkedAt": "2026-11-21T11:16:44.772Z"
     }
   ]
 }
