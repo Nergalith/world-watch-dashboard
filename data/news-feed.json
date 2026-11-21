@@ -1,14 +1,86 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-21T11:16:44.772Z",
-  "checkedAt": "2026-11-21T11:16:44.772Z",
-  "lastLiveAt": "2026-11-21T11:16:44.772Z",
+  "generatedAt": "2026-11-21T18:05:01.170Z",
+  "checkedAt": "2026-11-21T18:05:01.170Z",
+  "lastLiveAt": "2026-11-21T18:05:01.170Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 17:54:19 +0000"
+    },
+    {
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 17:20:03 +0000"
+    },
+    {
+      "title": "French presidential candidate blames media for racist attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 15:46:18 +0000"
+    },
+    {
+      "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 15:20:43 +0000"
+    },
+    {
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 15:01:18 +0000"
+    },
+    {
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 14:15:36 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 14:06:06 +0000"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sat, 21 Nov 2026 13:17:38 GMT"
+    },
+    {
+      "title": "Russian crew evacuating ship hit by drones off coast of Finland",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 12:45:24 +0000"
+    },
+    {
+      "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+      "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 12:30:49 +0000"
+    },
+    {
+      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 12:29:49 +0000"
+    },
+    {
+      "title": "Mexico captures FBI-wanted cartel boss in military raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 11:53:56 +0000"
+    },
     {
       "title": "Migrants caravan in Mexico walks towards US border",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
@@ -28,30 +100,6 @@
       "publishedAt": "Sat, 21 Nov 2026 10:26:36 GMT"
     },
     {
-      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 09:30:24 +0000"
-    },
-    {
-      "title": "Fire sprinkler sprays water at flame-covered sign in China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 09:20:40 +0000"
-    },
-    {
-      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 08:39:35 +0000"
-    },
-    {
-      "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 08:33:52 +0000"
-    },
-    {
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -64,36 +112,6 @@
       "publishedAt": "Sat, 21 Nov 2026 08:10:03 GMT"
     },
     {
-      "title": "Can mediation succeed in a war-torn world? | Episode 1",
-      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 07:38:38 +0000"
-    },
-    {
-      "title": "Emergency crews in Ukraine hit by a double-tap strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 07:12:03 +0000"
-    },
-    {
-      "title": "Sudan’s war will end, but will it be too late?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 06:32:04 +0000"
-    },
-    {
-      "title": "Netanyahu is playing with the fire that killed Rabin",
-      "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 06:21:03 +0000"
-    },
-    {
-      "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 05:46:29 +0000"
-    },
-    {
       "title": "ANC fights to keep control of South Africa's key cities after election setback",
       "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -104,12 +122,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 20 Nov 2026 16:45:34 GMT"
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 20 Nov 2026 15:55:16 GMT"
     },
     {
       "title": "What we know about the latest Russian missile strikes on Ukraine",
@@ -176,18 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
       "source": "UN News",
       "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
-      "source": "UN News",
-      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Nadia Murad: ‘Day by day, I took my story back’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168801",
-      "source": "UN News",
-      "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 11,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-21T11:16:44.772Z"
+      "checkedAt": "2026-11-21T18:05:01.170Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 7,
-      "rawItems": 24,
+      "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-21T11:16:44.772Z"
+      "checkedAt": "2026-11-21T18:05:01.170Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-21T11:16:44.772Z"
+      "checkedAt": "2026-11-21T18:05:01.170Z"
     }
   ]
 }
