@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-22T06:59:50.050Z",
-  "checkedAt": "2026-11-22T06:59:50.050Z",
-  "lastLiveAt": "2026-11-22T06:59:50.050Z",
+  "generatedAt": "2026-11-22T15:25:59.272Z",
+  "checkedAt": "2026-11-22T15:25:59.272Z",
+  "lastLiveAt": "2026-11-22T15:25:59.272Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,100 +10,94 @@
   ],
   "items": [
     {
-      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-      "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 05:21:46 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 15:03:38 +0000"
     },
     {
-      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-      "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 03:34:02 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 14:48:50 +0000"
     },
     {
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+      "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 02:14:18 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 14:35:55 +0000"
     },
     {
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 02:05:50 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 14:33:26 +0000"
     },
     {
-      "title": "Clashes erupt across France in another night of protest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 00:37:32 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 14:20:41 +0000"
+    },
+    {
+      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+      "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 14:00:31 +0000"
+    },
+    {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 13:16:45 +0000"
+    },
+    {
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 13:15:40 +0000"
+    },
+    {
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 12:31:30 +0000"
+    },
+    {
+      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 12:19:42 +0000"
+    },
+    {
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 11:46:42 +0000"
+    },
+    {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 22 Nov 2026 11:25:14 GMT"
+    },
+    {
+      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 11:15:27 +0000"
+    },
+    {
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
+      "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 10:39:50 +0000"
     },
     {
       "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
       "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 22 Nov 2026 00:10:37 GMT"
-    },
-    {
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 23:59:03 +0000"
-    },
-    {
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 23:44:00 +0000"
-    },
-    {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 23:18:14 +0000"
-    },
-    {
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 22:02:03 +0000"
-    },
-    {
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 21:31:03 +0000"
-    },
-    {
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 21:11:54 +0000"
-    },
-    {
-      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-      "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 21:02:18 +0000"
-    },
-    {
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 20:56:35 +0000"
-    },
-    {
-      "title": "Thousands protest across Europe over living costs and housing",
-      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 20:47:50 +0000"
-    },
-    {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "source": "UN News",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-22T06:59:50.050Z"
+      "checkedAt": "2026-11-22T15:25:59.272Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 9,
-      "rawItems": 27,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-22T06:59:50.050Z"
+      "checkedAt": "2026-11-22T15:25:59.272Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-22T06:59:50.050Z"
+      "checkedAt": "2026-11-22T15:25:59.272Z"
     }
   ]
 }
