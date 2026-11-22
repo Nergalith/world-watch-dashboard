@@ -1,14 +1,68 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-21T23:25:48.918Z",
-  "checkedAt": "2026-11-21T23:25:48.918Z",
-  "lastLiveAt": "2026-11-21T23:25:48.918Z",
+  "generatedAt": "2026-11-22T06:59:50.050Z",
+  "checkedAt": "2026-11-22T06:59:50.050Z",
+  "lastLiveAt": "2026-11-22T06:59:50.050Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 05:21:46 +0000"
+    },
+    {
+      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+      "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 03:34:02 +0000"
+    },
+    {
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 02:14:18 +0000"
+    },
+    {
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 02:05:50 +0000"
+    },
+    {
+      "title": "Clashes erupt across France in another night of protest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 00:37:32 +0000"
+    },
+    {
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 22 Nov 2026 00:10:37 GMT"
+    },
+    {
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 23:59:03 +0000"
+    },
+    {
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 23:44:00 +0000"
+    },
+    {
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 21 Nov 2026 23:18:14 +0000"
+    },
     {
       "title": "Bahrain says Iranian attack hits industrial facility",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
@@ -50,54 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
-    },
-    {
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 18:42:38 +0000"
-    },
-    {
-      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 18:05:51 +0000"
-    },
-    {
-      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 17:57:27 +0000"
-    },
-    {
-      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 17:54:19 +0000"
-    },
-    {
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 17:20:03 +0000"
-    },
-    {
-      "title": "French presidential candidate blames media for racist attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 15:46:18 +0000"
-    },
-    {
-      "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 15:20:43 +0000"
-    },
-    {
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sat, 21 Nov 2026 15:01:18 +0000"
     },
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
       "source": "UN News",
       "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
-      "source": "UN News",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -198,16 +198,16 @@
       "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-21T23:25:48.918Z"
+      "checkedAt": "2026-11-22T06:59:50.050Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 8,
+      "items": 9,
       "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-11-21T23:25:48.918Z"
+      "checkedAt": "2026-11-22T06:59:50.050Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-21T23:25:48.918Z"
+      "checkedAt": "2026-11-22T06:59:50.050Z"
     }
   ]
 }
