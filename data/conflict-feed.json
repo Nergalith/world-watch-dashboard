@@ -1,10 +1,10 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-22T15:25:59.272Z",
-  "checkedAt": "2026-11-22T15:25:59.272Z",
-  "lastLiveAt": "2026-11-22T15:25:59.272Z",
+  "generatedAt": "2026-11-22T21:52:22.885Z",
+  "checkedAt": "2026-11-22T21:52:22.885Z",
+  "lastLiveAt": "2026-11-22T21:52:22.885Z",
   "statusLabel": "Live public feeds",
-  "liveItemCount": 120,
+  "liveItemCount": 122,
   "events": [
     {
       "title": "Israel / Gaza: high-signal conflict watch",
@@ -15,12 +15,12 @@
       ],
       "category": "Conflict",
       "severity": "Critical",
-      "summary": "Israel / Gaza is active on the public watch board with 20 reports across 4 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 14:30:27 +0000",
+      "summary": "Israel / Gaza is active on the public watch board with 18 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "seenDate": "Sun, 22 Nov 2026 16:50:48 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 20,
+      "reportCount": 18,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -30,26 +30,10 @@
       ],
       "reports": [
         {
-          "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+          "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 14:30:27 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 13:15:40 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        },
-        {
-          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 12:19:42 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 16:50:48 +0000",
           "category": "Conflict",
           "severity": "Critical"
         },
@@ -68,6 +52,22 @@
           "seenDate": "Thu, 19 Nov 2026 17:03:23 GMT",
           "category": "Military Hotspots",
           "severity": "High"
+        },
+        {
+          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 17 Nov 2026 20:30:20 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Tue, 17 Nov 2026 18:27:27 GMT",
+          "category": "Conflict",
+          "severity": "High"
         }
       ]
     },
@@ -78,17 +78,16 @@
         43.33,
         12.58
       ],
-      "category": "Military Hotspots",
+      "category": "Conflict",
       "severity": "Critical",
-      "summary": "Red Sea / Yemen is active on the public watch board with 15 reports across 5 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 13:16:45 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 5,
+      "summary": "Red Sea / Yemen is active on the public watch board with 15 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+      "seenDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "sourceName": "UN News - Global perspective Human stories",
+      "sourceCount": 4,
       "reportCount": 15,
       "confidence": "High Signal",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East",
         "International Crisis Group",
         "UN News - Global perspective Human stories",
@@ -96,11 +95,11 @@
       ],
       "reports": [
         {
-          "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 13:16:45 +0000",
-          "category": "Military Hotspots",
+          "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+          "seenDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
           "severity": "Critical"
         },
         {
@@ -144,14 +143,14 @@
         30.2,
         15.7
       ],
-      "category": "Military Hotspots",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Sudan is active on the public watch board with 14 reports across 4 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 15:03:38 +0000",
+      "summary": "Sudan is active on the public watch board with 15 reports across 4 sources. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "seenDate": "Sun, 22 Nov 2026 18:12:07 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 4,
-      "reportCount": 14,
+      "reportCount": 15,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -160,6 +159,14 @@
         "UN News - Global perspective Human stories"
       ],
       "reports": [
+        {
+          "title": "Civilians killed in RSF drone strikes in Sudan",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 18:12:07 +0000",
+          "category": "Uprisings/Protests",
+          "severity": "Critical"
+        },
         {
           "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
           "sourceName": "Al Jazeera",
@@ -191,14 +198,6 @@
           "seenDate": "Wed, 11 Nov 2026 09:28:36 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
-        },
-        {
-          "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-          "sourceName": "UN News - Global perspective Human stories",
-          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-          "seenDate": "Tue, 10 Nov 2026 12:00:00 +0000",
-          "category": "Conflict",
-          "severity": "High"
         }
       ]
     },
@@ -209,14 +208,14 @@
         36.23,
         49.99
       ],
-      "category": "Uprisings/Protests",
+      "category": "Military Hotspots",
       "severity": "Critical",
-      "summary": "Ukraine is active on the public watch board with 13 reports across 5 sources. Category is currently assessed as Uprisings/Protests.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 14:48:50 +0000",
-      "sourceName": "Al Jazeera",
+      "summary": "Ukraine is active on the public watch board with 14 reports across 5 sources. Category is currently assessed as Military Hotspots.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Sun, 22 Nov 2026 20:28:09 GMT",
+      "sourceName": "BBC Africa",
       "sourceCount": 5,
-      "reportCount": 13,
+      "reportCount": 14,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -227,43 +226,43 @@
       ],
       "reports": [
         {
-          "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "sourceName": "BBC Africa",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 22 Nov 2026 20:28:09 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Suspected drone attack causes explosion on Russian ship in Libya",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 14:48:50 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 18:11:30 +0000",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 22 Nov 2026 17:57:43 GMT",
           "category": "Uprisings/Protests",
           "severity": "Critical"
         },
         {
-          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
           "sourceName": "BBC World News",
           "sourceUrl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sun, 22 Nov 2026 11:25:14 GMT",
+          "seenDate": "Sun, 22 Nov 2026 17:18:26 GMT",
           "category": "Conflict",
           "severity": "Critical"
         },
         {
-          "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+          "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 11:15:27 +0000",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 17:12:48 +0000",
           "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Russian cargo ship still on fire off Finland after drone attack",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 10:39:50 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "sourceName": "BBC World News",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-          "seenDate": "Sat, 21 Nov 2026 13:17:38 GMT",
-          "category": "Uprisings/Protests",
           "severity": "Critical"
         }
       ]
@@ -333,50 +332,25 @@
       ]
     },
     {
-      "title": "Iran: high-signal conflict watch",
+      "title": "Iran: repeated public reporting",
       "location": "Iran",
       "coords": [
         53.7,
         32.4
       ],
-      "category": "Military Hotspots",
+      "category": "Uprisings/Protests",
       "severity": "Critical",
-      "summary": "Iran is active on the public watch board with 11 reports across 2 sources. Category is currently assessed as Military Hotspots.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 14:20:41 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 2,
-      "reportCount": 11,
-      "confidence": "High Signal",
+      "summary": "Iran is active on the public watch board with 8 reports across 1 source. Category is currently assessed as Uprisings/Protests.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "seenDate": "Wed, 18 Nov 2026 13:04:48 GMT",
+      "sourceName": "BBC Middle East",
+      "sourceCount": 1,
+      "reportCount": 8,
+      "confidence": "Multiple Reports",
       "sources": [
-        "Al Jazeera",
         "BBC Middle East"
       ],
       "reports": [
-        {
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 14:20:41 +0000",
-          "category": "Military Hotspots",
-          "severity": "Critical"
-        },
-        {
-          "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 12:31:30 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
-        {
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 11:46:42 +0000",
-          "category": "Conflict",
-          "severity": "Critical"
-        },
         {
           "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
           "sourceName": "BBC Middle East",
@@ -392,6 +366,30 @@
           "seenDate": "Tue, 17 Nov 2026 17:37:04 GMT",
           "category": "Conflict",
           "severity": "High"
+        },
+        {
+          "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Mon, 16 Nov 2026 23:01:47 GMT",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 15 Nov 2026 13:42:58 GMT",
+          "category": "Military Hotspots",
+          "severity": "Critical"
+        },
+        {
+          "title": "Could Democrats in Congress end the war in Iran?",
+          "sourceName": "BBC Middle East",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Wed, 04 Nov 2026 22:14:41 GMT",
+          "category": "Conflict",
+          "severity": "Critical"
         }
       ]
     },
@@ -545,12 +543,12 @@
       ],
       "category": "Infrastructure",
       "severity": "High",
-      "summary": "Taiwan Strait is active on the public watch board with 7 reports across 5 sources. Category is currently assessed as Infrastructure.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 14:35:55 +0000",
+      "summary": "Taiwan Strait is active on the public watch board with 9 reports across 5 sources. Category is currently assessed as Infrastructure.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+      "seenDate": "Sun, 22 Nov 2026 21:26:12 +0000",
       "sourceName": "Al Jazeera",
       "sourceCount": 5,
-      "reportCount": 7,
+      "reportCount": 9,
       "confidence": "High Signal",
       "sources": [
         "Al Jazeera",
@@ -561,18 +559,34 @@
       ],
       "reports": [
         {
-          "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+          "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 14:35:55 +0000",
+          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 21:26:12 +0000",
           "category": "Infrastructure",
           "severity": "High"
         },
         {
-          "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+          "title": "On China, is Trump bucking the US national security establishment?",
           "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 11:07:30 +0000",
+          "sourceUrl": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 19:30:00 +0000",
+          "category": "Infrastructure",
+          "severity": "High"
+        },
+        {
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+          "sourceName": "BBC World News",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+          "seenDate": "Sun, 22 Nov 2026 18:29:46 GMT",
+          "category": "Military Hotspots",
+          "severity": "High"
+        },
+        {
+          "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 14:35:55 +0000",
           "category": "Infrastructure",
           "severity": "High"
         },
@@ -583,27 +597,11 @@
           "seenDate": "Sat, 21 Nov 2026 00:01:39 GMT",
           "category": "Infrastructure",
           "severity": "High"
-        },
-        {
-          "title": "OCHA @COP31",
-          "sourceName": "UN OCHA (Humanitarian)",
-          "sourceUrl": "https://www.unocha.org/ocha-cop31",
-          "seenDate": "Wed, 18 Nov 2026 21:30:59 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
-        },
-        {
-          "title": "Frank Giustra on Why Business Needs Peace",
-          "sourceName": "International Crisis Group",
-          "sourceUrl": "https://www.crisisgroup.org/vid/global/frank-giustra-why-business-needs-peace",
-          "seenDate": "Thu, 12 Nov 2026 09:02:28 +0000",
-          "category": "Infrastructure",
-          "severity": "High"
         }
       ]
     },
     {
-      "title": "Pakistan / Afghanistan: corroborated conflict signal",
+      "title": "Pakistan / Afghanistan: high-signal conflict watch",
       "location": "Pakistan / Afghanistan",
       "coords": [
         69.2,
@@ -611,19 +609,36 @@
       ],
       "category": "Conflict",
       "severity": "High",
-      "summary": "Pakistan / Afghanistan is active on the public watch board with 3 reports across 3 sources. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-somalia-ukraine",
-      "seenDate": "Tue, 17 Nov 2026 18:29:35 +0000",
-      "sourceName": "UN OCHA (Humanitarian)",
-      "sourceCount": 3,
-      "reportCount": 3,
-      "confidence": "Corroborated",
+      "summary": "Pakistan / Afghanistan is active on the public watch board with 5 reports across 4 sources. Category is currently assessed as Conflict.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+      "seenDate": "Sun, 22 Nov 2026 17:46:32 +0000",
+      "sourceName": "Al Jazeera",
+      "sourceCount": 4,
+      "reportCount": 5,
+      "confidence": "High Signal",
       "sources": [
+        "Al Jazeera",
         "International Crisis Group",
         "UN News - Global perspective Human stories",
         "UN OCHA (Humanitarian)"
       ],
       "reports": [
+        {
+          "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+          "sourceName": "Al Jazeera",
+          "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+          "seenDate": "Sun, 22 Nov 2026 17:46:32 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
+        {
+          "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+          "sourceName": "UN News - Global perspective Human stories",
+          "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+          "seenDate": "Sun, 22 Nov 2026 12:00:00 +0000",
+          "category": "Conflict",
+          "severity": "High"
+        },
         {
           "title": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño",
           "sourceName": "UN OCHA (Humanitarian)",
@@ -766,36 +781,6 @@
       ]
     },
     {
-      "title": "Iraq: public conflict signal",
-      "location": "Iraq",
-      "coords": [
-        43.7,
-        33.2
-      ],
-      "category": "Conflict",
-      "severity": "High",
-      "summary": "Iraq is active on the public watch board with 1 report across 1 source. Category is currently assessed as Conflict.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-      "seenDate": "Sun, 22 Nov 2026 14:00:31 +0000",
-      "sourceName": "Al Jazeera",
-      "sourceCount": 1,
-      "reportCount": 1,
-      "confidence": "Single Source",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "reports": [
-        {
-          "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-          "sourceName": "Al Jazeera",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-          "seenDate": "Sun, 22 Nov 2026 14:00:31 +0000",
-          "category": "Conflict",
-          "severity": "High"
-        }
-      ]
-    },
-    {
       "title": "Korean Peninsula: public conflict signal",
       "location": "Korean Peninsula",
       "coords": [
@@ -835,7 +820,7 @@
       "items": 0,
       "rawItems": null,
       "error": "No API key configured (optional)",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "GDELT",
@@ -844,16 +829,16 @@
       "items": 0,
       "rawItems": null,
       "error": "HTTP 429",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "UN News Peace and Security",
       "kind": "conflict",
       "status": "up",
-      "items": 22,
+      "items": 24,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "UN News Africa",
@@ -862,7 +847,7 @@
       "items": 22,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "International Crisis Group",
@@ -871,16 +856,16 @@
       "items": 10,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "BBC Africa",
       "kind": "conflict",
       "status": "up",
-      "items": 12,
-      "rawItems": 27,
+      "items": 13,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "BBC Middle East",
@@ -889,16 +874,16 @@
       "items": 24,
       "rawItems": 26,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "Al Jazeera",
       "kind": "conflict",
       "status": "up",
-      "items": 15,
+      "items": 11,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "UN OCHA (Humanitarian)",
@@ -907,16 +892,16 @@
       "items": 7,
       "rawItems": 10,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     },
     {
       "name": "BBC World News",
       "kind": "conflict",
       "status": "up",
-      "items": 8,
-      "rawItems": 28,
+      "items": 11,
+      "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-11-22T15:25:59.272Z"
+      "checkedAt": "2026-11-22T21:52:22.885Z"
     }
   ]
 }
