@@ -1,14 +1,62 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-22T21:52:22.885Z",
-  "checkedAt": "2026-11-22T21:52:22.885Z",
-  "lastLiveAt": "2026-11-22T21:52:22.885Z",
+  "generatedAt": "2026-11-23T02:52:40.256Z",
+  "checkedAt": "2026-11-23T02:52:40.256Z",
+  "lastLiveAt": "2026-11-23T02:52:40.256Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 23 Nov 2026 01:53:23 +0000"
+    },
+    {
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 23 Nov 2026 01:51:32 +0000"
+    },
+    {
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 23 Nov 2026 01:43:29 +0000"
+    },
+    {
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 23 Nov 2026 00:39:51 +0000"
+    },
+    {
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Mon, 23 Nov 2026 00:18:03 +0000"
+    },
+    {
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 23:59:22 +0000"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Sun, 22 Nov 2026 22:37:43 GMT"
+    },
+    {
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sun, 22 Nov 2026 22:01:48 +0000"
+    },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
@@ -22,64 +70,10 @@
       "publishedAt": "Sun, 22 Nov 2026 19:30:00 +0000"
     },
     {
-      "title": "Civilians killed in RSF drone strikes in Sudan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 18:12:07 +0000"
-    },
-    {
-      "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 18:11:30 +0000"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Sun, 22 Nov 2026 17:57:43 GMT"
-    },
-    {
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Sun, 22 Nov 2026 17:18:26 GMT"
-    },
-    {
-      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-      "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 17:12:48 +0000"
-    },
-    {
-      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 16:50:48 +0000"
-    },
-    {
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 16:33:26 +0000"
-    },
-    {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 15:03:38 +0000"
-    },
-    {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 14:48:50 +0000"
-    },
-    {
-      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-      "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Sun, 22 Nov 2026 14:35:55 +0000"
     },
     {
       "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
@@ -188,6 +182,12 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
       "source": "UN News",
       "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "source": "UN News",
+      "publishedAt": "Mon, 16 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,10 +195,10 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 9,
+      "items": 8,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-22T21:52:22.885Z"
+      "checkedAt": "2026-11-23T02:52:40.256Z"
     },
     {
       "name": "BBC",
@@ -207,7 +207,7 @@
       "items": 10,
       "rawItems": 35,
       "error": "",
-      "checkedAt": "2026-11-22T21:52:22.885Z"
+      "checkedAt": "2026-11-23T02:52:40.256Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-22T21:52:22.885Z"
+      "checkedAt": "2026-11-23T02:52:40.256Z"
     }
   ]
 }
