@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-25T04:55:37.588Z",
-  "checkedAt": "2026-11-25T04:55:37.588Z",
-  "lastLiveAt": "2026-11-25T04:55:37.588Z",
+  "generatedAt": "2026-11-25T15:43:20.924Z",
+  "checkedAt": "2026-11-25T15:43:20.924Z",
+  "lastLiveAt": "2026-11-25T15:43:20.924Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,22 +10,76 @@
   ],
   "items": [
     {
-      "title": "Israeli strike kills four people in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 04:13:58 +0000"
+      "publishedAt": "Wed, 25 Nov 2026 15:15:53 +0000"
     },
     {
-      "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 04:12:11 +0000"
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 14:46:41 GMT"
     },
     {
-      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
-      "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
+      "link": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 03:31:59 +0000"
+      "publishedAt": "Wed, 25 Nov 2026 13:37:51 +0000"
+    },
+    {
+      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+      "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 13:04:17 +0000"
+    },
+    {
+      "title": "Solomon Islands signs security deal with Australia",
+      "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 13:02:45 +0000"
+    },
+    {
+      "title": "Bangladesh garment workers protest over new wages",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 12:23:41 +0000"
+    },
+    {
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 12:21:49 GMT"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill five, cause power outages in five regions",
+      "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 12:19:17 +0000"
+    },
+    {
+      "title": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
+      "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 11:58:15 +0000"
+    },
+    {
+      "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 11:50:50 +0000"
+    },
+    {
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 11:45:16 GMT"
+    },
+    {
+      "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
+      "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 11:24:37 +0000"
     },
     {
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
@@ -34,22 +88,10 @@
       "publishedAt": "Wed, 25 Nov 2026 03:28:37 GMT"
     },
     {
-      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 01:30:44 +0000"
-    },
-    {
-      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 01:21:02 +0000"
-    },
-    {
-      "title": "Poll finds US voters want government to end Iran war regardless of terms",
-      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 01:14:22 +0000"
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 03:15:12 GMT"
     },
     {
       "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
@@ -64,94 +106,22 @@
       "publishedAt": "Wed, 25 Nov 2026 00:58:34 GMT"
     },
     {
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 00:56:51 GMT"
-    },
-    {
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 25 Nov 2026 00:54:13 GMT"
     },
     {
-      "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 23:39:13 +0000"
-    },
-    {
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 23:29:40 +0000"
-    },
-    {
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
       "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 23:05:11 GMT"
-    },
-    {
-      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 21:43:34 +0000"
-    },
-    {
-      "title": "Russian jets spark air raid alert in South Korea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 21:14:57 +0000"
-    },
-    {
-      "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 20:58:41 +0000"
-    },
-    {
-      "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-      "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 20:35:03 +0000"
-    },
-    {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 19:27:23 GMT"
-    },
-    {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 17:04:00 GMT"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 15:35:53 GMT"
-    },
-    {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 15:17:28 GMT"
-    },
-    {
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 12:45:43 GMT"
     },
     {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
@@ -172,22 +142,52 @@
       "publishedAt": "Tue, 24 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 11:45:52 GMT"
+      "title": "Gaza war has undone 77 years of human development, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+      "source": "UN News",
+      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 10:58:51 GMT"
+      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "source": "UN News",
+      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+      "source": "UN News",
+      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Libya: UN mission urges probe into Benghazi port attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+      "source": "UN News",
+      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 07:26:27 GMT"
+      "publishedAt": "Mon, 23 Nov 2026 11:34:10 GMT"
+    },
+    {
+      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+      "source": "UN News",
+      "publishedAt": "Sun, 22 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+      "source": "UN News",
+      "publishedAt": "Sat, 21 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "source": "UN News",
+      "publishedAt": "Sat, 21 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-25T04:55:37.588Z"
+      "checkedAt": "2026-11-25T15:43:20.924Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 15,
-      "rawItems": 37,
+      "items": 11,
+      "rawItems": 28,
       "error": "",
-      "checkedAt": "2026-11-25T04:55:37.588Z"
+      "checkedAt": "2026-11-25T15:43:20.924Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-25T04:55:37.588Z"
+      "checkedAt": "2026-11-25T15:43:20.924Z"
     }
   ]
 }
