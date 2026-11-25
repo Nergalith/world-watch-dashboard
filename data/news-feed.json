@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-24T21:19:44.239Z",
-  "checkedAt": "2026-11-24T21:19:44.239Z",
-  "lastLiveAt": "2026-11-24T21:19:44.239Z",
+  "generatedAt": "2026-11-25T04:55:37.588Z",
+  "checkedAt": "2026-11-25T04:55:37.588Z",
+  "lastLiveAt": "2026-11-25T04:55:37.588Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,106 @@
   ],
   "items": [
     {
-      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-      "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "title": "Israeli strike kills four people in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 21:04:46 +0000"
+      "publishedAt": "Wed, 25 Nov 2026 04:13:58 +0000"
+    },
+    {
+      "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 04:12:11 +0000"
+    },
+    {
+      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 03:31:59 +0000"
+    },
+    {
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 03:28:37 GMT"
+    },
+    {
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 01:30:44 +0000"
+    },
+    {
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 01:21:02 +0000"
+    },
+    {
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 01:14:22 +0000"
+    },
+    {
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 01:00:36 GMT"
+    },
+    {
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 00:58:34 GMT"
+    },
+    {
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 00:56:51 GMT"
+    },
+    {
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 00:54:13 GMT"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 24 Nov 2026 23:39:13 +0000"
+    },
+    {
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 24 Nov 2026 23:29:40 +0000"
+    },
+    {
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Tue, 24 Nov 2026 23:05:11 GMT"
+    },
+    {
+      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 24 Nov 2026 21:43:34 +0000"
+    },
+    {
+      "title": "Russian jets spark air raid alert in South Korea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Tue, 24 Nov 2026 21:14:57 +0000"
     },
     {
       "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
@@ -28,100 +124,16 @@
       "publishedAt": "Tue, 24 Nov 2026 20:35:03 +0000"
     },
     {
-      "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 20:18:19 +0000"
-    },
-    {
-      "title": "Turkish military helicopter crash kills five in western Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 19:52:21 +0000"
-    },
-    {
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 19:27:23 GMT"
     },
     {
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 19:22:44 +0000"
-    },
-    {
-      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 19:19:50 +0000"
-    },
-    {
-      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-      "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 19:02:49 +0000"
-    },
-    {
-      "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-      "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 18:47:05 +0000"
-    },
-    {
-      "title": "Is Libya a new front in the Ukraine war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 18:38:49 +0000"
-    },
-    {
-      "title": "Senior Hamas security official killed in Israeli drone strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 18:20:00 +0000"
-    },
-    {
-      "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-      "link": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
-      "link": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 17:39:18 +0000"
-    },
-    {
-      "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-      "link": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 17:25:57 +0000"
-    },
-    {
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 17:05:45 +0000"
-    },
-    {
       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 17:04:00 GMT"
-    },
-    {
-      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 16:33:03 +0000"
-    },
-    {
-      "title": "Qatar urges restraint and dialogue amid US-Iran tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Tue, 24 Nov 2026 16:11:54 +0000"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -140,6 +152,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 12:45:43 GMT"
+    },
+    {
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "source": "UN News",
+      "publishedAt": "Tue, 24 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
@@ -170,24 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 07:26:27 GMT"
-    },
-    {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 23 Nov 2026 20:48:35 GMT"
-    },
-    {
-      "title": "Gaza war has undone 77 years of human development, UN warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168862",
-      "source": "UN News",
-      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168859",
-      "source": "UN News",
-      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 17,
+      "items": 13,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-24T21:19:44.239Z"
+      "checkedAt": "2026-11-25T04:55:37.588Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 11,
-      "rawItems": 31,
+      "items": 15,
+      "rawItems": 37,
       "error": "",
-      "checkedAt": "2026-11-24T21:19:44.239Z"
+      "checkedAt": "2026-11-25T04:55:37.588Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 27,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-24T21:19:44.239Z"
+      "checkedAt": "2026-11-25T04:55:37.588Z"
     }
   ]
 }
