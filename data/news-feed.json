@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-25T15:43:20.924Z",
-  "checkedAt": "2026-11-25T15:43:20.924Z",
-  "lastLiveAt": "2026-11-25T15:43:20.924Z",
+  "generatedAt": "2026-11-26T00:29:07.817Z",
+  "checkedAt": "2026-11-26T00:29:07.817Z",
+  "lastLiveAt": "2026-11-26T00:29:07.817Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,76 @@
   ],
   "items": [
     {
-      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 15:15:53 +0000"
+      "publishedAt": "Thu, 26 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 21:51:17 GMT"
+    },
+    {
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 21:03:51 +0000"
+    },
+    {
+      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 20:29:22 +0000"
+    },
+    {
+      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 19:16:15 +0000"
+    },
+    {
+      "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+      "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 19:15:52 +0000"
+    },
+    {
+      "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+      "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 19:15:01 +0000"
+    },
+    {
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 18:41:33 GMT"
+    },
+    {
+      "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+      "link": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 18:14:44 +0000"
+    },
+    {
+      "title": "Ecuador and US review joint military operations, official says",
+      "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 17:50:41 +0000"
+    },
+    {
+      "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+      "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Wed, 25 Nov 2026 17:29:51 +0000"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 16:21:34 GMT"
     },
     {
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
@@ -22,28 +88,10 @@
       "publishedAt": "Wed, 25 Nov 2026 14:46:41 GMT"
     },
     {
-      "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 13:37:51 +0000"
-    },
-    {
-      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-      "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 13:04:17 +0000"
-    },
-    {
-      "title": "Solomon Islands signs security deal with Australia",
-      "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 13:02:45 +0000"
-    },
-    {
-      "title": "Bangladesh garment workers protest over new wages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 12:23:41 +0000"
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Wed, 25 Nov 2026 14:06:13 GMT"
     },
     {
       "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
@@ -52,46 +100,34 @@
       "publishedAt": "Wed, 25 Nov 2026 12:21:49 GMT"
     },
     {
-      "title": "Russian strikes on Ukraine kill five, cause power outages in five regions",
-      "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 12:19:17 +0000"
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
-      "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 11:58:15 +0000"
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 11:50:50 +0000"
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 11:45:16 GMT"
-    },
-    {
-      "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
-      "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 11:24:37 +0000"
+      "publishedAt": "Wed, 25 Nov 2026 10:03:42 GMT"
     },
     {
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 25 Nov 2026 03:28:37 GMT"
-    },
-    {
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 03:15:12 GMT"
     },
     {
       "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
@@ -116,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Tue, 24 Nov 2026 23:05:11 GMT"
-    },
-    {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 15:35:53 GMT"
     },
     {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
@@ -158,36 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
       "source": "UN News",
       "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Libya: UN mission urges probe into Benghazi port attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168857",
-      "source": "UN News",
-      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Mon, 23 Nov 2026 11:34:10 GMT"
-    },
-    {
-      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168852",
-      "source": "UN News",
-      "publishedAt": "Sun, 22 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-      "source": "UN News",
-      "publishedAt": "Sat, 21 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "source": "UN News",
-      "publishedAt": "Sat, 21 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -198,25 +198,25 @@
       "items": 9,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-25T15:43:20.924Z"
+      "checkedAt": "2026-11-26T00:29:07.817Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 11,
-      "rawItems": 28,
+      "items": 13,
+      "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-25T15:43:20.924Z"
+      "checkedAt": "2026-11-26T00:29:07.817Z"
     },
     {
       "name": "UN News",
       "kind": "news",
       "status": "up",
-      "items": 27,
+      "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-25T15:43:20.924Z"
+      "checkedAt": "2026-11-26T00:29:07.817Z"
     }
   ]
 }
