@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-26T00:29:07.817Z",
-  "checkedAt": "2026-11-26T00:29:07.817Z",
-  "lastLiveAt": "2026-11-26T00:29:07.817Z",
+  "generatedAt": "2026-11-26T09:38:21.416Z",
+  "checkedAt": "2026-11-26T09:38:21.416Z",
+  "lastLiveAt": "2026-11-26T09:38:21.416Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,10 +10,112 @@
   ],
   "items": [
     {
-      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+      "link": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Thu, 26 Nov 2026 00:00:00 +0000"
+      "publishedAt": "Thu, 26 Nov 2026 09:00:06 +0000"
+    },
+    {
+      "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 08:54:49 +0000"
+    },
+    {
+      "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
+      "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 08:49:20 +0000"
+    },
+    {
+      "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 08:29:53 +0000"
+    },
+    {
+      "title": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 08:23:51 +0000"
+    },
+    {
+      "title": "Photos: Rallies around the world denounce violence against women",
+      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 07:43:14 +0000"
+    },
+    {
+      "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+      "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 07:41:30 +0000"
+    },
+    {
+      "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+      "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 07:38:00 +0000"
+    },
+    {
+      "title": "DR Congo demands answers over Ugandan general's threats",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 26 Nov 2026 07:24:39 GMT"
+    },
+    {
+      "title": "War and drought threaten livelihoods of Sudan’s farmers",
+      "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:56:34 +0000"
+    },
+    {
+      "title": "The world must choose between nuclear abolition and nuclear catastrophe",
+      "link": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:53:05 +0000"
+    },
+    {
+      "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
+      "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:14:15 +0000"
+    },
+    {
+      "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:12:53 +0000"
+    },
+    {
+      "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+      "link": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:10:52 +0000"
+    },
+    {
+      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+      "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 06:07:35 +0000"
+    },
+    {
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 26 Nov 2026 06:01:58 GMT"
+    },
+    {
+      "title": "Racecourse office blown away in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Thu, 26 Nov 2026 04:17:31 +0000"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Thu, 26 Nov 2026 04:10:58 GMT"
     },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -22,82 +124,16 @@
       "publishedAt": "Wed, 25 Nov 2026 21:51:17 GMT"
     },
     {
-      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 21:03:51 +0000"
-    },
-    {
-      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-      "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 20:29:22 +0000"
-    },
-    {
-      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 19:16:15 +0000"
-    },
-    {
-      "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-      "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 19:15:52 +0000"
-    },
-    {
-      "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-      "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 19:15:01 +0000"
-    },
-    {
-      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 18:41:33 GMT"
-    },
-    {
-      "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-      "link": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 18:14:44 +0000"
-    },
-    {
-      "title": "Ecuador and US review joint military operations, official says",
-      "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 17:50:41 +0000"
-    },
-    {
-      "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
-      "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Wed, 25 Nov 2026 17:29:51 +0000"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 16:21:34 GMT"
+      "publishedAt": "Wed, 25 Nov 2026 19:38:05 GMT"
     },
     {
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 25 Nov 2026 14:46:41 GMT"
-    },
-    {
-      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 14:06:13 GMT"
-    },
-    {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 12:21:49 GMT"
     },
     {
       "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
@@ -118,40 +154,10 @@
       "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Protesters call on Israel to free Palestinian student held without charge",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 10:03:42 GMT"
-    },
-    {
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Wed, 25 Nov 2026 03:28:37 GMT"
-    },
-    {
-      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 01:00:36 GMT"
-    },
-    {
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 00:58:34 GMT"
-    },
-    {
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Wed, 25 Nov 2026 00:54:13 GMT"
-    },
-    {
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Tue, 24 Nov 2026 23:05:11 GMT"
     },
     {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
@@ -182,12 +188,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168859",
       "source": "UN News",
       "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
-      "source": "UN News",
-      "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 9,
+      "items": 15,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-26T00:29:07.817Z"
+      "checkedAt": "2026-11-26T09:38:21.416Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 13,
-      "rawItems": 32,
+      "items": 7,
+      "rawItems": 27,
       "error": "",
-      "checkedAt": "2026-11-26T00:29:07.817Z"
+      "checkedAt": "2026-11-26T09:38:21.416Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-26T00:29:07.817Z"
+      "checkedAt": "2026-11-26T09:38:21.416Z"
     }
   ]
 }
