@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-27T12:38:15.329Z",
-  "checkedAt": "2026-11-27T12:38:15.329Z",
-  "lastLiveAt": "2026-11-27T12:38:15.329Z",
+  "generatedAt": "2026-11-27T22:03:03.636Z",
+  "checkedAt": "2026-11-27T22:03:03.636Z",
+  "lastLiveAt": "2026-11-27T22:03:03.636Z",
   "sources": [
     "Al Jazeera",
     "BBC",
@@ -10,46 +10,112 @@
   ],
   "items": [
     {
-      "title": "European football violence causes concern with far-right claim in UEFA game",
-      "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 12:12:56 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 21:11:27 +0000"
     },
     {
-      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-      "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 12:00:22 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 20:39:57 +0000"
     },
     {
-      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-      "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 11:51:26 +0000"
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 27 Nov 2026 20:34:45 GMT"
     },
     {
-      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-      "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 11:44:46 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 20:18:45 +0000"
     },
     {
-      "title": "What Spain’s election means for Morocco",
-      "link": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 11:33:17 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 20:10:30 +0000"
     },
     {
-      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-      "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 11:15:03 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 19:53:25 +0000"
     },
     {
-      "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-      "link": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 27 Nov 2026 18:42:50 GMT"
+    },
+    {
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:40 GMT"
+    },
+    {
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 11:12:58 +0000"
+      "publishedAt": "Fri, 27 Nov 2026 17:44:50 +0000"
+    },
+    {
+      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 17:44:33 +0000"
+    },
+    {
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 17:41:24 +0000"
+    },
+    {
+      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 17:15:35 +0000"
+    },
+    {
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 17:13:46 +0000"
+    },
+    {
+      "title": "Syria debates citizenship rights for children of foreign fighters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 16:47:35 +0000"
+    },
+    {
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 16:33:21 +0000"
+    },
+    {
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 16:13:07 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 16:01:44 +0000"
+    },
+    {
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "source": "UN News",
+      "publishedAt": "Fri, 27 Nov 2026 12:00:00 +0000"
     },
     {
       "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
@@ -58,58 +124,16 @@
       "publishedAt": "Fri, 27 Nov 2026 10:39:31 GMT"
     },
     {
-      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-      "link": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 10:31:20 +0000"
-    },
-    {
       "title": "Clashes mar European games as Macron condemns violence",
       "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 27 Nov 2026 10:24:24 GMT"
     },
     {
-      "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-      "link": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 10:15:44 +0000"
-    },
-    {
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 09:43:01 +0000"
-    },
-    {
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 09:07:48 GMT"
-    },
-    {
       "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
       "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Fri, 27 Nov 2026 08:58:08 GMT"
-    },
-    {
-      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-      "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 08:39:50 +0000"
-    },
-    {
-      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-      "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 08:37:52 +0000"
-    },
-    {
-      "title": "New Zealand election results set up tricky talks for conservative incumbent",
-      "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 07:55:32 +0000"
     },
     {
       "title": "EU leaders fail to bridge budget splits as talks stall",
@@ -130,12 +154,6 @@
       "publishedAt": "Fri, 27 Nov 2026 06:04:51 GMT"
     },
     {
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 06:03:39 GMT"
-    },
-    {
       "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -146,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 26 Nov 2026 22:06:20 GMT"
-    },
-    {
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
       "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
@@ -176,18 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 26 Nov 2026 00:23:27 GMT"
-    },
-    {
-      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168879",
-      "source": "UN News",
-      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168875",
-      "source": "UN News",
-      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 13,
+      "items": 14,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-27T12:38:15.329Z"
+      "checkedAt": "2026-11-27T22:03:03.636Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
       "items": 14,
-      "rawItems": 35,
+      "rawItems": 32,
       "error": "",
-      "checkedAt": "2026-11-27T12:38:15.329Z"
+      "checkedAt": "2026-11-27T22:03:03.636Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-27T12:38:15.329Z"
+      "checkedAt": "2026-11-27T22:03:03.636Z"
     }
   ]
 }
