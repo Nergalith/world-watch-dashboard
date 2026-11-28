@@ -1,14 +1,74 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-27T22:03:03.636Z",
-  "checkedAt": "2026-11-27T22:03:03.636Z",
-  "lastLiveAt": "2026-11-27T22:03:03.636Z",
+  "generatedAt": "2026-11-28T03:57:43.703Z",
+  "checkedAt": "2026-11-28T03:57:43.703Z",
+  "lastLiveAt": "2026-11-28T03:57:43.703Z",
   "sources": [
     "Al Jazeera",
     "BBC",
     "UN News"
   ],
   "items": [
+    {
+      "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+      "link": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 03:00:00 +0000"
+    },
+    {
+      "title": "Bulgarians demand action by French after Marseille match violence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 02:30:27 +0000"
+    },
+    {
+      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 02:05:27 +0000"
+    },
+    {
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 01:55:03 +0000"
+    },
+    {
+      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+      "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 01:00:00 +0000"
+    },
+    {
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Sat, 28 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "title": "US disables ship attempting to breach Iran blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 23:55:16 +0000"
+    },
+    {
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 23:09:04 +0000"
+    },
+    {
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "Fri, 27 Nov 2026 23:02:35 GMT"
+    },
+    {
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "Fri, 27 Nov 2026 22:22:02 +0000"
+    },
     {
       "title": "Why are families going hungry in northern Yemen even where food is on sale?",
       "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
@@ -70,76 +130,10 @@
       "publishedAt": "Fri, 27 Nov 2026 17:44:33 +0000"
     },
     {
-      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 17:41:24 +0000"
-    },
-    {
-      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 17:15:35 +0000"
-    },
-    {
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 17:13:46 +0000"
-    },
-    {
-      "title": "Syria debates citizenship rights for children of foreign fighters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 16:47:35 +0000"
-    },
-    {
-      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
-      "link": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 16:33:21 +0000"
-    },
-    {
-      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
-      "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 16:13:07 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "Fri, 27 Nov 2026 16:01:44 +0000"
-    },
-    {
       "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
       "source": "UN News",
       "publishedAt": "Fri, 27 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 10:39:31 GMT"
-    },
-    {
-      "title": "Clashes mar European games as Macron condemns violence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 10:24:24 GMT"
-    },
-    {
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 08:58:08 GMT"
-    },
-    {
-      "title": "EU leaders fail to bridge budget splits as talks stall",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 06:11:55 GMT"
     },
     {
       "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
@@ -154,22 +148,10 @@
       "publishedAt": "Fri, 27 Nov 2026 06:04:51 GMT"
     },
     {
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Fri, 27 Nov 2026 00:48:11 GMT"
-    },
-    {
       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
       "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "Thu, 26 Nov 2026 22:06:20 GMT"
-    },
-    {
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 26 Nov 2026 16:21:19 GMT"
     },
     {
       "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
@@ -178,16 +160,34 @@
       "publishedAt": "Thu, 26 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 26 Nov 2026 06:01:58 GMT"
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "Thu, 26 Nov 2026 00:23:27 GMT"
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "source": "UN News",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "source": "UN News",
+      "publishedAt": "Tue, 24 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "source": "UN News",
+      "publishedAt": "Tue, 24 Nov 2026 12:00:00 +0000"
     }
   ],
   "sourceStatus": [
@@ -195,19 +195,19 @@
       "name": "Al Jazeera",
       "kind": "news",
       "status": "up",
-      "items": 14,
+      "items": 16,
       "rawItems": 25,
       "error": "",
-      "checkedAt": "2026-11-27T22:03:03.636Z"
+      "checkedAt": "2026-11-28T03:57:43.703Z"
     },
     {
       "name": "BBC",
       "kind": "news",
       "status": "up",
-      "items": 14,
-      "rawItems": 32,
+      "items": 7,
+      "rawItems": 22,
       "error": "",
-      "checkedAt": "2026-11-27T22:03:03.636Z"
+      "checkedAt": "2026-11-28T03:57:43.703Z"
     },
     {
       "name": "UN News",
@@ -216,7 +216,7 @@
       "items": 28,
       "rawItems": 30,
       "error": "",
-      "checkedAt": "2026-11-27T22:03:03.636Z"
+      "checkedAt": "2026-11-28T03:57:43.703Z"
     }
   ]
 }
